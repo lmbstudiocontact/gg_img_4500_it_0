@@ -1,0 +1,59 @@
+{
+  "english": "car",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe ô tô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giỏ khí cầu chở đồ dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giỏ khí cầu chở người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe bốn bánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a four-wheeled road vehicle that is powered by an engine and is able to carry a small number of people.",
+      "definitions_ex_en": "she drove up in a car",
+      "definitions_ex_vn": "Cô ấy lái xe lên xe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442568_1c85c38ff8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442568_cc55364c75_o.png",
+      "id_image": "car_290172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064215_7e87ed7cae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064215_ee4faeedd6_o.png",
+      "id_image": "car_290320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442458_0253b8dc1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442458_4d36071e25_o.png",
+      "id_image": "car_520092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682549_f8239226d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682549_f830fab839_o.png",
+      "id_image": "car_520097"
+    }
+  ]
+}

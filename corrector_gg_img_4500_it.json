@@ -1,0 +1,52 @@
+{
+  "english": "corrector",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người sửa chửa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người trừng phạt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người trừng trị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that corrects something, especially a computer program or electronic device with a specified function.",
+      "definitions_ex_en": "a spelling corrector",
+      "definitions_ex_vn": "một công cụ đánh vần",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330731_ce34d9a40d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330731_b132902f07_o.png",
+      "id_image": "corrector_2244262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330696_416d98686f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330696_32cce1e5a9_o.png",
+      "id_image": "corrector_2312091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067460_9a591ac502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067460_a4866147de_o.png",
+      "id_image": "corrector_2312095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067570_a906fa2bb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067570_b5847ae731_o.png",
+      "id_image": "corrector_546638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067435_cc4180bf71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067435_1bf4fb5a42_o.png",
+      "id_image": "corrector_5881605"
+    }
+  ]
+}

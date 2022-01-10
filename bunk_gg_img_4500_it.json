@@ -1,0 +1,66 @@
+{
+  "english": "bunk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giường ngủ trên xe lữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giường ngủ trong nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giường ngũ dưới tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi ngũ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a narrow shelflike bed, typically one of two or more arranged one on top of the other.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "nonsense.",
+      "definitions_ex_en": "anyone with a brain cell would never believe such bunk",
+      "definitions_ex_vn": "Bất cứ ai có một tế bào não sẽ không bao giờ tin vào Gió như vậy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425433_dc7e6d2df5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425433_8b261d5723_o.png",
+      "id_image": "bunk_1174100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354542_183a2825c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354542_00d6f88991_o.png",
+      "id_image": "bunk_1174898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425383_790e938c9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425383_95bd9cdf1c_o.png",
+      "id_image": "bunk_1606442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047285_e99744ccb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047285_4fd8e2430e_o.png",
+      "id_image": "bunk_418600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047260_f760f6ab58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047260_c5b745ecdc_o.png",
+      "id_image": "bunk_494772"
+    }
+  ]
+}

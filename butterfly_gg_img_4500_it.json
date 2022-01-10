@@ -1,0 +1,45 @@
+{
+  "english": "butterfly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con bướm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "theo tán tỉnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a nectar-feeding insect with two pairs of large, typically brightly colored wings that are covered with microscopic scales. Butterflies are distinguished from moths by having clubbed or dilated antennae, holding their wings erect when at rest, and being active by day.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stroke in swimming in which both arms are raised out of the water and lifted forwards together.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "split (a piece of meat or fish) almost in two and spread it out flat.",
+      "definitions_ex_en": "butterfly the shrimp using a small sharp knife",
+      "definitions_ex_vn": "Bướm tôm sử dụng một con dao nhỏ nhọn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422968_a16cba90c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422968_67478df958_o.png",
+      "id_image": "butterfly_311587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044770_2854a0008f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044770_746217e898_o.png",
+      "id_image": "butterfly_338269"
+    }
+  ]
+}

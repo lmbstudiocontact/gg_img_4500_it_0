@@ -1,0 +1,55 @@
+{
+  "english": "concentration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất nước đặc lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tập trung",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or power of focusing one's attention or mental effort.",
+      "definitions_ex_en": "frowning in concentration",
+      "definitions_ex_vn": "cau mày tập trung.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a close gathering of people or things.",
+      "definitions_ex_en": "the largest concentration of Canada geese on earth",
+      "definitions_ex_vn": "Nồng độ lớn nhất của ngỗng Canada trên trái đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the relative amount of a given substance contained within a solution or in a particular volume of space; the amount of solute per unit volume of solution.",
+      "definitions_ex_en": "the gas can collect in dangerous concentrations",
+      "definitions_ex_vn": "Khí có thể thu thập ở nồng độ nguy hiểm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428933_ffeb07a902_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428933_f706a711d4_o.png",
+      "id_image": "concentration_1055349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428908_db473254ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428908_38f78700d9_o.png",
+      "id_image": "concentration_2654397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313991_0e167ec155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313991_b4db45bfc1_o.png",
+      "id_image": "concentration_2688600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358222_452163c1cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358222_612bd709f3_o.png",
+      "id_image": "concentration_5265831"
+    }
+  ]
+}

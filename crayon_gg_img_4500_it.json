@@ -1,0 +1,65 @@
+{
+  "english": "crayon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bức họa vẻ bằng chì màu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "loại viết màu cho trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng than vẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn vẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viết chì màu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viết màu bằng sáp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pencil or stick of colored chalk or wax, used for drawing.",
+      "definitions_ex_en": "a red crayon",
+      "definitions_ex_vn": "một bút chì màu đỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "draw with a crayon or crayons.",
+      "definitions_ex_en": "Jeff crayoned a picture on a legal pad",
+      "definitions_ex_vn": "Jeff Crayoned một hình ảnh trên một miếng đệm hợp pháp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438123_800484c54f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438123_02cd7dc57a_o.png",
+      "id_image": "crayon_1943137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367852_35ff7ef8d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367852_aef2566a42_o.png",
+      "id_image": "crayon_3577264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322916_12039be17f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322916_7fc7cedc9e_o.png",
+      "id_image": "crayon_4681332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322871_22860ef326_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322871_34c7c74da5_o.png",
+      "id_image": "crayon_4869777"
+    }
+  ]
+}

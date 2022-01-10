@@ -1,0 +1,59 @@
+{
+  "english": "bevel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gọt hớt mép",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đẽo xiên cạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi theo đường tà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tà giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường tà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đâu lại thành góc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thước nách thợ mộc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a slope from the horizontal or vertical in carpentry and stonework; a sloping surface or edge.",
+      "definitions_ex_en": "a very small 45° bevel is ground on the top surface",
+      "definitions_ex_vn": "Một vát 45 ° rất nhỏ là mặt đất trên bề mặt trên cùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "change (a square edge on an object) to a sloping one.",
+      "definitions_ex_en": "polish the face of the plate and bevel the edge",
+      "definitions_ex_vn": "đánh bóng mặt của tấm và vát cạnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351032_7653cbcfb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351032_c670a6b912_o.png",
+      "id_image": "bevel_3348924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350982_675c60e71f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350982_3e29f8d0ff_o.png",
+      "id_image": "bevel_3468241"
+    }
+  ]
+}

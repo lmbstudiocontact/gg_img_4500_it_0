@@ -1,0 +1,61 @@
+{
+  "english": "butcher",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bán dạo trên xe lữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bán thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hung ác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người mổ xẻ vụng về",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đem làm thịt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person whose trade is cutting up and selling meat in a shop.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "slaughter or cut up (an animal) for food.",
+      "definitions_ex_en": "the meat will be butchered for the local market",
+      "definitions_ex_vn": "Thịt sẽ bị tàn sát cho thị trường địa phương",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045030_1babeccf01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045030_acc4010f96_o.png",
+      "id_image": "butcher_2278620"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663339_92a104ca87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663339_6f52dd08d7_o.png",
+      "id_image": "butcher_4736311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663314_9a3ff6df1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663314_a84751f9eb_o.png",
+      "id_image": "butcher_6036743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663289_91e4485818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663289_c66c5388c8_o.png",
+      "id_image": "butcher_6417467"
+    }
+  ]
+}

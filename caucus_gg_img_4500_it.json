@@ -1,0 +1,54 @@
+{
+  "english": "caucus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bè đảng chánh trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiên nhóm của đảng viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ủy ban địa phương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in some US states) a meeting at which local members of a political party register their preference among candidates running for office or select delegates to attend a convention.",
+      "definitions_ex_en": "Hawaii holds its nominating caucuses next Tuesday",
+      "definitions_ex_vn": "Hawaii giữ những người quản lý đề cử vào thứ ba tới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a conference of members of a legislative body who belong to a particular party or faction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group within an organization or political party which meets independently to discuss strategy or tactics.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673879_d6b438926f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673879_f3244b4144_o.png",
+      "id_image": "caucus_2472979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318966_2526257034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318966_e58a7fba73_o.png",
+      "id_image": "caucus_3571083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363542_87cab29d59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363542_779ecb0540_o.png",
+      "id_image": "caucus_5605858"
+    }
+  ]
+}

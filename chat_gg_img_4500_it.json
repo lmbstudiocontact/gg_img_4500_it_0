@@ -1,0 +1,63 @@
+{
+  "english": "chat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc nói chuyện phiếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói chuyện nhãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyện trò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thân mật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói bá láp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "talk in a friendly and informal way.",
+      "definitions_ex_en": "she chatted to her mother on the phone every day",
+      "definitions_ex_vn": "Cô ấy trò chuyện với mẹ trên điện thoại mỗi ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an informal conversation.",
+      "definitions_ex_en": "he dropped in for a chat",
+      "definitions_ex_vn": "Anh ta rơi vào một cuộc trò chuyện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small Old World songbird of the thrush family, with black, white, and brown coloration and a harsh call.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a number of small songbirds with harsh calls.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049305_7a223a8a62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049305_26dba21a99_o.png",
+      "id_image": "chat_174664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667574_5519ca958a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667574_daa5d9d61b_o.png",
+      "id_image": "chat_228379"
+    }
+  ]
+}

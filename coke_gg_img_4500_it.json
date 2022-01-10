@@ -1,0 +1,69 @@
+{
+  "english": "coke",
+  "list_translation_mean": [
+    {
+      "translate_mean": "than cốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "than luyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành than luyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế than luyện",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a solid fuel made by heating coal in the absence of air so that the volatile components are driven off.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for cocaine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for Coca-Cola.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convert (coal) into coke.",
+      "definitions_ex_en": "certain operators were coking this coal on a small scale",
+      "definitions_ex_vn": "Các nhà khai thác nhất định đã ca ngợi than này ở quy mô nhỏ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060435_aba2088123_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060435_9bab080be2_o.png",
+      "id_image": "coke_2688584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368522_bcebccc9cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368522_4e51fa15b4_o.png",
+      "id_image": "coke_2688590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368487_07e3bcc7b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368487_8f58180fa7_o.png",
+      "id_image": "coke_2836521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060335_04557d78ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060335_80be82b0c9_o.png",
+      "id_image": "coke_3917905"
+    }
+  ]
+}

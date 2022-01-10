@@ -1,0 +1,43 @@
+{
+  "english": "camouflage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách cải trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cách hóa trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thay đổi hình dạng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the disguising of military personnel, equipment, and installations by painting or covering them to make them blend in with their surroundings.",
+      "definitions_ex_en": "on the trenches were pieces of turf which served for camouflage",
+      "definitions_ex_vn": "trên các chiến hào là những mảnh cỏ được phục vụ để ngụy trang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hide or disguise the presence of (a person, animal, or object) by means of camouflage.",
+      "definitions_ex_en": "the war area had to be camouflaged with mud",
+      "definitions_ex_vn": "Khu vực chiến tranh phải được ngụy trang với bùn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660159_c3ece01162_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660159_f5d2ed29ed_o.png",
+      "id_image": "camouflage_2472779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419783_a2be2975c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419783_c6724715b7_o.png",
+      "id_image": "camouflage_2621708"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "cuckoo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim cu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chim gáy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không giử bình tỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người gàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khờ dại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngu ngốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kêu gáy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a medium-sized long-tailed bird, typically with a gray or brown back and barred or pale underparts. Many cuckoos lay their eggs in the nests of small songbirds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mad person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mad; crazy.",
+      "definitions_ex_en": "people think you're cuckoo",
+      "definitions_ex_vn": "mọi người nghĩ bạn là cuckoo",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671254_519c7bf9ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671254_48d155cbbc_o.png",
+      "id_image": "cuckoo_2218126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671209_af45160b2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671209_9db6470616_o.png",
+      "id_image": "cuckoo_2964602"
+    }
+  ]
+}

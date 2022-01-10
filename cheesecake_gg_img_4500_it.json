@@ -1,0 +1,54 @@
+{
+  "english": "cheesecake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh kem",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh pho mát",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a kind of rich dessert cake made with cream and soft cheese on a graham cracker, cookie, or pastry crust, typically topped with a fruit sauce.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "photography, a movie, or art that portrays women in a manner emphasizing stereotypical sexual attractiveness.",
+      "definitions_ex_en": "a cheesecake photo of herself wearing a silly hat and little else",
+      "definitions_ex_vn": "một bức ảnh cheesecake của mình mặc một chiếc mũ ngớ ngẩn và ít",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426433_81194ded01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426433_a1967fec8f_o.png",
+      "id_image": "cheesecake_2002716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355652_fa239277ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355652_c847c6fc9a_o.png",
+      "id_image": "cheesecake_2218760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355627_86e5cd5152_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355627_8eb65f9514_o.png",
+      "id_image": "cheesecake_2455848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048110_567d03e73f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048110_db62da3273_o.png",
+      "id_image": "cheesecake_5745971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666559_17b89ee049_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666559_4957aa6221_o.png",
+      "id_image": "cheesecake_872411"
+    }
+  ]
+}

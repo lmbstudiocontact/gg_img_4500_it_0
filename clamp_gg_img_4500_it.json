@@ -1,0 +1,69 @@
+{
+  "english": "clamp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái kẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái kềm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mấu sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "móc sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bám lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kẹp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nắm chặt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a brace, band, or clasp used for strengthening or holding things together.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten (something) in place with a clamp.",
+      "definitions_ex_en": "the sander is clamped onto the edge of a workbench",
+      "definitions_ex_vn": "Sander được kẹp vào rìa bàn làm việc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420503_f82296ca25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420503_282f21c947_o.png",
+      "id_image": "clamp_1907765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305401_966fa25744_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305401_7ff1c1df29_o.png",
+      "id_image": "clamp_4646813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305386_16ff5f5434_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305386_3b952f2eeb_o.png",
+      "id_image": "clamp_4705342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305471_51f70ae89a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305471_207ca395ed_o.png",
+      "id_image": "clamp_664101"
+    }
+  ]
+}

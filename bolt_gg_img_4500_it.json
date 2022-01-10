@@ -1,0 +1,118 @@
+{
+  "english": "bolt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây tên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chốt cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ốc vít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng sét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ trốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy trốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối nóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuốt trọng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bar that slides into a socket to fasten a door or window.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short, heavy arrow shot from a crossbow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a jagged white flash of lightning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a roll of fabric, originally as a measure.",
+      "definitions_ex_en": "the room is stacked with bolts of cloth",
+      "definitions_ex_vn": "Căn phòng được xếp chồng lên nhau với bu lông của vải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten (a door or window) with a bar that slides into a socket.",
+      "definitions_ex_en": "all the doors were locked and bolted",
+      "definitions_ex_vn": "Tất cả các cánh cửa đã bị khóa và bắt vít",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a horse or other animal) run away suddenly out of control.",
+      "definitions_ex_en": "the horses shied and bolted",
+      "definitions_ex_vn": "Những con ngựa bị cắt và bắt vít",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "eat or swallow (food) quickly.",
+      "definitions_ex_en": "it is normal for puppies to bolt down their food",
+      "definitions_ex_vn": "nó là bình thường đối với chó con để bu lông xuống thức ăn của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass (flour, powder, or other material) through a sieve.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370312_cdb4ce24c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370312_d970ef3107_o.png",
+      "id_image": "bolt_1719846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440458_40a5c1df4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440458_f28a76b11a_o.png",
+      "id_image": "bolt_1752462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440408_11c7be1bb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440408_8446f4c7e7_o.png",
+      "id_image": "bolt_3155263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440323_284ef00dc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440323_de197ddbd9_o.png",
+      "id_image": "bolt_3468393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062085_1dac083963_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062085_e996596998_o.png",
+      "id_image": "bolt_6196102"
+    }
+  ]
+}

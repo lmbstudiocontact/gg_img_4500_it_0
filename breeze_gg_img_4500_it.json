@@ -1,0 +1,71 @@
+{
+  "english": "breeze",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoe khoang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gió thổi mạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lường gạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gió hiu hiu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ruồi trâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cải lẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rầy rà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a gentle wind.",
+      "definitions_ex_en": "tantalizing cooking smells wafted on the evening breeze",
+      "definitions_ex_vn": "Tantalizing Cooking Smells Wrafted vào buổi tối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that is easy to do or accomplish.",
+      "definitions_ex_en": "traveling through London was a breeze",
+      "definitions_ex_vn": "Đi qua London là một làn gió",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "small cinders mixed with sand and cement to make cinder blocks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "come or go in a casual or lighthearted manner.",
+      "definitions_ex_en": "I breezed in as if nothing were wrong",
+      "definitions_ex_vn": "Tôi lười biếng như thể không có gì sai",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432083_58f057fd6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432083_6b79a80bc9_o.png",
+      "id_image": "breeze_1146829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361297_b66ab2232e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361297_dba162e903_o.png",
+      "id_image": "breeze_5132656"
+    }
+  ]
+}

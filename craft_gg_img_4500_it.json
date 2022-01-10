@@ -1,0 +1,90 @@
+{
+  "english": "craft",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hội tương trợ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gian xảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỳ xảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưu kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề làm bằng tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khéo léo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dụng cụ đánh cá voi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xảo quyệt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an activity involving skill in making things by hand.",
+      "definitions_ex_en": "the craft of bookbinding",
+      "definitions_ex_vn": "thủ công của bookbinding",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "skill used in deceiving others.",
+      "definitions_ex_en": "her cousin was not her equal in guile and evasive craft",
+      "definitions_ex_vn": "anh em họ của cô không phải là người bình đẳng và thủ công lảng tránh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a boat or ship.",
+      "definitions_ex_en": "sailing craft",
+      "definitions_ex_vn": "Sailing Craft.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "exercise skill in making (something).",
+      "definitions_ex_en": "he crafted the chair lovingly",
+      "definitions_ex_vn": "Anh ấy tạo ra chiếc ghế một cách yêu thương",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679559_da60825e1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679559_27bb1e744a_o.png",
+      "id_image": "craft_258289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324341_ef1d363773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324341_639f7a5736_o.png",
+      "id_image": "craft_2856509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369157_c5fa032294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369157_caa5017e12_o.png",
+      "id_image": "craft_3079148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439338_e2416a9af4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439338_218b60ba8b_o.png",
+      "id_image": "craft_5232174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061110_8e2ac94a68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061110_78c2cda587_o.png",
+      "id_image": "craft_5499061"
+    }
+  ]
+}

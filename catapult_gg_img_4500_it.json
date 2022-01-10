@@ -1,0 +1,50 @@
+{
+  "english": "catapult",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy để đẩy phi cơ lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy ném đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy phóng phi cơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ná cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phóng lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hurl or launch (something) in a specified direction with or as if with a catapult.",
+      "definitions_ex_en": "the explosion catapulted the car 30 yards along the road",
+      "definitions_ex_vn": "Vụ nổ cất xe 30 mét dọc đường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056835_6b4f3c4c23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056835_7926bd927e_o.png",
+      "id_image": "catapult_1339624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675114_7307508aab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675114_31089a1ef9_o.png",
+      "id_image": "catapult_3943633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435333_fe6343e321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435333_f000c3a42e_o.png",
+      "id_image": "catapult_506943"
+    }
+  ]
+}

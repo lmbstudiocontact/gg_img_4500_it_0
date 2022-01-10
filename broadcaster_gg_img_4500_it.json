@@ -1,0 +1,48 @@
+{
+  "english": "broadcaster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy phóng thanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy truyền thanh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an organization that transmits a program or information by radio or television.",
+      "definitions_ex_en": "the broadcaster aired the news item on Tuesday",
+      "definitions_ex_vn": "Broadcaster đã phát sóng các mục tin tức vào thứ ba",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670259_93284ed06f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670259_126d9762d6_o.png",
+      "id_image": "broadcaster_4016194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359732_278dd2b0fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359732_ebdb9d9fe0_o.png",
+      "id_image": "broadcaster_4016212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052005_e341a5978c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052005_ca615f3ebc_o.png",
+      "id_image": "broadcaster_4345609"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051980_389be5c28d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051980_8fc17e8b2e_o.png",
+      "id_image": "broadcaster_5008370"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359647_f2ff990e12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359647_6b8e2f0a11_o.png",
+      "id_image": "broadcaster_5146137"
+    }
+  ]
+}

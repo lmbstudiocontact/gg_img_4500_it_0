@@ -1,0 +1,90 @@
+{
+  "english": "capsule",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao con nhộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái bọc thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ hột giống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao thiếc bịt miệng chai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ trái cây hình cái bao",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small case or container, especially a round or cylindrical one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tough sheath or membrane that encloses something in the body, such as a kidney, a lens, or a synovial joint.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the foil or plastic covering the cork of a wine bottle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dry fruit that releases its seeds by bursting open when ripe, such as a pea pod.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the spore-producing structure of mosses and liverworts, typically borne on a stalk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a piece of writing) shortened but retaining the essence of the original; condensed.",
+      "definitions_ex_en": "a capsule review of the movie",
+      "definitions_ex_vn": "Một đánh giá viên nang của bộ phim",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064635_0c23242442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064635_4760cb39d2_o.png",
+      "id_image": "capsule_1732461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442958_d6b40bcf14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442958_b86a1312a2_o.png",
+      "id_image": "capsule_2358474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682924_7f89ab131c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682924_f5466904bd_o.png",
+      "id_image": "capsule_2358483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372747_99174169ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372747_410845fdd8_o.png",
+      "id_image": "capsule_412627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372537_96ea9d1969_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372537_26a590ae04_o.png",
+      "id_image": "capsule_4403741"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "cargo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàng hóa trên tàu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "goods carried on a ship, aircraft, or motor vehicle.",
+      "definitions_ex_en": "transportation of bulk cargo",
+      "definitions_ex_vn": "Vận chuyển hàng rời hàng loạt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440253_5b06b77fd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440253_408e384b10_o.png",
+      "id_image": "cargo_2463759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680444_5f8be77bb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680444_8564978138_o.png",
+      "id_image": "cargo_423298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440203_666d3d474e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440203_7185f93e56_o.png",
+      "id_image": "cargo_5132203"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370167_f237f01bb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370167_7a710b38cc_o.png",
+      "id_image": "cargo_819492"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "bellows",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device with an air bag that emits a stream of air when squeezed together with two handles, used for blowing air into a fire.",
+      "definitions_ex_en": "stoking up the fire with the bellows",
+      "definitions_ex_vn": "Dày lên lửa với ống thổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an object or device with concertinaed sides to allow it to expand and contract, such as a tube joining a lens to a camera body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045160_23f515f551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045160_82151640ea_o.png",
+      "id_image": "bellows_1504092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308176_f4e2e8a480_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308176_0dd2c34ee1_o.png",
+      "id_image": "bellows_2670362"
+    }
+  ]
+}

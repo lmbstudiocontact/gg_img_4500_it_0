@@ -1,0 +1,44 @@
+{
+  "english": "bedroom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phòng ngũ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a room for sleeping in.",
+      "definitions_ex_en": "he shares his bedroom with a younger brother",
+      "definitions_ex_vn": "Anh ta chia sẻ phòng ngủ của mình với một em trai",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310136_3a8e06d0fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310136_7c87341b52_o.png",
+      "id_image": "bedroom_3163179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425148_fb8d90294f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425148_84002757e8_o.png",
+      "id_image": "bedroom_3650732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047050_904a0976dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047050_4977848826_o.png",
+      "id_image": "bedroom_452709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665284_91f845ea34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665284_bff99405a6_o.png",
+      "id_image": "bedroom_5775318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665419_c16148dcbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665419_7313ee63ae_o.png",
+      "id_image": "bedroom_899196"
+    }
+  ]
+}

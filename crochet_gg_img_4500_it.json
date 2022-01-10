@@ -1,0 +1,62 @@
+{
+  "english": "crochet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ thêu bằng móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thêu bằng móc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a handicraft in which yarn is made up into a patterned fabric by looping yarn with a hooked needle.",
+      "definitions_ex_en": "a crochet hook",
+      "definitions_ex_vn": "một móc móc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (a garment or piece of fabric) using crochet.",
+      "definitions_ex_en": "she had crocheted the shawl herself",
+      "definitions_ex_vn": "Cô ấy đã móc những chiếc khăn choàng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434788_812a0015ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434788_a2a5f7dae8_o.png",
+      "id_image": "crochet_1328138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319626_d4785e906b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319626_37ed5d87f0_o.png",
+      "id_image": "crochet_2722249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364297_a37d9aabb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364297_b1ca84d37e_o.png",
+      "id_image": "crochet_2856486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056130_9622f6483f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056130_0ff6e5e401_o.png",
+      "id_image": "crochet_4017347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364227_5085224f6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364227_a5cfcd0f7c_o.png",
+      "id_image": "crochet_4301439"
+    }
+  ]
+}

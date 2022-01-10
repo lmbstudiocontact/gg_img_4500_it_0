@@ -1,0 +1,57 @@
+{
+  "english": "cultivation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cày cấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khai khẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rèn luyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trồng trọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trau giồi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of cultivating land, or the state of being cultivated.",
+      "definitions_ex_en": "the cultivation of crops",
+      "definitions_ex_vn": "sự tu luyện của cây trồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of trying to acquire or develop a quality or skill.",
+      "definitions_ex_en": "the cultivation of good staff–management relations",
+      "definitions_ex_vn": "Việc canh tác quan hệ quản lý nhân viên tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "refinement and good education.",
+      "definitions_ex_en": "a man of cultivation and taste",
+      "definitions_ex_vn": "một người đàn ông tu luyện và hương vị",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316241_12e9d795b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316241_db2f46bc8b_o.png",
+      "id_image": "cultivation_4496263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316196_1ccd757c7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316196_a3835cd83d_o.png",
+      "id_image": "cultivation_5264797"
+    }
+  ]
+}

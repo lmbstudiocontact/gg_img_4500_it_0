@@ -1,0 +1,54 @@
+{
+  "english": "coordination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉnh đốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phối trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sắp đặt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the organization of the different elements of a complex body or activity so as to enable them to work together effectively.",
+      "definitions_ex_en": "both countries agreed to intensify efforts at economic policy coordination",
+      "definitions_ex_vn": "Cả hai quốc gia đều đồng ý tăng cường nỗ lực phối hợp chính sách kinh tế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the ability to use different parts of the body together smoothly and efficiently.",
+      "definitions_ex_en": "changing from one foot position to another requires coordination and balance",
+      "definitions_ex_vn": "Thay đổi từ vị trí chân này sang vị trí khác đòi hỏi sự phối hợp và cân bằng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the linking of atoms by coordinate bonds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348912_c2d62233b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348912_4677b27b47_o.png",
+      "id_image": "coordination_1006632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070460_33d98450bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070460_dd4f386366_o.png",
+      "id_image": "coordination_5759914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333616_c1cb042605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333616_0500b9b7c3_o.png",
+      "id_image": "coordination_709268"
+    }
+  ]
+}

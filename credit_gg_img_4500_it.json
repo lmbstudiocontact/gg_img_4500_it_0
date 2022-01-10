@@ -1,0 +1,105 @@
+{
+  "english": "credit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tin",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ảnh hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẻ tín dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thế lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bán chịu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công trạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tín nhiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tin tưởng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future.",
+      "definitions_ex_en": "I've got unlimited credit",
+      "definitions_ex_vn": "Tôi đã có tín dụng không giới hạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an entry recording a sum received, listed on the right-hand side or column of an account.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "public acknowledgment or praise, typically that given or received when a person's responsibility for an action or idea becomes or is made apparent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality of being believed or credited.",
+      "definitions_ex_en": "the abstract philosophy of Cicero has lost its credit",
+      "definitions_ex_vn": "Triết lý trừu tượng của Cicero đã mất tín dụng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "publicly acknowledge someone as a participant in the production of (something published or broadcast).",
+      "definitions_ex_en": "the screenplay is credited to one American and two Japanese writers",
+      "definitions_ex_vn": "Trình chiếu được ghi có vào một người Mỹ và hai nhà văn Nhật Bản",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "add (an amount of money) to an account.",
+      "definitions_ex_en": "this deferred tax can be credited to the profit and loss account",
+      "definitions_ex_vn": "Thuế hoãn lại này có thể được ghi có vào tài khoản lãi và lỗ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366432_461409f13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366432_09a8f80acf_o.png",
+      "id_image": "credit_1010946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436748_e55db00ffb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436748_538c874867_o.png",
+      "id_image": "credit_1198299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321526_b751bc313c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321526_7892edf9d9_o.png",
+      "id_image": "credit_1317720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058345_5f4fb573e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058345_07446062bc_o.png",
+      "id_image": "credit_646616"
+    }
+  ]
+}

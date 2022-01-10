@@ -1,0 +1,34 @@
+{
+  "english": "creditor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chủ nợ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or company to whom money is owed.",
+      "definitions_ex_en": "he sold his Ferraris to pay off his creditors",
+      "definitions_ex_vn": "Ông đã bán chiếc Ferraris của mình để trả hết các chủ nợ của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366307_469ebf47dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366307_d19543ca7e_o.png",
+      "id_image": "creditor_2112459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676469_9e0d745eff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676469_7216754eb2_o.png",
+      "id_image": "creditor_2719729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436603_c2df7bc1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436603_a2e39ede1e_o.png",
+      "id_image": "creditor_3490110"
+    }
+  ]
+}

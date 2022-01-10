@@ -1,0 +1,33 @@
+{
+  "english": "dealership",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân phối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an establishment authorized to buy and sell specific goods, especially motor vehicles.",
+      "definitions_ex_en": "his family owns a car dealership",
+      "definitions_ex_vn": "gia đình anh sở hữu một đại lý xe hơi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308366_ae7be5e3f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308366_d59b124b10_o.png",
+      "id_image": "dealership_5235529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663599_21a5ae9788_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663599_56e65ce765_o.png",
+      "id_image": "dealership_5235536"
+    }
+  ]
+}

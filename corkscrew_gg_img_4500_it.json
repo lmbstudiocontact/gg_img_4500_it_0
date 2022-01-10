@@ -1,0 +1,74 @@
+{
+  "english": "corkscrew",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tóc uốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cái ruột gà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ mở nút chai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tóc xoắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xoay xoắc ốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoắc hình trôn ốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoắn lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device for pulling corks from bottles, consisting of a spiral metal rod that is inserted into the cork, and a handle that extracts it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move or twist in a spiral motion.",
+      "definitions_ex_en": "the plane was corkscrewing toward the earth",
+      "definitions_ex_vn": "Máy bay là corkscrewing về phía trái đất",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447223_1f71d0cf71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447223_46a0e6cf58_o.png",
+      "id_image": "corkscrew_1691180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376912_ba4c549e6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376912_19fa8c651b_o.png",
+      "id_image": "corkscrew_2244984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447143_a9591ab3c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447143_2fbbbb695c_o.png",
+      "id_image": "corkscrew_2597637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376857_606a1a4732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376857_9f4e098656_o.png",
+      "id_image": "corkscrew_2601064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376827_33827cf4e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376827_04c57aecd6_o.png",
+      "id_image": "corkscrew_2688610"
+    }
+  ]
+}

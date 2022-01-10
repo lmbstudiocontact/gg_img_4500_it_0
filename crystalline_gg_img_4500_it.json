@@ -1,0 +1,32 @@
+{
+  "english": "crystalline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "pha lê",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thủy tinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trong như thủy tinh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having the structure and form of a crystal; composed of crystals.",
+      "definitions_ex_en": "a crystalline rock",
+      "definitions_ex_vn": "một tảng đá tinh thể",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431888_d03ace12e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431888_2b043c1cf0_o.png",
+      "id_image": "crystalline_5615819"
+    }
+  ]
+}

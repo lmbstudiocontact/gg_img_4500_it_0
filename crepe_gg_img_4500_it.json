@@ -1,0 +1,50 @@
+{
+  "english": "crepe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhiểu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light, thin fabric with a wrinkled surface.",
+      "definitions_ex_en": "a silk crepe blouse",
+      "definitions_ex_vn": "áo choàng lụa crepe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thin pancake.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436438_0535c60edc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436438_4d1166d123_o.png",
+      "id_image": "crepe_1075164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321116_7541c8127d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321116_d69d5feac2_o.png",
+      "id_image": "crepe_1691821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321066_b0db10367f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321066_632b9c07f2_o.png",
+      "id_image": "crepe_1753959"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365967_72d82caf28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365967_67bb8d7eb9_o.png",
+      "id_image": "crepe_2289916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436248_2e016bbd81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436248_ec7e7694c0_o.png",
+      "id_image": "crepe_5816561"
+    }
+  ]
+}

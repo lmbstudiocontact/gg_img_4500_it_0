@@ -1,0 +1,75 @@
+{
+  "english": "clove",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đinh hương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây đinh hương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chồi non",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mầm non",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the dried flower bud of a tropical tree, used as a pungent aromatic spice.",
+      "definitions_ex_en": "a teaspoon of ground cloves",
+      "definitions_ex_vn": "một muỗng cà phê đinh hương mặt đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Indonesian tree from which cloves are obtained.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a clove-scented pink which is the original type from which the carnation and other double pinks have been bred.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of the small bulbs making up a compound bulb of garlic, shallot, etc.",
+      "definitions_ex_en": "rub a dish with a crushed clove of garlic",
+      "definitions_ex_vn": "chà một món ăn với một tép tỏi nghiền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "past of cleave1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443718_9e808b7fb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443718_165cf21981_o.png",
+      "id_image": "clove_1202099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373457_c293a125c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373457_7b3ff64a80_o.png",
+      "id_image": "clove_1398247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328641_3f20d25f9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328641_ec780dbace_o.png",
+      "id_image": "clove_5015022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683679_9bc7d816e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683679_cc300d1f90_o.png",
+      "id_image": "clove_5236132"
+    }
+  ]
+}

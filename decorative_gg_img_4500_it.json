@@ -1,0 +1,44 @@
+{
+  "english": "decorative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về trang trí",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "serving to make something look more attractive; ornamental.",
+      "definitions_ex_en": "the outside of the building is functional rather than decorative",
+      "definitions_ex_vn": "bên ngoài tòa nhà là chức năng chứ không phải trang trí",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421888_b4c646169f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421888_97fd4b082b_o.png",
+      "id_image": "decorative_4027962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350867_1997dfd142_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350867_4f6915109e_o.png",
+      "id_image": "decorative_4205304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662099_933299395c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662099_0acb9256e0_o.png",
+      "id_image": "decorative_5376597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043775_0e6ec21b7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043775_3c7caf2aa3_o.png",
+      "id_image": "decorative_939420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350902_b449c9690f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350902_055165cf1e_o.png",
+      "id_image": "decorative_939438"
+    }
+  ]
+}

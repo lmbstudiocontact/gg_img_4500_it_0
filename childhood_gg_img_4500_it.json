@@ -1,0 +1,33 @@
+{
+  "english": "childhood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lúc còn nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời thơ ấu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being a child.",
+      "definitions_ex_en": "the idealized world of childhood",
+      "definitions_ex_vn": "thế giới lý tưởng hóa của thời thơ ấu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353707_9a0815f9e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353707_8c732d86e3_o.png",
+      "id_image": "childhood_360005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046460_a90f4f3909_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046460_3d48094bd1_o.png",
+      "id_image": "childhood_6174469"
+    }
+  ]
+}

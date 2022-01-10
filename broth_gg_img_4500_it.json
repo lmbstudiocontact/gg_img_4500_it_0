@@ -1,0 +1,47 @@
+{
+  "english": "broth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "canh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "canh gà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thật thà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "soup consisting of meat or vegetable chunks, and often rice, cooked in stock.",
+      "definitions_ex_en": "mutton broth",
+      "definitions_ex_vn": "Nước dùng Mutton.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a liquid medium containing proteins and other nutrients for the culture of bacteria.",
+      "definitions_ex_en": "broth cultures of intestinal tissue",
+      "definitions_ex_vn": "Nước dùng nuôi cấy mô ruột",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669264_eb896ec6c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669264_ed83325ec5_o.png",
+      "id_image": "broth_2827091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429523_97c372b99c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429523_45351c3d4e_o.png",
+      "id_image": "broth_628113"
+    }
+  ]
+}

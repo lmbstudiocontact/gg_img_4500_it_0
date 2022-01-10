@@ -1,0 +1,43 @@
+{
+  "english": "beeswax",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sáp ong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh sáp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the wax secreted by bees to make honeycombs and used to make wood polishes and candles.",
+      "definitions_ex_en": "turning pollen into beeswax",
+      "definitions_ex_vn": "Biến phấn hoa thành sáp ong",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "polish (furniture) with beeswax.",
+      "definitions_ex_en": "someone was beeswaxing the floor",
+      "definitions_ex_vn": "Ai đó đã được sáp ong",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664439_52773f5467_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664439_9432f89b85_o.png",
+      "id_image": "beeswax_2444916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424263_9f370c6dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424263_65d8a853d3_o.png",
+      "id_image": "beeswax_4728093"
+    }
+  ]
+}

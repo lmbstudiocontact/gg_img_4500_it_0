@@ -1,0 +1,39 @@
+{
+  "english": "clockwise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kim đồng hồ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hướng kim đồng hồ",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in the same direction as the way in which the hands of a clock move around.",
+      "definitions_ex_en": "turn the knob clockwise",
+      "definitions_ex_vn": "Xoay núm theo chiều kim đồng hồ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of a direction) corresponding to the way in which the hands of a clock move around.",
+      "definitions_ex_en": "a clockwise direction",
+      "definitions_ex_vn": "một hướng theo chiều kim đồng hồ.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445553_31c06c473f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445553_9d196a43de_o.png",
+      "id_image": "clockwise_1451181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330651_dc5e1c57c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330651_8101373b67_o.png",
+      "id_image": "clockwise_523161"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "bisexual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về đực và cái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về giống",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sexually attracted not exclusively to people of one particular gender; attracted to both men and women.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a flower) having both stamens and pistils; hermaphrodite.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a species) having two distinct sexes.",
+      "definitions_ex_en": "in mainland Europe there are eleven bisexual species of this genus",
+      "definitions_ex_vn": "Ở châu Âu đại lục có mười một loài lưỡng tính của chi này",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who is sexually attracted not exclusively to people of one particular gender.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658644_b8d8da4e71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658644_00424122eb_o.png",
+      "id_image": "bisexual_1480920"
+    }
+  ]
+}

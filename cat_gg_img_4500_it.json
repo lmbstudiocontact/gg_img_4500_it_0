@@ -1,0 +1,92 @@
+{
+  "english": "cat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con khăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách đánh trổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con mèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây kéo neo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại thú giống như mèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đàn bà độc ác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cay nghiệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo neo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mữa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for catalytic converter.",
+      "definitions_ex_en": "models fitted with a cat as standard",
+      "definitions_ex_vn": "mô hình được trang bị một con mèo theo tiêu chuẩn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for catamaran.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "raise (an anchor) from the surface of the water to the cathead.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "short for computerized axial tomography.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "computer-assisted (or -aided) testing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "clear air turbulence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435868_0c87400b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435868_8606bae0bb_o.png",
+      "id_image": "cat_194953"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "biscuit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh bít qui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh ngọt nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh sửa khô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "another term for bisque3.",
+      "definitions_ex_en": "biscuit ware",
+      "definitions_ex_vn": "bánh quy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light brown color.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small flat piece of wood used to join two mortised planks together.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040280_eb1f371b48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040280_944cd4924f_o.png",
+      "id_image": "biscuit_1659653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303586_ef9a190d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303586_5ab5fdbfd0_o.png",
+      "id_image": "biscuit_3867081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658779_a5bb6ab46e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658779_ae812e4ba6_o.png",
+      "id_image": "biscuit_4082494"
+    }
+  ]
+}

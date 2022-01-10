@@ -1,0 +1,43 @@
+{
+  "english": "bacon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thịt ba rọi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt heo muối xông khói",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cured meat from the sides and belly of a pig, having distinct strips of fat and typically served in thin slices.",
+      "definitions_ex_en": "crisp rashers of bacon",
+      "definitions_ex_vn": "RASHERS CRISP CỦA BACON",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321341_ff154c8c32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321341_1177888b50_o.png",
+      "id_image": "bacon_4825193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058220_c605e565e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058220_fb2dcb14af_o.png",
+      "id_image": "bacon_485629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366347_0694f968be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366347_9cecf5a3ab_o.png",
+      "id_image": "bacon_534590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436653_0ff7e8fed1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436653_2730b5c240_o.png",
+      "id_image": "bacon_590709"
+    }
+  ]
+}

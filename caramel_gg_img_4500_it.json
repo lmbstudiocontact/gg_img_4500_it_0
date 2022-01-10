@@ -1,0 +1,47 @@
+{
+  "english": "caramel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường đả nấu cho kẹo lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường ngào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẹo làm thứ đường xên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sugar or syrup heated until it turns brown, used as a flavoring or coloring for food or drink or combined with butter or cream to form a thick, sweet sauce.",
+      "definitions_ex_en": "caramel ice cream",
+      "definitions_ex_vn": "Kem Caramel",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442343_8e9c93c310_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442343_8ca8635c97_o.png",
+      "id_image": "caramel_1065207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327276_be80be3aeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327276_067c7c237f_o.png",
+      "id_image": "caramel_2002676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371937_d3119a69ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371937_db89c3331f_o.png",
+      "id_image": "caramel_2218684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327166_e639c29e11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327166_1e78baaa15_o.png",
+      "id_image": "caramel_2934237"
+    }
+  ]
+}

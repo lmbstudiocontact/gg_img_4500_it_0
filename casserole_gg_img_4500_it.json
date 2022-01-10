@@ -1,0 +1,39 @@
+{
+  "english": "casserole",
+  "list_translation_mean": [
+    {
+      "translate_mean": "soong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nồi bằng đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a kind of stew or side dish that is cooked slowly in an oven.",
+      "definitions_ex_en": "a chicken casserole",
+      "definitions_ex_vn": "một soong gà.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cook (food) slowly in a casserole.",
+      "definitions_ex_en": "casseroled chicken",
+      "definitions_ex_vn": "gà casseroled.",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058265_ba96a56eff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058265_461e02ed5a_o.png",
+      "id_image": "casserole_2457408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321521_f953b2ee1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321521_0863f22c7f_o.png",
+      "id_image": "casserole_5707035"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "brownie",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh sôcôla nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ma tốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy ảnh loại rẻ tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ hướng đạo mầm non",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small square of rich chocolate cake, typically containing nuts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of the junior branch of the Girl Scouts, for girls aged between about 6 and 8.",
+      "definitions_ex_en": "for my birthday I want to join the Brownies",
+      "definitions_ex_vn": "Cho ngày sinh nhật của tôi, tôi muốn tham gia brownies",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a benevolent elf supposed to haunt houses and do housework secretly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314246_57122f1ff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314246_10588d3b18_o.png",
+      "id_image": "brownie_1056800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314211_18c2fb66d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314211_89c9a24168_o.png",
+      "id_image": "brownie_1725722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314186_ed8f11c62f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314186_be01e41c7c_o.png",
+      "id_image": "brownie_2002712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050795_d645216086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050795_25ee6d7d12_o.png",
+      "id_image": "brownie_2255705"
+    }
+  ]
+}

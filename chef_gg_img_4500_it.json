@@ -1,0 +1,44 @@
+{
+  "english": "chef",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầu bếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ nấu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a professional cook, typically the chief cook in a restaurant or hotel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work as a chef.",
+      "definitions_ex_en": "he cheffed on a yacht in the Riviera for two years",
+      "definitions_ex_vn": "Anh ta bị chefed trên một du thuyền ở Riviera trong hai năm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355562_c5822d77c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355562_4dcd486816_o.png",
+      "id_image": "chef_307964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666389_671e77e981_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666389_3dc775c8af_o.png",
+      "id_image": "chef_773377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426293_bc07523b08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426293_cb17901992_o.png",
+      "id_image": "chef_843311"
+    }
+  ]
+}

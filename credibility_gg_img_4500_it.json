@@ -1,0 +1,52 @@
+{
+  "english": "credibility",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đáng tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin tưởng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being trusted and believed in.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366727_518b2e1d13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366727_246e54c033_o.png",
+      "id_image": "credibility_1999277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058530_0699e3db16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058530_d0d54905b9_o.png",
+      "id_image": "credibility_2132300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436878_238a880e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436878_90398229b5_o.png",
+      "id_image": "credibility_2519401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321681_ddc1f3a2ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321681_f22ffa330a_o.png",
+      "id_image": "credibility_3062480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676724_be11e2a859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676724_5e365e584c_o.png",
+      "id_image": "credibility_5781186"
+    }
+  ]
+}

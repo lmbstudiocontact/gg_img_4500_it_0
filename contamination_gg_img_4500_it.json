@@ -1,0 +1,43 @@
+{
+  "english": "contamination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự dơ bẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự truyền nhiểm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or state of making or being made impure by polluting or poisoning.",
+      "definitions_ex_en": "the risk of contamination by dangerous bacteria",
+      "definitions_ex_vn": "nguy cơ ô nhiễm bởi vi khuẩn nguy hiểm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422668_f779d7e87f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422668_41244c5fa1_o.png",
+      "id_image": "contamination_1730584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044455_d850c72390_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044455_06bc56b62b_o.png",
+      "id_image": "contamination_1786940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044440_ef3d508bbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044440_e7e010c2eb_o.png",
+      "id_image": "contamination_3071531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044425_aa56e46d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044425_63e750425d_o.png",
+      "id_image": "contamination_3154418"
+    }
+  ]
+}

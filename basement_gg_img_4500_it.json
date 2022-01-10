@@ -1,0 +1,34 @@
+{
+  "english": "basement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "từng nhà dưới đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the floor of a building which is partly or entirely below ground level.",
+      "definitions_ex_en": "they went down the stairs into the basement",
+      "definitions_ex_vn": "Họ đi xuống cầu thang vào tầng hầm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314526_92629a637f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314526_f1fb49e5b7_o.png",
+      "id_image": "basement_3650788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429353_e4ca8da494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429353_6f1935fd28_o.png",
+      "id_image": "basement_5233786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051015_8ff6bc545a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051015_9069be316c_o.png",
+      "id_image": "basement_5775271"
+    }
+  ]
+}

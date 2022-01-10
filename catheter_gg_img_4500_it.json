@@ -1,0 +1,29 @@
+{
+  "english": "catheter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống dò niệu quản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flexible tube inserted through a narrow opening into a body cavity, particularly the bladder, for removing fluid.",
+      "definitions_ex_en": "a urinary catheter",
+      "definitions_ex_vn": "một ống thông tiểu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434378_07b4cc0c62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434378_4e52f6b35e_o.png",
+      "id_image": "catheter_1062552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363842_0c3ae359f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363842_3bb987878a_o.png",
+      "id_image": "catheter_2375270"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "english": "castration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cắt bỏ phần nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thiến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the removal of the testicles of a male animal or man.",
+      "definitions_ex_en": "the castration of male calves was initiated to reduce fighting",
+      "definitions_ex_vn": "sự thiến của bê đực đã được bắt đầu để giảm chiến đấu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675814_9a8de408c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675814_bec6d5c12f_o.png",
+      "id_image": "castration_6060205"
+    }
+  ]
+}

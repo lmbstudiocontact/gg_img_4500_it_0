@@ -1,0 +1,63 @@
+{
+  "english": "buy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự bán hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiêu thụ hàng hóa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "obtain in exchange for payment.",
+      "definitions_ex_en": "he bought me a new dress",
+      "definitions_ex_vn": "Anh ấy đã mua cho tôi một chiếc váy mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "accept the truth of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a purchase.",
+      "definitions_ex_en": "the wine is a good buy at $3.49",
+      "definitions_ex_vn": "Rượu là một mua tốt ở mức 3,49 đô la",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422698_4938956842_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422698_126b1dcf7a_o.png",
+      "id_image": "buy_3254752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307536_0c107a5547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307536_1d73c7ab76_o.png",
+      "id_image": "buy_6002155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662774_b91c20ca40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662774_a392192a93_o.png",
+      "id_image": "buy_6192230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351597_1a2e33c59c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351597_b98e325eef_o.png",
+      "id_image": "buy_6342968"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "cork",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dụng cụ làm nút chai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điên điển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một chất thạch ma",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cột nút phao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng nút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "im lặng lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the buoyant, light brown substance obtained from the outer layer of the bark of the cork oak.",
+      "definitions_ex_en": "cork tiles",
+      "definitions_ex_vn": "gạch nút chai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "close or seal (a bottle) with a cork.",
+      "definitions_ex_en": "the bottles were tightly corked and wired",
+      "definitions_ex_vn": "Các chai được chặt chẽ và có dây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "draw with burnt cork.",
+      "definitions_ex_en": "he had corked a mustache on his upper lip",
+      "definitions_ex_vn": "Anh ta đã có một ria mép trên môi trên của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "illicitly hollow out (a baseball bat) and fill it with cork to make it lighter.",
+      "definitions_ex_en": "the balls are doctored and the bats are corked",
+      "definitions_ex_vn": "Những quả bóng được tiến sĩ và những con dơi là corked",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332261_bf21db9445_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332261_d4ef3abc41_o.png",
+      "id_image": "cork_4185214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068970_66195e8349_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068970_30929a4152_o.png",
+      "id_image": "cork_4471418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332311_6eee95de79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332311_6674929719_o.png",
+      "id_image": "cork_804683"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "defense",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảo vệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chống cự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng thủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng vệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự che chở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of defending from or resisting attack.",
+      "definitions_ex_en": "she came to the defense of the eccentric professor",
+      "definitions_ex_vn": "Cô đến phòng thủ giáo sư lập dị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the case presented by or on behalf of the party being accused or sued in a lawsuit.",
+      "definitions_ex_en": "the farmer's defense was that he intended only to wound the thief",
+      "definitions_ex_vn": "Quốc phòng của nông dân là anh ta chỉ định làm vết thương kẻ trộm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in sports) the action or role of defending one's goal against the opposition.",
+      "definitions_ex_en": "we played solid defense",
+      "definitions_ex_vn": "Chúng tôi đã chơi phòng thủ rắn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042840_8cd3f2a54c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042840_2cfb5136b9_o.png",
+      "id_image": "defense_3034806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042825_20c4000798_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042825_4d9f8878b5_o.png",
+      "id_image": "defense_3199457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420968_12ee77572c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420968_4cdc7fa38a_o.png",
+      "id_image": "defense_4329013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350097_6b6516c964_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350097_ffc3f23891_o.png",
+      "id_image": "defense_4456670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420938_a3172ce79f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420938_cb9acb4be4_o.png",
+      "id_image": "defense_4736068"
+    }
+  ]
+}

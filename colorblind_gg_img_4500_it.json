@@ -1,0 +1,35 @@
+{
+  "english": "colorblind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sắc manh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unable to distinguish certain colors, or (rarely in humans) any colors at all.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not influenced by racial prejudice.",
+      "definitions_ex_en": "a color-blind society",
+      "definitions_ex_vn": "một xã hội mù màu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057975_18d5608d22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057975_2fc4042b32_o.png",
+      "id_image": "colorblind_6029254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366107_680e8b8b94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366107_41cfb899b3_o.png",
+      "id_image": "colorblind_6029268"
+    }
+  ]
+}

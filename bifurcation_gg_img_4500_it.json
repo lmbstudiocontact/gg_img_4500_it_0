@@ -1,0 +1,28 @@
+{
+  "english": "bifurcation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ chia hai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia hai đường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the division of something into two branches or parts.",
+      "definitions_ex_en": "the bifurcation of the profession into social do-gooders and self-serving iconoclasts",
+      "definitions_ex_vn": "sự phân chia của nghề nghiệp thành những người làm việc xã hội và tự phục vụ iconoclasts",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305881_cb36ff9086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305881_d153311c3d_o.png",
+      "id_image": "bifurcation_768380"
+    }
+  ]
+}

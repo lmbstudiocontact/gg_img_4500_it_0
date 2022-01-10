@@ -1,0 +1,56 @@
+{
+  "english": "checkup",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiểm soát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khám nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khám sức khỏe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khám xét",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thorough examination, especially a medical or dental one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356237_2c6f2702f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356237_6e51bce615_o.png",
+      "id_image": "checkup_1934416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312201_3c5d6b50f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312201_240b6ec74e_o.png",
+      "id_image": "checkup_2861091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356187_882e02a8c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356187_9280a8ec52_o.png",
+      "id_image": "checkup_2942112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312136_b9cd990abf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312136_e4323f606f_o.png",
+      "id_image": "checkup_4413232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356157_3936b35313_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356157_676c32e3d8_o.png",
+      "id_image": "checkup_4728370"
+    }
+  ]
+}

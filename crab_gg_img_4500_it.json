@@ -1,0 +1,112 @@
+{
+  "english": "crab",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con cua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chê bai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thất bại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ táo dại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục để kéo đồ nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ trích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chọi nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vồ lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chụp lấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a crustacean with a broad carapace, stalked eyes, and five pairs of legs, the first pair of which are modified as pincers. Crabs are abundant on many shores, especially in the tropics, where some have become adapted to life on land.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a louse that infests human body hair, especially in the genital region, causing extreme irritation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a machine for picking up and lifting heavy weights.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for crab apple.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an irritable person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move sideways or obliquely.",
+      "definitions_ex_en": "he began crabbing sideways across the roof",
+      "definitions_ex_vn": "Anh bắt đầu còi qua mái nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fish for crabs.",
+      "definitions_ex_en": "watermen were crabbing on the bay",
+      "definitions_ex_vn": "Những cây dưa chuột đang cò trên vịnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "grumble, typically about something petty.",
+      "definitions_ex_en": "on picnics, I would crab about sand in my food",
+      "definitions_ex_vn": "trên những buổi dã ngoại, tôi sẽ cua về cát trong thức ăn của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "act so as to spoil.",
+      "definitions_ex_en": "you're trying to crab my act",
+      "definitions_ex_vn": "Bạn đang cố gắng cua hành động của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680159_9fc41e0e1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680159_18cc3eef58_o.png",
+      "id_image": "crab_1717812"
+    }
+  ]
+}

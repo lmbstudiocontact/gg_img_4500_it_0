@@ -1,0 +1,44 @@
+{
+  "english": "capitalism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ nghĩa tư bản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state.",
+      "definitions_ex_en": "an era of free-market capitalism",
+      "definitions_ex_vn": "một kỷ nguyên của chủ nghĩa tư bản thị trường tự do",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373397_7766212c51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373397_7f6b5c4bfe_o.png",
+      "id_image": "capitalism_1610476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065420_dae4913372_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065420_7bb973bea7_o.png",
+      "id_image": "capitalism_2390223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443568_a0a366790c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443568_de1c26564f_o.png",
+      "id_image": "capitalism_3053683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443513_9d6b56d0b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443513_3bd4d5b21d_o.png",
+      "id_image": "capitalism_5605798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328496_34925a30ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328496_2dc766da6d_o.png",
+      "id_image": "capitalism_6213321"
+    }
+  ]
+}

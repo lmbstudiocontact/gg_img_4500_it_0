@@ -1,0 +1,78 @@
+{
+  "english": "cable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây neo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dây to",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dâp cáp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây thuyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hải điện tín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây thừng to",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thick rope of wire or nonmetallic fiber, typically used for construction, mooring ships, and towing vehicles.",
+      "definitions_ex_en": "steel cables held the convoy together",
+      "definitions_ex_vn": "Cáp thép giữ cho đoàn xe cùng nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an insulated wire or wires having a protective casing and used for transmitting electricity or telecommunication signals.",
+      "definitions_ex_en": "an underground cable",
+      "definitions_ex_vn": "một cáp ngầm.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "contact or send a message to (someone) by cablegram.",
+      "definitions_ex_en": "he cabled her to cancel all arrangements",
+      "definitions_ex_vn": "Anh ta nhốt cô ấy để hủy bỏ tất cả các sắp xếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide (an area or community) with power lines or with the equipment necessary for cable television.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decorate (a structure) with rope-shaped moldings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306841_5cf0e82496_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306841_5be180ed87_o.png",
+      "id_image": "cable_403081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306821_f8e59be192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306821_8bb34e9102_o.png",
+      "id_image": "cable_4275699"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306791_089c655c4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306791_04b99aabef_o.png",
+      "id_image": "cable_4275708"
+    }
+  ]
+}

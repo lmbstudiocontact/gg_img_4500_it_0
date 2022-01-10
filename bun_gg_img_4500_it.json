@@ -1,0 +1,57 @@
+{
+  "english": "bun",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh bao nhân nho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh ngọt tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "búi tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu tóc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bread roll of various shapes and flavorings, typically sweetened and often containing dried fruit.",
+      "definitions_ex_en": "a currant bun",
+      "definitions_ex_vn": "một bun nho",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hairstyle in which the hair is drawn back into a tight coil at the back of the head.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425778_c5654b9b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425778_2450ce77e5_o.png",
+      "id_image": "bun_3684483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047530_1371654b97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047530_49aa8eca48_o.png",
+      "id_image": "bun_3684514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047480_0fb646edda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047480_b800334791_o.png",
+      "id_image": "bun_6300337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310776_6906ccab89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310776_57c75a53e6_o.png",
+      "id_image": "bun_768154"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "dagger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao găm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short knife with a pointed and edged blade, used as a weapon.",
+      "definitions_ex_en": "he drew his dagger and stabbed the leader",
+      "definitions_ex_vn": "Anh ta rút con dao găm của mình và đâm thủ lĩnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a moth with a dark dagger-shaped marking on the forewing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048610_0cd041e171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048610_3164d623ef_o.png",
+      "id_image": "dagger_2142850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356037_1aa838874e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356037_3068c6cbbe_o.png",
+      "id_image": "dagger_2614269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311966_edb13f7a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311966_e87dc64844_o.png",
+      "id_image": "dagger_3416975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048530_ec51d97d1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048530_f71f40750a_o.png",
+      "id_image": "dagger_3557441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666874_1887258956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666874_24e531298a_o.png",
+      "id_image": "dagger_488354"
+    }
+  ]
+}

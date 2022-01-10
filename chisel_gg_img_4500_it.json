@@ -1,0 +1,78 @@
+{
+  "english": "chisel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao cạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dao chạm kim khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lừa đảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dao khắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái đục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lừa đảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lường gạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trạm trổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long-bladed hand tool with a beveled cutting edge and a plain handle that is struck with a hammer or mallet, used to cut or shape wood, stone, metal, or other hard materials.",
+      "definitions_ex_en": "cut away the tiles with a broad-bladed steel chisel",
+      "definitions_ex_vn": "Cắt bỏ gạch với một cái đục thép rộng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut or shape (something) with a chisel.",
+      "definitions_ex_en": "carefully chisel out a groove for the hinge",
+      "definitions_ex_vn": "Đục cẩn thận ra một rãnh cho bản lề",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664059_7cf461060c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664059_bfe56269e4_o.png",
+      "id_image": "chisel_1422221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308776_cfca109d5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308776_78b0e01a1a_o.png",
+      "id_image": "chisel_2270908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045750_77f9caa36f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045750_348c9ac710_o.png",
+      "id_image": "chisel_2270912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423958_ac929f632f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423958_c60af0e230_o.png",
+      "id_image": "chisel_5848281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664099_857265cf21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664099_f46a802541_o.png",
+      "id_image": "chisel_664125"
+    }
+  ]
+}

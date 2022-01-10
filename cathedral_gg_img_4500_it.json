@@ -1,0 +1,50 @@
+{
+  "english": "cathedral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản bộ của chủ giáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đi nhà thờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đi đến giáo đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà thờ chánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thánh đường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the principal church of a diocese, with which the bishop is officially associated.",
+      "definitions_ex_en": "St. Paul's Cathedral",
+      "definitions_ex_vn": "Nhà thờ St. Paul",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434448_0d2702b5a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434448_4c59b75d76_o.png",
+      "id_image": "cathedral_4507275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674169_6d2e4b098f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674169_f27472e257_o.png",
+      "id_image": "cathedral_5389619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364007_6373423930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364007_c0854d43a7_o.png",
+      "id_image": "cathedral_804326"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "beef",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bò cái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt bò",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the flesh of a cow, bull, or ox, used as food.",
+      "definitions_ex_en": "there was the smell of roast beef",
+      "definitions_ex_vn": "Có mùi thịt bò nướng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "flesh or muscle, typically when well developed.",
+      "definitions_ex_en": "he needs a little more beef on his bones",
+      "definitions_ex_vn": "Anh ta cần thêm một chút thịt bò trên xương của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a complaint or grievance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "complain.",
+      "definitions_ex_en": "he was beefing about how the recession was killing the business",
+      "definitions_ex_vn": "anh ta đã bị mắc bệnh về việc suy thoái kinh tế đang giết chết việc kinh doanh như thế nào",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424633_b2a1442522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424633_6bd4c3a11f_o.png",
+      "id_image": "beef_1702805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353672_61140e4755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353672_1f8c91b761_o.png",
+      "id_image": "beef_2258374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046405_0751fa8ea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046405_79fe86c0a4_o.png",
+      "id_image": "beef_3823081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046365_7b7e515e83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046365_0605e562ca_o.png",
+      "id_image": "beef_4809794"
+    }
+  ]
+}

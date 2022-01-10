@@ -1,0 +1,45 @@
+{
+  "english": "ceramic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghề làm đồ gốm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "made of clay and hardened by heat.",
+      "definitions_ex_en": "a ceramic bowl",
+      "definitions_ex_vn": "một bát gốm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "pots and other articles made from clay hardened by heat.",
+      "definitions_ex_en": "handmade pottery and imaginative ceramics for the table",
+      "definitions_ex_vn": "gốm thủ công và gốm sứ tưởng tượng cho bàn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360612_4ac4a36820_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360612_37692b365c_o.png",
+      "id_image": "ceramic_1927758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431283_f9ddcf2fab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431283_8f2df87584_o.png",
+      "id_image": "ceramic_360142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431228_292ded8c93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431228_7d75e5134a_o.png",
+      "id_image": "ceramic_5350741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670969_24b985a6bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670969_a707d052ab_o.png",
+      "id_image": "ceramic_5684064"
+    }
+  ]
+}

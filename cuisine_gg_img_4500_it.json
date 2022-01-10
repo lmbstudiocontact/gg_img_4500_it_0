@@ -1,0 +1,28 @@
+{
+  "english": "cuisine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm bếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề nấu ăn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a style or method of cooking, especially as characteristic of a particular country, region, or establishment.",
+      "definitions_ex_en": "much Venetian cuisine is based on seafood",
+      "definitions_ex_vn": "Ẩm thực Venetian có trụ sở tại hải sản",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670899_bc00259272_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670899_fefe723e5d_o.png",
+      "id_image": "cuisine_4812844"
+    }
+  ]
+}

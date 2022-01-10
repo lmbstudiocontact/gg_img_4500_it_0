@@ -1,0 +1,46 @@
+{
+  "english": "correction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiểu chính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trừng phạt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of correcting something.",
+      "definitions_ex_en": "I checked the typing for errors and sent it back for correction",
+      "definitions_ex_vn": "Tôi đã kiểm tra gõ lỗi và gửi lại để sửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067715_c43e6159d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067715_16a3c7b718_o.png",
+      "id_image": "correction_2721261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330886_ca2e1b3450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330886_3705db64cb_o.png",
+      "id_image": "correction_4215383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685844_d0d75efde5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685844_0876748f45_o.png",
+      "id_image": "correction_5492501"
+    }
+  ]
+}

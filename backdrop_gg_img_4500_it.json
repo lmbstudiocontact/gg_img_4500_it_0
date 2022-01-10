@@ -1,0 +1,44 @@
+{
+  "english": "backdrop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự té ngả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "té xuống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a painted cloth hung at the back of a theater stage as part of the scenery.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide a background or setting for.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677729_b898dfdb3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677729_a7d2870932_o.png",
+      "id_image": "backdrop_3981046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677689_752a9e3ac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677689_0f9d35bcc3_o.png",
+      "id_image": "backdrop_4853121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059295_cb15092f8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059295_8cf6acf08c_o.png",
+      "id_image": "backdrop_5496662"
+    }
+  ]
+}

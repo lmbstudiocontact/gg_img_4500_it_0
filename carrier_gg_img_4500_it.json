@@ -1,0 +1,97 @@
+{
+  "english": "carrier",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ thầu vận tống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy vận tống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chở hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chuyên chở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đem vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người mang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tiếp tế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người vận tải quân nhu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận tống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để chóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để đở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that carries, holds, or conveys something.",
+      "definitions_ex_en": "water carriers",
+      "definitions_ex_vn": "tàu sân bay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or company that undertakes the professional conveyance of goods or people.",
+      "definitions_ex_en": "Pan Am was the third US carrier to cease operations in 1991",
+      "definitions_ex_vn": "Pan Am là tàu sân bay thứ ba của Hoa Kỳ ngừng hoạt động vào năm 1991",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or animal that transmits a disease-causing organism to others. Typically, the carrier suffers no symptoms of the disease.",
+      "definitions_ex_en": "the black rat, best known as carrier of bubonic plague",
+      "definitions_ex_vn": "chuột đen, được biết đến nhiều nhất là người vận chuyển của bệnh dịch hạch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a substance used to support or convey another substance such as a pigment, catalyst, or radioactive material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060520_08b6e3758e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060520_e2e6a4bc23_o.png",
+      "id_image": "carrier_1405449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368572_f151e43fcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368572_051c914312_o.png",
+      "id_image": "carrier_4201488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060425_579c7315f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060425_c3b79276bb_o.png",
+      "id_image": "carrier_4276239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438793_e2f7122496_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438793_e3832017a3_o.png",
+      "id_image": "carrier_848587"
+    }
+  ]
+}

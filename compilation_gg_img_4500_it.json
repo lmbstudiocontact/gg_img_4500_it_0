@@ -1,0 +1,34 @@
+{
+  "english": "compilation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biên soạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biên tập",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of producing something, especially a list, book, or report, by assembling information collected from other sources.",
+      "definitions_ex_en": "great care has been taken in the compilation of this guidebook",
+      "definitions_ex_vn": "Chăm sóc tuyệt vời đã được thực hiện trong phần tổng hợp sách hướng dẫn này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing, especially a book, record, or broadcast program, that is put together by assembling previously separate items.",
+      "definitions_ex_en": "there are thirty-three stories in this compilation",
+      "definitions_ex_vn": "Có ba mươi ba câu chuyện trong phần tổng hợp này",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671089_1c722a1b25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671089_3edbd75746_o.png",
+      "id_image": "compilation_4237041"
+    }
+  ]
+}

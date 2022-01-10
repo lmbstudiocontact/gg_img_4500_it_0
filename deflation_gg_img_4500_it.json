@@ -1,0 +1,40 @@
+{
+  "english": "deflation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giảm phát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xẹp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of deflating or being deflated.",
+      "definitions_ex_en": "deflation of the illusion that the 1960s were a perpetual party",
+      "definitions_ex_vn": "Giảm phát ảo ảnh rằng những năm 1960 là một bên vĩnh viễn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reduction of the general level of prices in an economy.",
+      "definitions_ex_en": "a time of high unemployment and deflation",
+      "definitions_ex_vn": "một thời gian thất nghiệp cao và giảm phát",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the removal of particles of rock, sand, etc. by the wind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420863_4fafc65715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420863_736acd1c4d_o.png",
+      "id_image": "deflation_5116249"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "cute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tinh khôn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có duyên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể thương",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gian xảo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xảo trá",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "attractive in a pretty or endearing way.",
+      "definitions_ex_en": "a cute kitten",
+      "definitions_ex_vn": "một con mèo con dễ thương",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313096_6be4797a48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313096_eb723c38b3_o.png",
+      "id_image": "cute_1316874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667944_72d0d16cf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667944_5a11613450_o.png",
+      "id_image": "cute_213280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313121_50eef0525b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313121_3653783895_o.png",
+      "id_image": "cute_260236"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "english": "beetle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "côn trùng cánh cứng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trán dồ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cái vồ lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dựng xiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bằng vồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đứng xiên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nện bằng vồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an insect of an order distinguished by forewings typically modified into hard wing cases (elytra) that cover and protect the hind wings and abdomen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tool with a heavy head and a handle, used for tasks such as ramming, crushing, and driving wedges; a maul.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make one's way hurriedly or with short, quick steps.",
+      "definitions_ex_en": "the tourist beetled off",
+      "definitions_ex_vn": "Khách du lịch bị cuốn khỏi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ram, crush, or drive with a beetle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a rock or a person's eyebrows) be prominent or overhanging.",
+      "definitions_ex_en": "his eyebrows beetled with irritation",
+      "definitions_ex_vn": "Lông mày của anh ta bị gạt với kích ứng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person's eyebrows) shaggy and projecting.",
+      "definitions_ex_en": "thick beetle brows",
+      "definitions_ex_vn": "Duyệt beetle dày",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664389_2b472bca3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664389_558507cba9_o.png",
+      "id_image": "beetle_2161976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664349_567008e48a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664349_66ed175d38_o.png",
+      "id_image": "beetle_2161977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046045_0e471bdcca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046045_74b360a35c_o.png",
+      "id_image": "beetle_2281170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664289_a31a2c9585_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664289_418fb0c1f3_o.png",
+      "id_image": "beetle_4727689"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "checker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người kiểm tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khám nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khám xét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngăn cản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn cờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia thành ô vuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kẽ vuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tô nhiều màu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that verifies or examines something.",
+      "definitions_ex_en": "a spelling checker",
+      "definitions_ex_vn": "một trình kiểm tra chính tả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "British spelling of checker2 (noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pattern of squares, typically alternately colored.",
+      "definitions_ex_en": "a geometric shape bordered by checkers",
+      "definitions_ex_vn": "một hình dạng hình học được viền bởi cờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "British spelling of checker2 (verb).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "divide into or mark with an arrangement of squares of different color or character.",
+      "definitions_ex_en": "a great plain checkered with corn and green mosses",
+      "definitions_ex_vn": "một rô rô tuyệt vời với ngô và rêu xanh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312401_c648742e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312401_e3031b24d2_o.png",
+      "id_image": "checked_2767743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427203_65b108b4a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427203_e15808d649_o.png",
+      "id_image": "checked_5387027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427193_a9dc0a18a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427193_e2552332e8_o.png",
+      "id_image": "checker_3093838"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "crew",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toàn thể nhân viên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of people who work on and operate a ship, boat, aircraft, spacecraft, or train.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people who work closely together.",
+      "definitions_ex_en": "an ambulance crew",
+      "definitions_ex_vn": "một phi hành đoàn cứu thương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide (a craft or vehicle) with a group of people to operate it.",
+      "definitions_ex_en": "normally the boat is crewed by five people",
+      "definitions_ex_vn": "Thông thường thuyền được bao phủ bởi năm người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "past of crow2.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320856_f9fd9abe81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320856_a5ebea24aa_o.png",
+      "id_image": "crew_1506388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365737_2a1c927124_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365737_9980102f93_o.png",
+      "id_image": "crew_1850674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435963_44fa959050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435963_ea8ba3143a_o.png",
+      "id_image": "crew_6348089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320776_f340f0bfec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320776_e5751aa2cd_o.png",
+      "id_image": "crew_6348126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675774_7890abe824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675774_163b697abb_o.png",
+      "id_image": "crew_6348331"
+    }
+  ]
+}

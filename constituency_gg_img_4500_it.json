@@ -1,0 +1,36 @@
+{
+  "english": "constituency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "các cử tri",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cử tri đoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khu tuyển cử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bỏ phiếu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a body of voters in a specified area who elect a representative to a legislative body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046305_c7b24c308c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046305_4ee23215ce_o.png",
+      "id_image": "constituency_2472997"
+    }
+  ]
+}

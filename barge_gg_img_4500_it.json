@@ -1,0 +1,59 @@
+{
+  "english": "barge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chen lấn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xô đẩy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat-bottomed boat for carrying freight, typically on canals and rivers, either under its own power or towed by another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move forcefully or roughly.",
+      "definitions_ex_en": "we can't just barge into a private garden",
+      "definitions_ex_vn": "Chúng ta không thể sà lan vào một khu vườn riêng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "convey (freight) by barge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430368_6c7001f7b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430368_68cd93b4ee_o.png",
+      "id_image": "barge_2289513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430343_a840ed615c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430343_4553a2e1b3_o.png",
+      "id_image": "barge_3117897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430303_08b6659b18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430303_5fe352fa73_o.png",
+      "id_image": "barge_4736175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051890_d8c1d2b30c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051890_6ea6c3e97a_o.png",
+      "id_image": "barge_4984858"
+    }
+  ]
+}

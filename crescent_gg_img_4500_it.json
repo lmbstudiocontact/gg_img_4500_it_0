@@ -1,0 +1,69 @@
+{
+  "english": "crescent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đương lớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đương nẩy nở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đương sinh trưởng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hình bán nguyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình lưởi liềm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước thổ nhĩ kỳ xưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà hình vòng cung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trăng lưởi liềm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the curved sickle shape of the waxing or waning moon.",
+      "definitions_ex_en": "the moon was a slender crescent",
+      "definitions_ex_vn": "Mặt trăng là một lưỡi liềm mảnh mai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that has has the shape of a single curve, especially one that is broad in the center and tapers to a point at each end.",
+      "definitions_ex_en": "a three-mile crescent of golden sand",
+      "definitions_ex_vn": "một lưỡi liềm ba dặm của cát vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "having the shape of a crescent.",
+      "definitions_ex_en": "a crescent moon",
+      "definitions_ex_vn": "một trăng lưỡi liềm",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436178_36fc4d98bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436178_e89993e07a_o.png",
+      "id_image": "crescent_3104450"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676029_0e02bf5276_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676029_0600d17a39_o.png",
+      "id_image": "crescent_3104454"
+    }
+  ]
+}

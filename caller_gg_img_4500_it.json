@@ -1,0 +1,50 @@
+{
+  "english": "caller",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tươi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đến thăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kêu gọi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không khí mát mẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người đánh thức",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who makes a phone call or pays a brief visit.",
+      "definitions_ex_en": "a special advice line was swamped by hundreds of callers",
+      "definitions_ex_vn": "Một dòng tư vấn đặc biệt đã bị đậm đà bởi hàng trăm người gọi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who calls out numbers in a game of bingo or directions in a dance.",
+      "definitions_ex_en": "a barn dance with a persuasive caller",
+      "definitions_ex_vn": "một điệu nhảy chuồng trại với một người gọi thuyết phục",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349662_32a4f931cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349662_c3deac890b_o.png",
+      "id_image": "caller_1353769"
+    }
+  ]
+}

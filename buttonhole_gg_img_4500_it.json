@@ -1,0 +1,48 @@
+{
+  "english": "buttonhole",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuy áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giữ người nào lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết khuy áo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nắm áo người nào lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a slit made in a garment to receive a button for fastening.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attract the attention of and detain (someone) in conversation, typically against his or her will.",
+      "definitions_ex_en": "reporters buttonhole officials coming out of the press secretary's office",
+      "definitions_ex_vn": "Các phóng viên các quan chức của Buttonhole ra khỏi văn phòng thư ký báo chí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make slits for receiving buttons in (a garment).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422828_44df8b05e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422828_d8ed7a0981_o.png",
+      "id_image": "buttonhole_1718242"
+    }
+  ]
+}

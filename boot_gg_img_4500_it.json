@@ -1,0 +1,86 @@
+{
+  "english": "boot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngăn sau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chân có lông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giày ống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giày ống buột dây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mang giày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vả lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sturdy item of footwear covering the foot, the ankle, and sometimes the leg below the knee.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hard kick.",
+      "definitions_ex_en": "I got a boot in the stomach",
+      "definitions_ex_vn": "Tôi có một chiếc giày trong dạ dày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of starting a computer and putting it into a state of readiness for operation.",
+      "definitions_ex_en": "a boot disk",
+      "definitions_ex_vn": "một đĩa khởi động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "kick (something) hard in a specified direction.",
+      "definitions_ex_en": "he ended up booting the ball into the stands",
+      "definitions_ex_vn": "cuối cùng anh ta đã khởi động bóng vào khán đài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "start (a computer) and put it into a state of readiness for operation.",
+      "definitions_ex_en": "when I booted the computer I heard a extremely loud rattle",
+      "definitions_ex_vn": "Khi tôi khởi động máy tính, tôi nghe thấy một tiếng rít cực lớn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367687_08e18cbfc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367687_5e2533acbe_o.png",
+      "id_image": "boot_1152992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322836_5e55419c1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322836_58f08b6dcc_o.png",
+      "id_image": "boot_123964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059525_f2cb2d9e45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059525_b2367af010_o.png",
+      "id_image": "boot_343328"
+    }
+  ]
+}

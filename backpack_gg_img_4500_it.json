@@ -1,0 +1,40 @@
+{
+  "english": "backpack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ba lô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bag with shoulder straps that allow it to be carried on one's back.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel or hike carrying one's belongings in a backpack.",
+      "definitions_ex_en": "he has backpacked around the world",
+      "definitions_ex_vn": "anh ấy đã backpacked trên toàn thế giới",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058900_7941f1dfb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058900_4a300b8e56_o.png",
+      "id_image": "backpack_290325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058865_031c14efb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058865_db2ed2be3f_o.png",
+      "id_image": "backpack_495980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366992_1b0ce34ce9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366992_c3755055c8_o.png",
+      "id_image": "backpack_701857"
+    }
+  ]
+}

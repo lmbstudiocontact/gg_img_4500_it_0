@@ -1,0 +1,55 @@
+{
+  "english": "blur",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình dáng mập mờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sương mù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bôi bẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lờ mờ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become unclear or less distinct.",
+      "definitions_ex_en": "tears blurred her vision",
+      "definitions_ex_vn": "Nước mắt mờ mắt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a thing that cannot be seen or heard clearly.",
+      "definitions_ex_en": "the pale blur of her face",
+      "definitions_ex_vn": "sự mờ nhạt của khuôn mặt cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372427_f70a084424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372427_40aa3b4699_o.png",
+      "id_image": "blur_6315993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064465_a35029f50e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064465_5c30ed110a_o.png",
+      "id_image": "blur_751361"
+    }
+  ]
+}

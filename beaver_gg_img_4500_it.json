@@ -1,0 +1,63 @@
+{
+  "english": "beaver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con thát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hải ly",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nón lưởi trai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành che nón",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large semiaquatic broad-tailed rodent that is native to North America and northern Eurasia. It is noted for its habit of gnawing through tree trunks to fell the trees in order to feed on the bark and build dams.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lower part of the face guard of a helmet in a suit of armor. The term is also used to refer to the upper part or visor, or to a single movable guard.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work hard.",
+      "definitions_ex_en": "Bridget beavered away to keep things running smoothly",
+      "definitions_ex_vn": "Bridget Beavered đi để giữ cho mọi thứ chạy trơn tru",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665819_5c0f06dd3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665819_6fb61be2d6_o.png",
+      "id_image": "beaver_311524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354757_eb0feb9152_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354757_d75049e043_o.png",
+      "id_image": "beaver_375147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047370_aedf2ab43a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047370_a3fa47189f_o.png",
+      "id_image": "beaver_427421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425538_808209bf10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425538_47a75c5fd5_o.png",
+      "id_image": "beaver_4781817"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "contributor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người góp phần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người chịu phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cộng sự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giúp sức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that contributes something.",
+      "definitions_ex_en": "Hunt was the largest contributor of hymns to these collections",
+      "definitions_ex_vn": "Hunt là người đóng góp lớn nhất của các bài thánh ca cho các bộ sưu tập này",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421498_684eb32647_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421498_f6df176498_o.png",
+      "id_image": "contribution_5520859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661679_d2a375e13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661679_5957529375_o.png",
+      "id_image": "contribution_5520944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043320_1757b0ba9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043320_3682dfba87_o.png",
+      "id_image": "contribution_6313799"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "climber",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây leo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hoạnh phát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người leo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trèo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or animal that climbs.",
+      "definitions_ex_en": "leopards are great tree climbers",
+      "definitions_ex_vn": "báo là những người leo núi tuyệt vời",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447013_669cc3cdda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447013_7bffe7f3b3_o.png",
+      "id_image": "climber_3714329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446983_d43b6cae86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446983_e8d6748db8_o.png",
+      "id_image": "climber_3714418"
+    }
+  ]
+}

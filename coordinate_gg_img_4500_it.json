@@ -1,0 +1,67 @@
+{
+  "english": "coordinate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồng hàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngang với",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring the different elements of (a complex activity or organization) into a relationship that will ensure efficiency or harmony.",
+      "definitions_ex_en": "he had responsibility for coordinating Chicago's transportation services",
+      "definitions_ex_vn": "Ông có trách nhiệm điều phối các dịch vụ vận chuyển của Chicago",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "form a coordinate bond to (an atom or molecule).",
+      "definitions_ex_en": "the sodium atom is coordinated to two oxygen atoms",
+      "definitions_ex_vn": "Nguyên tử natri được phối hợp thành hai nguyên tử oxy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "equal in rank or importance.",
+      "definitions_ex_en": "cross references in the catalog link subjects that may be coordinate",
+      "definitions_ex_vn": "Tham chiếu chéo trong các chủ đề liên kết danh mục có thể phối hợp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a type of covalent bond in which one atom provides both the shared electrons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "each of a group of numbers used to indicate the position of a point, line, or plane.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "matching items of clothing.",
+      "definitions_ex_en": "matching accessories provide a complete ensemble of color coordinates",
+      "definitions_ex_vn": "Phụ kiện phù hợp cung cấp một tập hợp hoàn chỉnh của tọa độ màu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041660_cc36c4616f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041660_34a799807a_o.png",
+      "id_image": "coordinate_4133401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348917_38064c52d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348917_c33028ede3_o.png",
+      "id_image": "coordinate_4463762"
+    }
+  ]
+}

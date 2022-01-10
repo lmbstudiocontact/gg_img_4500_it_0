@@ -1,0 +1,91 @@
+{
+  "english": "cob",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bông bắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lõi ngô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một cục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một hòn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa chân ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiên nga trống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái phi tử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lựa chọn bằng tay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "miếng nhỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the central, cylindrical, woody part of the corn ear to which the grains, or kernels, are attached.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hazelnut or filbert, especially one of a large variety.",
+      "definitions_ex_en": "cobnut stuffing",
+      "definitions_ex_vn": "nhồi nhét cobnut",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a powerfully built, short-legged horse.",
+      "definitions_ex_en": "he's got a nice young bay cob if you want to hack",
+      "definitions_ex_vn": "Anh ấy có một vịnh trẻ tốt đẹp nếu bạn muốn hack",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a male swan.",
+      "definitions_ex_en": "ganders and cobs have permanent pair bonds",
+      "definitions_ex_vn": "Ganders và COB có liên kết cặp vĩnh viễn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of kob2.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "close of business.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681879_6c133a0e3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681879_9077dc97bd_o.png",
+      "id_image": "cob_2163491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063650_552e9d61a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063650_881eb9d993_o.png",
+      "id_image": "cob_4796216"
+    }
+  ]
+}

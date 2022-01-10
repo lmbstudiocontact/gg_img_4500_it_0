@@ -1,0 +1,44 @@
+{
+  "english": "cognac",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rượu cognac",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a high-quality brandy, properly that distilled in Cognac in western France.",
+      "definitions_ex_en": "we went to a bar and had some cognac",
+      "definitions_ex_vn": "Chúng tôi đã đi đến một quán bar và có một số cognac",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324576_1bbf3b8c30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324576_599b3b66ff_o.png",
+      "id_image": "cognac_3884749"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439603_b40dee4166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439603_b3a5903f83_o.png",
+      "id_image": "cognac_4507718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061400_0a12afc393_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061400_6f097fd683_o.png",
+      "id_image": "cognac_6255644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324436_e6c3b9c5be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324436_aefd959bdd_o.png",
+      "id_image": "cognac_6256099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439478_9e1522456f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439478_3ee6a8f1ab_o.png",
+      "id_image": "cognac_6305903"
+    }
+  ]
+}

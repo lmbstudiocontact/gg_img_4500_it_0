@@ -1,0 +1,85 @@
+{
+  "english": "convert",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đổi đảng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vào đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biển thủ tiền bạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cải hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuyển hoán mệnh đề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi tôn giáo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay đổi đảng phái",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause to change in form, character, or function.",
+      "definitions_ex_en": "production processes that converted raw material into useful forms",
+      "definitions_ex_vn": "quy trình sản xuất đã chuyển đổi nguyên liệu thô thành các hình thức hữu ích",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "change one's religious faith or other beliefs.",
+      "definitions_ex_en": "at sixteen he converted to Catholicism",
+      "definitions_ex_vn": "tại mười sáu tuổi, ông đã chuyển đổi sang Công giáo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "score from (a penalty kick, pass, or other opportunity) in a sport or game.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person who has been persuaded to change their religious faith or other beliefs.",
+      "definitions_ex_en": "he is a recent convert to the Church",
+      "definitions_ex_vn": "Anh ấy là một người chuyển đổi gần đây cho Giáo hội",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660994_14abdcd7d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660994_15d79a7a21_o.png",
+      "id_image": "convert_1579869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349712_63480bbee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349712_2aabac787c_o.png",
+      "id_image": "convert_3399737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420533_ee51a5b1f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420533_60aae46c95_o.png",
+      "id_image": "convert_4182916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660889_7531cb5808_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660889_d4d6d2b948_o.png",
+      "id_image": "convert_4524041"
+    }
+  ]
+}

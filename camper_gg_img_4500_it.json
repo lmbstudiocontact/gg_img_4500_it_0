@@ -1,0 +1,48 @@
+{
+  "english": "camper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người thích đi cắm trại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người ở trại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who spends a vacation in a tent or camp.",
+      "definitions_ex_en": "the site offers washing facilities for campers",
+      "definitions_ex_vn": "Trang web cung cấp các cơ sở giặt giội cho người cắm trại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041420_120aeb5d5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041420_3deb702ed0_o.png",
+      "id_image": "camper_1054059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659909_2cba8cb92b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659909_bb03e79441_o.png",
+      "id_image": "camper_2437347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419538_f398cfa04b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419538_1a93ac066b_o.png",
+      "id_image": "camper_3578687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041460_41f62c7457_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041460_506ff8a8be_o.png",
+      "id_image": "camper_803788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419578_7389718c29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419578_0836283b3e_o.png",
+      "id_image": "camper_853496"
+    }
+  ]
+}

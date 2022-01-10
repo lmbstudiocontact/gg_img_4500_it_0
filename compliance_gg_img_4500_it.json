@@ -1,0 +1,53 @@
+{
+  "english": "compliance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho đúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhường nhịn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or fact of complying with a wish or command.",
+      "definitions_ex_en": "they must secure each other's cooperation or compliance",
+      "definitions_ex_vn": "họ phải bảo đảm sự hợp tác hoặc tuân thủ của nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the property of a material of undergoing elastic deformation or (of a gas) change in volume when subjected to an applied force. It is equal to the reciprocal of stiffness.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315946_9774c75e53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315946_ff64a178df_o.png",
+      "id_image": "compliance_2631401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052375_77c6bc4179_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052375_54670cc422_o.png",
+      "id_image": "compliance_4252343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052340_be6904f1ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052340_f3a6a18a6b_o.png",
+      "id_image": "compliance_5307833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360022_0b26f81461_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360022_76cb1f76aa_o.png",
+      "id_image": "compliance_5572107"
+    }
+  ]
+}

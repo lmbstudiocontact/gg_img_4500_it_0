@@ -1,0 +1,50 @@
+{
+  "english": "coordinator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người phối trí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person whose job is to organize events or activities and to negotiate with others in order to ensure they work together effectively.",
+      "definitions_ex_en": "a full-time coordinator was appointed to oversee the referral process",
+      "definitions_ex_vn": "Một điều phối viên toàn thời gian được bổ nhiệm để giám sát quá trình giới thiệu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a word used to connect clauses, sentences, or words of equal syntactic importance (e.g. and, or, for ).",
+      "definitions_ex_en": "subordinate clauses can be connected with a coordinator",
+      "definitions_ex_vn": "Các mệnh đề phụ có thể được kết nối với một điều phối viên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448638_9b9130a96b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448638_62c384b3e2_o.png",
+      "id_image": "coordinator_1876759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378357_85ec9dc45f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378357_190032f3a9_o.png",
+      "id_image": "coordinator_1876899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333501_0e72cb8007_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333501_0c59854633_o.png",
+      "id_image": "coordinator_3310063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378307_f17119af8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378307_22255ebe78_o.png",
+      "id_image": "coordinator_3380763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070260_56d0392966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070260_8cd1ecc6d9_o.png",
+      "id_image": "coordinator_4079140"
+    }
+  ]
+}

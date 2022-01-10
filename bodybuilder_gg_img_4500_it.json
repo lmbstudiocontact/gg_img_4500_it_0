@@ -1,0 +1,44 @@
+{
+  "english": "bodybuilder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lực sĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thể dục thẩm mỷ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who strengthens and enlarges the muscles of their body through strenuous exercise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or company that builds the bodies of vehicles.",
+      "definitions_ex_en": "he trained as a car bodybuilder",
+      "definitions_ex_vn": "Ông được đào tạo như một vận động viên thể hình xe hơi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681749_0e99168445_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681749_0ed8682a99_o.png",
+      "id_image": "bodybuilder_2072402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371367_5b3a36e2b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371367_962c629a01_o.png",
+      "id_image": "bodybuilder_2307832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681809_f20f51ae42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681809_5e307cf130_o.png",
+      "id_image": "bodybuilder_886865"
+    }
+  ]
+}

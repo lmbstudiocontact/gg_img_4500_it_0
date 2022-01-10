@@ -1,0 +1,29 @@
+{
+  "english": "cockade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu hiệu ở nón",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rosette or knot of ribbons worn in a hat as a badge of office or party, or as part of a livery.",
+      "definitions_ex_en": "the cap bore the traditional cockade in silver, blue, and red",
+      "definitions_ex_vn": "Cap mang cockade truyền thống bằng bạc, xanh và đỏ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441253_9a5c46fef1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441253_39ccdd0e55_o.png",
+      "id_image": "cockade_4457075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063080_c2ce5cde79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063080_8dcf1eac86_o.png",
+      "id_image": "cockade_4624273"
+    }
+  ]
+}

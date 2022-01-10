@@ -1,0 +1,38 @@
+{
+  "english": "decor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ trần thiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trang hoàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the furnishing and decoration of a room.",
+      "definitions_ex_en": "inside, the decor is elegant and traditional",
+      "definitions_ex_vn": "Bên trong, trang trí là thanh lịch và truyền thống",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044040_430090b570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044040_49810fc320_o.png",
+      "id_image": "decor_1198316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043995_de3a04ede2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043995_0da2f7bcd9_o.png",
+      "id_image": "decor_4257669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662269_5c2e1f4888_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662269_c6c10e704f_o.png",
+      "id_image": "decor_4954622"
+    }
+  ]
+}

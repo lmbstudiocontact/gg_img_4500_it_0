@@ -1,0 +1,34 @@
+{
+  "english": "breakable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể gãy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đập bể được",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "capable of breaking or being broken easily.",
+      "definitions_ex_en": "breakable ornaments",
+      "definitions_ex_vn": "đồ trang trí dễ vỡ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "things which are fragile and easily broken.",
+      "definitions_ex_en": "breakables, like china, should be padded thoroughly and placed in smaller boxes",
+      "definitions_ex_vn": "Phá vỡ, như Trung Quốc, nên được đệm kỹ lưỡng và đặt trong các hộp nhỏ hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054155_2bf429635e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054155_58be71263a_o.png",
+      "id_image": "breakable_1259988"
+    }
+  ]
+}

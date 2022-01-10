@@ -1,0 +1,33 @@
+{
+  "english": "cultural",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lể bái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tế tự",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the ideas, customs, and social behavior of a society.",
+      "definitions_ex_en": "the cultural diversity of the world's peoples",
+      "definitions_ex_vn": "sự đa dạng về văn hóa của những người dân thế giới",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430978_9376388423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430978_50752a8322_o.png",
+      "id_image": "cultural_4345735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360317_b77f5c8cf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360317_8cd59fc620_o.png",
+      "id_image": "cultural_5823786"
+    }
+  ]
+}

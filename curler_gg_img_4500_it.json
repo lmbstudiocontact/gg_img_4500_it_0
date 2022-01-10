@@ -1,0 +1,35 @@
+{
+  "english": "curler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nép mình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a roller or clasp around which a lock of hair is wrapped to curl it.",
+      "definitions_ex_en": "one of our neighbors with her hair in curlers",
+      "definitions_ex_vn": "một trong những người hàng xóm của chúng tôi với mái tóc của cô ấy trong dụng cụ uốn tóc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a player in the game of curling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359212_c367e8b717_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359212_053bf38e83_o.png",
+      "id_image": "curler_2371019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051560_2e77346ebb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051560_96c6b88b1b_o.png",
+      "id_image": "curler_3461737"
+    }
+  ]
+}

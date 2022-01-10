@@ -1,0 +1,66 @@
+{
+  "english": "confirmation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép thêm sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cùng cố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phê chuẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vửng chắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xác nhận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of confirming something or the state of being confirmed.",
+      "definitions_ex_en": "Sylvia received official confirmation of the instructorship",
+      "definitions_ex_vn": "Sylvia đã nhận được xác nhận chính thức của người hướng dẫn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the Christian Church) the rite at which a baptized person, especially one baptized as an infant, affirms Christian belief and is admitted as a full member of the Church.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048880_05f9362fcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048880_68c3d92316_o.png",
+      "id_image": "confirmation_1648797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667159_7d890258eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667159_154eaa26a9_o.png",
+      "id_image": "confirmation_2819580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048815_77127c222b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048815_3672324cef_o.png",
+      "id_image": "confirmation_2867644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312191_acdd70ff41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312191_60e968fed3_o.png",
+      "id_image": "confirmation_4807918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048780_ef6a6fb273_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048780_13a8481df6_o.png",
+      "id_image": "confirmation_5673740"
+    }
+  ]
+}

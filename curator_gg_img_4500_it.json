@@ -1,0 +1,46 @@
+{
+  "english": "curator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hội viên trường đại học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bảo quản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người coi sóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người quản lý",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a keeper or custodian of a museum or other collection.",
+      "definitions_ex_en": "the curator of drawings at the National Gallery",
+      "definitions_ex_vn": "Người quản lý bản vẽ tại Phòng trưng bày Quốc gia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315366_6249675620_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315366_f25e0d4f79_o.png",
+      "id_image": "curator_827061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359472_9399e8f35a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359472_65dda4fcec_o.png",
+      "id_image": "curator_827062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669919_9f46430b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669919_3ce7f4dab4_o.png",
+      "id_image": "curator_827073"
+    }
+  ]
+}

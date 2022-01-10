@@ -1,0 +1,38 @@
+{
+  "english": "crucifixion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đóng đinh vào thập giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đóng đinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the execution of a person by nailing or binding them to a cross.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672819_f6becea31c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672819_549a5b3ddc_o.png",
+      "id_image": "crucifixion_280011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672814_997d642f8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672814_53b0dd3968_o.png",
+      "id_image": "crucifixion_6396894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054555_f742366997_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054555_612f3569d6_o.png",
+      "id_image": "crucifixion_6396936"
+    }
+  ]
+}

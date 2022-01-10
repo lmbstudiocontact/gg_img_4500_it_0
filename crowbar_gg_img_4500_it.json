@@ -1,0 +1,40 @@
+{
+  "english": "crowbar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây đòn bẩy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an iron bar with a flattened end, used as a lever.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "use a crowbar to open (something).",
+      "definitions_ex_en": "he crowbarred the box open",
+      "definitions_ex_vn": "anh ấy mở hộp mở",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673249_1bab170985_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673249_5024c44b66_o.png",
+      "id_image": "crowbar_1840139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362962_eab4f57cf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362962_2d2bda4cb4_o.png",
+      "id_image": "crowbar_6151929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055055_ab631fb211_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055055_25da842429_o.png",
+      "id_image": "crowbar_669087"
+    }
+  ]
+}

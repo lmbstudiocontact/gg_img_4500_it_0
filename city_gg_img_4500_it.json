@@ -1,0 +1,52 @@
+{
+  "english": "city",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đô thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tất cả dân thành phố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành phố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành thị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large town.",
+      "definitions_ex_en": "one of Italy's most beautiful cities",
+      "definitions_ex_vn": "một trong những thành phố đẹp nhất của Ý",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for City of London.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661254_67178b22f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661254_ed9918c6eb_o.png",
+      "id_image": "city_3380979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042780_35286fcb2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042780_5d6f5ed60a_o.png",
+      "id_image": "city_3380996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042750_c116ebe804_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042750_cf85291203_o.png",
+      "id_image": "city_4531344"
+    }
+  ]
+}

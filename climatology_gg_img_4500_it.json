@@ -1,0 +1,24 @@
+{
+  "english": "climatology",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khí hậu học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the scientific study of climate.",
+      "definitions_ex_en": "the role of clouds is one of the big conundrums of climatology",
+      "definitions_ex_vn": "Vai trò của những đám mây là một trong những câu hỏi hóc búa lớn của khí hậu học",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068940_dbd68535f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068940_8e710f73d5_o.png",
+      "id_image": "climatology_3104411"
+    }
+  ]
+}

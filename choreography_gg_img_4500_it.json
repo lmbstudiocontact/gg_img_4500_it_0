@@ -1,0 +1,33 @@
+{
+  "english": "choreography",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghệ thuật khiêu vũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy múa ở sân khấu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sequence of steps and movements in dance or figure skating, especially in a ballet or other staged dance.",
+      "definitions_ex_en": "the lively choreography reflects the themes of the original play",
+      "definitions_ex_vn": "Các vũ đạo sống động phản ánh các chủ đề của vở kịch ban đầu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662839_070337a4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662839_bc2a24a41b_o.png",
+      "id_image": "choreography_5775019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351682_3c9aa9f657_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351682_bbdf6ea716_o.png",
+      "id_image": "choreography_5775140"
+    }
+  ]
+}

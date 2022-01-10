@@ -1,0 +1,42 @@
+{
+  "english": "consultation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự tham khảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thương nghị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tra cứu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of formally consulting or discussing.",
+      "definitions_ex_en": "they improved standards in consultation with consumer representatives",
+      "definitions_ex_vn": "Họ đã cải thiện các tiêu chuẩn trong tư vấn với đại diện người tiêu dùng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352927_a5ae43f578_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352927_f2ee26dd11_o.png",
+      "id_image": "consultation_2005885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352897_dcbe023745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352897_bd6172506a_o.png",
+      "id_image": "consultation_2720606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663929_6ef37a3f85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663929_73147d3b5b_o.png",
+      "id_image": "consultation_4148615"
+    }
+  ]
+}

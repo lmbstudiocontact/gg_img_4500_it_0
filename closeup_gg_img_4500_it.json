@@ -1,0 +1,32 @@
+{
+  "english": "closeup",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cản đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khép lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngồi khép lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a photograph, movie, or video taken at close range and showing the subject on a large scale.",
+      "definitions_ex_en": "a close-up of her face",
+      "definitions_ex_vn": "cận cảnh khuôn mặt của cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374612_31f834266b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374612_4dde650cfd_o.png",
+      "id_image": "closeup_4514951"
+    }
+  ]
+}

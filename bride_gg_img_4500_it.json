@@ -1,0 +1,38 @@
+{
+  "english": "bride",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vị hôn thê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vợ sắp cưới",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman on her wedding day or just before and after the event.",
+      "definitions_ex_en": "the bride and groom left early last night",
+      "definitions_ex_vn": "Cô dâu chú rể còn lại vào đầu đêm qua",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431288_cf312972d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431288_94dfa6af20_o.png",
+      "id_image": "bride_1941005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431253_1d5d5f1231_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431253_f3ff4cfcf9_o.png",
+      "id_image": "bride_4403044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316356_15e61b3eba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316356_d1a6112f38_o.png",
+      "id_image": "bride_4403073"
+    }
+  ]
+}

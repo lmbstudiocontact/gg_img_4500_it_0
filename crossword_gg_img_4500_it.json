@@ -1,0 +1,39 @@
+{
+  "english": "crossword",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trò chơi ô chữ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a puzzle consisting of a grid of squares and blanks into which words crossing vertically and horizontally are written according to clues.",
+      "definitions_ex_en": "she settled down to do the crossword",
+      "definitions_ex_vn": "Cô ổn định để làm ô chữ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318676_32d56a2381_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318676_20f9d74bfc_o.png",
+      "id_image": "crossword_1728649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363222_d96f5f3af6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363222_1b25fa7020_o.png",
+      "id_image": "crossword_3655679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673449_9f3b687b6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673449_da314893fb_o.png",
+      "id_image": "crossword_4040516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363182_e35a6020cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363182_a1803ec4f4_o.png",
+      "id_image": "crossword_6305452"
+    }
+  ]
+}

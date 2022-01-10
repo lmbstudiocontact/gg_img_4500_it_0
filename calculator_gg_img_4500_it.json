@@ -1,0 +1,47 @@
+{
+  "english": "calculator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sổ thành lập",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "something used for making mathematical calculations, in particular a small electronic device with a keyboard and a visual display.",
+      "definitions_ex_en": "a pocket calculator",
+      "definitions_ex_vn": "một máy tính bỏ túi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305876_64748af4db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305876_58c2b91e81_o.png",
+      "id_image": "calculator_295555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042855_80b576d63f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042855_56dc5da42d_o.png",
+      "id_image": "calculator_452313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305846_183aff4f77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305846_7fd0cd8e90_o.png",
+      "id_image": "calculator_517785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420928_2edc161ee0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420928_67f73c0241_o.png",
+      "id_image": "calculator_546649"
+    }
+  ]
+}

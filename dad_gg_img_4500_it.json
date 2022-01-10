@@ -1,0 +1,46 @@
+{
+  "english": "dad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cha",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ba",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tía",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "one's father.",
+      "definitions_ex_en": "his dad was with him",
+      "definitions_ex_vn": "Bố anh ở cùng anh.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667019_6d4e278ebb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667019_c4c2561162_o.png",
+      "id_image": "dad_2970040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666989_628b759354_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666989_bed59e7737_o.png",
+      "id_image": "dad_6093518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356122_3948420d64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356122_4a5e1c7883_o.png",
+      "id_image": "dad_6093533"
+    }
+  ]
+}

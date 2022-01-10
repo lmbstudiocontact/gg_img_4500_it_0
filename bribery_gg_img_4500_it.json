@@ -1,0 +1,39 @@
+{
+  "english": "bribery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự lo lót",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the giving or offering of a bribe.",
+      "definitions_ex_en": "a bribery scandal",
+      "definitions_ex_vn": "một vụ bê bối hối lộ.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431558_d3e7bee940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431558_e4750a407e_o.png",
+      "id_image": "bribery_5434240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360932_46cc434432_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360932_e6492aae0f_o.png",
+      "id_image": "bribe_2495662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671374_86ca22aea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671374_a17c4dc79c_o.png",
+      "id_image": "bribe_3830650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671344_b5e95b20e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671344_6a9e729c3d_o.png",
+      "id_image": "bribe_5291764"
+    }
+  ]
+}

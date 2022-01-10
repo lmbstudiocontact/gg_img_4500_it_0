@@ -1,0 +1,36 @@
+{
+  "english": "brokerage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buôn bán chợ đen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm môi giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề mua bán đồ củ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề trung gian",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the business or service of acting as a broker.",
+      "definitions_ex_en": "a brokerage firm",
+      "definitions_ex_vn": "một công ty môi giới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669589_6c55cc2681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669589_66f8e5cdb1_o.png",
+      "id_image": "brokerage_5966176"
+    }
+  ]
+}

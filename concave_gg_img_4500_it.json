@@ -1,0 +1,41 @@
+{
+  "english": "concave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hủng xuống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có lòng chảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lõm xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt lõm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having an outline or surface that curves inward like the interior of a circle or sphere.",
+      "definitions_ex_en": "concave lenses",
+      "definitions_ex_vn": "Ống kính lõm.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050755_8a44fe63d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050755_598a00e743_o.png",
+      "id_image": "concave_5886804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050695_542d49500a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050695_7b9a76ee4f_o.png",
+      "id_image": "concave_5886818"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "condolence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ai điếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chia buồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia buồn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an expression of sympathy, especially on the occasion of a death.",
+      "definitions_ex_en": "we offer our sincere condolences to his widow",
+      "definitions_ex_vn": "Chúng tôi cung cấp lời chia buồn chân thành của chúng tôi với góa phụ của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313231_4ececbd8a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313231_141d485c4c_o.png",
+      "id_image": "condolences_1450735"
+    }
+  ]
+}

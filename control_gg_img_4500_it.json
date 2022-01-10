@@ -1,0 +1,134 @@
+{
+  "english": "control",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầm lái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầm lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chế ngự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chỉ huy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đè nén",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hạn chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiềm chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiểm soát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ huy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đè nén",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiểm soát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiểm tra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the power to influence or direct people's behavior or the course of events.",
+      "definitions_ex_en": "the whole operation is under the control of a production manager",
+      "definitions_ex_vn": "Toàn bộ hoạt động thuộc quyền kiểm soát của một người quản lý sản xuất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group or individual used as a standard of comparison for checking the results of a survey or experiment.",
+      "definitions_ex_en": "they saw no difference between the cancer patients and the controls",
+      "definitions_ex_vn": "họ không thấy sự khác biệt giữa bệnh nhân ung thư và các biện pháp kiểm soát",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of an intelligence organization who personally directs the activities of a spy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a high card that will prevent the opponents from establishing a particular suit.",
+      "definitions_ex_en": "he has controls in both minor suits",
+      "definitions_ex_vn": "Anh ta có kiểm soát trong cả hai bộ đồ nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "determine the behavior or supervise the running of.",
+      "definitions_ex_en": "he was appointed to control the company's marketing strategy",
+      "definitions_ex_vn": "Ông được bổ nhiệm để kiểm soát chiến lược tiếp thị của công ty",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take into account (an extraneous factor that might affect results) when performing an experiment.",
+      "definitions_ex_en": "no attempt was made to control for variations",
+      "definitions_ex_vn": "Không có nỗ lực nào được thực hiện để kiểm soát các biến thể",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043300_f5a5b0c0c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043300_8d13e37e92_o.png",
+      "id_image": "control_1753698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350392_9bd3964a3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350392_3763a75fa0_o.png",
+      "id_image": "control_2752821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043240_a5412183ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043240_617bc8becf_o.png",
+      "id_image": "control_2825524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350357_f721d3b871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350357_4ee8d807fb_o.png",
+      "id_image": "control_4801783"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421303_b78286d741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421303_1efe439396_o.png",
+      "id_image": "control_5664428"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "bull",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sao kim ngưu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bò đực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con đực của vài loài thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính cảnh sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đầu cơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an uncastrated male bovine animal.",
+      "definitions_ex_en": "bull calves",
+      "definitions_ex_vn": "bê bull.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who buys shares hoping to sell them at a higher price later.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a papal edict.",
+      "definitions_ex_en": "the Pope issued a bull of excommunication",
+      "definitions_ex_vn": "Giáo hoàng đã ban hành một con bò của một đường cắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stupid or untrue talk or writing; nonsense.",
+      "definitions_ex_en": "much of what he says is sheer bull",
+      "definitions_ex_vn": "phần lớn những gì anh ta nói là sheer bull",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a part of the body, especially the neck) resembling the corresponding part of a male bovine animal in build and strength.",
+      "definitions_ex_en": "his bull neck and broad shoulders",
+      "definitions_ex_vn": "cổ bò của anh ấy và vai rộng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "push or drive powerfully or violently.",
+      "definitions_ex_en": "he bulled the motorcycle clear of the tunnel",
+      "definitions_ex_vn": "anh ta bao trùm xe máy ra khỏi đường hầm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a cow) behave in a manner characteristic of being in heat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426448_dcfe1b08b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426448_c2d9f8ba64_o.png",
+      "id_image": "bull_1015749"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666514_dfaac69ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666514_168d6d188e_o.png",
+      "id_image": "bull_3570330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426403_21588ba1ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426403_40798ffc7d_o.png",
+      "id_image": "bull_3904157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311451_8704e5d7e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311451_08266aaae6_o.png",
+      "id_image": "bull_5150865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048260_ab602d74aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048260_4ba00c14bb_o.png",
+      "id_image": "bull_878968"
+    }
+  ]
+}

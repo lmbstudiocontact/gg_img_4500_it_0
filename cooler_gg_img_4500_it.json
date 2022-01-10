@@ -1,0 +1,65 @@
+{
+  "english": "cooler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ giải khát để lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy ướp lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà khám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng giử lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xà lim",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an insulated container for keeping food and drink cool.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prison or a prison cell.",
+      "definitions_ex_en": "the cooler was a dark, claustrophobic room",
+      "definitions_ex_vn": "Người làm mát là một căn phòng ngột ngạt, tối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041865_aa3cc61739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041865_43169b587f_o.png",
+      "id_image": "cooler_3034815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041850_8b63541b4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041850_3d577f1f3c_o.png",
+      "id_image": "cooler_4329002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349057_428ab257e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349057_a5f4dd35e9_o.png",
+      "id_image": "cooler_6301246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349092_d77f3bf014_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349092_7b61f62379_o.png",
+      "id_image": "cooler_786556"
+    }
+  ]
+}

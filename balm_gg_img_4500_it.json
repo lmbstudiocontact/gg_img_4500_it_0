@@ -1,0 +1,51 @@
+{
+  "english": "balm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhựa thơm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fragrant ointment or preparation used to heal or soothe the skin.",
+      "definitions_ex_en": "a skin balm for use after shaving",
+      "definitions_ex_vn": "một salm da để sử dụng sau khi cạo râu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tree which yields a fragrant resinous substance, especially one used in medicine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bushy herb of the mint family, with leaves smelling and tasting of lemon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362132_9b7c1b95f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362132_b3496de968_o.png",
+      "id_image": "balm_3629171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362082_90a5bf9afa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362082_fbb58e499e_o.png",
+      "id_image": "balm_5100486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054315_8cdef3130f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054315_7bd5648f6c_o.png",
+      "id_image": "balm_546152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317741_14bb47c008_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317741_eac9d51b03_o.png",
+      "id_image": "balm_546153"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "data",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dử kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục tiêu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "facts and statistics collected together for reference or analysis.",
+      "definitions_ex_en": "there is very little data available",
+      "definitions_ex_vn": "Có rất ít dữ liệu có sẵn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309771_fe501d28d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309771_d9492bb456_o.png",
+      "id_image": "data_1076320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046760_523e767914_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046760_2b65350330_o.png",
+      "id_image": "data_1262738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309876_95f3c60da0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309876_bf238f89fc_o.png",
+      "id_image": "data_860250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309816_4282d924e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309816_f6dc0e4dee_o.png",
+      "id_image": "data_984433"
+    }
+  ]
+}

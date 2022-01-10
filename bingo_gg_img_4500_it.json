@@ -1,0 +1,40 @@
+{
+  "english": "bingo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chơi lô tô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a game in which players mark off numbers on cards as the numbers are drawn randomly by a caller, the winner being the first person to mark off five numbers in a row or another required pattern.",
+      "definitions_ex_en": "a bingo hall",
+      "definitions_ex_vn": "một hội trường Bingo.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to express satisfaction or surprise at a sudden positive event or outcome.",
+      "definitions_ex_en": "bingo, she leapfrogged into a sales trainee position",
+      "definitions_ex_vn": "Bingo, cô nhảy vào một vị trí thực tập sinh bán hàng",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041780_06f921228c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041780_d97dd17a14_o.png",
+      "id_image": "bingo_536135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660209_3b35ccd64b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660209_66e56c443b_o.png",
+      "id_image": "bingo_536146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348947_a4ba380a24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348947_cdde78bfc0_o.png",
+      "id_image": "bingo_5798129"
+    }
+  ]
+}

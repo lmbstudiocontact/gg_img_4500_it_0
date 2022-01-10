@@ -1,0 +1,48 @@
+{
+  "english": "commentary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chú thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phê bình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an expression of opinions or offering of explanations explanations about an event or situation.",
+      "definitions_ex_en": "an editorial commentary",
+      "definitions_ex_vn": "một bình luận biên tập",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319391_2d11ae0ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319391_da8ec973c9_o.png",
+      "id_image": "comment_2482337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434503_369709c0c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434503_d4bef0ce05_o.png",
+      "id_image": "comment_2920042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319321_f32dc775dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319321_57e5b0fb04_o.png",
+      "id_image": "comment_5638465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434453_bdb2b9ac35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434453_0e7f6fbabc_o.png",
+      "id_image": "comment_5638563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674339_9df644214d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674339_a370415241_o.png",
+      "id_image": "comment_655236"
+    }
+  ]
+}

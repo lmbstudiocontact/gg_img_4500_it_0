@@ -1,0 +1,29 @@
+{
+  "english": "carbide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thán hóa vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a binary compound of carbon with an element of lower or comparable electronegativity.",
+      "definitions_ex_en": "tungsten carbide",
+      "definitions_ex_vn": "vonfram cacbua.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371647_1d0275e006_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371647_37dd81e688_o.png",
+      "id_image": "carbide_2245580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326901_cc445440ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326901_a1d6d45f8a_o.png",
+      "id_image": "carbide_4728362"
+    }
+  ]
+}

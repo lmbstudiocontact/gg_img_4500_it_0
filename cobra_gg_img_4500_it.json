@@ -1,0 +1,36 @@
+{
+  "english": "cobra",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rắn hổ mang ở ấn độ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a highly venomous snake native to Africa and Asia that spreads the skin of its neck into a hood when disturbed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a yoga pose assumed by lying on one's stomach and raising one's upper body so as to curve it backwards, using one's arms and hands for support.",
+      "definitions_ex_en": "drop the pelvis and arch the back into cobra",
+      "definitions_ex_vn": "thả xương chậu và vòm lưng vào rắn hổ mang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the UK) a government committee, typically chaired by the prime minister or a senior minister, that is specially convened as a result of a major emergency in order to coordinate the response of the various government departments and agencies responsible for handling the situation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326646_074160b3b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326646_a7a22a351d_o.png",
+      "id_image": "cobra_375149"
+    }
+  ]
+}

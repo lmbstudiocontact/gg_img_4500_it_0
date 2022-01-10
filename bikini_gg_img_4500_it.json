@@ -1,0 +1,34 @@
+{
+  "english": "bikini",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo tắm hai mảnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very brief two-piece swimsuit for women.",
+      "definitions_ex_en": "Karen put on a yellow sun dress over her bikini",
+      "definitions_ex_vn": "Karen mặc một chiếc váy mặt trời màu vàng trên bộ bikini của cô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349987_e845b536dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349987_38390ecde4_o.png",
+      "id_image": "bikini_941293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661154_ed18ab6d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661154_8259b2165e_o.png",
+      "id_image": "bikini_941295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042635_3efedc8389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042635_b8da89bb32_o.png",
+      "id_image": "bikini_991821"
+    }
+  ]
+}

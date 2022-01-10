@@ -1,0 +1,36 @@
+{
+  "english": "canary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim kim tước lông màu vàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mainly African finch with a melodious song, typically having yellowish-green plumage. One kind is popular as a pet bird and has been bred in a variety of colors, especially bright yellow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bright yellow color resembling the plumage of a canary.",
+      "definitions_ex_en": "villas painted in canary yellow",
+      "definitions_ex_vn": "Biệt thự được vẽ bằng màu vàng hoàng yến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sweet wine from the Canary Islands, similar to Madeira.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040905_51a6a1e2a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040905_21f1af142e_o.png",
+      "id_image": "canary_375152"
+    }
+  ]
+}

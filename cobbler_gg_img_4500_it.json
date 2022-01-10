@@ -1,0 +1,46 @@
+{
+  "english": "cobbler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh ga-tô nhân hoa quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ uống giải khát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người vá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ vá giầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ vụng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who mends shoes as a job.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an iced drink made with wine or sherry, sugar, and lemon.",
+      "definitions_ex_en": "sherry cobbler",
+      "definitions_ex_vn": "Sherry Cobbler.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681739_8a51d31178_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681739_e1dbff15d4_o.png",
+      "id_image": "cobbler_1065117"
+    }
+  ]
+}

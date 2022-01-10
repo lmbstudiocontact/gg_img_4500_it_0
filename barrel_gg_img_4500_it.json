@@ -1,0 +1,76 @@
+{
+  "english": "barrel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổ vào thùng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops around them.",
+      "definitions_ex_en": "the wine is then matured in old barrels",
+      "definitions_ex_vn": "Rượu sau đó được trưởng thành trong thùng cũ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tube forming part of an object such as a gun or a pen.",
+      "definitions_ex_en": "a gun barrel",
+      "definitions_ex_vn": "một khẩu súng súng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the belly and loins of a four-legged animal such as a horse.",
+      "definitions_ex_en": "a Welsh mountain pony with a barrel like a butt of wine",
+      "definitions_ex_vn": "một con ngựa núi Welsh với một cái thùng như một mông của rượu vang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put into a barrel or barrels.",
+      "definitions_ex_en": "when the young spirit is barreled, it absorbs some of this flavor",
+      "definitions_ex_vn": "Khi tinh thần trẻ bị nòng chòng, nó sẽ hấp thụ một số hương vị này",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669634_f2e50d4eb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669634_9c6e4cfb91_o.png",
+      "id_image": "barrel_123988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314941_d8577d72f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314941_95781f2462_o.png",
+      "id_image": "barrel_1580248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429838_9c69f7955c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429838_e82d48633c_o.png",
+      "id_image": "barrel_827185"
+    }
+  ]
+}

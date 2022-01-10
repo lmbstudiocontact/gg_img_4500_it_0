@@ -1,0 +1,65 @@
+{
+  "english": "conference",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đàm luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hội nghị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hợp báo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal meeting for discussion.",
+      "definitions_ex_en": "he gathered all the men around the table for a conference",
+      "definitions_ex_vn": "Ông tập hợp tất cả những người đàn ông xung quanh bàn cho một hội nghị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an association of sports teams that play each other.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the governing body of some Christian churches, especially the Methodist Church.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take part in a conference or conference call.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312671_896a36061e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312671_94c92346a0_o.png",
+      "id_image": "conference_2083031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356697_e5bb420412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356697_02911056a5_o.png",
+      "id_image": "conference_2234719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049310_3dc3151fa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049310_4fef36eb7c_o.png",
+      "id_image": "conference_271302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312701_6f5d3ab6d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312701_f08f9813a1_o.png",
+      "id_image": "conference_296910"
+    }
+  ]
+}

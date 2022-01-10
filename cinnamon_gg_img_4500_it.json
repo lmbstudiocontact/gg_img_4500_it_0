@@ -1,0 +1,34 @@
+{
+  "english": "cinnamon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màu hơi vàng nâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an aromatic spice made from the peeled, dried, and rolled bark of a Southeast Asian tree.",
+      "definitions_ex_en": "a teaspoon of ground cinnamon",
+      "definitions_ex_vn": "một muỗng cà phê quế mặt đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the tree which yields cinnamon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421773_f329875681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421773_d9b8d93d2c_o.png",
+      "id_image": "cinnamon_3944330"
+    }
+  ]
+}

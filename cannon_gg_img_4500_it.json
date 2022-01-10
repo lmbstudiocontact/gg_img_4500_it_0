@@ -1,0 +1,86 @@
+{
+  "english": "cannon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàm thiếc ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ chìa khóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tóc quăn nằm ngang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ đồng hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng đại bác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng thần công",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large, heavy piece of artillery, typically mounted on wheels, formerly used in warfare.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a carom.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy cylinder or hollow drum that is able to rotate independently on a shaft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a cannon shot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067650_de13a46fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067650_7f8811043e_o.png",
+      "id_image": "cannon_1514196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067625_0e41c173d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067625_799d430554_o.png",
+      "id_image": "cannon_1680823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330801_b2da3cfdf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330801_06089b67aa_o.png",
+      "id_image": "cannon_2608352"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375427_f68ab1ee2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375427_30606f262c_o.png",
+      "id_image": "cannon_4576039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330711_93e6462ee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330711_6b966a4366_o.png",
+      "id_image": "cannon_4718029"
+    }
+  ]
+}

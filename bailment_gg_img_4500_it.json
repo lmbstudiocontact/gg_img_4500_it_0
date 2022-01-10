@@ -1,0 +1,24 @@
+{
+  "english": "bailment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự tại ngoại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of delivering goods to a bailee for a particular purpose, without transfer of ownership.",
+      "definitions_ex_en": "a contract of hire is a species of bailment",
+      "definitions_ex_vn": "Một hợp đồng thuê là một loài bảo lãnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319846_c65f52dbe0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319846_3a421e9bf9_o.png",
+      "id_image": "bailment_4201172"
+    }
+  ]
+}

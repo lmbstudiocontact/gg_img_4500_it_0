@@ -1,0 +1,62 @@
+{
+  "english": "beater",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who hits someone or something, typically on a habitual basis.",
+      "definitions_ex_en": "he is not a drug addict, an alcoholic, or a woman beater",
+      "definitions_ex_vn": "Anh ta không phải là một người nghiện ma túy, một người nghiện rượu hoặc một người phụ nữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person employed to flush out or drive game animals for shooting by striking at the ground cover.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an implement or machine used for beating.",
+      "definitions_ex_en": "beat two eggs in large bowl with a hand beater until fluffy",
+      "definitions_ex_vn": "Đánh hai quả trứng trong bát lớn với một quả đập tay cho đến khi mịn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a means of defeating or preventing something.",
+      "definitions_ex_en": "a recession beater",
+      "definitions_ex_vn": "Một Beater suy thoái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666054_b50c0963a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666054_d19630b7d1_o.png",
+      "id_image": "beater_1866304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425908_e1a262dc7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425908_f9c5d32089_o.png",
+      "id_image": "beater_3244892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047715_63409a5e36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047715_0081dc80ae_o.png",
+      "id_image": "beater_3565168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310866_d16e6b0779_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310866_a9959b701f_o.png",
+      "id_image": "beater_4975045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047655_166ae2e67f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047655_10ab0dace6_o.png",
+      "id_image": "beater_6138109"
+    }
+  ]
+}

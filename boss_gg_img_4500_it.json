@@ -1,0 +1,94 @@
+{
+  "english": "boss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cai thợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cặp rằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lãnh tụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chỉ huy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người có thế lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ông chủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ huy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thất bại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trật",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is in charge of a worker, group, or organization.",
+      "definitions_ex_en": "I asked my boss for a promotion",
+      "definitions_ex_vn": "Tôi hỏi ông chủ của tôi để được khuyến mãi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stud on the center of a shield.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large mass of igneous rock protruding through other strata.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an enlarged part of a shaft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give (someone) orders in a domineering manner.",
+      "definitions_ex_en": "he does not like being bossed around",
+      "definitions_ex_vn": "Anh ta không thích bị ông chủ xung quanh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058610_fc6d1a87f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058610_ab817d8302_o.png",
+      "id_image": "boss_1256795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321806_590b5f7e48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321806_e540e03e8b_o.png",
+      "id_image": "boss_1589664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676809_caf32fa971_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676809_323c68e14a_o.png",
+      "id_image": "boss_3603770"
+    }
+  ]
+}

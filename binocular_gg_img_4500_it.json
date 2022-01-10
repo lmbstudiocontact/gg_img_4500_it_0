@@ -1,0 +1,34 @@
+{
+  "english": "binocular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về hai mắt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "adapted for or using both eyes.",
+      "definitions_ex_en": "a binocular microscope",
+      "definitions_ex_vn": "một kính hiển vi hai mắt",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041650_2a32cea9aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041650_d28088fd3f_o.png",
+      "id_image": "binocular_3061651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660154_9b56edc0f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660154_af053e3e63_o.png",
+      "id_image": "binocular_464916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041620_a4d12ec506_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041620_1c0a3bf386_o.png",
+      "id_image": "binocular_4690526"
+    }
+  ]
+}

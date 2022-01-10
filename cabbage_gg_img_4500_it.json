@@ -1,0 +1,65 @@
+{
+  "english": "cabbage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cải bắp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bắp cải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cải nồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật ăn cắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lấy bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dùng lén",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cultivated plant eaten as a vegetable, having thick green or purple leaves surrounding a spherical heart or head of young leaves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "paper money.",
+      "definitions_ex_en": "I'd have cabbage galore in the bank if I were more frugal",
+      "definitions_ex_vn": "Tôi sẽ có nhiều bắp cải trong ngân hàng nếu tôi tiết kiệm nhiều hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422348_d11cf16ba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422348_30a5c721d6_o.png",
+      "id_image": "cabbage_1054150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044180_1ff2abc85e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044180_df51341ee3_o.png",
+      "id_image": "cabbage_2503801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307171_2979491d0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307171_3e86a39566_o.png",
+      "id_image": "cabbage_3768391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351232_97932b7f74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351232_ab22c62682_o.png",
+      "id_image": "cabbage_3823343"
+    }
+  ]
+}

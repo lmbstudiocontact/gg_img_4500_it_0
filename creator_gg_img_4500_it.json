@@ -1,0 +1,52 @@
+{
+  "english": "creator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người sáng tác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sáng tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tạo hóa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that brings something into existence.",
+      "definitions_ex_en": "James Bond's creator Ian Fleming",
+      "definitions_ex_vn": "Người sáng tạo của James Bond Fleming Ian",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322046_74ae0085c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322046_25671d27fb_o.png",
+      "id_image": "creator_1655133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058785_1b1b127f13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058785_b78887385d_o.png",
+      "id_image": "creator_2418542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321986_b8160d0e84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321986_d31f318a89_o.png",
+      "id_image": "creator_4736278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058675_cbe0114da6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058675_de406700b1_o.png",
+      "id_image": "creator_6295335"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676989_05ed7a8503_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676989_15a652f299_o.png",
+      "id_image": "creator_6417498"
+    }
+  ]
+}

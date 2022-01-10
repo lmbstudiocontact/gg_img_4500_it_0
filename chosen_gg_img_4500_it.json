@@ -1,0 +1,30 @@
+{
+  "english": "chosen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "triều tiên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past participle of choose.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "having been selected as the best or most appropriate.",
+      "definitions_ex_en": "music is his chosen vocation",
+      "definitions_ex_vn": "âm nhạc là ơn gọi đã chọn của anh ấy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044490_4a2d7f3caa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044490_b4d241fb17_o.png",
+      "id_image": "chosen_1721947"
+    }
+  ]
+}

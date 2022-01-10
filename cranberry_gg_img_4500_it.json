@@ -1,0 +1,54 @@
+{
+  "english": "cranberry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nham lê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây nham lê",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small red acid berry used in cooking.",
+      "definitions_ex_en": "cranberry sauce",
+      "definitions_ex_vn": "nước sốt việt quất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the evergreen dwarf shrub of the heather family that bears cranberries.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323991_36fcda7749_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323991_9f7900d93a_o.png",
+      "id_image": "cranberry_2044976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679104_c291bcd06d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679104_27ed5a3e3d_o.png",
+      "id_image": "cranberry_2258359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060820_f0f308c5c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060820_42e4eda29e_o.png",
+      "id_image": "cranberry_2358153"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323856_076e6e7ae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323856_9bbc8c3f46_o.png",
+      "id_image": "cranberry_3730757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438883_8314e52836_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438883_66e120b043_o.png",
+      "id_image": "cranberry_6118267"
+    }
+  ]
+}

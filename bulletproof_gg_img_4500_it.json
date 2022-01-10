@@ -1,0 +1,33 @@
+{
+  "english": "bulletproof",
+  "list_translation_mean": [
+    {
+      "translate_mean": "báo cáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "báo cáo dự kiện",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "designed to resist the penetration of bullets.",
+      "definitions_ex_en": "a bulletproof vest",
+      "definitions_ex_vn": "một chiếc áo chống đạn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047970_3e1d71e438_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047970_0cf22e6731_o.png",
+      "id_image": "bulletproof_1693490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047935_5b81789034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047935_4d627c037a_o.png",
+      "id_image": "bulletproof_4004052"
+    }
+  ]
+}

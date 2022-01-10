@@ -1,0 +1,39 @@
+{
+  "english": "barbarian",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dã man",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô giáo dục",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in ancient times) a member of a community or tribe not belonging to one of the great civilizations (Greek, Roman, Christian).",
+      "definitions_ex_en": "the city was besieged by the barbarians",
+      "definitions_ex_vn": "Thành phố bị bao vây bởi những kẻ man rợ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to ancient barbarians.",
+      "definitions_ex_en": "barbarian invasions",
+      "definitions_ex_vn": "xâm lấn man rợ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360287_f0e8f2e679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360287_42a36be6e7_o.png",
+      "id_image": "barbarian_2822366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360242_a297c7908f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360242_88d904660f_o.png",
+      "id_image": "barbarian_3426206"
+    }
+  ]
+}

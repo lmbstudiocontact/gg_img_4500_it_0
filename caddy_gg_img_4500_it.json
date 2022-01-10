@@ -1,0 +1,45 @@
+{
+  "english": "caddy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giống bọ thạch tàm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hộp trà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who carries a golfer's clubs and provides other assistance during a match.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small storage container, typically one with divisions.",
+      "definitions_ex_en": "a tool caddy",
+      "definitions_ex_vn": "một công cụ caddy.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work as a caddie.",
+      "definitions_ex_en": "I caddied for him until the end of 1979",
+      "definitions_ex_vn": "Tôi đã cho anh ấy cho đến cuối năm 1979",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662169_c13ba57f9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662169_16e2108998_o.png",
+      "id_image": "caddy_1074501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043790_c5f5979bec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043790_b0eeeec694_o.png",
+      "id_image": "caddy_3822678"
+    }
+  ]
+}

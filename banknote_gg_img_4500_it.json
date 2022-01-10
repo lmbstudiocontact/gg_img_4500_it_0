@@ -1,0 +1,34 @@
+{
+  "english": "banknote",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấy bạc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of paper money, constituting a central bank's promissory note to pay a stated sum to the bearer on demand.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431708_54f5c52301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431708_ec9d58cc1a_o.png",
+      "id_image": "banknote_2747447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431668_fbc342ee96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431668_8d9b112525_o.png",
+      "id_image": "banknote_3814491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671369_9e93a69acc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671369_b570d9cd9c_o.png",
+      "id_image": "banknote_4633868"
+    }
+  ]
+}

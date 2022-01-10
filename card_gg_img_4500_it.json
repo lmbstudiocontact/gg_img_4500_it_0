@@ -1,0 +1,133 @@
+{
+  "english": "card",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn chải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy chải len",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy chải tơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảng yết thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quảng cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chương trình cuộc đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con lúc lắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghi vào thẻ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of thick, stiff paper or thin pasteboard, in particular one used for writing or printing on.",
+      "definitions_ex_en": "some notes jotted down on a card",
+      "definitions_ex_vn": "Một số ghi chú được chạm vào một thẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small rectangular piece of plastic issued by a bank, containing personal data in a machine-readable form and used chiefly to obtain cash or credit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a playing card.",
+      "definitions_ex_en": "a deck of cards",
+      "definitions_ex_vn": "một bộ bài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for expansion card.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a program of events at a racetrack.",
+      "definitions_ex_en": "a nine-race card",
+      "definitions_ex_vn": "một thẻ chín chủng tộc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person regarded as odd or amusing.",
+      "definitions_ex_en": "He laughed, “You're a card, you know.”",
+      "definitions_ex_vn": "Anh cười, \"Bạn là một thẻ, bạn biết đấy.\"",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a toothed implement or machine used to comb and clean raw fibers before spinning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "write (something) on a card, especially for indexing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "comb and clean (raw wool, hemp fibers, or similar material) with a sharp-toothed instrument in order to disentangle the fibers before spinning.",
+      "definitions_ex_en": "the wool from the sheep was carded and spun",
+      "definitions_ex_vn": "Len từ cừu được chải và quay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "Cardinal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326856_7e3504d6c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326856_8637ccb7eb_o.png",
+      "id_image": "card_484438"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441853_aea6a73748_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441853_d4181a2fb1_o.png",
+      "id_image": "card_490416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371492_53a66d9a5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371492_1c880a50e5_o.png",
+      "id_image": "card_650945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681824_25dcfaef29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681824_da02e64a59_o.png",
+      "id_image": "card_751784"
+    }
+  ]
+}

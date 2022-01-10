@@ -1,0 +1,63 @@
+{
+  "english": "checkout",
+  "list_translation_mean": [
+    {
+      "translate_mean": "coi lại khi rời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểm trước khi rời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ký tên khi ra về",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhìn ra ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "soạn lại trước khi đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trình xuất khi ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xét khi ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xét trước khi đi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a point at which goods are paid for in a supermarket or other store.",
+      "definitions_ex_en": "packaging that is scanned at the checkout counter",
+      "definitions_ex_vn": "bao bì được quét tại quầy thanh toán",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the administrative procedure followed when a guest leaves a hotel at the end of a stay.",
+      "definitions_ex_en": "checkout time",
+      "definitions_ex_vn": "kiểm tra giờ giấc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048875_b2e9786614_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048875_6f3a95a0a6_o.png",
+      "id_image": "checkout_4645433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356247_95d21ded80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356247_067e1a276a_o.png",
+      "id_image": "checkout_5520949"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "cooperate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cộng tác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hợp tác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "work jointly toward the same end.",
+      "definitions_ex_en": "the leaders promised to cooperate in ending the civil war",
+      "definitions_ex_vn": "Các nhà lãnh đạo hứa sẽ hợp tác trong việc chấm dứt Nội chiến",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041820_9bf4281765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041820_57f4304a0f_o.png",
+      "id_image": "cooperate_4285698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348987_ae1c03675b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348987_2ab4df042e_o.png",
+      "id_image": "cooperate_4834038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304826_d7f60ebf90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304826_ce66ac4b3a_o.png",
+      "id_image": "cooperate_6286762"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "corrosive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn lủng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ăn mòn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chất ăn mòn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "tending to cause corrosion.",
+      "definitions_ex_en": "the corrosive effects of salt water",
+      "definitions_ex_vn": "Tác dụng ăn mòn của nước muối",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a corrosive substance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445293_a1e37fd354_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445293_e384694f2a_o.png",
+      "id_image": "corrosive_1176228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445263_5f1444cb8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445263_6af66f7d7a_o.png",
+      "id_image": "corrosive_1284084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685339_aa5fb5e6c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685339_9b975134f0_o.png",
+      "id_image": "corrosive_1970666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685284_6c2b80a36f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685284_f23a5b22d6_o.png",
+      "id_image": "corrosive_1970774"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "cab",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tắc xi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ xe độc mã cho thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe ngựa thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe tắc xi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi xe tắc xi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a taxicab.",
+      "definitions_ex_en": "she hailed a cab",
+      "definitions_ex_vn": "Cô ca ngợi một chiếc taxi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the driver's compartment in a truck, bus, or train.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cabinet containing a speaker or speakers for a guitar amplifier.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel in a taxi.",
+      "definitions_ex_en": "Roger cabbed home",
+      "definitions_ex_vn": "Roger Cabbed Home.",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307316_6e163fa016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307316_d67e3f3d0e_o.png",
+      "id_image": "cab_168259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351372_4e96c7e5a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351372_45c488ff52_o.png",
+      "id_image": "cab_2358703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351342_c8c01266cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351342_3315fd1623_o.png",
+      "id_image": "cab_2358711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044205_1232459f78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044205_b6ed26017a_o.png",
+      "id_image": "cab_4391518"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "buccaneer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn cướp biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nghề ăn cướp biển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghề ăn cướp biển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pirate, originally off the Spanish American coasts.",
+      "definitions_ex_en": "the marauding buccaneers who used to terrorize the Mediterranean coasts",
+      "definitions_ex_vn": "Những kẻ phá hoại những người đã sử dụng để khủng bố bờ biển Địa Trung Hải",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050210_ca87649f53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050210_0147c13d3a_o.png",
+      "id_image": "buccaneer_6150287"
+    }
+  ]
+}

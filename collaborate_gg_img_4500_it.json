@@ -1,0 +1,48 @@
+{
+  "english": "collaborate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công tác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hợp tác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "work jointly on an activity, especially to produce or create something.",
+      "definitions_ex_en": "he collaborated with a distinguished painter on the designs",
+      "definitions_ex_vn": "Ông hợp tác với một họa sĩ nổi bật trên các thiết kế",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367727_e4415cbd11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367727_4f96482da1_o.png",
+      "id_image": "collaborate_2191420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322741_36b905a948_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322741_0d24a434ed_o.png",
+      "id_image": "collaborate_4133366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437918_df9ac3325b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437918_083e759479_o.png",
+      "id_image": "collaboration_2721208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059385_e236cab01e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059385_b5f1b1a339_o.png",
+      "id_image": "collaboration_2861698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367477_f6287858d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367477_145e374aa3_o.png",
+      "id_image": "collaboration_5541899"
+    }
+  ]
+}

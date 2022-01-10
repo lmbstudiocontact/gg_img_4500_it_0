@@ -1,0 +1,28 @@
+{
+  "english": "conservator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bảo quản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bảo vệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person responsible for the repair and preservation of works of art, buildings, or other things of cultural or environmental interest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310231_b969c38ce9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310231_0d04da414f_o.png",
+      "id_image": "conservator_1420275"
+    }
+  ]
+}

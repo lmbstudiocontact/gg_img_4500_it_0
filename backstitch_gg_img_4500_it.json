@@ -1,0 +1,30 @@
+{
+  "english": "backstitch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự may vá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sewing with overlapping stitches.",
+      "definitions_ex_en": "proceed as for backstitch, but take needle in halfway along previous stitch",
+      "definitions_ex_vn": "tiến hành như đối với backstitch, nhưng lấy kim ở một nửa dọc theo Stitch trước đó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sew using backstitches.",
+      "definitions_ex_en": "you can simply backstitch the edges",
+      "definitions_ex_vn": "Bạn chỉ cần backstitch các cạnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366717_963b642116_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366717_ec49cc378b_o.png",
+      "id_image": "backstitch_3459672"
+    }
+  ]
+}

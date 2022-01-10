@@ -1,0 +1,48 @@
+{
+  "english": "dairy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kỷ nghệ làm sữa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xưởng làm bơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng trử sữa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building, room, or establishment for the storage, processing, and distribution of milk and milk products.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "containing or made from milk.",
+      "definitions_ex_en": "local dairy foods",
+      "definitions_ex_vn": "Thực phẩm sữa địa phương",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426643_2a1be55c20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426643_e8ca28c02f_o.png",
+      "id_image": "dairy_1497096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048395_112af14907_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048395_4581a489b6_o.png",
+      "id_image": "dairy_3070925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426693_3c4677a603_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426693_32ed0ebe7a_o.png",
+      "id_image": "dairy_334126"
+    }
+  ]
+}

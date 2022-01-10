@@ -1,0 +1,51 @@
+{
+  "english": "berry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trứng cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hái trái",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small roundish juicy fruit without a stone.",
+      "definitions_ex_en": "juniper berries",
+      "definitions_ex_vn": "Juniper Berry.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of various kernels or seeds, such as the coffee bean.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fish egg or the roe of a lobster or similar creature.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "gather berries.",
+      "definitions_ex_en": "let's go berrying",
+      "definitions_ex_vn": "hãy đi merrying",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422383_cf1b6c26a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422383_8c7cb23424_o.png",
+      "id_image": "berry_1135741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351322_a746a72175_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351322_6aa544bbfe_o.png",
+      "id_image": "berry_6240324"
+    }
+  ]
+}

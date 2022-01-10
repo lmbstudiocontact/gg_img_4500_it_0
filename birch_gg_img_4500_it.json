@@ -1,0 +1,59 @@
+{
+  "english": "birch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây phong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gỗ cây phong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bằng roi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a slender, fast-growing tree that has thin bark (often peeling) and bears catkins. Birch trees grow chiefly in north temperate regions, some reaching the northern limit of tree growth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal punishment in which a person is flogged with a bundle of birch twigs.",
+      "definitions_ex_en": "there were calls to bring back the birch",
+      "definitions_ex_vn": "đã có những cuộc gọi để mang lại Birch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "beat (someone) with a bundle of birch twigs as a formal punishment.",
+      "definitions_ex_en": "the school would attempt to birch them into submission",
+      "definitions_ex_vn": "Nhà trường sẽ cố gắng Birch họ vào trình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418888_81908dc7bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418888_1768d8b2a6_o.png",
+      "id_image": "birch_4292792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418878_cf55ede19c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418878_8147828bae_o.png",
+      "id_image": "birch_4507446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418858_f8af7b7b96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418858_699bbbcd04_o.png",
+      "id_image": "birch_4986382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303821_e7bedc690f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303821_78e218de5a_o.png",
+      "id_image": "birch_5023614"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "brother",
+  "list_translation_mean": [
+    {
+      "translate_mean": "anh em",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "em trai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man or boy in relation to other sons and daughters of his parents.",
+      "definitions_ex_en": "he recognized her from her strong resemblance to her brother",
+      "definitions_ex_vn": "Anh nhận ra cô khỏi sự giống nhau mạnh mẽ với anh trai mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a (male) fellow Christian.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669244_2bd93750e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669244_0fa6ed78e0_o.png",
+      "id_image": "brother_1662970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358662_f23d887a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358662_01a7c4a3b6_o.png",
+      "id_image": "brother_2829765"
+    }
+  ]
+}

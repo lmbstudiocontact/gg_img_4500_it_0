@@ -1,0 +1,56 @@
+{
+  "english": "dancer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khiêu vũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khiêu vũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vũ công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vũ nữ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who dances or whose profession is dancing.",
+      "definitions_ex_en": "she thought he would become a ballet dancer",
+      "definitions_ex_vn": "Cô nghĩ anh sẽ trở thành một vũ công ba lê",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355247_6d47d2bee8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355247_96634aa0f0_o.png",
+      "id_image": "dancer_2545643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666089_19f41d24f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666089_dce625594d_o.png",
+      "id_image": "dancer_2804515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425983_7faa784118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425983_28096264e1_o.png",
+      "id_image": "dancer_2804521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425958_94fcd8fdda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425958_b0c45cb3f7_o.png",
+      "id_image": "dancer_4358365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425913_05b5c97700_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425913_ac8b6ac177_o.png",
+      "id_image": "dancer_6036752"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "calibrate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chế định khẩu kinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đường kính của súng ống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hàng thử biểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân độ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "mark (a gauge or instrument) with a standard scale of readings.",
+      "definitions_ex_en": "the depth gauge is calibrated in centimeters",
+      "definitions_ex_vn": "Máy đo độ sâu được hiệu chuẩn tính bằng centimet",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349997_3db1f87d89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349997_99296a5934_o.png",
+      "id_image": "calibrate_4395040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349952_c01be876df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349952_4def54988e_o.png",
+      "id_image": "calibrate_4395059"
+    }
+  ]
+}

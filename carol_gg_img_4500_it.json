@@ -1,0 +1,44 @@
+{
+  "english": "carol",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim sơn ca hót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng hót chim sơn ca",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hát",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a religious folk song or popular hymn, particularly one associated with Christmas.",
+      "definitions_ex_en": "we sang carols by candlelight",
+      "definitions_ex_vn": "chúng tôi hát carols bởi nến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sing or say (something) happily.",
+      "definitions_ex_en": "she was cheerfully caroling the words of the song",
+      "definitions_ex_vn": "Cô ấy vui vẻ chăm sóc những lời của bài hát",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sing Christmas carols.",
+      "definitions_ex_en": "we caroled from door to door",
+      "definitions_ex_vn": "Chúng tôi caroled từ cửa đến cửa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439838_b810f53146_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439838_9399c7f525_o.png",
+      "id_image": "carol_667718"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "bayonet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao găm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưỡi lê",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a blade that may be fixed to the muzzle of a rifle and used to stab an opponent in hand-to-hand fighting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting a fitting for a light bulb, camera lens, or other appliance that is engaged by being pushed into a socket and then twisted to lock it in place.",
+      "definitions_ex_en": "a bayonet fitting",
+      "definitions_ex_vn": "một lưỡi lê phù hợp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stab (someone) with a bayonet.",
+      "definitions_ex_en": "stragglers were bayoneted where they fell",
+      "definitions_ex_vn": "Stragglers đã bị cá lê nơi họ ngã",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356307_cf4eae2f4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356307_0719b4ed28_o.png",
+      "id_image": "bayonet_489966"
+    }
+  ]
+}

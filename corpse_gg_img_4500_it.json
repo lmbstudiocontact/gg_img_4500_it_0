@@ -1,0 +1,34 @@
+{
+  "english": "corpse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tử thi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dead body, especially of a human being rather than an animal.",
+      "definitions_ex_en": "the corpse of a man lay there",
+      "definitions_ex_vn": "xác chết của một người đàn ông nằm đó",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331201_feb3e09121_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331201_ecdda9cdec_o.png",
+      "id_image": "corpse_1022334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375782_aa9e997964_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375782_e21b5554b4_o.png",
+      "id_image": "corpse_2034505"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331116_facf42f7f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331116_eedd00b98d_o.png",
+      "id_image": "corpse_4742484"
+    }
+  ]
+}

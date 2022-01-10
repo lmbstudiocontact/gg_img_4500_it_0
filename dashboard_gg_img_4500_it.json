@@ -1,0 +1,60 @@
+{
+  "english": "dashboard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảng đồng hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ để phủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dụng cụ để che",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vè che bụi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vè che bùn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vè che nước văng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the panel facing the driver of a vehicle or the pilot of an aircraft, containing instruments and controls.",
+      "definitions_ex_en": "Scott looked at the clock on the dashboard",
+      "definitions_ex_vn": "Scott nhìn đồng hồ trên bảng điều khiển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a board of wood or leather in front of a carriage, to keep out mud.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425043_b26d738867_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425043_ff3fc0a91a_o.png",
+      "id_image": "dashboard_1506352"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309951_f6a606325d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309951_cb54530761_o.png",
+      "id_image": "dashboard_3410326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665299_1120358e19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665299_22b7a7c463_o.png",
+      "id_image": "dashboard_975995"
+    }
+  ]
+}

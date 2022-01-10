@@ -1,0 +1,35 @@
+{
+  "english": "cocoon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kén",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a silky case spun by the larvae of many insects for protection in the pupal stage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "envelop or surround in a protective or comforting way.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325581_2142f4e0c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325581_45b117d127_o.png",
+      "id_image": "cocoon_5118249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062330_b1b5e697dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062330_5c3fa956cf_o.png",
+      "id_image": "cocoon_5517057"
+    }
+  ]
+}

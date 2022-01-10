@@ -1,0 +1,36 @@
+{
+  "english": "convergence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồng qui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tập trung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tập họp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính hội tụ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process or state of converging.",
+      "definitions_ex_en": "the convergence of lines in the distance",
+      "definitions_ex_vn": "sự hội tụ của các dòng trong khoảng cách",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305841_b83eb37b90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305841_0f87c70da6_o.png",
+      "id_image": "convergence_4660700"
+    }
+  ]
+}

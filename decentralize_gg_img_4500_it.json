@@ -1,0 +1,39 @@
+{
+  "english": "decentralize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địa phương phân quyền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "transfer (control of an activity or organization) to several local offices or authorities rather than one single one.",
+      "definitions_ex_en": "we need to decentralize energy production",
+      "definitions_ex_vn": "Chúng ta cần phân cấp sản xuất năng lượng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422758_3ebe875c78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422758_96c0e91ffa_o.png",
+      "id_image": "decentralized_1349727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044550_e8d5d19897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044550_8f5435cb5b_o.png",
+      "id_image": "decentralized_2191466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307556_1a69c67c24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307556_0bb4b551fe_o.png",
+      "id_image": "decentralized_5901797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044495_2a84fa3c7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044495_fb7257ac83_o.png",
+      "id_image": "decentralized_5901809"
+    }
+  ]
+}

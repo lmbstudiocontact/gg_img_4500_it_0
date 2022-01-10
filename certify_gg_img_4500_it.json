@@ -1,0 +1,59 @@
+{
+  "english": "certify",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cấp chứng thư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứng minh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứng nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận chắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát bằng cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát văn bằng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "attest or confirm in a formal statement.",
+      "definitions_ex_en": "the profits for the year had been certified by the auditors",
+      "definitions_ex_vn": "Lợi nhuận trong năm đã được kiểm toán chứng nhận",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430788_7df81a2f0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430788_4d87c5193c_o.png",
+      "id_image": "certificate_1447554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360162_1a220e9881_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360162_86fbecd6aa_o.png",
+      "id_image": "certificate_390836"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052345_864059243c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052345_419985e041_o.png",
+      "id_image": "certified_1041210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670529_dc09feb20e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670529_49287459fc_o.png",
+      "id_image": "certified_4661939"
+    }
+  ]
+}

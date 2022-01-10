@@ -1,0 +1,30 @@
+{
+  "english": "cervical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về cổ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the cervix.",
+      "definitions_ex_en": "cervical cancer",
+      "definitions_ex_vn": "ung thư cổ tử cung",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the neck.",
+      "definitions_ex_en": "the fifth cervical vertebra",
+      "definitions_ex_vn": "đốt sống cổ thứ năm",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430728_88d9350547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430728_126ca39629_o.png",
+      "id_image": "cervical_3217864"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "barricade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vật chướng ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chận ngang",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an improvised barrier erected across a street or other thoroughfare to prevent or delay the movement of opposing forces.",
+      "definitions_ex_en": "they built barricades in the narrow streets",
+      "definitions_ex_vn": "Họ đã xây dựng những rào chắn trên những con đường hẹp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "block or defend with an improvised barrier.",
+      "definitions_ex_en": "he barricaded the door with a bureau",
+      "definitions_ex_vn": "Anh rào chắn cánh cửa với một cục",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314901_45ccaf0dc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314901_e3f757c60b_o.png",
+      "id_image": "barricade_2399379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669544_32f159f1ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669544_4e57c53cce_o.png",
+      "id_image": "barricade_2709313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051385_0978bf1351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051385_48f41131e9_o.png",
+      "id_image": "barricade_3530644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669484_761d5a5082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669484_ff5154d509_o.png",
+      "id_image": "barricade_3842755"
+    }
+  ]
+}

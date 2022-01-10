@@ -1,0 +1,42 @@
+{
+  "english": "brunch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buổi ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bữa ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bữa ăn giữa sáng và trưa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a late morning meal eaten instead of breakfast and lunch.",
+      "definitions_ex_en": "he cobbled together a brunch of cold remains from the fridge",
+      "definitions_ex_vn": "Anh cùm lại với nhau một bữa nửa buổi lạnh lặng từ tủ lạnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668774_99b236f903_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668774_39e1246e31_o.png",
+      "id_image": "brunch_2934045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050610_642dcceeb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050610_d1c2bfebee_o.png",
+      "id_image": "brunch_4825577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668709_4a11329a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668709_270df2a1d0_o.png",
+      "id_image": "brunch_5100687"
+    }
+  ]
+}

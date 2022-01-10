@@ -1,0 +1,75 @@
+{
+  "english": "closet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuê phòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buồng nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buồng riêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tủ đóng trong tường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tủ quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư thất đàn bà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tủ đựng đồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to refer to a state of secrecy or concealment, especially about one's homosexuality.",
+      "definitions_ex_en": "his brother's decision to come out of the closet",
+      "definitions_ex_vn": "Quyết định của anh trai anh ấy ra khỏi tủ quần áo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "secret; covert.",
+      "definitions_ex_en": "a closet alcoholic",
+      "definitions_ex_vn": "một tủ đựng rượu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "shut (someone) away, especially in private conference or study.",
+      "definitions_ex_en": "he was closeted with the king",
+      "definitions_ex_vn": "anh ấy đã đóng cửa với nhà vua",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685004_ff1bc8aa65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685004_99c7e6dc85_o.png",
+      "id_image": "closet_1347845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330106_56c12802ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330106_88dfec222b_o.png",
+      "id_image": "closet_537996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066845_cedd6d360c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066845_121df10909_o.png",
+      "id_image": "closet_537998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066745_0c5405ac81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066745_1690cd31ef_o.png",
+      "id_image": "closet_5781903"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "chocolate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sôcôla",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu sôcôla",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a food preparation in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened.",
+      "definitions_ex_en": "a bar of chocolate",
+      "definitions_ex_vn": "một thanh sô cô la",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352807_7e1efed3b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352807_86c4deef18_o.png",
+      "id_image": "chocolate_119518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423738_d4963b35e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423738_16800a0bd7_o.png",
+      "id_image": "chocolate_1451191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352782_5cc3977b6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352782_eed1b1cd68_o.png",
+      "id_image": "chocolate_332961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308631_3742982c3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308631_3e0be3e07f_o.png",
+      "id_image": "chocolate_619472"
+    }
+  ]
+}

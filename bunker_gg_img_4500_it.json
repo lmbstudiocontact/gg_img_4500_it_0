@@ -1,0 +1,86 @@
+{
+  "english": "bunker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bờ giốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đem vào kho",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large container or compartment for storing fuel.",
+      "definitions_ex_en": "a coal bunker",
+      "definitions_ex_vn": "một boongke than.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a reinforced underground shelter, typically for use in wartime.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hollow filled with sand, used as an obstacle on a golf course.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fuel (a ship).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a player) have one's ball lodged in a bunker.",
+      "definitions_ex_en": "he was bunkered at the fifth hole",
+      "definitions_ex_vn": "Anh ấy đã được khoanh tròn ở lỗ thứ năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take refuge in a bunker or other shelter.",
+      "definitions_ex_en": "his family had bunkered down inside their home",
+      "definitions_ex_vn": "gia đình anh đã khoanh tay xuống trong nhà của họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665504_5b6c7571aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665504_91c0ea7ed7_o.png",
+      "id_image": "bunker_1999854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425308_13f193a00a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425308_5178350514_o.png",
+      "id_image": "bunker_2737698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665464_f057be5512_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665464_e4da787ecc_o.png",
+      "id_image": "bunker_2737932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047030_06f8c2bfd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047030_4fa2c69c3f_o.png",
+      "id_image": "bunker_3856844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354467_dfa5cecca1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354467_88f6ebf267_o.png",
+      "id_image": "bunker_942437"
+    }
+  ]
+}

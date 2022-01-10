@@ -1,0 +1,39 @@
+{
+  "english": "calibration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "độ chia của hàng thử biểu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of calibrating an instrument or experimental readings.",
+      "definitions_ex_en": "the measuring devices require calibration",
+      "definitions_ex_vn": "Các thiết bị đo yêu cầu hiệu chuẩn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042640_de4826f600_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042640_8383fdceb9_o.png",
+      "id_image": "calibration_1085173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661114_7cc9bab4d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661114_a555c19e53_o.png",
+      "id_image": "calibration_2313640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349862_f590ca0761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349862_8aee8405e5_o.png",
+      "id_image": "calibration_4236693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349832_cd7a1a4083_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349832_2bd88f9ded_o.png",
+      "id_image": "calibration_4595030"
+    }
+  ]
+}

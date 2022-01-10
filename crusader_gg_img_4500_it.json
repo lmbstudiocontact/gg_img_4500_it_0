@@ -1,0 +1,35 @@
+{
+  "english": "crusader",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quân thập tự",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fighter in the medieval Crusades.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who campaigns vigorously for political, social, or religious change; a campaigner.",
+      "definitions_ex_en": "crusaders for early detection and treatment of mental illness",
+      "definitions_ex_vn": "Thập tự chinh để phát hiện sớm và điều trị bệnh tâm thần",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054085_d9c61bde28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054085_67a9b9fbb5_o.png",
+      "id_image": "crusader_1834978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054060_8ce495fb75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054060_281fb58222_o.png",
+      "id_image": "crusader_2858912"
+    }
+  ]
+}

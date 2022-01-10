@@ -1,0 +1,132 @@
+{
+  "english": "compass",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm mưu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đạt được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi vòng quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiểu rỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm xong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây khung tò vò",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hoàn thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "com pa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "âm giai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biên giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diện tích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa bàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xây vòng khung",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instrument containing a magnetized pointer which shows the direction of magnetic north and bearings from it.",
+      "definitions_ex_en": "walkers should be equipped with a map and compass",
+      "definitions_ex_vn": "Walkers nên được trang bị bản đồ và la bàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instrument for drawing circles and arcs and measuring distances between points, consisting of two arms linked by a movable joint, one arm ending in a point and the other usually carrying a pencil or pen.",
+      "definitions_ex_en": "a regular heptagon cannot be constructed accurately with only ruler and compass",
+      "definitions_ex_vn": "một heptagon thông thường không thể được xây dựng chính xác chỉ với thước kẻ và la bàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the range or scope of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "go around (something) in a circular course.",
+      "definitions_ex_en": "the ship wherein Magellan compassed the world",
+      "definitions_ex_vn": "Con tàu trong đó Magellan La bàn thế giới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "contrive to accomplish (something).",
+      "definitions_ex_en": "he compassed his end only by the exercise of violence",
+      "definitions_ex_vn": "anh ấy đã trao đổi kết thúc của mình chỉ bằng cách thực hiện bạo lực",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317206_5a2bcaac4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317206_cf56f626ab_o.png",
+      "id_image": "compass_124821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432263_e5fe842944_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432263_cae20d894a_o.png",
+      "id_image": "compass_125150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432243_452bca901e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432243_7772037042_o.png",
+      "id_image": "compass_180992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317126_3a30bdaa32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317126_abbb11481f_o.png",
+      "id_image": "compass_287771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432153_edf5f17ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432153_0d5a7fac3e_o.png",
+      "id_image": "compass_290347"
+    }
+  ]
+}

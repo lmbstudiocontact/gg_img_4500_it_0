@@ -1,0 +1,41 @@
+{
+  "english": "bootleg",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buôn lậu rượu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of liquor, computer software, or recordings) made, distributed, or sold illegally.",
+      "definitions_ex_en": "bootleg cassettes",
+      "definitions_ex_vn": "cassette bootleg.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make, distribute, or sell (illicit goods, especially liquor, computer software, or recordings) illegally.",
+      "definitions_ex_en": "he amassed a fortune bootlegging whiskey",
+      "definitions_ex_vn": "anh ta đang tích lũy một whisky bootlegging fortune",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an illegal musical recording, especially one made at a concert.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677694_18016e14a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677694_ab09c399dd_o.png",
+      "id_image": "bootleg_1809752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059300_f6c0417523_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059300_b22f07f87c_o.png",
+      "id_image": "bootleg_4382604"
+    }
+  ]
+}

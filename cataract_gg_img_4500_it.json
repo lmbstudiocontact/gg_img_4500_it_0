@@ -1,0 +1,42 @@
+{
+  "english": "cataract",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh mắt đục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mắt có mây hay mộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mắt có vảy cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thác nước lớn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a medical condition in which the lens of the eye becomes progressively opaque, resulting in blurred vision.",
+      "definitions_ex_en": "she had cataracts in both eyes",
+      "definitions_ex_vn": "Cô bị đục thủy tinh thể ở cả hai mắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large waterfall.",
+      "definitions_ex_en": "the river descends in a succession of spectacular cataracts",
+      "definitions_ex_vn": "Dòng sông chảy xuống một loạt các đục thủy tinh thể ngoạn mục",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675069_645f3c66ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675069_ce05ba8312_o.png",
+      "id_image": "cataract_2297261"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "composer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người soạn nhạc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who writes music, especially as a professional occupation.",
+      "definitions_ex_en": "Mozart was her favorite composer",
+      "definitions_ex_vn": "Mozart là nhà soạn nhạc yêu thích của cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359582_149f1d45ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359582_e931b6369d_o.png",
+      "id_image": "composer_1194520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051860_53b19ea0a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051860_d6e88c1452_o.png",
+      "id_image": "composer_4752523"
+    }
+  ]
+}

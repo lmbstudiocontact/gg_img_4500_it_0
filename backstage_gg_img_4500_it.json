@@ -1,0 +1,55 @@
+{
+  "english": "backstage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phía sau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sau sân khấu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in or to the backstage area in a theater.",
+      "definitions_ex_en": "I went backstage after the show",
+      "definitions_ex_vn": "Tôi đã đi về hậu trường sau chương trình",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "relating to or situated in the area behind the stage in a theater.",
+      "definitions_ex_en": "a backstage tour of the opera house",
+      "definitions_ex_vn": "Một tour du lịch hậu trường của nhà hát opera",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the area in a theater out of view of the audience, especially in the wings or dressing rooms.",
+      "definitions_ex_en": "backstage was the scene of pleasant pandemonium",
+      "definitions_ex_vn": "Backstage là cảnh của Pandemonium dễ chịu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437108_b41fb69cf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437108_1e39db01aa_o.png",
+      "id_image": "backstage_1032575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366852_0e60789ff5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366852_a74e0c54e4_o.png",
+      "id_image": "backstage_1887849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676929_674a302022_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676929_a98e825c71_o.png",
+      "id_image": "backstage_2123934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366762_fa9910cc9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366762_224fbd302a_o.png",
+      "id_image": "backstage_6079864"
+    }
+  ]
+}

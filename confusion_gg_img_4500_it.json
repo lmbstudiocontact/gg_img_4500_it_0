@@ -1,0 +1,53 @@
+{
+  "english": "confusion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sạt nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bại trận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thất bại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lack of understanding; uncertainty.",
+      "definitions_ex_en": "there seems to be some confusion about which system does what",
+      "definitions_ex_vn": "Dường như có một số nhầm lẫn về hệ thống nào làm những gì",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state of being bewildered or unclear in one's mind about something.",
+      "definitions_ex_en": "she looked about her in confusion",
+      "definitions_ex_vn": "Cô ấy nhìn về cô ấy trong sự nhầm lẫn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426613_916043b9b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426613_3d29e114ee_o.png",
+      "id_image": "confusion_3781993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311806_615dbda88a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311806_4a7e38f17f_o.png",
+      "id_image": "confusion_4410181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311836_4609358bef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311836_bda98b8387_o.png",
+      "id_image": "confusion_552403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426598_02e71861c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426598_cdbe39cf98_o.png",
+      "id_image": "confusion_6350302"
+    }
+  ]
+}

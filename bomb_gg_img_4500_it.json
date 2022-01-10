@@ -1,0 +1,83 @@
+{
+  "english": "bomb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bom",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái phá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ném bom",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a container filled with explosive, incendiary material, smoke, gas, or other destructive substance, designed to explode on impact or when detonated by a time mechanism, remote-control device, or lit fuse.",
+      "definitions_ex_en": "a bomb attack",
+      "definitions_ex_vn": "một vụ đánh bom",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lump of lava thrown out by a volcano.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a movie, play, or other event that fails badly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long forward pass or hit in a ball game.",
+      "definitions_ex_en": "a big 40-yard bomb down the middle to tight end Howard Cross",
+      "definitions_ex_vn": "một quả bom lớn 40 yard xuống giữa để chặt kết thúc Howard Cross",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a marijuana cigarette.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attack (a place or vehicle) with a bomb or bombs.",
+      "definitions_ex_en": "London was bombed, night after night",
+      "definitions_ex_vn": "London bị đánh bom, đêm qua đêm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a movie, play, or other event) fail miserably.",
+      "definitions_ex_en": "a big-budget movie that bombed at the box office",
+      "definitions_ex_vn": "Một bộ phim ngân sách lớn bị ném bom tại phòng vé",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325116_5f22ef2ea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325116_c78921cf59_o.png",
+      "id_image": "bomb_1022285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680344_406195ceee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680344_9dd70f6e08_o.png",
+      "id_image": "bomb_224671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325186_74720104a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325186_9fa907625a_o.png",
+      "id_image": "bomb_475464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440133_c4befa29ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440133_d6f9a29cb5_o.png",
+      "id_image": "bomb_942405"
+    }
+  ]
+}

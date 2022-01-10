@@ -1,0 +1,48 @@
+{
+  "english": "blanch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho bạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho trắng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm xanh nhợt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xanh mặt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make white or pale by extracting color.",
+      "definitions_ex_en": "the cold light blanched her face",
+      "definitions_ex_vn": "Ánh sáng lạnh che mặt cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "flinch or grow pale from shock, fear, or a similar emotion.",
+      "definitions_ex_en": "many people blanch at the suggestion",
+      "definitions_ex_vn": "Nhiều người Blanch tại đề nghị",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "briefly immerse (an item of food) in boiling water, especially as a technique for removing the skin from nuts or fruit or for preparing vegetables for further cooking.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658079_8c25cb100c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658079_8dbb1ef217_o.png",
+      "id_image": "blanch_3690091"
+    }
+  ]
+}

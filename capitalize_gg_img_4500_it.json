@@ -1,0 +1,51 @@
+{
+  "english": "capitalize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đổi thành vốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết hay in bằng chữ hoa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take the chance to gain advantage from.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide (a company) with capital.",
+      "definitions_ex_en": "a highly capitalized industry",
+      "definitions_ex_vn": "một ngành công nghiệp viết hoa cao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "realize (the present value of an income); convert into capital.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "write or print (a word or letter) in capital letters.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683544_b96b002509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683544_e74defe804_o.png",
+      "id_image": "capitalize_2169789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328416_683985d9a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328416_2228886c25_o.png",
+      "id_image": "capitalize_2538082"
+    }
+  ]
+}

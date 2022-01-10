@@ -1,0 +1,65 @@
+{
+  "english": "bib",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái xây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái yếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "uống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn mặc đẹp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cá biển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khăn quàng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of cloth or plastic fastened around a person's neck to keep their clothes clean while eating.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "drink (something alcoholic).",
+      "definitions_ex_en": "after a considerable amount of wine-bibbing, I settled down",
+      "definitions_ex_vn": "Sau một lượng đáng kể rượu vang-bibbing, tôi đã ổn định",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306556_40855a2362_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306556_a55057426d_o.png",
+      "id_image": "bib_1403832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350672_c7da91b6bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350672_2de02d2fea_o.png",
+      "id_image": "bib_1677668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421728_e42a0377c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421728_5e84e9259a_o.png",
+      "id_image": "bib_4861721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350652_5dd6200214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350652_8438fc8aac_o.png",
+      "id_image": "bib_4861798"
+    }
+  ]
+}

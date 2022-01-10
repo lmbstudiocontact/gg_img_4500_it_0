@@ -1,0 +1,45 @@
+{
+  "english": "botanical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thực vật học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to plants.",
+      "definitions_ex_en": "botanical specimens",
+      "definitions_ex_vn": "Mẫu vật thực vật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a substance obtained from a plant and used as an additive, especially in gin or cosmetics.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436848_a37642e060_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436848_5e6117bcf9_o.png",
+      "id_image": "botanical_1068933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366507_292297f966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366507_263999727e_o.png",
+      "id_image": "botanical_1749787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676679_be4a7e3787_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676679_1c9858246c_o.png",
+      "id_image": "botanical_1749812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058270_d47dcfc397_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058270_67e26a1bf2_o.png",
+      "id_image": "botanical_4728096"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "blueprint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản đồ thiết kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy thiết kế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a design plan or other technical drawing.",
+      "definitions_ex_en": "they are redrawing office blueprints to include large shared spaces",
+      "definitions_ex_vn": "Họ đang vẽ lại các bản thiết kế văn phòng để bao gồm các không gian chung",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443053_b013cbfc98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443053_888463988c_o.png",
+      "id_image": "blueprint_585466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683014_cdc49af2ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683014_535caef313_o.png",
+      "id_image": "blueprint_735188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442928_cf6bd280ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442928_75a911b034_o.png",
+      "id_image": "blueprint_786815"
+    }
+  ]
+}

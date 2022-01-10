@@ -1,0 +1,30 @@
+{
+  "english": "cumin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây thì là",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the aromatic seeds of a plant of the parsley family, used as a spice, especially ground and used in curry powder.",
+      "definitions_ex_en": "add a pinch of cumin",
+      "definitions_ex_vn": "Thêm một nhúm Cumin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the small, slender plant that bears cumin and grows from the Mediterranean to central Asia.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670469_bdc504ae6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670469_a8e8466725_o.png",
+      "id_image": "cumin_2732092"
+    }
+  ]
+}

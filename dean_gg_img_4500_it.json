@@ -1,0 +1,44 @@
+{
+  "english": "dean",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoa trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tăng viện trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tu viện trưởng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the head of a college or university faculty or department.",
+      "definitions_ex_en": "the dean of the law school",
+      "definitions_ex_vn": "Trưởng khoa của Trường Luật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the head of the chapter of a cathedral or collegiate church.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of dene1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663489_51d47c4c51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663489_e037066349_o.png",
+      "id_image": "dean_5352126"
+    }
+  ]
+}

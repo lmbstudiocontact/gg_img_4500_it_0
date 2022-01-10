@@ -1,0 +1,44 @@
+{
+  "english": "billboard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tấm bảng dán yết thị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large outdoor board for displaying advertisements.",
+      "definitions_ex_en": "the display of suggestive advertisements on billboards",
+      "definitions_ex_vn": "Hiển thị các quảng cáo gợi ý trên bảng quảng cáo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305466_db5b933818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305466_f7ac71ae00_o.png",
+      "id_image": "billboard_1312300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042390_37f734cd83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042390_db8cdd15e1_o.png",
+      "id_image": "billboard_1879754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042520_70c3a366b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042520_cdaab4b973_o.png",
+      "id_image": "billboard_741881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420618_b329ee115b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420618_ab5cbb57fb_o.png",
+      "id_image": "billboard_858285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420573_30ce1bb403_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420573_8d0f648d8c_o.png",
+      "id_image": "billboard_860487"
+    }
+  ]
+}

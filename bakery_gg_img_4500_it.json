@@ -1,0 +1,43 @@
+{
+  "english": "bakery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cửa hàng bánh mì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lò bánh mì",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place where bread and cakes are made or sold.",
+      "definitions_ex_en": "delicious aromas wafting from the bakery",
+      "definitions_ex_vn": "aromas thơm ngon từ tiệm bánh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434443_abfa924b64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434443_05023eac68_o.png",
+      "id_image": "bakery_2575858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674159_cb31c02943_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674159_34c5e880bd_o.png",
+      "id_image": "bakery_4127477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055915_4ab0f22c1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055915_1a5a4c38f8_o.png",
+      "id_image": "bakery_452699"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674134_25c747a8ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674134_579defd243_o.png",
+      "id_image": "bakery_4577552"
+    }
+  ]
+}

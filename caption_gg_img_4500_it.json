@@ -1,0 +1,55 @@
+{
+  "english": "caption",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu lưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chú thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phụ đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt bớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giam cầm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a title or brief explanation appended to an article, illustration, cartoon, or poster.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide (an illustration) with a title or explanation.",
+      "definitions_ex_en": "the photograph was captioned “Three little maids.”",
+      "definitions_ex_vn": "Bức ảnh được chú thích \"Ba người giúp việc nhỏ\".",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682739_dbd60b4385_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682739_2dc1c26369_o.png",
+      "id_image": "caption_5853758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442613_08b3a3d899_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442613_b42406211f_o.png",
+      "id_image": "caption_6433494"
+    }
+  ]
+}

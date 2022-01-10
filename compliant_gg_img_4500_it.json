@@ -1,0 +1,54 @@
+{
+  "english": "compliant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay nhường nhịn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mềm mỏng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "inclined to agree with others or obey rules, especially to an excessive degree; acquiescent.",
+      "definitions_ex_en": "a compliant labor force",
+      "definitions_ex_vn": "một lực lượng lao động tuân thủ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having the property of compliance.",
+      "definitions_ex_en": "the conversion of the gel to a much less compliant, rigid glass",
+      "definitions_ex_vn": "việc chuyển đổi gel thành một loại kính cứng hơn nhiều, cứng hơn nhiều",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359992_78162866db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359992_83181913fa_o.png",
+      "id_image": "compliant_4252299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430678_e4c0d997e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430678_e298df91b2_o.png",
+      "id_image": "compliant_4252310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430658_3c851b7807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430658_d05a166079_o.png",
+      "id_image": "compliant_4252318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052215_3e150e1242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052215_26fb765b4e_o.png",
+      "id_image": "compliant_4252330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670364_3d6975e996_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670364_f7efe45a7e_o.png",
+      "id_image": "compliant_4252365"
+    }
+  ]
+}

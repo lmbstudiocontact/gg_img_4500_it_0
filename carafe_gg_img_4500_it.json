@@ -1,0 +1,28 @@
+{
+  "english": "carafe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình bằng pha lê",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an open-topped glass flask typically used for serving wine or water.",
+      "definitions_ex_en": "wine is available by glass, bottle, or carafe",
+      "definitions_ex_vn": "Rượu có sẵn bằng kính, chai hoặc bình thủy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682494_fbaca96c79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682494_fb969d0d04_o.png",
+      "id_image": "carafe_4714387"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "cruiser",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuần dương hạm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a relatively fast warship larger than a destroyer and less heavily armed than a battleship.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a yacht or motorboat with passenger accommodations, designed for leisure use.",
+      "definitions_ex_en": "a pleasure cruiser",
+      "definitions_ex_vn": "một niềm vui tàu tuần dương",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362262_69714d86ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362262_5660526663_o.png",
+      "id_image": "cruiser_3804989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054360_000cb8b384_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054360_e58e6eb3f6_o.png",
+      "id_image": "cruiser_4736197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054310_9c4d23f1f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054310_a8eab89921_o.png",
+      "id_image": "cruiser_4736243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054265_399e57be61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054265_794410693a_o.png",
+      "id_image": "cruiser_4985119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432898_7a4bd2fa20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432898_01d25d9aa9_o.png",
+      "id_image": "cruiser_5797477"
+    }
+  ]
+}

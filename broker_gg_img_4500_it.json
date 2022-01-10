@@ -1,0 +1,53 @@
+{
+  "english": "broker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm trung gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dắt mối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người môi giới",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who buys and sells goods or assets for others.",
+      "definitions_ex_en": "the centralized lenders operate through brokers",
+      "definitions_ex_vn": "người cho vay tập trung hoạt động thông qua các nhà môi giới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "arrange or negotiate (a settlement, deal, or plan).",
+      "definitions_ex_en": "fighting continued despite attempts to broker a ceasefire",
+      "definitions_ex_vn": "Chiến đấu tiếp tục mặc dù cố gắng để môi giới một ngừng bắn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359167_1cfa293d5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359167_37027ed06c_o.png",
+      "id_image": "broker_1809651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359117_3383a75c93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359117_7603ff7835_o.png",
+      "id_image": "broker_1909922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359102_f94583b489_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359102_a46d1d5dd5_o.png",
+      "id_image": "broker_3953519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314986_40d9c9219e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314986_b9b894a23d_o.png",
+      "id_image": "broker_6417455"
+    }
+  ]
+}

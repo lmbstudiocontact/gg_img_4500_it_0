@@ -1,0 +1,24 @@
+{
+  "english": "coder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu hiệu thông tin",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who writes code for computer programs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440248_8db3caf396_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440248_883763c5d6_o.png",
+      "id_image": "coder_5486712"
+    }
+  ]
+}

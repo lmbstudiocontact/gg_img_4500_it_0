@@ -1,0 +1,57 @@
+{
+  "english": "delete",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bôi bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gạch bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tẩy bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xóa bỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remove or obliterate (written or printed matter), especially by drawing a line through it or marking it with a delete sign.",
+      "definitions_ex_en": "the passage was deleted",
+      "definitions_ex_vn": "Đoạn văn đã bị xóa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a command or key on a computer which erases text.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660944_f71a717c8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660944_5d09cd8be4_o.png",
+      "id_image": "delete_1083104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420558_e54983cfdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420558_ae2baae2a5_o.png",
+      "id_image": "delete_1265886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349667_7b7e57029d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349667_62ef2dff27_o.png",
+      "id_image": "delete_1364987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420583_cf3ddabde4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420583_662e281a41_o.png",
+      "id_image": "delete_216658"
+    }
+  ]
+}

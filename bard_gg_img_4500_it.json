@@ -1,0 +1,50 @@
+{
+  "english": "bard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thi nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà thi sỉ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a poet, traditionally one reciting epics and associated with a particular oral tradition.",
+      "definitions_ex_en": "our national bard, Robert Burns",
+      "definitions_ex_vn": "Bard quốc gia của chúng tôi, Robert Burns",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slice of bacon placed on meat or game before roasting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (meat or game) with slices of bacon.",
+      "definitions_ex_en": "the venison was barded and marinated",
+      "definitions_ex_vn": "thịt nai bị trả về và ướp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430568_c7f8bff60b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430568_790d27a696_o.png",
+      "id_image": "bard_2858904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430543_f3db4b61c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430543_b42d2a83c3_o.png",
+      "id_image": "bard_3426262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315661_b825c361d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315661_f8c02e0315_o.png",
+      "id_image": "bard_4271060"
+    }
+  ]
+}

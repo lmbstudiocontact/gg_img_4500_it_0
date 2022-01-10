@@ -1,0 +1,44 @@
+{
+  "english": "bauble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không gía trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật nhỏ mọn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small, showy trinket or decoration.",
+      "definitions_ex_en": "clutch bags embellished with glittering baubles",
+      "definitions_ex_vn": "Túi ly hợp được tô điểm với đồ trang sức lấp lánh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a baton formerly used as an emblem by jesters.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667379_57f4f5c372_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667379_f144486020_o.png",
+      "id_image": "bauble_1328111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049030_bd93150e3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049030_c691e6cb36_o.png",
+      "id_image": "bauble_1395955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356542_c946099366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356542_365a392239_o.png",
+      "id_image": "bauble_288590"
+    }
+  ]
+}

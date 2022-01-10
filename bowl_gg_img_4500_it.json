@@ -1,0 +1,84 @@
+{
+  "english": "bowl",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ly uống rượu lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chén",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chơi ném banh tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm lăn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a round, deep dish or basin used for food or liquid.",
+      "definitions_ex_en": "a mixing bowl",
+      "definitions_ex_vn": "một bát trộn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a natural basin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ball made slightly asymmetrical so that it runs on a curved course, used in the game of lawn bowling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "roll (a ball or hoop) along the ground.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bowler) propel (the ball) with a straight arm towards the batsman, typically in such a way that the ball bounces once.",
+      "definitions_ex_en": "Lillee bowled another bouncer",
+      "definitions_ex_vn": "Lillee bowled một bouncer khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play the game of bowling.",
+      "definitions_ex_en": "I usually bowl Tuesday nights",
+      "definitions_ex_vn": "Tôi thường bát tối thứ ba",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435268_64b5c6342a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435268_a1f30e4d6d_o.png",
+      "id_image": "bowls_2455841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675234_c2157a98a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675234_ed6e8b82d4_o.png",
+      "id_image": "bowl_270261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675204_e595fbee12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675204_6d5c175e99_o.png",
+      "id_image": "bowl_5830303"
+    }
+  ]
+}

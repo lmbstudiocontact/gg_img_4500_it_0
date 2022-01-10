@@ -1,0 +1,45 @@
+{
+  "english": "balcony",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban công",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a platform enclosed by a wall or balustrade on the outside of a building, with access from an upper-floor window or door.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the upstairs seats in a theater, concert hall, or auditorium.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318761_20e135b2e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318761_a1278a0b9e_o.png",
+      "id_image": "balcony_3062381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433948_42eff7fa1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433948_853f3602b2_o.png",
+      "id_image": "balcony_3062404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673549_6b3ce5485d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673549_bd01e718b2_o.png",
+      "id_image": "balcony_3062452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673514_c14a7e9b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673514_c47658cd7a_o.png",
+      "id_image": "balcony_4577518"
+    }
+  ]
+}

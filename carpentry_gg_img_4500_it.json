@@ -1,0 +1,48 @@
+{
+  "english": "carpentry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây để làm sườn nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề thợ mộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the activity or occupation of making or repairing things in wood.",
+      "definitions_ex_en": "carpentry skills",
+      "definitions_ex_vn": "Kỹ năng mộc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061285_7bdb013426_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061285_a4afa4a58b_o.png",
+      "id_image": "carpentry_258241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679509_b74ca0bb8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679509_8d7ba26570_o.png",
+      "id_image": "carpentry_258297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369092_c819f4d0ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369092_9811f7b617_o.png",
+      "id_image": "carpentry_4344083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369167_c67646dd0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369167_aaa21e49d0_o.png",
+      "id_image": "carpentry_939530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439333_9a896c0918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439333_a0135ff2ca_o.png",
+      "id_image": "carpentry_939533"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "english": "club",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây côn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "câu lạc bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bằng côn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lá chuồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái chùy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gậy cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giải buột tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bằng chùy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hội họp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hộp lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an association or organization dedicated to a particular interest or activity.",
+      "definitions_ex_en": "a photography club",
+      "definitions_ex_vn": "một câu lạc bộ nhiếp ảnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy stick with a thick end, especially one used as a weapon.",
+      "definitions_ex_en": "they beat him with a wooden club",
+      "definitions_ex_vn": "Họ đánh anh ta bằng một câu lạc bộ bằng gỗ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of the four suits in a conventional deck of playing cards, denoted by a black trefoil.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "go out to nightclubs.",
+      "definitions_ex_en": "she enjoys going clubbing in Orlando",
+      "definitions_ex_vn": "Cô thích câu lạc bộ ở Orlando",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "beat (a person or animal) with a club or similar implement.",
+      "definitions_ex_en": "the islanders clubbed whales to death",
+      "definitions_ex_vn": "Người dân đảo clubes đến chết",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065085_670841b664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065085_32f8311cc0_o.png",
+      "id_image": "club_1624372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683369_dd5158d88f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683369_81b2ce723a_o.png",
+      "id_image": "club_1809767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372972_deb31b5607_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372972_b8f51ff93d_o.png",
+      "id_image": "club_3544398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443238_782399dbd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443238_da685ec915_o.png",
+      "id_image": "club_6381778"
+    }
+  ]
+}

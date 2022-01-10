@@ -1,0 +1,38 @@
+{
+  "english": "breezy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay có gió",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay giận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui vẻ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pleasantly windy.",
+      "definitions_ex_en": "it was a bright, breezy day",
+      "definitions_ex_vn": "Đó là một ngày tươi sáng, gió hào",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "appearing relaxed, informal, and cheerily brisk.",
+      "definitions_ex_en": "the text is written in a breezy matter-of-fact manner",
+      "definitions_ex_vn": "Văn bản được viết theo cách thực tế của một vấn đề đáng tin cậy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053400_eb9283581c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053400_4cb61976dd_o.png",
+      "id_image": "breezy_5492974"
+    }
+  ]
+}

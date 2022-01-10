@@ -1,0 +1,29 @@
+{
+  "english": "cask",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thùng tô nô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large container like a barrel, made of wood, metal or plastic and used for storing liquids, typically alcoholic drinks.",
+      "definitions_ex_en": "the wine is stored in oak casks",
+      "definitions_ex_vn": "Rượu được lưu trữ trong thùng gỗ sồi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058525_caf32fa971_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058525_1db79c228a_o.png",
+      "id_image": "cask_993148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436898_4d4648673c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436898_5b555106ba_o.png",
+      "id_image": "cask_993149"
+    }
+  ]
+}

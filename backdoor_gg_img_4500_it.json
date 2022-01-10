@@ -1,0 +1,49 @@
+{
+  "english": "backdoor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cửa sau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cửa hậu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the door or entrance at the back of a building.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an activity) clandestine; underhanded.",
+      "definitions_ex_en": "backdoor private deals",
+      "definitions_ex_vn": "Ưu đãi tư nhân backdoor",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322731_4afd856413_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322731_9dfe4c2cfd_o.png",
+      "id_image": "backdoor_1995690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367652_834a8f9b53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367652_3d992ac93f_o.png",
+      "id_image": "backdoor_1995817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677839_64e7f5dc68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677839_4e78e33620_o.png",
+      "id_image": "backdoor_2170158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437883_e04c35249a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437883_3f1cb19614_o.png",
+      "id_image": "backdoor_2857687"
+    }
+  ]
+}

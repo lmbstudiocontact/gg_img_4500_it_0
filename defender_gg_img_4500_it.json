@@ -1,0 +1,38 @@
+{
+  "english": "defender",
+  "list_translation_mean": [
+    {
+      "translate_mean": "luật sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng sư",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who defends someone or something.",
+      "definitions_ex_en": "a defender of family values",
+      "definitions_ex_vn": "Một người bảo vệ giá trị gia đình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421073_8ef9b04ba5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421073_e31a1cac21_o.png",
+      "id_image": "defender_1373168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350112_45236032b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350112_c81b97efd9_o.png",
+      "id_image": "defender_2302972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305856_4d9f8878b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305856_7f5c31cce4_o.png",
+      "id_image": "defender_4109529"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "cruise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc tuần phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạy rề rề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi tuần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuần thám",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sail about in an area without a precise destination, especially for pleasure.",
+      "definitions_ex_en": "they were cruising off the California coast",
+      "definitions_ex_vn": "Họ đang bay khỏi bờ biển California",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a motor vehicle or aircraft) travel smoothly at a moderate or economical speed.",
+      "definitions_ex_en": "we sit in a jet, cruising at some 30,000 ft",
+      "definitions_ex_vn": "Chúng tôi ngồi trong một máy bay phản lực, bay ở khoảng 30.000 ft",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a young child) walk while holding on to furniture or other structures, prior to learning to walk without support.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a voyage on a ship or boat taken for pleasure or as a vacation and usually calling in at several places.",
+      "definitions_ex_en": "a cruise down the Nile",
+      "definitions_ex_vn": "một hành trình xuống sông Nile",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317921_9cd92f21ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317921_2132595672_o.png",
+      "id_image": "cruise_4711196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433068_e59f63846a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433068_a2c52a854e_o.png",
+      "id_image": "cruise_4736238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433038_074945d659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433038_7c9641d50d_o.png",
+      "id_image": "cruise_5406558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433003_b1ca0b6798_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433003_a72fbc7518_o.png",
+      "id_image": "cruise_5673219"
+    }
+  ]
+}

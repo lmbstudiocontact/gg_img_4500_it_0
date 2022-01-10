@@ -1,0 +1,35 @@
+{
+  "english": "croquet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một lối chơi quần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a game played on a lawn, in which colored wooden balls are driven through a series of wickets by means of mallets.",
+      "definitions_ex_en": "a croquet lawn",
+      "definitions_ex_vn": "một bãi cỏ croquet.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "drive away (an opponent's ball) by holding one's own ball against it and striking this with the mallet. A player is entitled to do this after their ball has struck an opponent's ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363852_1a8c25d5d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363852_0df9998a66_o.png",
+      "id_image": "croquet_4610952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363792_227cc47a93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363792_912803b607_o.png",
+      "id_image": "croquet_4841942"
+    }
+  ]
+}

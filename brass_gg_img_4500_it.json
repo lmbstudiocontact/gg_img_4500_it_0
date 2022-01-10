@@ -1,0 +1,41 @@
+{
+  "english": "brass",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vô liêm sỉ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a yellow alloy of copper and zinc.",
+      "definitions_ex_en": "a brass plate on the door",
+      "definitions_ex_vn": "một tấm đồng trên cửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433098_2c0711645d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433098_dc61ec6c00_o.png",
+      "id_image": "brass_1427435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362367_b9abdc596b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362367_fe8eb9b857_o.png",
+      "id_image": "brass_3460852"
+    }
+  ]
+}

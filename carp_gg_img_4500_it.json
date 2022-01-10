@@ -1,0 +1,38 @@
+{
+  "english": "carp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá chép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống cá đối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phê bình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a deep-bodied freshwater fish, typically with barbels around the mouth. Carp are farmed for food in some parts of the world and are widely kept in large ponds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "complain or find fault continually about trivial matters.",
+      "definitions_ex_en": "I don't want to carp about the way you did it",
+      "definitions_ex_vn": "Tôi không muốn cá chép về cách bạn đã làm nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061485_69e2ec88e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061485_11dd51fbbe_o.png",
+      "id_image": "carp_3800594"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "english": "corner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ đường quẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "góc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "góc đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lủng đoạn thị trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xó nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khóe mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc quẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để vào góc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lủng đoạn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place or angle where two or more sides or edges meet.",
+      "definitions_ex_en": "Jan sat at one corner of the table",
+      "definitions_ex_vn": "Jan ngồi ở một góc của bàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part, region, or area, especially one regarded as secluded or remote.",
+      "definitions_ex_en": "they descended on the college from all corners of the world",
+      "definitions_ex_vn": "họ đã hạ xuống trường đại học từ tất cả các góc của thế giới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for corner kick.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the diagonally opposite ends of the ring, where a contestant rests between rounds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the two parallel sides of home plate, which are perceived as defining the vertical edges of the strike zone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "force (a person or animal) into a place or situation from which it is hard to escape.",
+      "definitions_ex_en": "the man was eventually cornered by police dogs",
+      "definitions_ex_vn": "Người đàn ông cuối cùng bị cảnh sát vào chân tường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "control (a market) by dominating the supply of a particular commodity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a vehicle) go around a bend in a road.",
+      "definitions_ex_en": "no squeal is evident from the tires when cornering fast",
+      "definitions_ex_vn": "Không có tiếng rít là hiển nhiên từ lốp xe khi vào cua nhanh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686754_70ea76878a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686754_ef3a995b63_o.png",
+      "id_image": "corner_1031450"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446893_f60734bf3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446893_340bd334aa_o.png",
+      "id_image": "corner_165030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331851_3db79bb2ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331851_ab623d8c07_o.png",
+      "id_image": "corner_593514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331731_5c9eb17e7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331731_89b1a9b10b_o.png",
+      "id_image": "corner_6224313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446798_57ecf6320b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446798_5701ce4df4_o.png",
+      "id_image": "corner_939243"
+    }
+  ]
+}

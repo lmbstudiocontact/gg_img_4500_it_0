@@ -1,0 +1,39 @@
+{
+  "english": "cudgel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bằng gậy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short, thick stick used as a weapon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "beat with a cudgel.",
+      "definitions_ex_en": "they would lie in wait and cudgel her to death",
+      "definitions_ex_vn": "họ sẽ nói dối trong sự chờ đợi và cudgel cô đến chết",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360597_18dae87169_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360597_ed70379782_o.png",
+      "id_image": "cudgel_2206693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431223_25d61126ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431223_434277a180_o.png",
+      "id_image": "cudgel_2614509"
+    }
+  ]
+}

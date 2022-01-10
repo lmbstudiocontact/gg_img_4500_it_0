@@ -1,0 +1,79 @@
+{
+  "english": "bush",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bụi cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bụi rậm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đuôi chồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quán rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bừa ruộng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shrub or clump of shrubs with stems of moderate length.",
+      "definitions_ex_en": "a rose bush",
+      "definitions_ex_vn": "một bụi hoa hồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially in Australia, Africa, and Canada) wild or uncultivated country.",
+      "definitions_ex_en": "they have to spend a night camping in the bush",
+      "definitions_ex_vn": "Họ phải dành một đêm cắm trại trong bụi rậm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a luxuriant growth of thick hair or fur.",
+      "definitions_ex_en": "a childish face with a bush of bright hair",
+      "definitions_ex_vn": "một khuôn mặt trẻ con với một bụi tóc tươi sáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spread out into a thick clump.",
+      "definitions_ex_en": "her hair bushed out like a halo",
+      "definitions_ex_vn": "Tóc của cô ấy bị bẩn như một quầng sáng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "short for bush league.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045755_210e77daaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045755_17ccf7d4ff_o.png",
+      "id_image": "bush_1635930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352932_eef3650687_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352932_d4451c0e9b_o.png",
+      "id_image": "bush_2559374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423933_e0f017b2e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423933_65b9ce1216_o.png",
+      "id_image": "bush_4104599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352962_d3ce64ed08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352962_aa089e998c_o.png",
+      "id_image": "bush_882857"
+    }
+  ]
+}

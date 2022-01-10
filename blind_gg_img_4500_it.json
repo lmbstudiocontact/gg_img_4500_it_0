@@ -1,0 +1,122 @@
+{
+  "english": "blind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đui",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mù",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự giã bộ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "màn cuốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mành mành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáo cuốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng da che mắt ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không thấy đường",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unable to see because of injury, disease, or a congenital condition.",
+      "definitions_ex_en": "a blind man with a stick",
+      "definitions_ex_vn": "một người mù với một cây gậy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lacking perception, awareness, or discernment.",
+      "definitions_ex_en": "she was blind to the realities of her position",
+      "definitions_ex_vn": "Cô bị mù với thực tế của vị trí của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a corner or bend in a road) impossible to see around.",
+      "definitions_ex_en": "two trucks collided on a blind curve in the road",
+      "definitions_ex_vn": "Hai chiếc xe tải va chạm vào một đường cong mù trên đường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a plant) without buds, eyes, or terminal flowers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "drunk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "cause (someone) to be unable to see, permanently or temporarily.",
+      "definitions_ex_en": "the injury temporarily blinded him",
+      "definitions_ex_vn": "Chấn thương tạm thời mù quáng anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deprive (someone) of understanding, judgment, or perception.",
+      "definitions_ex_en": "somehow Clare and I were blinded to the truth",
+      "definitions_ex_vn": "Bằng cách nào đó Clare và tôi bị mù với sự thật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "people who are unable to see.",
+      "definitions_ex_en": "guide dogs for the blind",
+      "definitions_ex_vn": "Hướng dẫn chó cho người mù",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a screen for a window, especially one on a roller or made of slats.",
+      "definitions_ex_en": "she pulled down the blinds",
+      "definitions_ex_vn": "Cô kéo rèm xuống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something designed to conceal one's real intentions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "without being able to see clearly.",
+      "definitions_ex_en": "he was the first pilot in history to fly blind",
+      "definitions_ex_vn": "Ông là phi công đầu tiên trong lịch sử để bay mù",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330321_8c06af8d8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330321_0ef832006f_o.png",
+      "id_image": "blind_1075050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330286_587a0b26c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330286_4782770519_o.png",
+      "id_image": "blind_1467292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330251_51e7d47500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330251_a32362314d_o.png",
+      "id_image": "blind_2395075"
+    }
+  ]
+}

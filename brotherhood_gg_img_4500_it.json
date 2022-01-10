@@ -1,0 +1,40 @@
+{
+  "english": "brotherhood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tình huynh đệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the relationship between brothers.",
+      "definitions_ex_en": "the bonds of brotherhood",
+      "definitions_ex_vn": "trái phiếu của tình huynh đệ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an association, society, or community of people linked by a common interest, religion, or trade.",
+      "definitions_ex_en": "a religious brotherhood",
+      "definitions_ex_vn": "một anh em tôn giáo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051085_ff451efd9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051085_8a90ce0b21_o.png",
+      "id_image": "brotherhood_1731671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429363_57a4a5d778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429363_4e6f14c7c6_o.png",
+      "id_image": "brotherhood_1744685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314471_11ba363c47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314471_59d7e5eabe_o.png",
+      "id_image": "brotherhood_2909968"
+    }
+  ]
+}

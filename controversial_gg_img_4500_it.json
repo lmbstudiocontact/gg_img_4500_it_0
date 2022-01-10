@@ -1,0 +1,28 @@
+{
+  "english": "controversial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn cải được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể tranh luận",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "giving rise or likely to give rise to public disagreement.",
+      "definitions_ex_en": "years of wrangling over a controversial bypass",
+      "definitions_ex_vn": "những năm hoang dã trên một đường tránh bị gây tranh cãi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042985_e76b5ed897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042985_daea620ca0_o.png",
+      "id_image": "controversial_4144488"
+    }
+  ]
+}

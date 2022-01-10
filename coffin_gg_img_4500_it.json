@@ -1,0 +1,74 @@
+{
+  "english": "coffin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bỏ vào hòm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ vào quan tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần từ cổ chân ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "loại ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, narrow box, typically of wood, in which a corpse is buried or cremated.",
+      "definitions_ex_en": "they lowered her coffin into the ground",
+      "definitions_ex_vn": "Họ hạ khỏi quan tài của cô xuống đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put (a dead body) in a coffin.",
+      "definitions_ex_en": "the young man was coffined decently",
+      "definitions_ex_vn": "chàng trai trẻ đã được phân phối một cách hợp tác",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680089_914230a0be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680089_bd3e82b48f_o.png",
+      "id_image": "coffin_1679079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369722_3df0321ed1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369722_aec1916fb0_o.png",
+      "id_image": "coffin_2122935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439868_46238b4023_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439868_3be0a6448b_o.png",
+      "id_image": "coffin_3768540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369597_79678b332a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369597_e83f72b400_o.png",
+      "id_image": "coffin_3768553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061640_9cabd94937_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061640_e7dafa6814_o.png",
+      "id_image": "coffin_3768614"
+    }
+  ]
+}

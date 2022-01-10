@@ -1,0 +1,35 @@
+{
+  "english": "bouquet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bó hoa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an attractively arranged bunch of flowers, especially one presented as a gift or carried at a ceremony.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the characteristic scent of a wine or perfume.",
+      "definitions_ex_en": "the aperitif has a faint bouquet of almonds",
+      "definitions_ex_vn": "Aperitif có một bó hoa nhân dị mờ nhạt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365567_1b5d93f0e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365567_d23f4159a4_o.png",
+      "id_image": "bouquet_1019413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057400_cee984bae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057400_8606bae0bb_o.png",
+      "id_image": "bouquet_332950"
+    }
+  ]
+}

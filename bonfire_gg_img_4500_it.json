@@ -1,0 +1,39 @@
+{
+  "english": "bonfire",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lửa mừng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large open-air fire used as part of a celebration, for burning trash, or as a signal.",
+      "definitions_ex_en": "the smell of burning leaves from a garden bonfire",
+      "definitions_ex_vn": "mùi của những chiếc lá cháy từ một bãi lửa vườn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439548_122aea7925_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439548_81865cfe7a_o.png",
+      "id_image": "bonfire_1706069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679794_bfc206804f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679794_05bca860c7_o.png",
+      "id_image": "bonfire_293811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369442_316b1a4966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369442_3e06384886_o.png",
+      "id_image": "bonfire_372078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324526_d1f41cb291_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324526_784f107fd1_o.png",
+      "id_image": "bonfire_437102"
+    }
+  ]
+}

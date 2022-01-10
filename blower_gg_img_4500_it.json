@@ -1,0 +1,47 @@
+{
+  "english": "blower",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy bể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống thông hơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that blows, especially a mechanical device for creating a current of air used to dry or heat something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373217_a2c96e504f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373217_364467dc2c_o.png",
+      "id_image": "blower_184386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328356_dd79595e0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328356_cc06670b52_o.png",
+      "id_image": "blower_2472831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373187_c768c82f96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373187_231ccc0f6b_o.png",
+      "id_image": "blower_648763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683509_57240ee7c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683509_6f623fb485_o.png",
+      "id_image": "blower_862998"
+    }
+  ]
+}

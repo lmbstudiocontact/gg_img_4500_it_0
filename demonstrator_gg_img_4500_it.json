@@ -1,0 +1,53 @@
+{
+  "english": "demonstrator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đi biểu tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giảng giải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thuyết minh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who takes part in a public protest meeting or march.",
+      "definitions_ex_en": "troops opened fire on crowds of demonstrators",
+      "definitions_ex_vn": "Quân đội đã nổ súng vào đám đông những người biểu tình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who shows how a particular piece of equipment works or how a skill or craft is performed.",
+      "definitions_ex_en": "the demonstrators arrived and launched into a two-hour sales pitch",
+      "definitions_ex_vn": "Những người biểu tình đến và ra mắt thành một sân bán hai giờ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069550_e68103de63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069550_33c53d1a10_o.png",
+      "id_image": "demonstrator_3122405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332691_a72936c7de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332691_3354bf1232_o.png",
+      "id_image": "demonstrator_6009573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447668_5b7728d80b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447668_1636267159_o.png",
+      "id_image": "demonstrator_6009671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687604_d20e06c12f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687604_850d48511f_o.png",
+      "id_image": "demonstrator_6009858"
+    }
+  ]
+}

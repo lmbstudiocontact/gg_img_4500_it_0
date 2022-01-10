@@ -1,0 +1,78 @@
+{
+  "english": "cellular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lỗ nhỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có ngăn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có phòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "do tế bào mà thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tế bào",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or consisting of living cells.",
+      "definitions_ex_en": "cellular proliferation",
+      "definitions_ex_vn": "tăng sinh tế bào",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or relating to a mobile telephone system that uses a number of short-range radio stations to cover the area that it serves, the signal being automatically switched from one station to another as the user travels around.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a fabric item, such as a blanket or vest) knitted so as to form holes or hollows that trap air and provide extra insulation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "consisting of small compartments or rooms.",
+      "definitions_ex_en": "cellular accommodations",
+      "definitions_ex_vn": "Chỗ ở tế bào",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671939_3339d56723_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671939_526864318e_o.png",
+      "id_image": "cellular_5746299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672219_b5c5a3129f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672219_1b5a4ee8fc_o.png",
+      "id_image": "cell_1474369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053975_8d45359638_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053975_6c67848f39_o.png",
+      "id_image": "cell_191118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317451_725d5193cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317451_89d7fd623d_o.png",
+      "id_image": "cell_2750823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317401_1237cea0c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317401_fd99bfff61_o.png",
+      "id_image": "cell_3360220"
+    }
+  ]
+}

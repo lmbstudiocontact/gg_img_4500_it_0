@@ -1,0 +1,41 @@
+{
+  "english": "defendant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ người bị cáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chỉ người bị kiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chỉ người phòng thủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chỉ người bào chửa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an individual, company, or institution sued or accused in a court of law.",
+      "definitions_ex_en": "the defendant tried to claim that it was self-defense",
+      "definitions_ex_vn": "Bị cáo cố gắng tuyên bố rằng đó là tự vệ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305971_3ab3455150_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305971_43570ce052_o.png",
+      "id_image": "defendant_1566568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305946_d338dcb8b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305946_2c645a8b06_o.png",
+      "id_image": "defendant_1865651"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "cashier",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thu ngân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giữ tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giữ tủ tiền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person handling payments and receipts in a store, bank, or other business.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dismiss (someone) from the armed forces in disgrace because of a serious misdemeanor.",
+      "definitions_ex_en": "he was found guilty and cashiered",
+      "definitions_ex_vn": "anh ta bị kết tội và thu ngân",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321981_099710b274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321981_edaef53bc0_o.png",
+      "id_image": "cashier_3244950"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366872_01f74e40f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366872_4c2c129ac2_o.png",
+      "id_image": "cashier_3565254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321921_7b5aaaa05c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321921_1ffba9cd72_o.png",
+      "id_image": "cashier_3635707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437043_8a666f0719_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437043_93bfb15904_o.png",
+      "id_image": "cashier_6417477"
+    }
+  ]
+}

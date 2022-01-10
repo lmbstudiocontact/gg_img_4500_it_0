@@ -1,0 +1,50 @@
+{
+  "english": "cancellation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hủy bỏ một khế ước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bải bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hủy bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thủ tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủ tiêu một mạng lịnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of canceling something that has been arranged or planned.",
+      "definitions_ex_en": "train services are subject to cancellation at short notice",
+      "definitions_ex_vn": "Các dịch vụ đào tạo có thể hủy bỏ trong thông báo ngắn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040820_2eb4713a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040820_fa359594e4_o.png",
+      "id_image": "cancellation_2036889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418983_8bb1ab1e5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418983_b53ab82317_o.png",
+      "id_image": "cancellation_4524882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303941_734595b204_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303941_1b65fb3b12_o.png",
+      "id_image": "cancellation_4524886"
+    }
+  ]
+}

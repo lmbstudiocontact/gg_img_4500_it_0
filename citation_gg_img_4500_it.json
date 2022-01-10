@@ -1,0 +1,46 @@
+{
+  "english": "citation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biểu chương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "câu văn trích lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoạn văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc văn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a quotation from or reference to a book, paper, or author, especially in a scholarly work.",
+      "definitions_ex_en": "there were dozens of citations from the works of Byron",
+      "definitions_ex_vn": "Có hàng tá trích dẫn từ các tác phẩm của Byron",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mention of a praiseworthy act or achievement in an official report, especially that of a member of the armed forces in wartime.",
+      "definitions_ex_en": "the citation described him as an officer of extreme gallantry",
+      "definitions_ex_vn": "Trích dẫn mô tả anh ta là một sĩ quan của Extreme Gallentry",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661454_a380b127d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661454_5da303fedf_o.png",
+      "id_image": "citation_1622680"
+    }
+  ]
+}

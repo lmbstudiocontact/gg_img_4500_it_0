@@ -1,0 +1,28 @@
+{
+  "english": "breakage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay bể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gảy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of breaking something, or the fact of being broken.",
+      "definitions_ex_en": "some breakage of bone has occurred",
+      "definitions_ex_vn": "Một số sự phá vỡ của xương đã xảy ra",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361957_3dce06cfc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361957_e46b4d71d6_o.png",
+      "id_image": "breakage_2928720"
+    }
+  ]
+}

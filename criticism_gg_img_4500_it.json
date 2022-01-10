@@ -1,0 +1,44 @@
+{
+  "english": "criticism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chỉ trích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phê bình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the expression of disapproval of someone or something based on perceived faults or mistakes.",
+      "definitions_ex_en": "he received a lot of criticism",
+      "definitions_ex_vn": "anh ấy đã nhận được rất nhiều sự chỉ trích",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the analysis and judgment of the merits and faults of a literary or artistic work.",
+      "definitions_ex_en": "alternative methods of criticism supported by well-developed literary theories",
+      "definitions_ex_vn": "Các phương pháp thay thế của những lời chỉ trích được hỗ trợ bởi các lý thuyết văn học được phát triển tốt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434928_864e50f30e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434928_01e0561169_o.png",
+      "id_image": "criticism_3260941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674659_8b5e02cf87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674659_3ce2f92cca_o.png",
+      "id_image": "criticism_5520868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319761_65cb65321e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319761_68ff8a4a1e_o.png",
+      "id_image": "criticism_5520956"
+    }
+  ]
+}

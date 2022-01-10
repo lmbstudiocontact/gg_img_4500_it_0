@@ -1,0 +1,48 @@
+{
+  "english": "beach",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bải biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bờ biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm mắc cạn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pebbly or sandy shore, especially by the ocean between high- and low-water marks.",
+      "definitions_ex_en": "fabulous sandy beaches",
+      "definitions_ex_vn": "bãi biển cát tuyệt vời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "run or haul up (a boat or ship) on to a beach.",
+      "definitions_ex_en": "at the water's edge a rowboat was beached",
+      "definitions_ex_vn": "ở rìa của nước một chiếc thuyền đã được bãi biển",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312276_783c125816_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312276_914066c66b_o.png",
+      "id_image": "beach_3722612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667194_4381902191_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667194_06c544b863_o.png",
+      "id_image": "beach_3722618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427093_15c5726640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427093_b4eb3f8f82_o.png",
+      "id_image": "beach_4792176"
+    }
+  ]
+}

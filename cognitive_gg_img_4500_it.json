@@ -1,0 +1,44 @@
+{
+  "english": "cognitive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhận thức",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to cognition.",
+      "definitions_ex_en": "the cognitive processes involved in reading",
+      "definitions_ex_vn": "các quá trình nhận thức liên quan đến việc đọc",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439428_a56e57b7fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439428_18c3dd4f52_o.png",
+      "id_image": "cognitive_1476237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324346_30b290bfaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324346_7c4533937e_o.png",
+      "id_image": "cognitive_1671630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324276_e61f046d87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324276_d4f3ca04dd_o.png",
+      "id_image": "cognitive_2244658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324256_d40f548861_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324256_fd1a13a5c9_o.png",
+      "id_image": "cognitive_4525456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061115_976037aa7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061115_4c5b2cdca6_o.png",
+      "id_image": "cognitive_4525458"
+    }
+  ]
+}

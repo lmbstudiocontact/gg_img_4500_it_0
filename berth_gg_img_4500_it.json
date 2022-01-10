@@ -1,0 +1,84 @@
+{
+  "english": "berth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhân viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xoay quanh neo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ nằm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ thả neo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giường ngủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thả neo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy thủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cập bến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ chổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a ship's allotted place at a wharf or dock.",
+      "definitions_ex_en": "the vessel had left its berth",
+      "definitions_ex_vn": "tàu đã rời bến của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fixed bed or bunk on a ship, train, or other means of transport.",
+      "definitions_ex_en": "I'll sleep in the upper berth",
+      "definitions_ex_vn": "Tôi sẽ ngủ ở bến trên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(often in a sports context) a situation or position in an organization or event.",
+      "definitions_ex_en": "today's victory clinched a berth for the Orioles in the playoffs",
+      "definitions_ex_vn": "Chiến thắng ngày nay đã giành được một bến cho các orioles trong vòng playoffs",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "moor (a ship) in its allotted place.",
+      "definitions_ex_en": "these modern ships can almost berth themselves",
+      "definitions_ex_vn": "Những con tàu hiện đại này gần như có thể tự nâng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a passenger ship) provide a sleeping place for (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044190_497ea4ab55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044190_c3d4b3ee8b_o.png",
+      "id_image": "berth_963824"
+    }
+  ]
+}

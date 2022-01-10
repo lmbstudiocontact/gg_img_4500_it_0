@@ -1,0 +1,49 @@
+{
+  "english": "cookie",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh ngọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh ngọt nhỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person of a specified kind.",
+      "definitions_ex_en": "a tough cookie with one eye on her bank account",
+      "definitions_ex_vn": "một cookie khó khăn với một mắt trên tài khoản ngân hàng của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a packet of data sent by a web server to a browser, which is returned by the browser each time it subsequently accesses the same server, used to identify the user or track their access to the server.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349252_ff3304a6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349252_8ace6b4424_o.png",
+      "id_image": "cookie_1065195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041965_59ddcdbc44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041965_517776b90b_o.png",
+      "id_image": "cookie_1706311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305021_8b376f8792_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305021_ca1dd3c10e_o.png",
+      "id_image": "cookie_541803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042000_6e177f9691_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042000_310e8a401b_o.png",
+      "id_image": "cookie_786960"
+    }
+  ]
+}

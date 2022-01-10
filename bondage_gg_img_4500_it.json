@@ -1,0 +1,42 @@
+{
+  "english": "bondage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầy tớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nô lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng tôi tớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thân phận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being a slave.",
+      "definitions_ex_en": "the deliverance of the Israelites from Egypt's bondage",
+      "definitions_ex_vn": "Sự giải thoát của người Israel khỏi sự trói buộc của Ai Cập",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sexual practice that involves the tying up or restraining of one partner.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061800_94f61ffd65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061800_585dec81e8_o.png",
+      "id_image": "bondage_2473208"
+    }
+  ]
+}

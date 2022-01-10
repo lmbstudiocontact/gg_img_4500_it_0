@@ -1,0 +1,55 @@
+{
+  "english": "buffer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạn gìa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bớt lúc lắc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that prevents incompatible or antagonistic people or things from coming into contact with or harming each other.",
+      "definitions_ex_en": "family and friends can provide a buffer against stress",
+      "definitions_ex_vn": "Gia đình và bạn bè có thể cung cấp một bộ đệm chống lại căng thẳng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a solution that resists changes in pH when acid or alkali is added to it. Buffers typically involve a weak acid or alkali together with one of its salts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lessen or moderate the impact of (something).",
+      "definitions_ex_en": "the massage helped to buffer the strain",
+      "definitions_ex_vn": "Massage giúp đệm căng thẳng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312851_aa2301c83d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312851_382ecbf259_o.png",
+      "id_image": "buffer_1619251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809382071_48f8ea2fd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809382071_a1235cddd5_o.png",
+      "id_image": "buffer_2009750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312741_dbbacbe231_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312741_549958edb9_o.png",
+      "id_image": "buffer_2009830"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667599_8bf7939d20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667599_d23b41c0ac_o.png",
+      "id_image": "buffer_5362232"
+    }
+  ]
+}

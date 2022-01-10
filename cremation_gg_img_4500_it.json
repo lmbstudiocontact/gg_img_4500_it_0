@@ -1,0 +1,34 @@
+{
+  "english": "cremation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hỏa táng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the disposal of a dead person's body by burning it to ashes, typically after a funeral ceremony.",
+      "definitions_ex_en": "we chose cremation over burial",
+      "definitions_ex_vn": "Chúng tôi đã chọn hỏa táng về chôn cất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058055_89a9f6ff15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058055_cfdc9a8d76_o.png",
+      "id_image": "cremation_2457997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366182_8c65c09737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366182_03098b96dc_o.png",
+      "id_image": "cremation_3768566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057980_87cd3d9438_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057980_49314f124f_o.png",
+      "id_image": "cremation_5826046"
+    }
+  ]
+}

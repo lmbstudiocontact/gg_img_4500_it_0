@@ -1,0 +1,43 @@
+{
+  "english": "bandit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "côn đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẻ cướp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a robber or outlaw belonging to a gang and typically operating in an isolated or lawless area.",
+      "definitions_ex_en": "the bandit produced a weapon and demanded money",
+      "definitions_ex_vn": "Tên cướp đã tạo ra một vũ khí và đòi tiền",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317176_ec8a85ab7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317176_cee3abb8d9_o.png",
+      "id_image": "bandit_1427403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361432_dd9e429ddb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361432_6b67313bf6_o.png",
+      "id_image": "bandit_1940170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317131_b394f53f14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317131_9bdb8a7fea_o.png",
+      "id_image": "bandit_5484169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317221_11b3354d85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317221_be39912f88_o.png",
+      "id_image": "bandit_683817"
+    }
+  ]
+}

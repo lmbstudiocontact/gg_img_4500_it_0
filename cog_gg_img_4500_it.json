@@ -1,0 +1,56 @@
+{
+  "english": "cog",
+  "list_translation_mean": [
+    {
+      "translate_mean": "răng cưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu móng cong của ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộng gỗ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn khớp nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lắp răng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar.",
+      "definitions_ex_en": "the cogs and springs of a watch",
+      "definitions_ex_vn": "Các bánh răng và lò xo của một chiếc đồng hồ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a broadly built medieval ship with a rounded prow and stern.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439758_b7905dab27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439758_4d71494357_o.png",
+      "id_image": "cog_2180637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061560_157082b219_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061560_793f377587_o.png",
+      "id_image": "cog_4752516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439668_612dc7cc6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439668_87fe165919_o.png",
+      "id_image": "cog_4752618"
+    }
+  ]
+}

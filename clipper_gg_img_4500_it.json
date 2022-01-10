@@ -1,0 +1,66 @@
+{
+  "english": "clipper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái tông đơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa chạy như gío",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cừ khôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu chạy mau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ cắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ xén",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instrument for cutting or trimming small pieces off things.",
+      "definitions_ex_en": "hair clippers",
+      "definitions_ex_vn": "cắt tóc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fast sailing ship, especially one of 19th-century design with concave bows and raked masts.",
+      "definitions_ex_en": "the Cutty Sark, a tea clipper built in 1869",
+      "definitions_ex_vn": "Sark Cutty, một cây trà được xây dựng vào năm 1869",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for limiter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375817_ef4f85e5e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375817_a6a8c7858f_o.png",
+      "id_image": "clipper_1053019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067845_8716040acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067845_b556db34dc_o.png",
+      "id_image": "clipper_2042871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067905_4e0a3dbb5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067905_ac6251082e_o.png",
+      "id_image": "clipper_781562"
+    }
+  ]
+}

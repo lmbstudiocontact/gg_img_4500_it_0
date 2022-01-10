@@ -1,0 +1,48 @@
+{
+  "english": "bagel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh mì tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại bánh ở mỹ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dense bread roll in the shape of a ring, made by boiling dough and then baking it.",
+      "definitions_ex_en": "I ate a toasted bagel with cream cheese",
+      "definitions_ex_vn": "Tôi đã ăn một chiếc bánh mì nướng với phô mai kem",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435643_f73d4abde2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435643_50831f7c7f_o.png",
+      "id_image": "bagel_1056764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365397_75d64f1c24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365397_f3066663da_o.png",
+      "id_image": "bagel_1725720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435533_2906fa8ca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435533_9d70c605bf_o.png",
+      "id_image": "bagel_1999932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365272_c227b8b589_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365272_ce01b5698f_o.png",
+      "id_image": "bagel_5840818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320496_fbc41b5d2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320496_362bb6afdd_o.png",
+      "id_image": "bagel_768150"
+    }
+  ]
+}

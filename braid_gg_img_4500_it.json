@@ -1,0 +1,57 @@
+{
+  "english": "braid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "băng cột tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bím tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường viền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thắt băng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "threads of silk, cotton, or other material woven into a decorative band for edging or trimming garments.",
+      "definitions_ex_en": "a coat trimmed with gold braid",
+      "definitions_ex_vn": "Một chiếc áo khoác được cắt bằng bím vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "edge or trim (a garment) with braid.",
+      "definitions_ex_en": "their garments were braided with silk",
+      "definitions_ex_vn": "quần áo của họ được bện với lụa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055710_e8ce816bcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055710_877fc5a3e1_o.png",
+      "id_image": "braid_1053029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055675_22dcc85666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055675_9c5b201daa_o.png",
+      "id_image": "braid_1117999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319031_6820349f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319031_a13d86179c_o.png",
+      "id_image": "braid_3460366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434228_a28916eef2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434228_06bb0dc8ba_o.png",
+      "id_image": "braid_3684510"
+    }
+  ]
+}

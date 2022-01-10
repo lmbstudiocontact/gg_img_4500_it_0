@@ -1,0 +1,91 @@
+{
+  "english": "belt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây lưng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây nịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây thắt lưng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng đai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nịt dây nịt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strip of leather or other material worn around the waist or across the chest, especially in order to support clothes or carry weapons.",
+      "definitions_ex_en": "a sword belt",
+      "definitions_ex_vn": "một vành đai kiếm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous band of material used in machinery for transferring motion from one wheel to another.",
+      "definitions_ex_en": "a great wheel driven by a leather belt",
+      "definitions_ex_vn": "một bánh xe tuyệt vời được điều khiển bởi một vành đai da",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strip or encircling band of something having a specified nature or composition that is different from its surroundings.",
+      "definitions_ex_en": "the asteroid belt",
+      "definitions_ex_vn": "đai tiểu hành tinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy blow.",
+      "definitions_ex_en": "she ran in to administer a good belt with her stick",
+      "definitions_ex_vn": "Cô chạy vào để quản lý một cái thắt lưng tốt với cây gậy của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten with a belt.",
+      "definitions_ex_en": "she belted her raincoat firmly",
+      "definitions_ex_vn": "Cô ấy buộc áo mưa của mình vững chắc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit (someone or something) hard.",
+      "definitions_ex_en": "she belted him over the head with her racquet",
+      "definitions_ex_vn": "Cô ấy buộc anh ta qua đầu với vợt của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move quickly in a specified direction.",
+      "definitions_ex_en": "they belted along the empty road",
+      "definitions_ex_vn": "họ thắt dọc theo con đường trống rỗng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045015_c1c09469db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045015_eb892352fe_o.png",
+      "id_image": "belt_2584792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308056_f8e4077e02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308056_2746de778e_o.png",
+      "id_image": "belt_4656972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308021_c141f7dc92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308021_21c29feece_o.png",
+      "id_image": "belt_4658009"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308006_39a60517ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308006_90d041b1fc_o.png",
+      "id_image": "belt_5234300"
+    }
+  ]
+}

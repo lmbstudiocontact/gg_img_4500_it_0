@@ -1,0 +1,52 @@
+{
+  "english": "cooperation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cộng tác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hợp chung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hợp tác",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of working together to the same end.",
+      "definitions_ex_en": "they worked in close cooperation with the AAA",
+      "definitions_ex_vn": "Họ làm việc chặt chẽ với AAA",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304806_c69e88c0db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304806_9e21b7d524_o.png",
+      "id_image": "cooperation_1006631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660214_f42ac05ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660214_77ee26919b_o.png",
+      "id_image": "cooperation_1076347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304786_c83b89746e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304786_5a5a20b009_o.png",
+      "id_image": "cooperation_3317601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041670_850b861d87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041670_dc1dc10b5f_o.png",
+      "id_image": "cooperation_3386006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419848_f6581317b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419848_51625ebfff_o.png",
+      "id_image": "cooperation_567525"
+    }
+  ]
+}

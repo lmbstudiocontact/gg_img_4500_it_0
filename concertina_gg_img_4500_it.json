@@ -1,0 +1,35 @@
+{
+  "english": "concertina",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phong cầm nhỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small musical instrument, typically polygonal in form, played by stretching and squeezing between the hands, to work a central bellows that blows air over reeds, each note being sounded by a button.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "extend, compress, or collapse in folds like those of a concertina.",
+      "definitions_ex_en": "big rolls of concertinaed wire",
+      "definitions_ex_vn": "Cuộn lớn của dây hòa nhạc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668384_c027451918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668384_d0e8a36728_o.png",
+      "id_image": "concertina_3966307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050110_a12da8ecfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050110_92fe1e071d_o.png",
+      "id_image": "concertina_5781977"
+    }
+  ]
+}

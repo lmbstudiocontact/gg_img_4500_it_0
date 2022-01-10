@@ -1,0 +1,50 @@
+{
+  "english": "coaster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ghe buôn dọc bờ biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi buôn dọc bờ biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu buôn dọc bờ biển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small tray or mat placed under a bottle or glass to protect the table underneath.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ship used to carry cargo along the coast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who inhabits a specified coast.",
+      "definitions_ex_en": "a West coaster",
+      "definitions_ex_vn": "một tàu lượn phía tây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for roller coaster.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327256_bf7a9ce991_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327256_842e09e17a_o.png",
+      "id_image": "coaster_4223216"
+    }
+  ]
+}

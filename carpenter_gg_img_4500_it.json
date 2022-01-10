@@ -1,0 +1,49 @@
+{
+  "english": "carpenter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thợ mộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nghề thợ mộc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who makes and repairs wooden objects and structures.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make by shaping wood.",
+      "definitions_ex_en": "the rails were carpentered very skillfully",
+      "definitions_ex_vn": "Các đường ray đã được đánh cắp rất khéo léo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369372_d20b82eef0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369372_b8a8af0d12_o.png",
+      "id_image": "carpenter_2365091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369412_990d4889ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369412_56bdb76080_o.png",
+      "id_image": "carpenter_307963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369327_d350bb10d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369327_5d97672291_o.png",
+      "id_image": "carpenter_4310707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061325_1e389c9f18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061325_97f2228381_o.png",
+      "id_image": "carpenter_6036744"
+    }
+  ]
+}

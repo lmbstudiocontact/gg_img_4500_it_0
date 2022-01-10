@@ -1,0 +1,47 @@
+{
+  "english": "barrier",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cửa vào thành phố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rào chận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giới tuyến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fence or other obstacle that prevents movement or access.",
+      "definitions_ex_en": "the mountain barrier between Norway and Sweden",
+      "definitions_ex_vn": "hàng rào núi giữa Na Uy và Thụy Điển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429688_cda44f1c90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429688_ec14ab629e_o.png",
+      "id_image": "barrier_313075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314741_a598d7d673_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314741_6921bdcefa_o.png",
+      "id_image": "barrier_3267514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358877_7831b40e09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358877_2f9a4b6c5c_o.png",
+      "id_image": "barrier_786800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669409_47336aabf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669409_5ffc41a7b8_o.png",
+      "id_image": "barrier_804579"
+    }
+  ]
+}

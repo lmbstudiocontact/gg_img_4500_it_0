@@ -1,0 +1,44 @@
+{
+  "english": "braille",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chữ nổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viền quần áo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a form of written language for blind people, in which characters are represented by patterns of raised dots that are felt with the fingertips.",
+      "definitions_ex_en": "she taught herself Braille",
+      "definitions_ex_vn": "Cô dạy chữ nổi của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "print or transcribe in Braille.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055575_82193e8a02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055575_d709bef18f_o.png",
+      "id_image": "braille_179874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318941_7e4bdb8ee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318941_cbe3ece2c8_o.png",
+      "id_image": "braille_2395207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318916_444896e4ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318916_252dda328b_o.png",
+      "id_image": "braille_5318760"
+    }
+  ]
+}

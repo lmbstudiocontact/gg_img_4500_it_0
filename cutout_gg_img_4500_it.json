@@ -1,0 +1,60 @@
+{
+  "english": "cutout",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây của cầu chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây nổ bằng chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ vài đoạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bớt đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt bỏ đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc phim bỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shape of a person or thing cut out of cardboard or another material.",
+      "definitions_ex_en": "a life-size cut-out",
+      "definitions_ex_vn": "một sự cắt giảm kích thước cuộc sống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hole cut in something for decoration or to allow the insertion of something else.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device that automatically breaks an electric circuit for safety and either resets itself or can be reset.",
+      "definitions_ex_en": "there's a thermal cut-out to prevent overheating",
+      "definitions_ex_vn": "Có một sự cắt đứt nhiệt để ngăn chặn quá nóng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313061_b85a72f824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313061_16b39b1e80_o.png",
+      "id_image": "cutout_4891998"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "english": "crib",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chậu cho gia súc ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cũi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gổ bắt cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giường trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ăn cắp vặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng đựng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn trộm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cọp dê bài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giam kín",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhốt chặt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a translation of a text for use by students, especially in a surreptitious way.",
+      "definitions_ex_en": "an English crib of Caesar's Gallic Wars",
+      "definitions_ex_vn": "một cái cũi tiếng Anh của Caesar's Gallic Wars",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for cribbage.",
+      "definitions_ex_en": "he would play crib with zest",
+      "definitions_ex_vn": "anh ấy sẽ chơi cũi với niềm say mê",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy timber framework used in foundations for a building or to line a mine shaft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "copy (another person's work) illicitly or without acknowledgment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "restrain.",
+      "definitions_ex_en": "he had been so cabined, cribbed, and confined by office",
+      "definitions_ex_vn": "anh ta đã được bao phủ, cũi, và bị giam giữ bởi văn phòng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435808_f0686ffd33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435808_8d19629bca_o.png",
+      "id_image": "crib_2123664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320576_5780207de3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320576_0d88eba9b0_o.png",
+      "id_image": "crib_2504110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057450_7acd1d8b35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057450_07e996e007_o.png",
+      "id_image": "crib_288054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675579_27e02c9227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675579_02fd9007ea_o.png",
+      "id_image": "crib_5101261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365597_9eded3eeb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365597_5c363bc610_o.png",
+      "id_image": "crib_819097"
+    }
+  ]
+}

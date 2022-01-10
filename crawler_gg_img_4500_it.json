@@ -1,0 +1,46 @@
+{
+  "english": "crawler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "loại bò sát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "con chí và rận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi chậm ở sau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lội sải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người luồn cúi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that crawls or moves at a slow pace, especially an insect.",
+      "definitions_ex_en": "the light bulb was a magnet for moths and many-legged crawlers",
+      "definitions_ex_vn": "Bóng đèn là một nam châm cho bướm đêm và những người thu thập nhiều chân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a program that systematically browses the World Wide Web in order to create an index of data.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678309_e4d41110f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678309_c69023eb61_o.png",
+      "id_image": "crawler_6092296"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "baron",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nam tước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người có thế lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a member of the lowest order of the British nobility. The term “Baron” is not used as a form of address in Britain, barons usually being referred to as “Lord.”.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an important or powerful person in a specified business or industry.",
+      "definitions_ex_en": "a press baron",
+      "definitions_ex_vn": "một thanh nam tước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051545_0f52a64b71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051545_99f75a328d_o.png",
+      "id_image": "baron_328000"
+    }
+  ]
+}

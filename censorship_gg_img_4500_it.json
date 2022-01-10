@@ -1,0 +1,34 @@
+{
+  "english": "censorship",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự kiểm duyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ty kiểm duyệt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the suppression or prohibition of any parts of books, films, news, etc. that are considered obscene, politically unacceptable, or a threat to security.",
+      "definitions_ex_en": "the regulation imposes censorship on all media",
+      "definitions_ex_vn": "Quy định áp đặt kiểm duyệt trên tất cả các phương tiện truyền thông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in ancient Rome) the office or position of censor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431943_a47d7e4c0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431943_11b2dcf42d_o.png",
+      "id_image": "censorship_2450854"
+    }
+  ]
+}

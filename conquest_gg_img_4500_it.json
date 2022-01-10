@@ -1,0 +1,42 @@
+{
+  "english": "conquest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước chinh phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chinh phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xâm chiếm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the subjugation and assumption of control of a place or people by use of military force.",
+      "definitions_ex_en": "the conquest of the Aztecs by the Spanish",
+      "definitions_ex_vn": "Cuộc chinh phục Aztec của Tây Ban Nha",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425703_ff8bdb5873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425703_06eeea5371_o.png",
+      "id_image": "conquer_2597236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425663_27739f37a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425663_92dfff6643_o.png",
+      "id_image": "conquer_6257400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665814_414b514368_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665814_faaa7ac609_o.png",
+      "id_image": "conquest_3901923"
+    }
+  ]
+}

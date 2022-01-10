@@ -1,0 +1,37 @@
+{
+  "english": "bequest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vật di tặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật truyền cho",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a legacy.",
+      "definitions_ex_en": "her $135,000 was the largest bequest the library ever has received",
+      "definitions_ex_vn": "135.000 đô la của cô ấy là cuộc khổng lồ lớn nhất mà thư viện từng nhận được",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351562_6e3c22ce05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351562_4354e07eb8_o.png",
+      "id_image": "bequest_4807874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422563_8f96556742_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422563_202d20a55b_o.png",
+      "id_image": "bequest_6000666"
+    }
+  ]
+}

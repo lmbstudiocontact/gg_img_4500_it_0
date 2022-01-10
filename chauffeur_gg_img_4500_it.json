@@ -1,0 +1,34 @@
+{
+  "english": "chauffeur",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tài xế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lái xe hơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person employed to drive a private or rented automobile.",
+      "definitions_ex_en": "a chauffeur-driven limousine",
+      "definitions_ex_vn": "một chiếc limousine theo chu kỳ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "drive (a car or a passenger in a car), typically as part of one's job.",
+      "definitions_ex_en": "she insisted on being chauffeured around",
+      "definitions_ex_vn": "cô ấy khăng khăng đang được chăm sóc xung quanh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312666_11ee55de56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312666_ba5526c5a3_o.png",
+      "id_image": "chauffeur_4635340"
+    }
+  ]
+}

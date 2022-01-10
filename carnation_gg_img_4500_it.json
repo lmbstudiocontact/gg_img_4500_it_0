@@ -1,0 +1,39 @@
+{
+  "english": "carnation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoa cẩm chướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu hồng lợt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a double-flowered cultivated variety of clove pink, with gray-green leaves and showy pink, white, or red flowers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rosy pink color.",
+      "definitions_ex_en": "sage and carnation throw pillows",
+      "definitions_ex_vn": "Sage and Carnation Ném Gối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680154_78ff4f4b3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680154_80696fd5d8_o.png",
+      "id_image": "carnation_1943620"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061830_3024221420_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061830_627400172e_o.png",
+      "id_image": "carnation_6080491"
+    }
+  ]
+}

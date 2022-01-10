@@ -1,0 +1,64 @@
+{
+  "english": "charity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bố thí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng nhân ái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường dạy không lấy tiền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an organization set up to provide help and raise money for those in need.",
+      "definitions_ex_en": "the charity provides practical help for homeless people",
+      "definitions_ex_vn": "Từ thiện cung cấp sự giúp đỡ thiết thực cho những người vô gia cư",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the voluntary giving of help, typically in the form of money, to those in need.",
+      "definitions_ex_en": "the care of the poor must not be left to private charity",
+      "definitions_ex_vn": "Sự chăm sóc của người nghèo không được để lại từ thiện tư nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "kindness and tolerance in judging others.",
+      "definitions_ex_en": "she found it hard to look on her mother with much charity",
+      "definitions_ex_vn": "Cô thấy khó nhìn mẹ với nhiều từ thiện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668054_e907db2c09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668054_7693056b23_o.png",
+      "id_image": "charity_171788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357192_522414d409_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357192_a474ed0128_o.png",
+      "id_image": "charity_1772131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049680_d2b061ab5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049680_2f5719f142_o.png",
+      "id_image": "charity_4590156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357127_639484b29d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357127_2cc1f02e58_o.png",
+      "id_image": "charity_4729473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357217_7d2011c76c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357217_5687c877b1_o.png",
+      "id_image": "charity_996965"
+    }
+  ]
+}

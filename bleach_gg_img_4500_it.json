@@ -1,0 +1,62 @@
+{
+  "english": "bleach",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bay màu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất làm phai màu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phai màu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất tẩy trắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm phai màu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "whiten by exposure to sunlight or by a chemical process.",
+      "definitions_ex_en": "paper products are bleached with chlorine",
+      "definitions_ex_vn": "Sản phẩm giấy được tẩy trắng với clo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "clean and sterilize.",
+      "definitions_ex_en": "a new formula to bleach and brighten clothing",
+      "definitions_ex_vn": "một công thức mới để tẩy và làm sáng quần áo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a chemical (typically a solution of sodium hypochlorite or hydrogen peroxide) used to whiten or sterilize materials.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417798_e19530c370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417798_67860f1ba3_o.png",
+      "id_image": "bleach_2797713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039315_a11d02d8a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039315_af2a17aca0_o.png",
+      "id_image": "bleach_2912631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039345_68acfd59a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039345_dac588735d_o.png",
+      "id_image": "bleach_862997"
+    }
+  ]
+}

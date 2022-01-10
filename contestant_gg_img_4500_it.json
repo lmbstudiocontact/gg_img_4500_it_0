@@ -1,0 +1,46 @@
+{
+  "english": "contestant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đấu thủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địch thủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tranh biện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dự tranh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who takes part in a contest or competition.",
+      "definitions_ex_en": "an anxious contestant on a television quiz show",
+      "definitions_ex_vn": "Một thí sinh lo lắng về một chương trình đố tivel",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351237_86df41897f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351237_01cd40048a_o.png",
+      "id_image": "contestant_4016204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662404_0862b5fe54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662404_3dc2f3470f_o.png",
+      "id_image": "contestant_4016221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307086_a8e36961d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307086_9d42e264f1_o.png",
+      "id_image": "contestant_5824046"
+    }
+  ]
+}

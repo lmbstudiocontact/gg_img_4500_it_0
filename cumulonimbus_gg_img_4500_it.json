@@ -1,0 +1,24 @@
+{
+  "english": "cumulonimbus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mây tích loạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cloud forming a towering mass with a flat base at fairly low altitude and often a flat top, as in thunderstorms.",
+      "definitions_ex_en": "the development of clouds from fair-weather cumulus to giant cumulonimbus",
+      "definitions_ex_vn": "sự phát triển của những đám mây từ cumulus thời tiết công bằng đến cumulonimbus khổng lồ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670419_36ba43421d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670419_f98e718e6e_o.png",
+      "id_image": "cumulonimbus_1146821"
+    }
+  ]
+}

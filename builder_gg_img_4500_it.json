@@ -1,0 +1,43 @@
+{
+  "english": "builder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người xây cất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà thầu khoán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who constructs something by putting parts or material together over a period of time.",
+      "definitions_ex_en": "a boat builder",
+      "definitions_ex_vn": "một người xây dựng thuyền",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312126_3e589df78d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312126_f42f7e168b_o.png",
+      "id_image": "builder_2827375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356192_930842074b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356192_ab89b338b7_o.png",
+      "id_image": "builder_307928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426958_5429e6c4ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426958_2b6260b29f_o.png",
+      "id_image": "builder_5233852"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312141_e1b5861812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312141_d3064df55f_o.png",
+      "id_image": "builder_773373"
+    }
+  ]
+}

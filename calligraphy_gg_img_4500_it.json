@@ -1,0 +1,42 @@
+{
+  "english": "calligraphy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chử viết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chử viết đẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chử viết tốt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "decorative handwriting or handwritten lettering.",
+      "definitions_ex_en": "a label written in admirable calligraphy",
+      "definitions_ex_vn": "Một nhãn được viết trong thư pháp đáng ngưỡng mộ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660864_4d31cf5a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660864_18a05227f6_o.png",
+      "id_image": "calligraphy_1531393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420443_ec1cb0634b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420443_b1ab3f2f40_o.png",
+      "id_image": "calligraphy_2722232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349647_337b542ac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349647_256b7169de_o.png",
+      "id_image": "calligraphy_673519"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "boost",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoe khoan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phô trương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giúp đở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giúp đở người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm quảng cáo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nâng đở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tăng áp lượng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tố thêm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "help or encourage (something) to increase or improve.",
+      "definitions_ex_en": "a range of measures to boost tourism",
+      "definitions_ex_vn": "một loạt các biện pháp để tăng cường du lịch",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a source of help or encouragement leading to increase or improvement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368007_b2ea4868d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368007_4b22fb4dca_o.png",
+      "id_image": "boost_2124566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059800_35dd422fa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059800_1587935abe_o.png",
+      "id_image": "boost_2654545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367942_eafc8d2bc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367942_ac455271cd_o.png",
+      "id_image": "boost_4674816"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "bangle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vòng tay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rigid bracelet or anklet.",
+      "definitions_ex_en": "she rubbed the ivory bangle on her wrist",
+      "definitions_ex_vn": "Cô chà xát vòng tay ngà trên cổ tay cô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053450_b66bc93a18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053450_316dea3787_o.png",
+      "id_image": "bangle_2439317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432033_6244ff9ef4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432033_5edbd1b367_o.png",
+      "id_image": "bangle_4579954"
+    }
+  ]
+}

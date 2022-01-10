@@ -1,0 +1,24 @@
+{
+  "english": "conditioner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dầu dưỡng tóc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance or appliance used to improve or maintain something's condition.",
+      "definitions_ex_en": "add a water conditioner to neutralize chlorine",
+      "definitions_ex_vn": "Thêm một chất điều hòa nước để trung hòa clo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313316_2f672d0bfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313316_c6b9f8ebce_o.png",
+      "id_image": "conditioner_1658259"
+    }
+  ]
+}

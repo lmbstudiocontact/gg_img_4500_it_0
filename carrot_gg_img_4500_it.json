@@ -1,0 +1,48 @@
+{
+  "english": "carrot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cải cà rốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cà rốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "củ ca rốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc lá quấn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tapering orange-colored root eaten as a vegetable.",
+      "definitions_ex_en": "roast lamb with peas and carrots",
+      "definitions_ex_vn": "thịt cừu nướng với đậu Hà Lan và cà rốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cultivated feathery-leaved plant of the parsley family that yields this vegetable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an offer of something enticing as a means of persuasion (often contrasted with the threat of something punitive or unwelcome).",
+      "definitions_ex_en": "carrots will promote cooperation over the environment far more effectively than sticks",
+      "definitions_ex_vn": "cà rốt sẽ thúc đẩy sự hợp tác trên môi trường hiệu quả hơn nhiều so với gậy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438703_bd3c1b2826_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438703_9a06ba05a3_o.png",
+      "id_image": "carrot_3469064"
+    }
+  ]
+}

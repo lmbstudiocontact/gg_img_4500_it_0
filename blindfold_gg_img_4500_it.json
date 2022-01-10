@@ -1,0 +1,77 @@
+{
+  "english": "blindfold",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khinh xuất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mắt bịt lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự bịt mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khinh xuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "băng mắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bịt mắt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of cloth tied around the head to cover someone's eyes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deprive (someone) of sight by tying a piece of cloth around the head so as to cover the eyes.",
+      "definitions_ex_en": "he was blindfolded and trussed up in a cupboard",
+      "definitions_ex_vn": "Anh ta bị bịt mắt và mắc kẹt trong tủ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "wearing a blindfold.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "with a blindfold covering the eyes.",
+      "definitions_ex_en": "the reporter was driven blindfold to meet the gangster",
+      "definitions_ex_vn": "Phóng viên được thúc đẩy bịt mắt để gặp xã hội đen",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346827_cbceaee436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346827_4c0f626a5c_o.png",
+      "id_image": "blindfold_1818617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346812_496834f691_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346812_6862154399_o.png",
+      "id_image": "blindfold_4329457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039185_06780d28b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039185_0db8f16506_o.png",
+      "id_image": "blindfold_5236548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417658_9d8a75a8c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417658_a810f46d15_o.png",
+      "id_image": "blindfold_6333063"
+    }
+  ]
+}

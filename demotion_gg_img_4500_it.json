@@ -1,0 +1,28 @@
+{
+  "english": "demotion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giáng cấp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reduction in rank or status.",
+      "definitions_ex_en": "too many demotions would weaken morale",
+      "definitions_ex_vn": "Quá nhiều điều sắc sẽ làm suy yếu tinh thần",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332541_0c997f47c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332541_b1f8991256_o.png",
+      "id_image": "demotion_562549"
+    }
+  ]
+}

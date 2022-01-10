@@ -1,0 +1,52 @@
+{
+  "english": "counselor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chỉ giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cố vấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cố vấn ngoại giao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khuyên bảo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person trained to give guidance on personal, social, or psychological problems.",
+      "definitions_ex_en": "a marriage counselor",
+      "definitions_ex_vn": "một cố vấn hôn nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a senior officer in the diplomatic service.",
+      "definitions_ex_en": "a counselor at the Russian embassy",
+      "definitions_ex_vn": "một cố vấn tại Đại sứ quán Nga",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327966_bdfd42a3e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327966_498c0b9af5_o.png",
+      "id_image": "counseling_4899603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064555_4994cfbed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064555_d3aa8c3531_o.png",
+      "id_image": "counseling_6000924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682884_4e1dcaf6e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682884_a981109d3f_o.png",
+      "id_image": "counselor_2534571"
+    }
+  ]
+}

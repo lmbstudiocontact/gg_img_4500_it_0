@@ -1,0 +1,24 @@
+{
+  "english": "babysitter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người giử em bé",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who looks after a child or children while the parents are out.",
+      "definitions_ex_en": "he couldn't find a babysitter",
+      "definitions_ex_vn": "Anh ta không thể tìm thấy người giữ trẻ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367892_c4f3e2cec5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367892_077cdc3442_o.png",
+      "id_image": "babysitter_4632388"
+    }
+  ]
+}

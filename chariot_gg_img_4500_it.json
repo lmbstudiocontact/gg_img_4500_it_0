@@ -1,0 +1,57 @@
+{
+  "english": "chariot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe hồi xưa để đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe ngựa để đi chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chở người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xe kiển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a two-wheeled horse-drawn vehicle used in ancient warfare and racing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convey in or as in a chariot.",
+      "definitions_ex_en": "he was charioted into the Temple",
+      "definitions_ex_vn": "Anh ta bị lôi vào đền thờ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313421_dd0c0eb8b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313421_97a165fba5_o.png",
+      "id_image": "chariot_1172865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428208_de1448fbc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428208_59d7e82f62_o.png",
+      "id_image": "chariot_2298974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313371_5ae3d87434_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313371_b5bf0feb3e_o.png",
+      "id_image": "chariot_2451168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357357_440ccb8a48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357357_973ce0b872_o.png",
+      "id_image": "chariot_5830263"
+    }
+  ]
+}

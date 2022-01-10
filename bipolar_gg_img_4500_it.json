@@ -1,0 +1,52 @@
+{
+  "english": "bipolar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lưỡng cực",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or relating to two poles or extremities.",
+      "definitions_ex_en": "a sharply bipolar division of affluent and underclass",
+      "definitions_ex_vn": "một phân chia lưỡng cực sắc sảo của những người giàu có và lớp dưới",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of psychiatric illness) characterized by both manic and depressive episodes, or manic ones only.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a nerve cell) having two axons, one either side of the cell body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a transistor or other device) using both positive and negative charge carriers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659224_e42ec89a96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659224_8f12385734_o.png",
+      "id_image": "bipolar_1753141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348092_90515fa063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348092_728eef7c67_o.png",
+      "id_image": "bipolar_3998102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659189_4c3bdc8327_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659189_ea1132a601_o.png",
+      "id_image": "bipolar_4524975"
+    }
+  ]
+}

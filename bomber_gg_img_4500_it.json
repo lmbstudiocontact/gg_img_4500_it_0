@@ -1,0 +1,46 @@
+{
+  "english": "bomber",
+  "list_translation_mean": [
+    {
+      "translate_mean": "liệng lựu đạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ném bom",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an aircraft designed to carry and drop bombs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who plants, detonates, or throws bombs in a public place, especially as a terrorist.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cigarette containing marijuana.",
+      "definitions_ex_en": "Manny hand rolled a couple of bombers",
+      "definitions_ex_vn": "Manny tay lăn một vài máy bay ném bom",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for bomber jacket.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061890_fc3d587736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061890_e798ac0152_o.png",
+      "id_image": "bomber_4611905"
+    }
+  ]
+}

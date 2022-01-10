@@ -1,0 +1,56 @@
+{
+  "english": "demolition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách phá hủy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phá hoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đả đảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh đổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of demolishing or being demolished.",
+      "definitions_ex_en": "the monument was saved from demolition",
+      "definitions_ex_vn": "Tượng đài đã được cứu khỏi phá hủy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448263_d2625b690a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448263_55bbb3ee98_o.png",
+      "id_image": "demolition_1540006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333121_f5323ffaca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333121_90c7e6f51b_o.png",
+      "id_image": "demolition_2154649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069970_26936320f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069970_0bdbf6babf_o.png",
+      "id_image": "demolition_2276341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070115_36c5f0e0f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070115_69935ae362_o.png",
+      "id_image": "demolition_479341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448113_4a82f7eceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448113_9bddaf547d_o.png",
+      "id_image": "demolition_6077927"
+    }
+  ]
+}

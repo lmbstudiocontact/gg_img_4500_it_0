@@ -1,0 +1,50 @@
+{
+  "english": "catfish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá trê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cá trê ở nước mặm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a freshwater or marine fish with barbels resembling whiskers around the mouth, typically bottom-dwelling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for wolffish.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fish for catfish.",
+      "definitions_ex_en": "we catfished until the wee hours",
+      "definitions_ex_vn": "Chúng tôi catfished cho đến khi nửa đêm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319431_c7dd41cf99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319431_4830ac2f31_o.png",
+      "id_image": "catfish_1717949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674309_dce22de164_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674309_aa8a4323f8_o.png",
+      "id_image": "catfish_4516027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364077_10be071bd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364077_0d69b2b225_o.png",
+      "id_image": "catfish_4717868"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "bin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thùng đựng rượu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thùng bằng cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng rác",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a receptacle for storing a specified substance.",
+      "definitions_ex_en": "a vegetable bin",
+      "definitions_ex_vn": "một thùng rau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place (something) in a bin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "variant spelling of bi- before a vowel (as in binaural ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042055_281047fce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042055_c037c4cf43_o.png",
+      "id_image": "bin_169788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305031_ec35fcc10e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305031_2833db6474_o.png",
+      "id_image": "bin_169827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041980_7a2911ef7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041980_ce4f177f9f_o.png",
+      "id_image": "bin_1730600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349182_9ae103901f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349182_536fb01cd3_o.png",
+      "id_image": "bin_2371884"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "english": "debris",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mảnh vở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mảnh vụn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "scattered pieces of waste or remains.",
+      "definitions_ex_en": "the bomb hits it, showering debris from all sides",
+      "definitions_ex_vn": "Bom đánh nó, tắm các mảnh vụn từ mọi phía",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663349_1ebc066e44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663349_4303d2b8bc_o.png",
+      "id_image": "debris_698582"
+    }
+  ]
+}

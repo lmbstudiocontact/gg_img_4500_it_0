@@ -1,0 +1,57 @@
+{
+  "english": "circus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bồn binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dảy nhà vòng tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hát xiệc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a traveling company of acrobats, clowns, and other entertainers which gives performances, typically in a large tent, in a series of different places.",
+      "definitions_ex_en": "a circus elephant",
+      "definitions_ex_vn": "một con voi xiếc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in ancient Rome) a rounded or oblong arena lined with tiers of seats, used for equestrian and other sports and games.",
+      "definitions_ex_en": "the Circus Maximus",
+      "definitions_ex_vn": "Circus Maximus.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350362_67b89289ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350362_26a6f5bef0_o.png",
+      "id_image": "circus_1753948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306166_ff8d089c00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306166_586392effa_o.png",
+      "id_image": "circus_2519125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043185_d601fc7eed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043185_3cd47f53c3_o.png",
+      "id_image": "circus_2519129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043245_931608ae19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043245_2025204100_o.png",
+      "id_image": "circus_675172"
+    }
+  ]
+}

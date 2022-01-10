@@ -1,0 +1,66 @@
+{
+  "english": "bolster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gối ngang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mang trục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "binh vực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chống đở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ủng hộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, thick pillow that is placed under other pillows for support.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy chisel used for cutting bricks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "support or strengthen; prop up.",
+      "definitions_ex_en": "the fall in interest rates is starting to bolster confidence",
+      "definitions_ex_vn": "Lãi suất giảm đang bắt đầu tăng cường sự tự tin",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325571_9014f4ae22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325571_2b2e51eede_o.png",
+      "id_image": "bolster_3364573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680594_cd566dc101_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680594_3545b44781_o.png",
+      "id_image": "bolster_3958379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680584_6eb6d52bbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680584_8934535d47_o.png",
+      "id_image": "bolster_6214710"
+    }
+  ]
+}

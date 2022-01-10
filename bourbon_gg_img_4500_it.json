@@ -1,0 +1,40 @@
+{
+  "english": "bourbon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rượu whisky ngô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a straight whiskey distilled from a mash having at least 51 percent corn in addition to malt and rye.",
+      "definitions_ex_en": "he moved to the sideboard to pour himself a bourbon",
+      "definitions_ex_vn": "Anh di chuyển đến một bên để rót cho mình một bourbon",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rose of a variety that flowers over a long period and has a rich scent. It arose as a natural hybrid on the island of Réunion (formerly Île de Bourbon) and was introduced into Europe in the early 19th century.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057340_0daec43e28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057340_2530d65a67_o.png",
+      "id_image": "bourbon_3361132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320566_5aa87e1176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320566_c9458ddde1_o.png",
+      "id_image": "bourbon_3884778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435708_1c22f11721_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435708_c2553cb0df_o.png",
+      "id_image": "bourbon_4829249"
+    }
+  ]
+}

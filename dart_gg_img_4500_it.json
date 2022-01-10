@@ -1,0 +1,97 @@
+{
+  "english": "dart",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đâm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cây lao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cung tên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nọc ong chích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhảy tới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vọt tới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xông vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small pointed missile that can be thrown or fired.",
+      "definitions_ex_en": "the classroom was littered with paper darts",
+      "definitions_ex_vn": "Lớp học đã được rải rác với phi tiêu giấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of running somewhere suddenly and rapidly.",
+      "definitions_ex_en": "the cat made a dart for the door",
+      "definitions_ex_vn": "Con mèo đã tạo ra một phi tiêu cho cánh cửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tapered tuck stitched in a garment in order to shape it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move or run somewhere suddenly or rapidly.",
+      "definitions_ex_en": "she darted across the street",
+      "definitions_ex_vn": "Cô ấy phóng băng qua đường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425498_027239c5cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425498_5684dfdec6_o.png",
+      "id_image": "dart_165085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665674_121c0930ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665674_0d62e1acfc_o.png",
+      "id_image": "dart_2112127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047265_d3a891afcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047265_7b2e04db24_o.png",
+      "id_image": "dart_2586750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354587_273baaf067_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354587_070e0b8d06_o.png",
+      "id_image": "dart_3468314"
+    }
+  ]
+}

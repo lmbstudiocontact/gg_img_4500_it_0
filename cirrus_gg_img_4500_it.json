@@ -1,0 +1,42 @@
+{
+  "english": "cirrus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tua quăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mây quyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súc mao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòi cây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cloud forming wispy filamentous tufted streaks (“mare's tails”) at high altitude, usually 16,500–45,000 feet (5–13 km).",
+      "definitions_ex_en": "long strands of high cirrus stretched across the eastern sky",
+      "definitions_ex_vn": "Những sợi dài của Cirrus cao trải dài trên bầu trời phía đông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slender tendril or hairlike filament, such as the appendage of a barnacle, the barbel of a fish, or the intromittent organ of an earthworm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043130_105dfea1a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043130_8efde28737_o.png",
+      "id_image": "cirrus_1146813"
+    }
+  ]
+}

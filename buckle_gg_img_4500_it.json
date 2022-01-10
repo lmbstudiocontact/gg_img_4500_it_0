@@ -1,0 +1,48 @@
+{
+  "english": "buckle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái khâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khóa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat, typically rectangular frame with a hinged pin, used for joining the ends of a belt or strap.",
+      "definitions_ex_en": "most rucksacks have quick release buckles",
+      "definitions_ex_vn": "Hầu hết các ba lô có khóa phát hành nhanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten with a buckle.",
+      "definitions_ex_en": "he buckled his belt",
+      "definitions_ex_vn": "Anh ta khóa thắt lưng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bend and give way under a weight or force.",
+      "definitions_ex_en": "the bridge started shaking and then it began to buckle",
+      "definitions_ex_vn": "Cây cầu bắt đầu run rẩy và sau đó nó bắt đầu khóa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049965_b8eec62749_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049965_9b086bf3a3_o.png",
+      "id_image": "buckle_1793086"
+    }
+  ]
+}

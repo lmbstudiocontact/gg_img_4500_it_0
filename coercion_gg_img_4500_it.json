@@ -1,0 +1,32 @@
+{
+  "english": "coercion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bắt buộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cưỡng bách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ép buộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the practice of persuading someone to do something by using force or threats.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680309_256c40c796_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680309_ca97a71a64_o.png",
+      "id_image": "coercion_708664"
+    }
+  ]
+}

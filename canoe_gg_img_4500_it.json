@@ -1,0 +1,58 @@
+{
+  "english": "canoe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xuồng bơi bằng dầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuồng dài và nhọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuồng độc mộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a narrow, keelless boat with pointed ends, propelled by a paddle or paddles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel in or paddle a canoe.",
+      "definitions_ex_en": "he had once canoed down the Nile",
+      "definitions_ex_vn": "anh ta đã từng raped xuống sông Nile",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375327_5c34e1fd42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375327_2a6f5df579_o.png",
+      "id_image": "canoe_2262886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330631_4a42e0b4b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330631_fd735ee082_o.png",
+      "id_image": "canoe_3904201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330576_11c2350ccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330576_1d399e774c_o.png",
+      "id_image": "canoe_4610933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067370_674ecee9b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067370_1a25ce3575_o.png",
+      "id_image": "canoe_4737418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375197_d8dded3304_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375197_07baca68bc_o.png",
+      "id_image": "canoe_4984981"
+    }
+  ]
+}

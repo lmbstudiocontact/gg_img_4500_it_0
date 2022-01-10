@@ -1,0 +1,45 @@
+{
+  "english": "bankruptcy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự phá sản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being bankrupt.",
+      "definitions_ex_en": "many companies were facing bankruptcy",
+      "definitions_ex_vn": "Nhiều công ty đang phải đối mặt với sự phá sản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state of being completely lacking in a particular quality or value.",
+      "definitions_ex_en": "the moral bankruptcy of turning away desperate people",
+      "definitions_ex_vn": "phá sản đạo đức của việc biến những người tuyệt vọng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052990_0074c291f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052990_0c988c0c49_o.png",
+      "id_image": "bankruptcy_2112410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052955_ee69640f1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052955_83544cf37a_o.png",
+      "id_image": "bankruptcy_2361779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671194_5b8ce96b17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671194_45c8e2b5df_o.png",
+      "id_image": "bankruptcy_2762494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360732_67fd611845_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360732_e838b27275_o.png",
+      "id_image": "bankruptcy_6418136"
+    }
+  ]
+}

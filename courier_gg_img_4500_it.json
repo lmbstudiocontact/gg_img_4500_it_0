@@ -1,0 +1,53 @@
+{
+  "english": "courier",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chạy giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tùy tùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tùy phái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a company or employee of a company that transports commercial packages and documents.",
+      "definitions_ex_en": "the check was dispatched by courier",
+      "definitions_ex_vn": "Kiểm tra đã được gửi đi bởi chuyển phát nhanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "send or transport (goods or documents) by courier.",
+      "definitions_ex_en": "your order can be couriered to you in three days",
+      "definitions_ex_vn": "Đơn hàng của bạn có thể được chuyển phát nhanh cho bạn trong ba ngày",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326466_137b696353_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326466_0d3b92308a_o.png",
+      "id_image": "courier_307940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681414_681af74119_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681414_ed24dd85f1_o.png",
+      "id_image": "courier_3445850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371147_6ef30290aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371147_c65d4d158a_o.png",
+      "id_image": "courier_360461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681399_8263108a07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681399_194cfba492_o.png",
+      "id_image": "courier_4586037"
+    }
+  ]
+}

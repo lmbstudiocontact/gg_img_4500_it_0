@@ -1,0 +1,28 @@
+{
+  "english": "champagne",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rượu sâm banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tên vùng đông bắc nước pháp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a white sparkling wine associated with celebration and regarded as a symbol of luxury, typically that made in the Champagne region of France.",
+      "definitions_ex_en": "the couple celebrated with a glass of champagne",
+      "definitions_ex_vn": "Cặp đôi được tổ chức với một ly rượu sâm banh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358952_57f7f6873d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358952_2408f5b9c7_o.png",
+      "id_image": "champagne_1067970"
+    }
+  ]
+}

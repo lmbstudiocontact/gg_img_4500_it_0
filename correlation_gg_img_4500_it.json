@@ -1,0 +1,32 @@
+{
+  "english": "correlation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự liên quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quan hệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tương quan",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mutual relationship or connection between two or more things.",
+      "definitions_ex_en": "research showed a clear correlation between recession and levels of property crime",
+      "definitions_ex_vn": "Nghiên cứu cho thấy một mối tương quan rõ ràng giữa suy thoái và mức độ tội phạm tài sản",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685634_68f61d9f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685634_4120541384_o.png",
+      "id_image": "correlation_5835658"
+    }
+  ]
+}

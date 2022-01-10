@@ -1,0 +1,34 @@
+{
+  "english": "brewery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ làm rượu bia",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place where beer is made commercially.",
+      "definitions_ex_en": "work continued on the new lager brewery in Alton",
+      "definitions_ex_vn": "Công việc tiếp tục trên Nhà máy bia Lager mới ở Alton",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053310_5b9e1cb38d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053310_0a362b98e8_o.png",
+      "id_image": "brewery_2533834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361142_0839c9e042_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361142_45943079db_o.png",
+      "id_image": "brewery_2534029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316916_02dea8f716_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316916_39ebc3b35a_o.png",
+      "id_image": "brewery_382267"
+    }
+  ]
+}

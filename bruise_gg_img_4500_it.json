@@ -1,0 +1,64 @@
+{
+  "english": "bruise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ móp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái cây giập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết bầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết thâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm giập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mốp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thương tích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an injury appearing as an area of discolored skin on the body, caused by a blow or impact rupturing underlying blood vessels.",
+      "definitions_ex_en": "his body was a mass of bruises after he had been attacked",
+      "definitions_ex_vn": "Cơ thể anh ta là một khối bầm tím sau khi anh ta bị tấn công",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "inflict a bruise or bruises on (a part of the body).",
+      "definitions_ex_en": "I fell and bruised my knee",
+      "definitions_ex_vn": "Tôi ngã và bầm ẫm đầu gối của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "crush or pound (food).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314046_ae9130a71d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314046_d86157bf03_o.png",
+      "id_image": "bruise_3387208"
+    }
+  ]
+}

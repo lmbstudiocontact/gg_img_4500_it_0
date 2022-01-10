@@ -1,0 +1,35 @@
+{
+  "english": "cuneiform",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình cái nêm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "denoting or relating to the wedge-shaped characters used in the ancient writing systems of Mesopotamia, Persia, and Ugarit, surviving mainly impressed on clay tablets.",
+      "definitions_ex_en": "a cuneiform inscription",
+      "definitions_ex_vn": "một dòng chữ hình ủ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "cuneiform writing.",
+      "definitions_ex_en": "a Mesopotamian script pre-dating cuneiform",
+      "definitions_ex_vn": "một kịch bản mesopotamian pre-dating cuneiform",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315696_06e1c66b8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315696_60fa071715_o.png",
+      "id_image": "cuneiform_4598756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359832_ca58abaa0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359832_ea9d635f0b_o.png",
+      "id_image": "cuneiform_5017975"
+    }
+  ]
+}

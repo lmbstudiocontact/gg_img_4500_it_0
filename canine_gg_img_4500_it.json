@@ -1,0 +1,40 @@
+{
+  "english": "canine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giống chó",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về chó",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or resembling a dog or dogs.",
+      "definitions_ex_en": "canine distemper virus",
+      "definitions_ex_vn": "Virus distemper Canine",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a dog.",
+      "definitions_ex_en": "the majority agreed with neutering stray canines",
+      "definitions_ex_vn": "Phần lớn đồng ý với răng nanh đi lạc trung hòa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pointed tooth between the incisors and premolars of a mammal, often greatly enlarged in carnivores.",
+      "definitions_ex_en": "most primates use their canine teeth for fighting",
+      "definitions_ex_vn": "Hầu hết các loài linh trưởng sử dụng răng nanh của họ để chiến đấu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331251_d114dace7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331251_e818082bd5_o.png",
+      "id_image": "canine_1386919"
+    }
+  ]
+}

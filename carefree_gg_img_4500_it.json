@@ -1,0 +1,38 @@
+{
+  "english": "carefree",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không lo lắng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người không buồn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "free from anxiety or responsibility.",
+      "definitions_ex_en": "the carefree days of summer",
+      "definitions_ex_vn": "Những ngày vô tư của mùa hè",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440548_ef713edab8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440548_359d70d98c_o.png",
+      "id_image": "carefree_4743093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062310_6559dbdefd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062310_17e7357856_o.png",
+      "id_image": "carefree_4743123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680524_7b14358114_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680524_96851d5840_o.png",
+      "id_image": "carefree_6213232"
+    }
+  ]
+}

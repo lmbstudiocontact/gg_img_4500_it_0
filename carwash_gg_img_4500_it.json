@@ -1,0 +1,34 @@
+{
+  "english": "carwash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỗ rửa xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi rửa xe",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building containing equipment for washing cars or other vehicles automatically.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an event, typically a fundraiser, in which cars or other vehicles are washed by hand.",
+      "definitions_ex_en": "the Teen Center will hold its third annual car wash on Saturday",
+      "definitions_ex_vn": "Trung tâm tuổi teen sẽ giữ rửa xe thứ ba hàng năm vào thứ bảy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677739_1e682b6b65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677739_060fdef793_o.png",
+      "id_image": "carwash_5284705"
+    }
+  ]
+}

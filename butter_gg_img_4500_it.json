@@ -1,0 +1,39 @@
+{
+  "english": "butter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nịnh hót",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pale yellow edible fatty substance made by churning cream and used as a spread or in cooking.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spread (something) with butter.",
+      "definitions_ex_en": "she buttered the toast",
+      "definitions_ex_vn": "Cô ấy bơ bánh mì nướng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352032_4acb409537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352032_d2bb5277d4_o.png",
+      "id_image": "butter_4391885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422988_1f5a4e1224_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422988_efeccbe73f_o.png",
+      "id_image": "butter_5816145"
+    }
+  ]
+}

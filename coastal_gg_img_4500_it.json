@@ -1,0 +1,28 @@
+{
+  "english": "coastal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về bờ biển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "miền duyên hãi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or near a coast.",
+      "definitions_ex_en": "coastal erosion",
+      "definitions_ex_vn": "duyên hải ven biển",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064105_382fed56cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064105_49d756b17c_o.png",
+      "id_image": "coastal_1659987"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "cuboid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có hình khối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống hình khối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình lập phương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "more or less cubic in shape.",
+      "definitions_ex_en": "the school was a hideous cuboid erection of brick and glass",
+      "definitions_ex_vn": "Trường học là một hình khối cương cứng gồ ghề của gạch và kính",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a solid which has six rectangular faces at right angles to each other.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a squat tarsal bone on the outer side of the foot, articulating with the heel bone and the fourth and fifth metatarsals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671269_b9a44b22c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671269_a67449b4c2_o.png",
+      "id_image": "cuboid_6181858"
+    }
+  ]
+}

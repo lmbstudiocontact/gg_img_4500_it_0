@@ -1,0 +1,40 @@
+{
+  "english": "blowout",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tắt lửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi tắt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden rupture or malfunction of a part or an apparatus due to pressure, in particular the bursting of an automobile tire.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large or lavish meal or social gathering.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hollow eroded by the wind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065050_9fa8f7f8c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065050_3765961289_o.png",
+      "id_image": "blowout_2289519"
+    }
+  ]
+}

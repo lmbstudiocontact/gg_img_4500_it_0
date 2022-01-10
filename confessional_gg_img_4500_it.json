@@ -1,0 +1,42 @@
+{
+  "english": "confessional",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về tôn giáo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an enclosed stall in a church divided by a screen or curtain in which a priest sits to hear people confess their sins.",
+      "definitions_ex_en": "the secrets of the confessional",
+      "definitions_ex_vn": "những bí mật của sự thú nhận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an admission or acknowledgment that one has done something that one is ashamed or embarrassed about; a confession.",
+      "definitions_ex_en": "tabloid confessionals",
+      "definitions_ex_vn": "TAPOID THUỐC.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially of speech or writing) in which a person reveals or admits to private thoughts or past incidents, especially ones that cause shame or embarrassment.",
+      "definitions_ex_en": "the autobiography is remarkably confessional",
+      "definitions_ex_vn": "tự truyện là thú vị đáng chú ý",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to confessions of faith or doctrinal systems.",
+      "definitions_ex_en": "the confessional approach to religious education",
+      "definitions_ex_vn": "Cách tiếp cận thú vị đối với giáo dục tôn giáo",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356632_ea9ee25c36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356632_78e551c4d1_o.png",
+      "id_image": "confessional_443600"
+    }
+  ]
+}

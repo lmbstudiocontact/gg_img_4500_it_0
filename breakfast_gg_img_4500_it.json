@@ -1,0 +1,58 @@
+{
+  "english": "breakfast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bữa ăn sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bữa sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn sáng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a meal eaten in the morning, the first of the day.",
+      "definitions_ex_en": "I don't eat breakfast",
+      "definitions_ex_vn": "Tôi không ăn sáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "eat breakfast.",
+      "definitions_ex_en": "she breakfasted on French toast and bacon",
+      "definitions_ex_vn": "Cô ấy đã ăn sáng trên bánh mì nướng Pháp và thịt xông khói",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672154_0f91bf658b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672154_0a783a295a_o.png",
+      "id_image": "breakfast_1010965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053930_0426cb624a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053930_f0b23c37ce_o.png",
+      "id_image": "breakfast_421790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672114_08a92033b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672114_9dc9017ed4_o.png",
+      "id_image": "breakfast_4289202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317351_56d205c1c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317351_05e7a6e043_o.png",
+      "id_image": "breakfast_5284697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317446_fe2c33d447_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317446_2a11bdf76b_o.png",
+      "id_image": "breakfast_854293"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "client",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khách hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thân chủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or organization using the services of a lawyer or other professional person or company.",
+      "definitions_ex_en": "insurance tailor-made to a client's specific requirements",
+      "definitions_ex_vn": "Bảo hiểm phù hợp với các yêu cầu cụ thể của khách hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in a network) a desktop computer or workstation that is capable of obtaining information and applications from a server.",
+      "definitions_ex_en": "workstation clients are going to be easy to install",
+      "definitions_ex_vn": "Khách hàng máy trạm sẽ dễ dàng cài đặt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in ancient Rome) a plebeian under the protection of a patrician.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040955_02934cfbaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040955_e32d44fd52_o.png",
+      "id_image": "client_2620242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304091_a94323329a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304091_03e57df4f2_o.png",
+      "id_image": "client_3043463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348347_ba18237e15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348347_55b4221bf6_o.png",
+      "id_image": "client_536853"
+    }
+  ]
+}

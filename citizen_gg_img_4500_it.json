@@ -1,0 +1,47 @@
+{
+  "english": "citizen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dân ở thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ở thành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a legally recognized subject or national of a state or commonwealth, either native or naturalized.",
+      "definitions_ex_en": "a Polish citizen",
+      "definitions_ex_vn": "một công dân Ba Lan.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661434_eedfa82da9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661434_9a7f970225_o.png",
+      "id_image": "citizen_1339965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305976_08c22d71e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305976_33f58b5530_o.png",
+      "id_image": "citizen_1339987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042960_ae9e63793f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042960_61baaf489d_o.png",
+      "id_image": "citizen_3571168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421078_c0629699ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421078_8532e6ce7c_o.png",
+      "id_image": "citizen_5605873"
+    }
+  ]
+}

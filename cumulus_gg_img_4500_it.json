@@ -1,0 +1,28 @@
+{
+  "english": "cumulus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mây tích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cloud forming rounded masses heaped on each other above a flat base at fairly low altitude.",
+      "definitions_ex_en": "the high cumulus is breaking up to give a lovely summer evening",
+      "definitions_ex_vn": "Cumulus cao đang chia tay để cho một buổi tối mùa hè đáng yêu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670374_2833ffeb6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670374_b88ce1acd3_o.png",
+      "id_image": "cumulus_1146819"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "cleaner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lau chùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy giặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cạo ống khói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người quét dọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tẩy uế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ giặt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person employed to clean the interior of a building.",
+      "definitions_ex_en": "she's one of the office cleaners",
+      "definitions_ex_vn": "Cô ấy là một trong những người dọn dẹp văn phòng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419448_15243589f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419448_ef92c1fa80_o.png",
+      "id_image": "cleaner_1886780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419433_d4ce010454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419433_808ce74f64_o.png",
+      "id_image": "cleaner_1983321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304486_abe0d44edf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304486_55407e4439_o.png",
+      "id_image": "cleaner_323953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659799_bbc16c4ff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659799_4cacffc9c3_o.png",
+      "id_image": "cleaner_4633167"
+    }
+  ]
+}

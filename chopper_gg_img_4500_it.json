@@ -1,0 +1,84 @@
+{
+  "english": "chopper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao bầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dao để thái thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bửa củi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người xắt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short axe with a large blade.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a helicopter.",
+      "definitions_ex_en": "fog had delayed the landing of his chopper",
+      "definitions_ex_vn": "Sương mù đã trì hoãn việc hạ cánh của chiếc chopper của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a motorcycle, especially one with high handlebars and the front-wheel fork extended forward.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a batted ball that makes a high bounce after hitting the ground in fair territory.",
+      "definitions_ex_en": "Bell followed with a high chopper to the third baseman",
+      "definitions_ex_vn": "Bell theo sau với một chiếc Chopper cao cho Baseman thứ ba",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663064_1594966d80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663064_7fd08ea3a0_o.png",
+      "id_image": "chopper_2160628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422938_c11feb0269_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422938_79601d805f_o.png",
+      "id_image": "chopper_5238581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307766_650c1cfc0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307766_0e2aaf48f6_o.png",
+      "id_image": "chopper_5663653"
+    }
+  ]
+}

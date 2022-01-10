@@ -1,0 +1,127 @@
+{
+  "english": "center",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trung tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trung ương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trung khu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vai trung phong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ chính giữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu nhọn của máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tâm điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tập trung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tụ hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tụ tập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trọng tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trung bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trung tâm điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng bán nguyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiến xây cung",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the middle point of a circle or sphere, equidistant from every point on the circumference or surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the point from which an activity or process is directed, or on which it is focused.",
+      "definitions_ex_en": "the city was a center of discontent",
+      "definitions_ex_vn": "Thành phố là một trung tâm của sự bất mãn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place or group of buildings where a specified activity is concentrated.",
+      "definitions_ex_en": "a center for medical research",
+      "definitions_ex_vn": "một trung tâm nghiên cứu y tế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "occur mainly in or around (a specified place).",
+      "definitions_ex_en": "the mercantile association was centered in northern Germany",
+      "definitions_ex_vn": "Hiệp hội Mercantile đã tập trung ở miền bắc nước Đức",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place in the middle.",
+      "definitions_ex_en": "to center the needle, turn the knob",
+      "definitions_ex_vn": "để trung tâm kim, xoay núm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431838_a537418c88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431838_3339f78367_o.png",
+      "id_image": "center_1256386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361062_638ee8c6c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361062_07b5b94c8c_o.png",
+      "id_image": "center_1588861"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431893_f3f8641b00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431893_6023ed08c3_o.png",
+      "id_image": "center_316541"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316771_770704d0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316771_36409df6c5_o.png",
+      "id_image": "center_4598263"
+    }
+  ]
+}

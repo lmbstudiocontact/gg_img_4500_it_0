@@ -1,0 +1,115 @@
+{
+  "english": "bell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ phồng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loa kèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đài hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kêu la",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khởi đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khởi xướng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hollow object, typically made of metal and having the shape of a deep inverted cup widening at the lip, that sounds a clear musical note when struck, typically by means of a clapper inside.",
+      "definitions_ex_en": "the church bells tolled",
+      "definitions_ex_vn": "Chuông nhà thờ thu phí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bell-shaped object or part of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a musical instrument consisting of a set of cylindrical metal tubes of different lengths, suspended in a frame and played by being struck with a hammer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(preceded by a numeral) the time as indicated every half hour of a watch by the striking of the ship's bell one to eight times.",
+      "definitions_ex_en": "at five bells in the forenoon of June 11",
+      "definitions_ex_vn": "tại năm tiếng chuông trong buổi chiếu sáng ngày 11 tháng 6",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cry of a stag or buck at rutting time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with a bell or bells; attach a bell or bells to.",
+      "definitions_ex_en": "the young men were belling and hobbling the horses before releasing them",
+      "definitions_ex_vn": "Những chàng trai trẻ đang belling và lúng túng những con ngựa trước khi phát hành chúng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a ringing sound likened to that of a bell.",
+      "definitions_ex_en": "the organ belling away",
+      "definitions_ex_vn": "cơ quan belling đi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "spread or flare outward like the lip of a bell.",
+      "definitions_ex_en": "her shirt belled out behind",
+      "definitions_ex_vn": "áo cô ấy thổi ra phía sau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a stag or buck) make a cry at rutting time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352502_830737ae78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352502_20c352df03_o.png",
+      "id_image": "bell_178199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352442_48cd54e7e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352442_6e9b76de14_o.png",
+      "id_image": "bell_225732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423493_f8a409077d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423493_c447a2b160_o.png",
+      "id_image": "bell_570739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045195_8d05c709ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045195_126800a68d_o.png",
+      "id_image": "bell_615725"
+    }
+  ]
+}

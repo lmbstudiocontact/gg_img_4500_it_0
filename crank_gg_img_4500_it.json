@@ -1,0 +1,96 @@
+{
+  "english": "crank",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tay quây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cán quây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nói đùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý tưởng kỳ hoặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy chạy không đều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kỳ dị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quái gở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh kỳ cục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bẻ cong lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uốn thành hình khuỷu tay",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "turn the crankshaft of (an internal combustion engine) in order to start the engine.",
+      "definitions_ex_en": "the starter motor struggled to crank the engine",
+      "definitions_ex_vn": "động cơ khởi động vật lộn để quay động cơ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give a bend to (a shaft, bar, etc.).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a part of an axle or shaft bent out at right angles, for converting reciprocal to circular motion and vice versa.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the drug methamphetamine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an eccentric person, especially one who is obsessed by a particular subject or theory.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fanciful turn of speech.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a sailing ship) easily keeled over, especially by wind or sea through improper design or loading.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060530_ce8032d2c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060530_a629e5a767_o.png",
+      "id_image": "crank_1411857"
+    }
+  ]
+}

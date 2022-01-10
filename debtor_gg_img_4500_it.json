@@ -1,0 +1,33 @@
+{
+  "english": "debtor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người mắc nợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thiếu nợ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or institution that owes a sum of money.",
+      "definitions_ex_en": "generally, debtors must negotiate with each creditor separately",
+      "definitions_ex_vn": "Nói chung, các con nợ phải thương lượng với mỗi chủ nợ riêng biệt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423058_087edb3ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423058_a67ee6c76d_o.png",
+      "id_image": "debtor_2361748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307851_c27eae94d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307851_7373d24848_o.png",
+      "id_image": "debtor_2719733"
+    }
+  ]
+}

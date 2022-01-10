@@ -1,0 +1,57 @@
+{
+  "english": "blouse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo cánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo của phụ nữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo khoác ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại áo mỏng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman's loose upper garment resembling a shirt, typically with a collar, buttons, and sleeves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (a garment) hang in loose folds.",
+      "definitions_ex_en": "I bloused my trousers over my boots",
+      "definitions_ex_vn": "Tôi mặc quần áo của tôi trên đôi giày của tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328716_56cb07f254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328716_1b617784a5_o.png",
+      "id_image": "blouse_343353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328686_6d21467095_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328686_25384e9b7a_o.png",
+      "id_image": "blouse_606854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443633_dd21229a12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443633_3f20d25f9d_o.png",
+      "id_image": "blouse_658833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065425_ff295c5b65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065425_e6229ff0d6_o.png",
+      "id_image": "blouse_658837"
+    }
+  ]
+}

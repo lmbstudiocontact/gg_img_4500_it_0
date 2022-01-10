@@ -1,0 +1,77 @@
+{
+  "english": "cage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồng của thang máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy lên xuống của hầm mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà giam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sườn nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trại giam tù binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống như cái lồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ vào lồng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a structure of bars or wires in which birds or other animals are confined.",
+      "definitions_ex_en": "she kept a canary in a cage",
+      "definitions_ex_vn": "Cô giữ một con chim hoàng yến trong một cái lồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "confine in or as in a cage.",
+      "definitions_ex_en": "the parrot screamed, furious at being caged",
+      "definitions_ex_vn": "Con vẹt hét lên, giận dữ đang bị nhốt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043550_f829a4d3b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043550_6966dccef2_o.png",
+      "id_image": "cage_257510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421653_db600c1a9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421653_675eddb31f_o.png",
+      "id_image": "cage_3841056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421633_698142bfc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421633_6d1a219093_o.png",
+      "id_image": "cage_5291964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661844_2f897a74c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661844_26ce6bcfea_o.png",
+      "id_image": "cage_877127"
+    }
+  ]
+}

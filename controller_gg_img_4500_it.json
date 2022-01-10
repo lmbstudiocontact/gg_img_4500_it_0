@@ -1,0 +1,49 @@
+{
+  "english": "controller",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người cầm lái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chỉ huy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người có quyền lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người điều khiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kiểm soát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viên giám sát",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that directs or regulates something.",
+      "definitions_ex_en": "the power controller on a subway train",
+      "definitions_ex_vn": "bộ điều khiển năng lượng trên tàu điện ngầm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350312_f13933005f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350312_2b99deac9d_o.png",
+      "id_image": "controller_1408988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306116_187ea37d96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306116_5b1772ee18_o.png",
+      "id_image": "controller_1425575"
+    }
+  ]
+}

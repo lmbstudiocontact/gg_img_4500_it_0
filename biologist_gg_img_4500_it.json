@@ -1,0 +1,29 @@
+{
+  "english": "biologist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sinh vật học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an expert in or student of the branch of science concerning living organisms.",
+      "definitions_ex_en": "a team of marine biologists",
+      "definitions_ex_vn": "một đội ngũ sinh học biển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041315_286c090654_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041315_3cb894ab68_o.png",
+      "id_image": "biologist_1075066"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304471_891af67718_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304471_64d370be28_o.png",
+      "id_image": "biologist_1075067"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "commentator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chú thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà phê bình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who comments on events or on a text.",
+      "definitions_ex_en": "commentators noted that the demonstration was part of a wider strategy",
+      "definitions_ex_vn": "Các nhà bình luận lưu ý rằng cuộc biểu tình là một phần của chiến lược rộng lớn hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363897_b727bb30c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363897_35a0d10107_o.png",
+      "id_image": "commentator_1044326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319216_8a8d4849f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319216_91afd9509b_o.png",
+      "id_image": "commentator_1685088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674044_5033a98217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674044_a2535a8772_o.png",
+      "id_image": "commentator_3966897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434303_d16218736d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434303_ab274396c7_o.png",
+      "id_image": "commentator_3966909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673984_9513ebd3e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673984_6dd486461f_o.png",
+      "id_image": "commentator_4318982"
+    }
+  ]
+}

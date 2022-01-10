@@ -1,0 +1,69 @@
+{
+  "english": "competence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chức quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chức vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khả năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "năng lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài cán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng đầy đủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẩm quyền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability to do something successfully or efficiently.",
+      "definitions_ex_en": "the players displayed varying degrees of competence",
+      "definitions_ex_vn": "Các cầu thủ thể hiện mức độ có năng lực khác nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an income large enough to live on, typically unearned.",
+      "definitions_ex_en": "he found himself with an ample competence and no obligations",
+      "definitions_ex_vn": "anh ta thấy mình với một năng lực rộng rãi và không có nghĩa vụ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431803_9e23218674_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431803_a3d703943f_o.png",
+      "id_image": "competence_2631384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053185_33a25b559c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053185_202522c12e_o.png",
+      "id_image": "competence_4593108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671404_2486f2021a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671404_0f9afb76b1_o.png",
+      "id_image": "competence_5308133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361077_2d0a67ce60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361077_6668c569c5_o.png",
+      "id_image": "competence_992616"
+    }
+  ]
+}

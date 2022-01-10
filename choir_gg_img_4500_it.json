@@ -1,0 +1,54 @@
+{
+  "english": "choir",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban hát trong giáo đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hợp ca",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một ban ca",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đội ca",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hát cùng một lúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hợp xướng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an organized group of singers, typically one that takes part in church services or performs regularly in public.",
+      "definitions_ex_en": "the Baptist choir",
+      "definitions_ex_vn": "dàn hợp xướng Baptist.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423588_e80b6389ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423588_61c7a55254_o.png",
+      "id_image": "choir_1312035"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352457_1c8665fdbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352457_ed91b575b0_o.png",
+      "id_image": "choir_2336073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663624_13f25acd7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663624_aa48b89d85_o.png",
+      "id_image": "choir_667724"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "circulation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "số báo in ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ấn loát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đồn tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lưu hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lưu thông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rao tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự truyền tin",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "movement to and fro or around something, especially that of fluid in a closed system.",
+      "definitions_ex_en": "an extra pump for good water circulation",
+      "definitions_ex_vn": "một máy bơm bổ sung cho tuần hoàn nước tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the public availability or knowledge of something.",
+      "definitions_ex_en": "his music has achieved wide circulation",
+      "definitions_ex_vn": "Âm nhạc của anh ấy đã đạt được sự lưu thông rộng rãi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306296_89541f4079_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306296_630de1d685_o.png",
+      "id_image": "circulation_2911081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043305_2256172434_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043305_3e3fa23bc3_o.png",
+      "id_image": "circulation_3653348"
+    }
+  ]
+}

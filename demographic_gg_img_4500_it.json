@@ -1,0 +1,50 @@
+{
+  "english": "demographic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhân khẩu học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the structure of populations.",
+      "definitions_ex_en": "the demographic trend is toward an older population",
+      "definitions_ex_vn": "Xu hướng nhân khẩu học là về dân số cũ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a particular sector of a population.",
+      "definitions_ex_en": "the drink is popular with a young demographic",
+      "definitions_ex_vn": "Đồ uống rất phổ biến với một nhân khẩu học trẻ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378582_6f3efdb542_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378582_a502365513_o.png",
+      "id_image": "demographic_1610398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448758_3a9cb494e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448758_d639047fd4_o.png",
+      "id_image": "demographic_2620322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333656_50d64f94b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333656_ed8e5f84af_o.png",
+      "id_image": "demographic_4540092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688654_47d18ef455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688654_6365765b0f_o.png",
+      "id_image": "demographic_5139797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448668_3c191e8551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448668_ef1378d38f_o.png",
+      "id_image": "demographic_5835300"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "canape",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh mì nướng trên có bơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small piece of bread or pastry with a savory topping, often served with drinks at a reception or formal party.",
+      "definitions_ex_en": "smoked-salmon canapés",
+      "definitions_ex_vn": "hun khói-cá hồi canapés",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sofa, especially a decorative French antique.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419133_d934236390_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419133_d6be57ca67_o.png",
+      "id_image": "canape_1901233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659414_065b13e505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659414_10f2c32fec_o.png",
+      "id_image": "canape_4082570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304071_e41f84d897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304071_4868a54c52_o.png",
+      "id_image": "canape_4125711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419173_4b260a1e1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419173_9d1e0128fb_o.png",
+      "id_image": "canape_457860"
+    }
+  ]
+}

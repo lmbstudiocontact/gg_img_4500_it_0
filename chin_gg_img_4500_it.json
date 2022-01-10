@@ -1,0 +1,56 @@
+{
+  "english": "chin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cằm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói bá láp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói luôn miệng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the protruding part of the face below the mouth, formed by the apex of the lower jaw.",
+      "definitions_ex_en": "gray stubble covered his cheeks and chin",
+      "definitions_ex_vn": "râu xám che má và cằm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a people of southwestern Burma (Myanmar) and neighboring parts of India and Bangladesh.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Tibeto-Burman language of the Chin, with about 800,000 speakers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "draw one's body up so as to bring one's chin level with or above (a horizontal bar) with one's feet off the ground, as an exercise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "relating to the Chin or their language.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308941_a937124f1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308941_4968c7e45e_o.png",
+      "id_image": "chin_5737351"
+    }
+  ]
+}

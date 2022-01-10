@@ -1,0 +1,35 @@
+{
+  "english": "decode",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mã dịch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "convert (a coded message) into intelligible language.",
+      "definitions_ex_en": "he put down the phone and decoded the message",
+      "definitions_ex_vn": "Anh ấy đặt điện thoại xuống và giải mã tin nhắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a translation of a coded message.",
+      "definitions_ex_en": "studying reports, poring over decodes",
+      "definitions_ex_vn": "học báo cáo, bảo vệ quá nhiều giải mã",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044110_b0dbb45abd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044110_a96e49cb19_o.png",
+      "id_image": "decode_2456546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307041_3f122998d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307041_981c2e9f17_o.png",
+      "id_image": "decode_3500698"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "english": "bereavement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or condition of being bereaved.",
+      "definitions_ex_en": "there is no right way to experience bereavement",
+      "definitions_ex_vn": "Không có cách nào để trải nghiệm mất người thân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044345_07baa1f048_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044345_7918ce1fc6_o.png",
+      "id_image": "bereavement_6000675"
+    }
+  ]
+}
