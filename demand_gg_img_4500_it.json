@@ -1,0 +1,78 @@
+{
+  "english": "demand",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu hỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời xin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời yêu cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhu cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thỉnh nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xin việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầu cứu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an insistent and peremptory request, made as if by right.",
+      "definitions_ex_en": "a series of demands for far-reaching reforms",
+      "definitions_ex_vn": "một loạt các yêu cầu để cải cách sâu rộng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ask authoritatively or brusquely.",
+      "definitions_ex_en": "“Where is she?” he demanded",
+      "definitions_ex_vn": "\"Cô ấy ở đâu?\"",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334001_84cfbec075_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334001_6d7597b5bd_o.png",
+      "id_image": "demand_1888488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449018_05f71a06ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449018_8ea3fb1f23_o.png",
+      "id_image": "demand_3382611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070960_89c913daa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070960_39151ffef5_o.png",
+      "id_image": "demand_4497181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333881_4f0844f5d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333881_b46ef2522e_o.png",
+      "id_image": "demand_5823815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689139_85aab2e0fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689139_14395e2038_o.png",
+      "id_image": "demand_992826"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "collective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công cộng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "của chung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tập đoàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tập hợp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về đoàn thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "do nhiều người",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "done by people acting as a group.",
+      "definitions_ex_en": "a collective protest",
+      "definitions_ex_vn": "một cuộc biểu tình tập thể.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a cooperative enterprise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058515_bb2b104cd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058515_e0cbd1ff1b_o.png",
+      "id_image": "collective_1402120"
+    }
+  ]
+}

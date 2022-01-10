@@ -1,0 +1,77 @@
+{
+  "english": "breakdown",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe hư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị hư máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phá sập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hỏng hóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự suy nhược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thất bại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mechanical failure.",
+      "definitions_ex_en": "breakdowns could totally disrupt production",
+      "definitions_ex_vn": "Sự cố hoàn toàn có thể phá vỡ sản xuất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a failure of a relationship or system.",
+      "definitions_ex_en": "a breakdown in military discipline",
+      "definitions_ex_vn": "một sự cố trong kỷ luật quân sự",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the chemical or physical decomposition of something.",
+      "definitions_ex_en": "the breakdown of ammonia to nitrites",
+      "definitions_ex_vn": "Sự phân hủy amoniac với nitrit",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lively, energetic American country dance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672344_491ff05149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672344_1e7df1b446_o.png",
+      "id_image": "breakdown_923813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317551_5f03b15626_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317551_78a680701d_o.png",
+      "id_image": "breakdown_926689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432628_2bbeff75ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432628_805fa0ec5f_o.png",
+      "id_image": "breakdown_950422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053985_3246b4ca8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053985_cc27db99eb_o.png",
+      "id_image": "breakdown_950426"
+    }
+  ]
+}

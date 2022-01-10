@@ -1,0 +1,34 @@
+{
+  "english": "compatible",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tương dung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tương hợp",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of two things) able to exist or occur together without conflict.",
+      "definitions_ex_en": "the fruitiness of Beaujolais is compatible with a number of meat dishes",
+      "definitions_ex_vn": "Sự trái cây của Beaujolais tương thích với một số món thịt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a computer that can use software designed for another make or type.",
+      "definitions_ex_en": "packages available for IBM PCs and compatibles",
+      "definitions_ex_vn": "Gói có sẵn cho PC IBM và tương thích",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053370_2cee123abf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053370_7204174538_o.png",
+      "id_image": "compatible_2689697"
+    }
+  ]
+}

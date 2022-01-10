@@ -1,0 +1,76 @@
+{
+  "english": "chime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kêu vang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu êm tai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh chuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lặp lại có nhịp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuông giáo đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuông hòa âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần chúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hòa hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm gổ chân thùng rượu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a melodious ringing sound, as produced by striking a bell.",
+      "definitions_ex_en": "I hear the chimes of the hour from the courthouse",
+      "definitions_ex_vn": "Tôi nghe thấy tiếng chuông của giờ từ tòa án",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the projecting rim at the end of a cask.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a bell or clock) make melodious ringing sounds, typically to indicate the time.",
+      "definitions_ex_en": "the grandfather clock in the next room chimed",
+      "definitions_ex_vn": "Đồng hồ ông nội ở phòng tiếp theo bị xáo trộn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353387_3f2a02850c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353387_5a46292dd5_o.png",
+      "id_image": "chime_1913264"
+    }
+  ]
+}

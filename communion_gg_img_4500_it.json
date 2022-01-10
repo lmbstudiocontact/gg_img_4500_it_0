@@ -1,0 +1,63 @@
+{
+  "english": "communion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giáo hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao thiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lể ban thánh thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liên lạc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sharing or exchanging of intimate thoughts and feelings, especially when the exchange is on a mental or spiritual level.",
+      "definitions_ex_en": "in this churchyard communion with the dead was almost palpable",
+      "definitions_ex_vn": "Trong sự hiệp thông nhà thờ này với người chết gần như sờ thấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the service of Christian worship at which bread and wine are consecrated and shared.",
+      "definitions_ex_en": "Communion was celebrated once a month",
+      "definitions_ex_vn": "Sự hiệp thông đã được tổ chức một lần một tháng một lần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a relationship of recognition and acceptance between Christian churches or denominations, or between individual Christians or Christian communities and a church (signified by a willingness to give or receive the Eucharist).",
+      "definitions_ex_en": "the Eastern Churches are not in communion with Rome",
+      "definitions_ex_vn": "Các nhà thờ phương Đông không hiệp thông với Rome",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054420_86f516c340_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054420_184a907263_o.png",
+      "id_image": "communion_2052265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672744_ee7a521b55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672744_9a7fdd41ba_o.png",
+      "id_image": "communion_443574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433063_70dac9fec8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433063_83ed22cb00_o.png",
+      "id_image": "communion_443575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672679_b26f6345f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672679_a7145d2150_o.png",
+      "id_image": "communion_443580"
+    }
+  ]
+}

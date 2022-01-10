@@ -1,0 +1,53 @@
+{
+  "english": "custom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thường lệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khách hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phong tục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tập quán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tục lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói quen",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a traditional and widely accepted way of behaving or doing something that is specific to a particular society, place, or time.",
+      "definitions_ex_en": "the old English custom of dancing around the maypole",
+      "definitions_ex_vn": "Tùy chỉnh tiếng Anh cũ của nhảy múa xung quanh Maypole",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313701_48efe0c167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313701_6e9cea71f3_o.png",
+      "id_image": "custom_2130671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357832_8485c72847_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357832_3abe470abb_o.png",
+      "id_image": "custom_2761020"
+    }
+  ]
+}

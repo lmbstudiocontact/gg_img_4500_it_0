@@ -1,0 +1,92 @@
+{
+  "english": "blood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công tữ bột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đúng mốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "huyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chích máu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the red liquid that circulates in the arteries and veins of humans and other vertebrate animals, carrying oxygen to and carbon dioxide from the tissues of the body.",
+      "definitions_ex_en": "drops of blood",
+      "definitions_ex_vn": "giọt máu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "violence involving bloodshed.",
+      "definitions_ex_en": "a commando operation full of blood and danger",
+      "definitions_ex_vn": "một hoạt động đặc công đầy máu và nguy hiểm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "temperament or disposition, especially when passionate.",
+      "definitions_ex_en": "a ritual that fires up his blood",
+      "definitions_ex_vn": "một nghi thức bắn lên máu của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "family background; descent or lineage.",
+      "definitions_ex_en": "she must have Irish blood in her",
+      "definitions_ex_vn": "cô ấy phải có máu irish trong cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fashionable and dashing young man.",
+      "definitions_ex_en": "a group of young bloods",
+      "definitions_ex_vn": "một nhóm máu trẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a Los Angeles street gang.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a North American people belonging to the Blackfoot Confederacy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "initiate (someone) in a particular activity.",
+      "definitions_ex_en": "clubs are too slow in blooding young players",
+      "definitions_ex_vn": "Câu lạc bộ quá chậm trong các cầu thủ trẻ máu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328971_bf2ec68213_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328971_6d1130c271_o.png",
+      "id_image": "blood_1548345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684019_a57705b5e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684019_fac96838e0_o.png",
+      "id_image": "blood_205916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373667_4a17d52d48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373667_af5f6b3d5e_o.png",
+      "id_image": "blood_2904539"
+    }
+  ]
+}

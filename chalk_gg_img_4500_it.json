@@ -1,0 +1,87 @@
+{
+  "english": "chalk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đánh dấu bằng phấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh phấn cho trắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lằn gạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá vôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn màu để vẽ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điểm ghi bằng phấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn viết bảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bôi phấn cho trắng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi dấu bằng phấn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a soft white limestone (calcium carbonate) formed from the skeletal remains of sea creatures.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for French chalk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "write or draw with chalk.",
+      "definitions_ex_en": "he chalked a message on the board",
+      "definitions_ex_vn": "Anh ta đánh phấn một tin nhắn trên bảng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315066_6cb0a0a59e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315066_f22e01a453_o.png",
+      "id_image": "chalks_546642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315106_7c58fbe504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315106_da509b5612_o.png",
+      "id_image": "chalk_1298728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430043_4653d99204_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430043_1831b8499a_o.png",
+      "id_image": "chalk_200427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359202_5379567953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359202_efa3d1926a_o.png",
+      "id_image": "chalk_4539150"
+    }
+  ]
+}

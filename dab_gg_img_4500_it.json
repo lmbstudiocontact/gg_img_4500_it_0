@@ -1,0 +1,138 @@
+{
+  "english": "dab",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái đánh nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu chỉ tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một số ít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ cá giống chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết mực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái mổ của chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái vổ nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vổ nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạm nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thoa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh nột cú nhẹ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh nhẹ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vổ nhẹ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "press against (something) lightly with a piece of absorbent material in order to clean or dry it.",
+      "definitions_ex_en": "he dabbed his mouth with his napkin",
+      "definitions_ex_vn": "Anh ta nhét miệng bằng khăn ăn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "aim at or strike with a light blow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "perform a dance move or gesture in which one arm is bent at an angle across the chest while the other is fully extended parallel to the first arm, with the face turned toward the bent elbow.",
+      "definitions_ex_en": "the player who dabs after touchdowns",
+      "definitions_ex_vn": "Người chơi DABS sau khi chạm bóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a small amount of something.",
+      "definitions_ex_en": "she licked a dab of chocolate from her finger",
+      "definitions_ex_vn": "Cô liếm một miếng sô cô la từ ngón tay của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small, commercially important flatfish found chiefly in the North Atlantic.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dance move or gesture, originating in hip hop and often performed as part of a celebration, in which one arm is bent at an angle across the upper chest while the other is fully extended parallel to the first arm, with the face turned toward the bent elbow.",
+      "definitions_ex_en": "his signature dab",
+      "definitions_ex_vn": "Chữ ký của anh ấy DAB.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "digital audio broadcasting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356207_122264a200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356207_5f2b641661_o.png",
+      "id_image": "dab_1430755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667084_d7493c9310_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667084_66a3c24ab7_o.png",
+      "id_image": "dab_1902268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356177_e4323f606f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356177_b37a0c97b9_o.png",
+      "id_image": "dab_5775062"
+    }
+  ]
+}

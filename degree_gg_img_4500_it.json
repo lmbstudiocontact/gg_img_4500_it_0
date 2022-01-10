@@ -1,0 +1,104 @@
+{
+  "english": "degree",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm trình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bậc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đẳng cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giai cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẩm cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thượng lưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trình độ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the amount, level, or extent to which something happens or is present.",
+      "definitions_ex_en": "a degree of caution is probably wise",
+      "definitions_ex_vn": "một mức độ thận trọng có lẽ là khôn ngoan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit of measurement of angles, one three-hundred-and-sixtieth of the circumference of a circle.",
+      "definitions_ex_en": "set at an angle of 45 degrees",
+      "definitions_ex_vn": "Đặt ở góc 45 độ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit in any of various scales of temperature, intensity, or hardness.",
+      "definitions_ex_en": "water boils at 100 degrees Celsius",
+      "definitions_ex_vn": "nước sôi ở 100 độ C",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an academic rank conferred by a college or university after examination or after completion of a course of study, or conferred as an honor on a distinguished person.",
+      "definitions_ex_en": "a degree in zoology",
+      "definitions_ex_vn": "một mức độ trong động vật học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "social or official rank.",
+      "definitions_ex_en": "persons of unequal degree",
+      "definitions_ex_vn": "Những người có bằng cấp bất bình đẳng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042620_519b5fcd94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042620_869f22c5ed_o.png",
+      "id_image": "degree_1440972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661109_db96f63905_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661109_84296b1e8e_o.png",
+      "id_image": "degree_2036626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042610_92893b4f78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042610_4f1fe8b91e_o.png",
+      "id_image": "degree_2070913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305646_4f352c472a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305646_3a8fab256f_o.png",
+      "id_image": "degree_2234743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661089_b897658c9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661089_8010e66a22_o.png",
+      "id_image": "degree_4650621"
+    }
+  ]
+}

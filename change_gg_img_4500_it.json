@@ -1,0 +1,158 @@
+{
+  "english": "change",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biến chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biến đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao dịch chứng khóan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi chác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi sắc mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thay đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền tệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trao đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền thối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi chác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự biến đổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự đổi chác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự giao dịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự thay đổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự trao đổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay đổi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (someone or something) different; alter or modify.",
+      "definitions_ex_en": "both parties voted against proposals to change the law",
+      "definitions_ex_vn": "Cả hai bên đã bỏ phiếu chống lại các đề xuất để thay đổi luật pháp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "replace (something) with something else, especially something of the same kind that is newer or better; substitute one thing for (another).",
+      "definitions_ex_en": "she decided to change her name",
+      "definitions_ex_vn": "Cô quyết định đổi tên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put different clothes on.",
+      "definitions_ex_en": "he changed for dinner",
+      "definitions_ex_vn": "Anh ấy thay đổi cho bữa tối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move to a different train, airplane, or subway line.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the act or instance of making or becoming different.",
+      "definitions_ex_en": "the change from a nomadic to an agricultural society",
+      "definitions_ex_vn": "sự thay đổi từ một du mục thành một xã hội nông nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "coins as opposed to paper currency.",
+      "definitions_ex_en": "a handful of loose change",
+      "definitions_ex_vn": "một số ít thay đổi lỏng lẻo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an order in which a peal of bells can be rung.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place where merchants met to do business.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429263_3107581854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429263_152a81feaf_o.png",
+      "id_image": "change_1605275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050920_9076b2cecf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050920_01a4f26b67_o.png",
+      "id_image": "change_2164459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429178_9dd4b6e2c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429178_7daf379ac1_o.png",
+      "id_image": "change_4845867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050855_4ae4b9e05f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050855_4749eb7e9e_o.png",
+      "id_image": "change_6192275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669064_a307e0a2d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669064_8fd0b38d18_o.png",
+      "id_image": "change_939245"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "bandage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "băng keo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "băng bó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "băng cấp cứu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "băng cứu thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "băng thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cột băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "băng cá nhân",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strip of material used to bind a wound or to protect an injured part of the body.",
+      "definitions_ex_en": "her leg was swathed in bandages",
+      "definitions_ex_vn": "Chân cô bị cuốn vào băng bó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bind (a wound or a part of the body) with a protective strip of material.",
+      "definitions_ex_en": "bandage the foot so that the ankle is supported",
+      "definitions_ex_vn": "băng chân để mắt cá chân được hỗ trợ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361717_307af49a4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361717_f3d7a8ceaf_o.png",
+      "id_image": "bandage_123772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432433_68fdc68471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432433_3d75059b5a_o.png",
+      "id_image": "bandage_3111449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361587_4365d04881_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361587_367390c00f_o.png",
+      "id_image": "bandage_4664904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432318_3060cce166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432318_b7a4bf552a_o.png",
+      "id_image": "bandage_5139126"
+    }
+  ]
+}

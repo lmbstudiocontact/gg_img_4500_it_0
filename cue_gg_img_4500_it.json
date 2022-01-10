@@ -1,0 +1,58 @@
+{
+  "english": "cue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây cơ bida",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căn dặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ bảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lọn tóc xỏa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vai trò",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing said or done that serves as a signal to an actor or other performer to enter or to begin their speech or performance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, straight, tapering wooden rod for striking the ball in pool, billiards, snooker, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give a cue to or for.",
+      "definitions_ex_en": "curious pedestrians are cued by the arrival of stretch limousines",
+      "definitions_ex_vn": "Người đi bộ tò mò được cued bởi sự xuất hiện của limousine kéo dài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use a cue to strike a ball in pool, billiards, snooker, etc.",
+      "definitions_ex_en": "Mark cued well early on",
+      "definitions_ex_vn": "Mark cued tốt sớm trên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360537_c0151f1b94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360537_6ff87467a1_o.png",
+      "id_image": "cue_239287"
+    }
+  ]
+}

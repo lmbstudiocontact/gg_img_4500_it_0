@@ -1,0 +1,44 @@
+{
+  "english": "borrow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mượn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take and use (something that belongs to someone else) with the intention of returning it.",
+      "definitions_ex_en": "he had borrowed a car from one of his colleagues",
+      "definitions_ex_vn": "Ông đã mượn một chiếc xe hơi từ một trong những đồng nghiệp của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a slope or other irregularity on a golf course which must be compensated for when playing a shot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366917_255a696ef7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366917_d1f91482b5_o.png",
+      "id_image": "borrow_2112455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321956_02294dbdba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321956_889c12be18_o.png",
+      "id_image": "borrow_2361932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321911_29388eb55a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321911_82c33f3b1d_o.png",
+      "id_image": "borrow_2417791"
+    }
+  ]
+}

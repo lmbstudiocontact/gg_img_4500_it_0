@@ -1,0 +1,50 @@
+{
+  "english": "coffee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cà phê",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub.",
+      "definitions_ex_en": "a cup of coffee",
+      "definitions_ex_vn": "một cốc cà phê",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the shrub of the bedstraw family that yields the coffee seeds, two of which are contained in each red berry. Native to the Old World tropics, most coffee is grown in tropical America.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325141_5feec400c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325141_f41bc3ea35_o.png",
+      "id_image": "coffee_421709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440113_0850dfe5ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440113_9fc52610cf_o.png",
+      "id_image": "coffee_434357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680224_fb2dbc8bf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680224_b847c38f2d_o.png",
+      "id_image": "coffee_434373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324986_69fd94ae4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324986_13014dd70c_o.png",
+      "id_image": "coffee_703027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369812_f2fd14b78d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369812_ed17e26a9a_o.png",
+      "id_image": "coffee_703029"
+    }
+  ]
+}

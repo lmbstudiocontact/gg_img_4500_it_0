@@ -1,0 +1,54 @@
+{
+  "english": "compliment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khen ngợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời khen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời khen tặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời thăm hỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tỏ kính ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khen ngợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tặng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a polite expression of praise or admiration.",
+      "definitions_ex_en": "she paid me an enormous compliment",
+      "definitions_ex_vn": "Cô ấy đã trả tiền cho tôi một lời khen lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "politely congratulate or praise (someone) for something.",
+      "definitions_ex_en": "he complimented Erica on her appearance",
+      "definitions_ex_vn": "Anh khen Erica về ngoại hình của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430538_b7d24c2fbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430538_dc4bcaa1af_o.png",
+      "id_image": "compliment_2210736"
+    }
+  ]
+}

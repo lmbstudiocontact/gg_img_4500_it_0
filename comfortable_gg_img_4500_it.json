@@ -1,0 +1,65 @@
+{
+  "english": "comfortable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "yên tâm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khoan khoái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiện lợi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiện dụng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thoải mái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vững lòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of clothes or furnishings) providing physical ease and relaxation.",
+      "definitions_ex_en": "invitingly comfortable beds",
+      "definitions_ex_vn": "Giường thoải mái mời",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "as large as is needed or wanted.",
+      "definitions_ex_en": "a comfortable income",
+      "definitions_ex_vn": "thu nhập thoải mái",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674779_3b0f7dec15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674779_8f7bc669dc_o.png",
+      "id_image": "comfortable_1727622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674729_fc98186639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674729_d515b24bdb_o.png",
+      "id_image": "comfortable_2254269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435023_fda05a684a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435023_a5bc8ba454_o.png",
+      "id_image": "comfortable_311729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319871_e79ba8de19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319871_049100f4e0_o.png",
+      "id_image": "comfortable_311791"
+    }
+  ]
+}

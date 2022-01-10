@@ -1,0 +1,105 @@
+{
+  "english": "bounce",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tung lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bật lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dội lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nẩy lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh khoe khoang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tung lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khoe khoang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dội lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bật lên",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an object, especially a ball) move quickly up, back, or away from a surface after hitting it; rebound (once or repeatedly).",
+      "definitions_ex_en": "the ball bounced away and he chased it",
+      "definitions_ex_vn": "Bóng bị trả lại và anh ta đuổi theo nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) jump repeatedly up and down, typically on something springy.",
+      "definitions_ex_en": "bouncing up and down on the mattress",
+      "definitions_ex_vn": "nảy lên xuống trên nệm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a check) be returned by a bank when there are insufficient funds to meet it.",
+      "definitions_ex_en": "my rent check bounced",
+      "definitions_ex_vn": "tiền thuê của tôi séc bị trả lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "eject (a troublemaker) forcibly from a nightclub or similar establishment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a rebound of a ball or other object.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of jumping or an instance of being moved up and down.",
+      "definitions_ex_en": "every bounce of the truck brought them into fresh contact",
+      "definitions_ex_vn": "mỗi chiếc xe tải mang chúng vào tiếp xúc tươi sống",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365757_af68df52e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365757_b803f2c366_o.png",
+      "id_image": "bounce_4542614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365797_47f4879259_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365797_9c4ae2bfb0_o.png",
+      "id_image": "bounce_496568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365727_f4c0e00069_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365727_eba9e3d7a0_o.png",
+      "id_image": "bounce_5060127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365712_0e944da77d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365712_0c105337cd_o.png",
+      "id_image": "bounce_5284182"
+    }
+  ]
+}

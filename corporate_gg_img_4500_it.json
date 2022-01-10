@@ -1,0 +1,54 @@
+{
+  "english": "corporate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoàn thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lập thành",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a corporation, especially a large company or group.",
+      "definitions_ex_en": "airlines are very keen on their corporate identity",
+      "definitions_ex_vn": "Các hãng hàng không rất quan tâm đến bản sắc công ty của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a corporate company or group.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068240_400e74f6a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068240_737a59c956_o.png",
+      "id_image": "corporate_1924394"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331451_5a5d20d0b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331451_daaa86b87d_o.png",
+      "id_image": "corporate_2112400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686429_7d4b4a5d1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686429_978da84e00_o.png",
+      "id_image": "corporate_2191157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446368_9a95e80e39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446368_7ffc3dcc80_o.png",
+      "id_image": "corporate_2573076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446313_4da912e2ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446313_4636bed2de_o.png",
+      "id_image": "corporate_5308235"
+    }
+  ]
+}

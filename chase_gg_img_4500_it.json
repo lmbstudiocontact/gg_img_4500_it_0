@@ -1,0 +1,147 @@
+{
+  "english": "chase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đánh đuổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đuối theo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường rãnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đuổi bắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu bị đuổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xoi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tẩu thoát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khu vực săn bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thú săn bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại súng đại bác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạm hình nổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi bắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn bắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuồn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi theo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pursue in order to catch or catch up with.",
+      "definitions_ex_en": "police chased the stolen car through the city",
+      "definitions_ex_vn": "Cảnh sát đuổi theo chiếc xe bị đánh cắp qua thành phố",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "drive or cause to go in a specified direction.",
+      "definitions_ex_en": "she chased him out of the house",
+      "definitions_ex_vn": "Cô đuổi anh ra khỏi nhà.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "engrave (metal, or a design on metal).",
+      "definitions_ex_en": "they didn't have foundries to cast or chase metal",
+      "definitions_ex_vn": "Họ không có xưởng đúc để đúc hoặc đuổi theo kim loại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of pursuing someone or something.",
+      "definitions_ex_en": "they captured the youths after a brief chase",
+      "definitions_ex_vn": "Họ chiếm được những thanh niên sau một cuộc rượt đuổi ngắn ngủi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in letterpress printing) a metal frame for holding the composed type and blocks being printed at one time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of a gun enclosing the bore.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a groove or furrow cut in the face of a wall or other surface to receive a pipe.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427778_7e92fbbd3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427778_bf02b9551b_o.png",
+      "id_image": "chase_2650033"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356942_833df124d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356942_3e31497885_o.png",
+      "id_image": "chase_3317174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312886_46bfa29352_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312886_fb2a5273d5_o.png",
+      "id_image": "chase_5773018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312846_845ce86458_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312846_94da2b0a03_o.png",
+      "id_image": "chase_5906164"
+    }
+  ]
+}

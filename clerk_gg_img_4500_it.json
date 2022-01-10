@@ -1,0 +1,64 @@
+{
+  "english": "clerk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giáo sỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học giã",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đứng bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà thông thái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thơ ký",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm thơ ký",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person employed in an office or bank to keep records, accounts, and undertake other routine administrative duties.",
+      "definitions_ex_en": "the clerk inserted the bank's master key in the lower lock",
+      "definitions_ex_vn": "Thư ký đã chèn khóa chủ của ngân hàng vào khóa dưới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of the clergy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041095_412b6c16e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041095_4761d8556a_o.png",
+      "id_image": "clerk_1983220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041115_0b6484eaed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041115_10592be54b_o.png",
+      "id_image": "clerk_560240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304251_4298acc534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304251_23018b0dd9_o.png",
+      "id_image": "clerk_827069"
+    }
+  ]
+}

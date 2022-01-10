@@ -1,0 +1,38 @@
+{
+  "english": "crucible",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nồi nấu kim loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thử thách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a ceramic or metal container in which metals or other substances may be melted or subjected to very high temperatures.",
+      "definitions_ex_en": "the crucible tipped and the mold filled with liquid metal",
+      "definitions_ex_vn": "Các nồi nấu kim loại và khuôn chứa đầy kim loại lỏng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433288_a579d8c9c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433288_a4888fab2c_o.png",
+      "id_image": "crucible_1504097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054625_01fd64e575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054625_3b03e1c32a_o.png",
+      "id_image": "crucible_1987365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362617_b4e491da6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362617_b1d2054513_o.png",
+      "id_image": "crucible_470512"
+    }
+  ]
+}

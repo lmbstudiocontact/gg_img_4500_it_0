@@ -1,0 +1,135 @@
+{
+  "english": "chill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đục vì lạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hết hăng hái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hóa nguội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lạnh buốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự ớn lạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tính lạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lạnh buốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lạnh cóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rùng mình vì lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng mờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ướp lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rùng mình vì lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cảm hàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hóa lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để lạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hết hăng hái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho lạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mờ vì lạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm sắt đúc khuôn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unpleasant feeling of coldness in the atmosphere, one's surroundings, or the body.",
+      "definitions_ex_en": "there was a chill in the air",
+      "definitions_ex_vn": "Có một sự lạnh lẽo trong không khí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a metal mold or part of a mold, often cooled, designed to ensure rapid or even cooling of metal during casting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (someone) cold.",
+      "definitions_ex_en": "I'm chilled to the bone",
+      "definitions_ex_vn": "Tôi ướp lạnh xương",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "horrify or frighten (someone).",
+      "definitions_ex_en": "the city was chilled by the violence",
+      "definitions_ex_vn": "Thành phố đã được ướp lạnh bởi bạo lực",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "calm down and relax.",
+      "definitions_ex_en": "I can lean back and chill",
+      "definitions_ex_vn": "Tôi có thể lùi lại và thư giãn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "chilly.",
+      "definitions_ex_en": "the chill gray dawn",
+      "definitions_ex_vn": "bình minh màu xám lạnh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353632_62198b46b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353632_fd6708b1f0_o.png",
+      "id_image": "chill_1721746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424543_9413317af9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424543_d076ef4b9a_o.png",
+      "id_image": "chill_1730175"
+    }
+  ]
+}

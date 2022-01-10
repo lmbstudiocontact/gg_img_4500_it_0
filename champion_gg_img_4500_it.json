@@ -1,0 +1,96 @@
+{
+  "english": "champion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "binh vực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ủng hộ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người binh vực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đấu vỏ trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật tốt nhất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người vô địch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quán quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự binh vực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ủng hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảo hộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biện hộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who has defeated or surpassed all rivals in a competition, especially in sports.",
+      "definitions_ex_en": "a champion hurdler",
+      "definitions_ex_vn": "một champion ventdler.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who fights or argues for a cause or on behalf of someone else.",
+      "definitions_ex_en": "a champion of women's rights",
+      "definitions_ex_vn": "một nhà vô địch về quyền của phụ nữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "support the cause of; defend.",
+      "definitions_ex_en": "priests who championed human rights",
+      "definitions_ex_vn": "Các linh mục vô địch quyền con người",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429578_da614326d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429578_230863e0b3_o.png",
+      "id_image": "champions_5520819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358887_caf777d4ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358887_013dde522e_o.png",
+      "id_image": "champion_1620515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358852_5c7a91c339_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358852_a7735e1395_o.png",
+      "id_image": "champion_3295148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051285_5c3098cb8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051285_060e33e3da_o.png",
+      "id_image": "champion_4157942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669354_18ea2eca51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669354_13221d7c46_o.png",
+      "id_image": "champion_5784087"
+    }
+  ]
+}

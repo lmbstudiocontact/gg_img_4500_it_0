@@ -1,0 +1,86 @@
+{
+  "english": "blast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơi thổi ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luồng gió",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọn gió",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a destructive wave of highly compressed air spreading outward from an explosion.",
+      "definitions_ex_en": "they were thrown backward by the blast",
+      "definitions_ex_vn": "họ bị ném về phía sau bởi vụ nổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strong gust of wind or air.",
+      "definitions_ex_en": "the icy blast hit them",
+      "definitions_ex_vn": "vụ nổ băng giá đánh vào chúng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single loud note of a horn, whistle, or other noisemaking device.",
+      "definitions_ex_en": "a blast of the ship's siren",
+      "definitions_ex_vn": "một vụ nổ của còi báo động của con tàu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a severe reprimand.",
+      "definitions_ex_en": "I braced myself for the inevitable blast",
+      "definitions_ex_vn": "Tôi chuẩn bị cho bản thân mình vì vụ nổ không thể tránh khỏi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "blow up or break apart (something solid) with explosives.",
+      "definitions_ex_en": "quantities of solid rock had to be blasted away",
+      "definitions_ex_vn": "số lượng đá rắn phải được nổ tung",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be very loud; make a loud noise.",
+      "definitions_ex_en": "music was blasting from the speakers",
+      "definitions_ex_vn": "Âm nhạc đã nổ mìn từ các loa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "kick, strike, or throw (a ball) hard.",
+      "definitions_ex_en": "Ripken blasted the ball into the gap in right field",
+      "definitions_ex_vn": "Ripken nổ bóng vào khoảng cách trong cánh đồng phải",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "criticize fiercely.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a wind or other natural force) wither, shrivel, or blight (a plant).",
+      "definitions_ex_en": "crops blasted on the eve of harvest",
+      "definitions_ex_vn": "Cây trồng nổ tung trên đêm giao thừa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "denoting an embryonic cell.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658004_72f7885fd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658004_0eb293474d_o.png",
+      "id_image": "blast_3426129"
+    }
+  ]
+}

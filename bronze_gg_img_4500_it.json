@@ -1,0 +1,51 @@
+{
+  "english": "bronze",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồng đỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "huy chương đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật bằng đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm sắc thành đồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhuộm màu vàng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a yellowish-brown alloy of copper with up to one-third tin.",
+      "definitions_ex_en": "the Minoans made large numbers of statuettes in ivory and bronze",
+      "definitions_ex_vn": "Các mino đã tạo ra một số lượng lớn các bức tượng trong ngà và đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (a person or part of the body) suntanned.",
+      "definitions_ex_en": "Alison was bronzed by outdoor life",
+      "definitions_ex_vn": "Alison bị Bronzed bởi cuộc sống ngoài trời",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051390_009f28fcdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051390_7c45fddd9d_o.png",
+      "id_image": "bronze_1921777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358957_42b59afe8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358957_7f4b245a88_o.png",
+      "id_image": "bronze_4033748"
+    }
+  ]
+}

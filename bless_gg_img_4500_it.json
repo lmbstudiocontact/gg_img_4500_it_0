@@ -1,0 +1,28 @@
+{
+  "english": "bless",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban phước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giáng phước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pronounce words in a religious rite, to confer or invoke divine favor upon; ask God to look favorably on.",
+      "definitions_ex_en": "he blessed the dying man and anointed him",
+      "definitions_ex_vn": "Anh ban phước cho người đàn ông sắp chết và xức dầu cho anh ta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039215_63d3e0c13a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039215_a55fdefd95_o.png",
+      "id_image": "bless_5553126"
+    }
+  ]
+}

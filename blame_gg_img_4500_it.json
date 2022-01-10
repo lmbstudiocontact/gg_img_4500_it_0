@@ -1,0 +1,46 @@
+{
+  "english": "blame",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khiển trách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời trách mắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quở trách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khiển trách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quở trách",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "assign responsibility for a fault or wrong.",
+      "definitions_ex_en": "the inquiry blamed the engineer for the accident",
+      "definitions_ex_vn": "Cuộc điều tra đổ lỗi cho kỹ sư cho vụ tai nạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "responsibility for a fault or wrong.",
+      "definitions_ex_en": "his players had to take the blame",
+      "definitions_ex_vn": "Các cầu thủ của ông phải đổ lỗi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302796_e6d368b742_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302796_065d0fc256_o.png",
+      "id_image": "blame_4525566"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "baby",
+  "list_translation_mean": [
+    {
+      "translate_mean": "em bé",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đứa bé",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trẻ nít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trẻ nhỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very young child, especially one newly or recently born.",
+      "definitions_ex_en": "his wife's just had a baby",
+      "definitions_ex_vn": "Vợ anh ấy vừa có em bé.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a young woman or a person with whom one is having a romantic relationship (often as a form of address).",
+      "definitions_ex_en": "my baby left me for another guy",
+      "definitions_ex_vn": "Em bé của tôi để lại cho tôi một chàng trai khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "comparatively small or immature of its kind.",
+      "definitions_ex_en": "a baby grand piano",
+      "definitions_ex_vn": "một đàn piano cho bé",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "treat (someone) as a baby; pamper or be overprotective toward.",
+      "definitions_ex_en": "her aunt babied her and fussed over her clothes",
+      "definitions_ex_vn": "dì cô ấy diều cô ấy và quấy khóc trên quần áo của cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323056_981579cda2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323056_715f517355_o.png",
+      "id_image": "baby_1702330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678239_170e0072e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678239_39eacba956_o.png",
+      "id_image": "baby_204646"
+    }
+  ]
+}

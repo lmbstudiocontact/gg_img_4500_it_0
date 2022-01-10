@@ -1,0 +1,94 @@
+{
+  "english": "cook",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầu bếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nấu ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ nấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chín",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đồ ăn chín",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bếp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cơm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nấu ăn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "prepare (food, a dish, or a meal) by combining and heating the ingredients in various ways.",
+      "definitions_ex_en": "shall I cook dinner tonight?",
+      "definitions_ex_vn": "Tôi sẽ nấu bữa tối tối nay?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "alter dishonestly; falsify.",
+      "definitions_ex_en": "a narcotics team who cooked the evidence",
+      "definitions_ex_vn": "một đội ma túy đang nấu bằng chứng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be happening or planned.",
+      "definitions_ex_en": "what's cooking on the alternative fuels front?",
+      "definitions_ex_vn": "Những gì đang nấu trên nhiên liệu thay thế trước?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person who prepares and cooks food, especially as a job or in a specified way.",
+      "definitions_ex_en": "I'm a good cook",
+      "definitions_ex_vn": "Tôi là một đầu bếp giỏi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305166_00090639e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305166_52f13a35e3_o.png",
+      "id_image": "cook_2934121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305136_76fc938536_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305136_830350e0ef_o.png",
+      "id_image": "cook_3048325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042075_57cffe3c1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042075_d482c5dba6_o.png",
+      "id_image": "cook_3565307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349332_5be75d78f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349332_3a68ea8905_o.png",
+      "id_image": "cook_4232369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660649_38fa172f55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660649_08968dd848_o.png",
+      "id_image": "cook_816550"
+    }
+  ]
+}

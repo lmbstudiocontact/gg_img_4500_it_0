@@ -1,0 +1,103 @@
+{
+  "english": "circle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi vòng quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quay cuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao vây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quỹ đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chạy quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tuần hoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhóm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng tròn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a round plane figure whose boundary (the circumference) consists of points equidistant from a fixed point (the center).",
+      "definitions_ex_en": "draw a circle with a compass",
+      "definitions_ex_vn": "Vẽ một vòng tròn với một la bàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people with shared professions, interests, or acquaintances.",
+      "definitions_ex_en": "she did not normally move in such exalted circles",
+      "definitions_ex_vn": "Cô ấy thường không di chuyển trong các vòng tròn ourted như vậy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move all the way around (someone or something), especially more than once.",
+      "definitions_ex_en": "we circled around the island",
+      "definitions_ex_vn": "Chúng tôi vòng quanh đảo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043590_67c2627d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043590_864b04c512_o.png",
+      "id_image": "circles_238367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043555_50594e4d75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043555_419e3cffbe_o.png",
+      "id_image": "circles_2844977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421753_5b8508650e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421753_44597e308a_o.png",
+      "id_image": "circle_217216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350722_df983a4ca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350722_1b7bf93ecf_o.png",
+      "id_image": "circle_3873888"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "cash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đổi tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền điếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có tiền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "money in coins or notes, as distinct from checks, money orders, or credit.",
+      "definitions_ex_en": "the staff were paid in cash",
+      "definitions_ex_vn": "Các nhân viên đã được trả bằng tiền mặt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a coin of low value from China, southern India, or Southeast Asia.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give or obtain notes or coins for (a check or money order).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lead (a high card) so as to take the opportunity to win a trick.",
+      "definitions_ex_en": "South cashed the ace, king, and queen of clubs",
+      "definitions_ex_vn": "Nam rút tiền Ace, King và Queen of Club",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437508_b676e4c0c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437508_349f3b7b83_o.png",
+      "id_image": "cash_3898031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322221_1908ea980b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322221_0151294146_o.png",
+      "id_image": "cash_3937098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058985_9f482411e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058985_ff8ce2dff3_o.png",
+      "id_image": "cash_4564940"
+    }
+  ]
+}

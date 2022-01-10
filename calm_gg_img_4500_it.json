@@ -1,0 +1,82 @@
+{
+  "english": "calm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trấn tỉnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yên lặng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự bình tỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự yên lặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự yên tỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho bớt đau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho dịu đi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not showing or feeling nervousness, anger, or other strong emotions.",
+      "definitions_ex_en": "she had to keep calm at all costs",
+      "definitions_ex_vn": "Cô phải giữ bình tĩnh bằng mọi giá",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of the weather) pleasantly free from wind.",
+      "definitions_ex_en": "the night was clear and calm",
+      "definitions_ex_vn": "Đêm đã rõ ràng và bình tĩnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the absence of violent or confrontational activity within a place or group.",
+      "definitions_ex_en": "an edgy calm reigned in the capital",
+      "definitions_ex_vn": "Một sự bình tĩnh sắc sảo trị vì ở thủ đô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the absence of wind.",
+      "definitions_ex_en": "in the center of the storm calm prevailed",
+      "definitions_ex_vn": "Ở trung tâm của cơn bão bình tĩnh đã thắng thế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (someone) tranquil and quiet; soothe.",
+      "definitions_ex_en": "I took him inside and tried to calm him down",
+      "definitions_ex_vn": "Tôi đưa anh ta vào trong và cố gắng trấn tĩnh anh ta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305251_4ab8bf0df7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305251_999e65e8de_o.png",
+      "id_image": "calm_2598831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420343_6c92d92c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420343_1f74af1442_o.png",
+      "id_image": "calm_552417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349437_2b5bec8f3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349437_1f46b022bb_o.png",
+      "id_image": "calm_6000760"
+    }
+  ]
+}

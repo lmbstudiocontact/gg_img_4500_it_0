@@ -1,0 +1,39 @@
+{
+  "english": "bilingual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nói hai thứ tiếng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "viết hai thứ tiếng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) speaking two languages fluently.",
+      "definitions_ex_en": "a bilingual secretary",
+      "definitions_ex_vn": "một thư ký song ngữ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person fluent in two languages.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420763_6708491eeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420763_fff3c84b2f_o.png",
+      "id_image": "bilingual_2014348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042595_f080e75d96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042595_1f066cb803_o.png",
+      "id_image": "bilingual_4509776"
+    }
+  ]
+}

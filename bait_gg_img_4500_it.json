@@ -1,0 +1,90 @@
+{
+  "english": "bait",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mồi câu cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngồi lại nghỉ giải lao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "móc mồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩ ngơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhữ mồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấy rầy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trêu chọc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "food used to entice fish or other animals as prey.",
+      "definitions_ex_en": "herrings make excellent bait for pike",
+      "definitions_ex_vn": "Herrings làm mồi nhử tuyệt vời cho pike",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of bate1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deliberately annoy or taunt (someone).",
+      "definitions_ex_en": "the other boys reveled in baiting him about his love of literature",
+      "definitions_ex_vn": "Những chàng trai khác say sưa trong việc lôi cuốn anh ta về tình yêu văn học của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prepare (a hook, trap, net, or fishing area) with bait to entice fish or animals as prey.",
+      "definitions_ex_en": "she baited a trap with carrots and corn",
+      "definitions_ex_vn": "Cô ấy đã buộc một cái bẫy với cà rốt và ngô",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434918_c7660b0824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434918_f98c7de35a_o.png",
+      "id_image": "bait_3830504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056350_982e4d2b56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056350_2854e5f20b_o.png",
+      "id_image": "bait_4201185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319841_b8a9facd37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319841_3dc122f4f6_o.png",
+      "id_image": "bait_440130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674619_88cc6d0881_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674619_b68372497f_o.png",
+      "id_image": "bait_4410229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434823_548af44e5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434823_4ab7053b3b_o.png",
+      "id_image": "bait_4690404"
+    }
+  ]
+}

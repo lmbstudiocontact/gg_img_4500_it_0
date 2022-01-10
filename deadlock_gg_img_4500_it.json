@@ -1,0 +1,34 @@
+{
+  "english": "deadlock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngặt ngèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng nan giải",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a situation, typically one involving opposing parties, in which no progress can be made.",
+      "definitions_ex_en": "an attempt to break the deadlock",
+      "definitions_ex_vn": "một nỗ lực để phá vỡ bế tắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause (a situation or opposing parties) to come to a point where no progress can be made because of fundamental disagreement.",
+      "definitions_ex_en": "the jurors were deadlocked on six charges",
+      "definitions_ex_vn": "Các bồi thẩm đã bế tắc trên sáu khoản phí",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045690_a0c59da3a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045690_dc6d293e5e_o.png",
+      "id_image": "deadlock_311573"
+    }
+  ]
+}

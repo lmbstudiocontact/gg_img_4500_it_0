@@ -1,0 +1,52 @@
+{
+  "english": "batch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một chuyến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nướng trong lò",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a quantity or consignment of goods produced at one time.",
+      "definitions_ex_en": "a batch of cookies",
+      "definitions_ex_vn": "một lô bánh quy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "arrange (things) in sets or groups.",
+      "definitions_ex_en": "I had nothing to do but batch the reports",
+      "definitions_ex_vn": "Tôi không có gì để làm nhưng theo dõi các báo cáo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668554_246cd50597_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668554_687409fe26_o.png",
+      "id_image": "batch_1792350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357877_ce5f5ceb09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357877_186531f1cf_o.png",
+      "id_image": "batch_5132107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357852_ccc81d31fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357852_73415dec4f_o.png",
+      "id_image": "batch_5132121"
+    }
+  ]
+}

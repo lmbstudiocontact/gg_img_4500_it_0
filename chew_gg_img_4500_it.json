@@ -1,0 +1,54 @@
+{
+  "english": "chew",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngẫm nghỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhai đồ ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhai kẹo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhai thuốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự nhai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự suy nghỉ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bite and work (food) in the mouth with the teeth, especially to make it easier to swallow.",
+      "definitions_ex_en": "he was chewing a mouthful of toast",
+      "definitions_ex_vn": "Anh ta đang nhai một miếng bánh mì nướng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a repeated biting or gnawing of something.",
+      "definitions_ex_en": "the dog was enjoying a quiet chew of his bone",
+      "definitions_ex_vn": "Con chó đang tận hưởng một lời nhai yên tĩnh của xương của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047055_6d20cb6a96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047055_4cd5c3f87d_o.png",
+      "id_image": "chewing_1117233"
+    }
+  ]
+}

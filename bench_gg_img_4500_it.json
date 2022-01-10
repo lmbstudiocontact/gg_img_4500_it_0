@@ -1,0 +1,88 @@
+{
+  "english": "bench",
+  "list_translation_mean": [
+    {
+      "translate_mean": "băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghế dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tòa án",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long seat for several people, typically made of wood or stone.",
+      "definitions_ex_en": "a park bench",
+      "definitions_ex_vn": "một băng ghế công viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, sturdy work table used by a carpenter, mechanic, scientist, or other worker.",
+      "definitions_ex_en": "a 19th-century wheelwright's bench",
+      "definitions_ex_vn": "một băng ghế trắng thế kỷ 19",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a judge's seat in a court.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a seat on which sports coaches and players sit during a game when they are not playing.",
+      "definitions_ex_en": "he must settle for a place on the substitute's bench",
+      "definitions_ex_vn": "anh ta phải giải quyết một nơi trên băng ghế của người thay thế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat ledge in masonry or on sloping ground.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "exhibit (a dog) at a show.",
+      "definitions_ex_en": "Affenpinschers and Afghans were benched side by side",
+      "definitions_ex_vn": "Affenpinschers và người Afghanistan đã bị băng ghế cạnh nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "short for bench press (verb).",
+      "definitions_ex_en": "he benched almost 500 pounds",
+      "definitions_ex_vn": "Anh ấy đã chuẩn bị gần 500 pounds",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307916_0ba71d541a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307916_7b809ed2a4_o.png",
+      "id_image": "bench_1278111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307901_2cd5cef366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307901_7025430344_o.png",
+      "id_image": "bench_1311992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044935_6524dcf48a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044935_608ee27d3c_o.png",
+      "id_image": "bench_224549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663129_d52f063eea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663129_1308f4db7c_o.png",
+      "id_image": "bench_2259521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307836_3208ca7b87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307836_1f2a3d431b_o.png",
+      "id_image": "bench_2278379"
+    }
+  ]
+}

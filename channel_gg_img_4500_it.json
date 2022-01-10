@@ -1,0 +1,118 @@
+{
+  "english": "channel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "eo biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường rảnh nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xoi của cột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lạch tàu bè đi vào cảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống dẫn hơi dầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đào rảnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiến xoi đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành khe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a length of water wider than a strait, joining two larger areas of water, especially two seas.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a band of frequencies used in radio and television transmission, especially as used by a particular station.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a medium for communication or the passage of information.",
+      "definitions_ex_en": "they didn't apply through the proper channels",
+      "definitions_ex_vn": "họ đã không áp dụng thông qua các kênh thích hợp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electric circuit which acts as a path for a signal.",
+      "definitions_ex_en": "an audio channel",
+      "definitions_ex_vn": "một kênh âm thanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tubular passage or duct for liquid.",
+      "definitions_ex_en": "fish eggs have a small channel called the micropyle",
+      "definitions_ex_vn": "trứng cá có một kênh nhỏ gọi là micropyle",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a groove or furrow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "direct toward a particular end or object.",
+      "definitions_ex_en": "advertisers channel money into radio",
+      "definitions_ex_vn": "Nhà quảng cáo kênh tiền vào đài phát thanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) serve as a medium for (a spirit).",
+      "definitions_ex_en": "she was channeling the spirit of Billie Holiday",
+      "definitions_ex_vn": "Cô đang dập tắt tinh thần của kỳ nghỉ Billie",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429058_71ecf13d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429058_bff66bfe50_o.png",
+      "id_image": "channel_1207578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314116_ddc5119297_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314116_739a763f05_o.png",
+      "id_image": "channel_4062101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358307_7d991f8e2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358307_fc6e2702d2_o.png",
+      "id_image": "channel_4577178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314036_3965b4e757_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314036_ffe06cd301_o.png",
+      "id_image": "channel_5853646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050830_2716e78a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050830_9f5d9f0f6a_o.png",
+      "id_image": "channel_650975"
+    }
+  ]
+}

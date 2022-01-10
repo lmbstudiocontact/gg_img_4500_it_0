@@ -1,0 +1,53 @@
+{
+  "english": "ceremony",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hành động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lể bái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "theo nghi thức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal religious or public occasion, typically one celebrating a particular event or anniversary.",
+      "definitions_ex_en": "the winners were presented with their prizes at a special ceremony",
+      "definitions_ex_vn": "Những người chiến thắng đã được trình bày với giải thưởng của họ tại một buổi lễ đặc biệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the ritual observances and procedures performed at grand and formal occasions.",
+      "definitions_ex_en": "the new Queen was proclaimed with due ceremony",
+      "definitions_ex_vn": "Nữ hoàng mới được tuyên bố với lễ do hàng hóa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052485_fe7e2c6862_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052485_516d5bcac6_o.png",
+      "id_image": "ceremonial_2412231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670749_c5a366a727_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670749_4dbc08ee6b_o.png",
+      "id_image": "ceremonial_351850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360247_aa9b2b0477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360247_6fdd5cd377_o.png",
+      "id_image": "ceremony_1699158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315996_c8d3a6f272_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315996_e389d77d34_o.png",
+      "id_image": "ceremony_3965938"
+    }
+  ]
+}

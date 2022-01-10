@@ -1,0 +1,67 @@
+{
+  "english": "bone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hài cốt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of the pieces of hard whitish tissue making up the skeleton in humans and other vertebrates.",
+      "definitions_ex_en": "his injuries included many broken bones",
+      "definitions_ex_vn": "Chấn thương của anh ấy bao gồm nhiều xương gãy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the calcified material of which bones consist.",
+      "definitions_ex_en": "an earring of bone",
+      "definitions_ex_vn": "một bông tai xương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the basic or essential framework of something.",
+      "definitions_ex_en": "you need to put some flesh on the bones of your idea",
+      "definitions_ex_vn": "Bạn cần phải đặt một ít thịt vào xương của ý tưởng của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "remove the bones from (meat or fish).",
+      "definitions_ex_en": "while the gumbo is simmering, bone the cooked chicken",
+      "definitions_ex_vn": "Trong khi Gumbo đang sôi, xương gà nấu chín",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "study (a subject) intensively, typically in preparation for something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061670_90f6995b0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061670_4fd5e49dc1_o.png",
+      "id_image": "bones_1488108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324671_157082b219_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324671_1196d35a15_o.png",
+      "id_image": "bones_1732469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324631_0c9c8a4dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324631_8d97611875_o.png",
+      "id_image": "bones_2188047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369617_5b22a8cdce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369617_83ae3ecfc7_o.png",
+      "id_image": "bone_1123917"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "competition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tranh đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ganh đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc thi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cạnh tranh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the activity or condition of competing.",
+      "definitions_ex_en": "there is fierce competition between banks",
+      "definitions_ex_vn": "Có sự cạnh tranh khốc liệt giữa các ngân hàng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053125_ec2dedb873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053125_ca3f1ccc48_o.png",
+      "id_image": "competition_1208153"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316671_d80a59f8d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316671_478111355f_o.png",
+      "id_image": "competition_1599828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053065_65e3c579ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053065_50b8eab20e_o.png",
+      "id_image": "competition_2631531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431588_18214fd5fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431588_5685c2f881_o.png",
+      "id_image": "competition_2720671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316581_8e10a39859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316581_13112a7f0b_o.png",
+      "id_image": "competition_2734733"
+    }
+  ]
+}

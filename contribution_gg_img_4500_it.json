@@ -1,0 +1,63 @@
+{
+  "english": "contribution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài viết cho báo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "góp phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt buộc đóng góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chịu phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đóng góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự góp sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giúp vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a gift or payment to a common fund or collection.",
+      "definitions_ex_en": "charitable contributions",
+      "definitions_ex_vn": "Đóng góp từ thiện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043380_0f3eee1eaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043380_30621c5716_o.png",
+      "id_image": "contribution_4525463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421498_684eb32647_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421498_f6df176498_o.png",
+      "id_image": "contribution_5520859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661679_d2a375e13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661679_5957529375_o.png",
+      "id_image": "contribution_5520944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043320_1757b0ba9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043320_3682dfba87_o.png",
+      "id_image": "contribution_6313799"
+    }
+  ]
+}

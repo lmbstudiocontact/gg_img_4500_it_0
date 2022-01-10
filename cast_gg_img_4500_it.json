@@ -1,0 +1,191 @@
+{
+  "english": "cast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cộng số",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự đổ vào khuôn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tổ ong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trạng thái nghiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bác đơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bề ngòai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự liệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ném",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trừu con mới đẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật liệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xác lột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia vai tuồng cho đào kép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh ngã",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liệng ném",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miển dịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause (light or shadow) to appear on a surface.",
+      "definitions_ex_en": "the moon cast a pale light over the cottages",
+      "definitions_ex_vn": "Mặt trăng đúc một ánh sáng nhợt nhạt trên các ngôi nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "register (a vote).",
+      "definitions_ex_en": "residents turned out in record numbers to cast their votes",
+      "definitions_ex_vn": "Cư dân hóa ra với số lượng kỷ lục để bỏ phiếu của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "throw the hooked and baited end of (a fishing line) out into the water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "throw (something) forcefully in a specified direction.",
+      "definitions_ex_en": "he cast the book down on to the chair angrily",
+      "definitions_ex_vn": "Anh ta ném cuốn sách xuống ghế một cách giận dữ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shape (metal or other material) by pouring it into a mold while molten.",
+      "definitions_ex_en": "when hammered or cast, bronze could be made into tools",
+      "definitions_ex_vn": "Khi búa hoặc đúc, đồng có thể được tạo thành công cụ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a magic spell) to take effect.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shed (skin or horns) in the process of growth.",
+      "definitions_ex_en": "the antlers are cast each year",
+      "definitions_ex_vn": "Các gạc được đúc mỗi năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "calculate and record details of (a horoscope).",
+      "definitions_ex_en": "you can look at the star chart cast at somebody's birth",
+      "definitions_ex_vn": "Bạn có thể nhìn vào biểu đồ ngôi sao diễn viên khi sinh của ai đó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in country dancing) change one's position by moving a certain number of places in a certain direction along the outside of the line in which one is dancing.",
+      "definitions_ex_en": "cross the set and cast down one place",
+      "definitions_ex_vn": "băng qua bộ và ném xuống một nơi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a dog) search in different directions for a lost scent.",
+      "definitions_ex_en": "the dog cast furiously for the vanished rabbit",
+      "definitions_ex_vn": "Con chó hung hăng vì thỏ biến mất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assign a part in a play, film, or other production to (an actor).",
+      "definitions_ex_en": "he was cast as the Spanish dancer",
+      "definitions_ex_vn": "Ông đã được chọn là vũ công Tây Ban Nha",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an object made by shaping molten metal or similar material in a mold.",
+      "definitions_ex_en": "bronze casts of the sculpture",
+      "definitions_ex_vn": "Đồng đúc của tác phẩm điêu khắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of throwing something forcefully.",
+      "definitions_ex_en": "he grabbed a spear for a third cast",
+      "definitions_ex_vn": "anh ta nắm lấy một ngọn giáo cho một diễn viên thứ ba",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the form or appearance of something, especially someone's features or complexion.",
+      "definitions_ex_en": "she had a somewhat masculine cast of countenance",
+      "definitions_ex_vn": "cô ấy có một sự kiện đàn ông có phần nam tính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slight squint.",
+      "definitions_ex_en": "he had a cast in one eye",
+      "definitions_ex_vn": "anh ấy đã có một dàn mắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a convoluted mass of earth or sand ejected onto the surface by a burrowing worm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a search made by a hound or pack of hounds over a wide area to find a trail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the actors taking part in a play, film, or other production.",
+      "definitions_ex_en": "he draws sensitive performances from his inexperienced cast",
+      "definitions_ex_vn": "anh ta vẽ những màn trình diễn nhạy cảm từ diễn viên thiếu kinh nghiệm của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366202_fe20134fb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366202_acd788d2f1_o.png",
+      "id_image": "cast_5978862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676359_f537656d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676359_1c6e0910f2_o.png",
+      "id_image": "cast_814131"
+    }
+  ]
+}

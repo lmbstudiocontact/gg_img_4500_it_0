@@ -1,0 +1,62 @@
+{
+  "english": "branch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chi hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chi nhánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhánh cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia nhánh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a part of a tree which grows out from the trunk or from a bough.",
+      "definitions_ex_en": "Sophie was in the branches of a tree eating an apple",
+      "definitions_ex_vn": "Sophie đang ở trong cành cây đang ăn một quả táo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a road or path) divide into one or more subdivisions.",
+      "definitions_ex_en": "follow this track south until it branches into two",
+      "definitions_ex_vn": "Theo dõi theo dõi phía nam này cho đến khi nó phân nhánh thành hai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a tree or plant) bear or send out branches.",
+      "definitions_ex_en": "this rose has a tendency to branch and spread at the top",
+      "definitions_ex_vn": "Hoa hồng này có xu hướng nhánh và lan rộng ở trên cùng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055010_8f5b3159a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055010_3f64f3d13b_o.png",
+      "id_image": "branch_2153130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318426_8c3851faf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318426_3a4583b45b_o.png",
+      "id_image": "branch_2640154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433598_8d94b225a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433598_db634d0423_o.png",
+      "id_image": "branch_6357748"
+    }
+  ]
+}

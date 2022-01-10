@@ -1,0 +1,108 @@
+{
+  "english": "collar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ giữa cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cổ áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "niền bằng sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nòngcổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng cổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng đai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông bườm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng trục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông cổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một thứ chả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nắm lấy cổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "túm cổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a band of material around the neck of a shirt, dress, coat, or jacket, either upright or turned over and generally an integral part of the garment.",
+      "definitions_ex_en": "we turned our collars up against the chill",
+      "definitions_ex_vn": "Chúng tôi biến vòng cổ của chúng tôi chống lại sự lạnh lùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a restraining or connecting band, ring, or pipe in machinery.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of a plant where the stem joins the roots.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367317_0a376d32a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367317_dc95a18093_o.png",
+      "id_image": "collar_3436167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367272_511409f476_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367272_b9e17639c3_o.png",
+      "id_image": "collar_4310669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367232_8b5061861a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367232_b1a3bf9452_o.png",
+      "id_image": "collar_4690429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677399_4e4f9f02c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677399_b9a3e1311b_o.png",
+      "id_image": "collar_6401235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437693_295cc59aee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437693_40acf21eb2_o.png",
+      "id_image": "collar_877111"
+    }
+  ]
+}

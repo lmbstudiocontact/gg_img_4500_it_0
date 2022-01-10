@@ -1,0 +1,66 @@
+{
+  "english": "bubble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bọt nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ phồng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều hảo huyền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin sphere of liquid enclosing air or another gas.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to refer to a good or fortunate situation that is isolated from reality or unlikely to last.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a transparent domed cover or enclosure.",
+      "definitions_ex_en": "piglets born into a sterile bubble",
+      "definitions_ex_vn": "heo con sinh ra trong một bong bóng vô trùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a marine mollusk that typically has a thin scroll-like shell.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a liquid) contain bubbles of air or gas rising to the surface.",
+      "definitions_ex_en": "a pot of soup bubbled away on the stove",
+      "definitions_ex_vn": "Một nồi súp bong bóng trên bếp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050280_264ed8db2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050280_676886f582_o.png",
+      "id_image": "bubbles_2101422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357777_4fdd54b832_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357777_4fb488275b_o.png",
+      "id_image": "bubbles_2383853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668514_5085b48967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668514_52ef345d05_o.png",
+      "id_image": "bubbles_525797"
+    }
+  ]
+}

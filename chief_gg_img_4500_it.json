@@ -1,0 +1,60 @@
+{
+  "english": "chief",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chủ yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cốt nhất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu đảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lãnh tụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ông xếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủ lảnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a leader or ruler of a people or clan.",
+      "definitions_ex_en": "the chief of the village",
+      "definitions_ex_vn": "Chánh làng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ordinary consisting of a broad horizontal band across the top of the shield.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "most important.",
+      "definitions_ex_en": "the chief reason for the spending cuts",
+      "definitions_ex_vn": "Lý do chính cho việc cắt giảm chi tiêu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665059_57ba848fe7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665059_3e4c45088f_o.png",
+      "id_image": "chief_4786257"
+    }
+  ]
+}

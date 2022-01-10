@@ -1,0 +1,132 @@
+{
+  "english": "contract",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giao kèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hợp đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khế ước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc đấu giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc ký giao kèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đính ước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết tình hửu nghị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết ước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ký kết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm co rút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mắc phải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "teo lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiêm nhiểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thầu cung cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thâu ngắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thâu nhỏ lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết tắc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.",
+      "definitions_ex_en": "both parties must sign employment contracts",
+      "definitions_ex_vn": "Cả hai bên phải ký hợp đồng việc làm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "decrease in size, number, or range.",
+      "definitions_ex_en": "glass contracts as it cools",
+      "definitions_ex_vn": "Hợp đồng thủy tinh khi nó nguội",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "enter into a formal and legally binding agreement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "catch or develop (a disease or infectious agent).",
+      "definitions_ex_en": "three people contracted a killer virus",
+      "definitions_ex_vn": "Ba người ký hợp đồng với một virus giết người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become liable to pay (a debt).",
+      "definitions_ex_en": "he contracted a debt of $3,300",
+      "definitions_ex_vn": "Ông ký hợp đồng một khoản nợ là 3.300 đô la",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661994_ee999ef04a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661994_6f50c30c8c_o.png",
+      "id_image": "contract_1441344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043660_affd979fa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043660_a74472a49d_o.png",
+      "id_image": "contract_1965670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662104_1458d484d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662104_f5df25db4f_o.png",
+      "id_image": "contract_807697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306661_322371748d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306661_990e6b87ff_o.png",
+      "id_image": "contract_914104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043695_32d6423617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043695_6a4fdc472c_o.png",
+      "id_image": "contract_924534"
+    }
+  ]
+}

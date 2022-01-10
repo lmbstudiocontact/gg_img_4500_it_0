@@ -1,0 +1,24 @@
+{
+  "english": "decide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xử đoán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "come to a resolution in the mind as a result of consideration.",
+      "definitions_ex_en": "they decided to appoint someone else",
+      "definitions_ex_vn": "Họ quyết định bổ nhiệm người khác",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351617_fa1fcdda60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351617_14aa4b9d5f_o.png",
+      "id_image": "decide_4301938"
+    }
+  ]
+}

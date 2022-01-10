@@ -1,0 +1,63 @@
+{
+  "english": "ceremonial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về nghi lể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghi thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách nghi lể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách nghi thức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or used for formal events of a religious or public nature.",
+      "definitions_ex_en": "ceremonial robes",
+      "definitions_ex_vn": "áo choàng nghi lễ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a position or role) involving only nominal authority or power.",
+      "definitions_ex_en": "originally a ceremonial post, it is now a position with executive power",
+      "definitions_ex_vn": "Ban đầu là một bài thơ nghi lễ, bây giờ nó là một vị trí với sức mạnh điều hành",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the system of rules and procedures to be observed at a formal or religious occasion.",
+      "definitions_ex_en": "the procedure was conducted with all due ceremonial",
+      "definitions_ex_vn": "Thủ tục được thực hiện với tất cả các nghi lễ do",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052485_fe7e2c6862_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052485_516d5bcac6_o.png",
+      "id_image": "ceremonial_2412231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052510_a45669befe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052510_cda5dacf32_o.png",
+      "id_image": "ceremonial_422117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360247_aa9b2b0477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360247_6fdd5cd377_o.png",
+      "id_image": "ceremony_1699158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315996_c8d3a6f272_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315996_e389d77d34_o.png",
+      "id_image": "ceremony_3965938"
+    }
+  ]
+}

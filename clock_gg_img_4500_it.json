@@ -1,0 +1,75 @@
+{
+  "english": "clock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bấm giờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghi giờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đo thời gian",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đường viền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "một hiện tượng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mechanical or electrical device for measuring time, indicating hours, minutes, and sometimes seconds, typically by hands on a round dial or by displayed figures.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ornamental pattern woven or embroidered on the side of a stocking or sock near the ankle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attain or register (a specified time, distance, or speed).",
+      "definitions_ex_en": "I clocked nearly nine hours of uninterrupted sleep",
+      "definitions_ex_vn": "Tôi đã đồng hồ gần chín giờ ngủ không bị gián đoạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685869_6bd8b03bb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685869_13ab5dc667_o.png",
+      "id_image": "clock_122922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067615_0b548fc4dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067615_ed85b0b667_o.png",
+      "id_image": "clock_123338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330786_dff7b2b9a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330786_09fd513e13_o.png",
+      "id_image": "clock_124792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067560_6a31afa487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067560_4e7cc772b4_o.png",
+      "id_image": "clock_593556"
+    }
+  ]
+}

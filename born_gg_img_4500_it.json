@@ -1,0 +1,37 @@
+{
+  "english": "born",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sanh ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đẻ ra",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "existing as a result of birth.",
+      "definitions_ex_en": "he was born in Seattle",
+      "definitions_ex_vn": "Anh sinh ra ở Seattle",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437258_fd29dd7344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437258_9777c689e5_o.png",
+      "id_image": "born_5375923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058795_a31a3415f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058795_0170400227_o.png",
+      "id_image": "born_5375936"
+    }
+  ]
+}

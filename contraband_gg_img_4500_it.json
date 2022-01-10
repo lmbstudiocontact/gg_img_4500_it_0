@@ -1,0 +1,34 @@
+{
+  "english": "contraband",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hành lậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự buôn lậu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "goods that have been imported or exported illegally.",
+      "definitions_ex_en": "the police looked for drugs, guns, and other contraband",
+      "definitions_ex_vn": "Cảnh sát tìm kiếm ma túy, súng và những kẻ khác nhau khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "imported or exported illegally, either in defiance of a total ban or without payment of duty.",
+      "definitions_ex_en": "contraband drug shipments",
+      "definitions_ex_vn": "Lô hàng ma túy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662119_35b7438ab2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662119_97b9f4074d_o.png",
+      "id_image": "contraband_6310432"
+    }
+  ]
+}

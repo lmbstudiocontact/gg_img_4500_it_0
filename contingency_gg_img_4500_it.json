@@ -1,0 +1,29 @@
+{
+  "english": "contingency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính ngẩu sinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a future event or circumstance which is possible but cannot be predicted with certainty.",
+      "definitions_ex_en": "a detailed contract that attempts to provide for all possible contingencies",
+      "definitions_ex_vn": "một hợp đồng chi tiết cố gắng cung cấp cho tất cả các trường hợp có thể có",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043965_18daa5e734_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043965_58f1e4a19a_o.png",
+      "id_image": "contingency_3391369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422048_9ac15d3246_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422048_e4ba350ea5_o.png",
+      "id_image": "contingency_5267793"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "cloak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo choàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo khoác ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật trùm kín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo măng tô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che đậy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giấu giếm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an outdoor overgarment, typically sleeveless, that hangs loosely from the shoulders.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dress in a cloak.",
+      "definitions_ex_en": "she cloaked herself in black",
+      "definitions_ex_vn": "Cô ấy che giấu mình trong màu đen",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375687_3f74bafb18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375687_0647d5bde0_o.png",
+      "id_image": "cloak_2014153"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331016_731556bfde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331016_f3e6a6e6d1_o.png",
+      "id_image": "cloak_2732354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375607_52ff3e1ed7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375607_cb620a27f8_o.png",
+      "id_image": "cloak_5327116"
+    }
+  ]
+}

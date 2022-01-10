@@ -1,0 +1,47 @@
+{
+  "english": "binary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi đôi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to, composed of, or involving two things.",
+      "definitions_ex_en": "testing the so-called binary, or dual-chemical, weapons",
+      "definitions_ex_vn": "Kiểm tra cái gọi là nhị phân, hoặc hóa chất kép, vũ khí",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to, using, or expressed in a system of numerical notation that has 2 rather than 10 as a base.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the binary system: binary notation.",
+      "definitions_ex_en": "the device is counting in binary",
+      "definitions_ex_vn": "Thiết bị đang đếm trong nhị phân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something having two parts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304956_788599c001_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304956_1955045156_o.png",
+      "id_image": "binary_1018797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349132_f0f83c7087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349132_20f4ce7f65_o.png",
+      "id_image": "binary_1465882"
+    }
+  ]
+}

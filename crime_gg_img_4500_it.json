@@ -1,0 +1,43 @@
+{
+  "english": "crime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tội ác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trọng tội",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an action or omission that constitutes an offense that may be prosecuted by the state and is punishable by law.",
+      "definitions_ex_en": "shoplifting was a serious crime",
+      "definitions_ex_vn": "shoplifting là một tội phạm nghiêm trọng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435508_6b3a3665d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435508_e2cbef3571_o.png",
+      "id_image": "crime_2495671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365237_336e8f2179_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365237_14d68e903a_o.png",
+      "id_image": "crime_3839555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320296_8f1d179270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320296_b643cf3b94_o.png",
+      "id_image": "crime_4201303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435388_3be786a4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435388_477641cfe0_o.png",
+      "id_image": "crime_5318855"
+    }
+  ]
+}

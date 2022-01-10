@@ -1,0 +1,41 @@
+{
+  "english": "crumble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bể nát ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bóp vụn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổ sụp xuống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "break or fall apart into small fragments, especially over a period of time as part of a process of deterioration.",
+      "definitions_ex_en": "the plaster started to crumble",
+      "definitions_ex_vn": "thạch cao bắt đầu vỡ vụn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672429_8847be83e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672429_d7515f06f2_o.png",
+      "id_image": "crumble_2289922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672404_edc7edd91f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672404_fc401c31f1_o.png",
+      "id_image": "crumble_2349513"
+    }
+  ]
+}

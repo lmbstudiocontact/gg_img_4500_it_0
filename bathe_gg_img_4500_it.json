@@ -1,0 +1,47 @@
+{
+  "english": "bathe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thấm nước để rữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự tắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tắm biển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "wash by immersing one's body in water.",
+      "definitions_ex_en": "she was advised to bathe or shower daily",
+      "definitions_ex_vn": "Cô được khuyên nên tắm hoặc tắm hàng ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "suffuse or envelop in something.",
+      "definitions_ex_en": "the park lay bathed in sunshine",
+      "definitions_ex_vn": "Công viên nằm dưới ánh nắng mặt trời",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428443_4083a44203_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428443_b925ed8d69_o.png",
+      "id_image": "bathe_376491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357667_81746cf64b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357667_987e120637_o.png",
+      "id_image": "bathe_381218"
+    }
+  ]
+}

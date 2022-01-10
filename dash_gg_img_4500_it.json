@@ -1,0 +1,175 @@
+{
+  "english": "dash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chút ít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường gạch ở đầu hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm mặt bảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một giọt rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nét thêm vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy vọt tới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự công kích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thêm chút xíu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viết lẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xông vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hăn hở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiến xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấn công thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính hăng hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bối rối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạm nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập bể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đụng vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm văng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném mạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sặc sở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thất vọng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêm một chút",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "run or travel somewhere in a great hurry.",
+      "definitions_ex_en": "I dashed into the garden",
+      "definitions_ex_vn": "Tôi lao vào vườn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "strike or fling (something) somewhere with great force, especially so as to have a destructive effect; hurl.",
+      "definitions_ex_en": "the ship was dashed upon the rocks",
+      "definitions_ex_vn": "Con tàu đã bị đứt vào những tảng đá",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of running somewhere suddenly and hastily.",
+      "definitions_ex_en": "she made a dash for the door",
+      "definitions_ex_vn": "Cô ấy làm một dấu gạch ngang cho cánh cửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small quantity of a substance, especially a liquid, added to something else.",
+      "definitions_ex_en": "whiskey with a dash of soda",
+      "definitions_ex_vn": "rượu whisky với một chút soda",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a horizontal stroke in writing or printing to mark a pause or break in sense or to represent omitted letters or words.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "impetuous or flamboyant vigor and confidence; panache.",
+      "definitions_ex_en": "he has youthful energy, dash, and charisma",
+      "definitions_ex_vn": "Anh ta có năng lượng trẻ trung, Dash và Charisma",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for dashboard.",
+      "definitions_ex_en": "an indicator on the dash tells you what gear you are in",
+      "definitions_ex_vn": "Một chỉ báo trên dấu gạch ngang cho bạn biết bạn đang ở đâu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047090_0dd45336c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047090_deec9de332_o.png",
+      "id_image": "dash_1183236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425268_b3b0d0e527_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425268_b0015c85b4_o.png",
+      "id_image": "dash_1183243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665424_811fb28bcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665424_2a8e9cd5e5_o.png",
+      "id_image": "dash_1674912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425198_2296b13fc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425198_68d1d654ef_o.png",
+      "id_image": "dash_1685689"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "continuity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện phim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liên tiếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liên tục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nối liền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the unbroken and consistent existence or operation of something over a period of time.",
+      "definitions_ex_en": "pension rights accruing through continuity of employment",
+      "definitions_ex_vn": "quyền lương hưu tích lũy thông qua tính liên tục của việc làm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the maintenance of continuous action and self-consistent detail in the various scenes of a movie or broadcast.",
+      "definitions_ex_en": "a continuity error",
+      "definitions_ex_vn": "Một lỗi liên tục",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350987_2aebd6e4fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350987_e5c265712d_o.png",
+      "id_image": "continuous_1768935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306721_a00399215b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306721_27d597b8df_o.png",
+      "id_image": "continuous_4098110"
+    }
+  ]
+}

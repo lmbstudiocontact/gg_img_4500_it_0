@@ -1,0 +1,100 @@
+{
+  "english": "bad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó khăn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tánh nết xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình cảnh khó khăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận rủi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of poor quality or a low standard.",
+      "definitions_ex_en": "a bad diet",
+      "definitions_ex_vn": "một chế độ ăn mòn xấu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not such as to be hoped for or desired; unpleasant or unwelcome.",
+      "definitions_ex_en": "bad weather",
+      "definitions_ex_vn": "thời tiết xấu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "failing to conform to standards of moral virtue or acceptable conduct.",
+      "definitions_ex_en": "the bad guys",
+      "definitions_ex_vn": "Những kẻ xấu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a part of the body) injured, diseased, or painful.",
+      "definitions_ex_en": "a bad back",
+      "definitions_ex_vn": "đau lưng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of food) decayed; putrid.",
+      "definitions_ex_en": "everything in the fridge went bad",
+      "definitions_ex_vn": "tất cả mọi thứ trong tủ lạnh đều xấu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "regretful, guilty, or ashamed about something.",
+      "definitions_ex_en": "she feels bad about ending their engagement",
+      "definitions_ex_vn": "Cô ấy cảm thấy tồi tệ về việc kết thúc sự tham gia của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "worthless; not valid.",
+      "definitions_ex_en": "he ran up 87 bad checks",
+      "definitions_ex_vn": "ông đã chạy lên 87 séc xấu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057895_8c20e9d300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057895_7bf787eb91_o.png",
+      "id_image": "bad_1027568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321081_e15a8368f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321081_43e522bcab_o.png",
+      "id_image": "bad_2473030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365957_f35c43243f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365957_e01ff5a2a6_o.png",
+      "id_image": "bad_4795885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321026_35250112a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321026_c89b467563_o.png",
+      "id_image": "bad_6064925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436433_bea49c74eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436433_8b8aaf4673_o.png",
+      "id_image": "bad_751812"
+    }
+  ]
+}

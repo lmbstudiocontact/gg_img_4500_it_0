@@ -1,0 +1,40 @@
+{
+  "english": "clue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầu mối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "manh mối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of evidence or information used in the detection of a crime or solving of a mystery.",
+      "definitions_ex_en": "police officers are still searching for clues",
+      "definitions_ex_vn": "Cảnh sát vẫn đang tìm kiếm manh mối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a verbal formula giving an indication as to what is to be inserted in a particular space in a crossword or other puzzle.",
+      "definitions_ex_en": "a long-pondered clue in a half-completed crossword",
+      "definitions_ex_vn": "một manh mối nghiêm túc trong một ô chữ hoàn thành một nửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "inform someone about a particular matter.",
+      "definitions_ex_en": "Stella had clued her in about Peter",
+      "definitions_ex_vn": "Stella đã làm cô ấy nói về Peter",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443163_8d99e58751_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443163_5df6838288_o.png",
+      "id_image": "clues_5411108"
+    }
+  ]
+}

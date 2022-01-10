@@ -1,0 +1,49 @@
+{
+  "english": "compost",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân trộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bón ruộng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "decayed organic material used as a plant fertilizer.",
+      "definitions_ex_en": "cover with a layer of fine compost",
+      "definitions_ex_vn": "Che với một lớp phân hữu cơ tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (vegetable matter or manure) into compost.",
+      "definitions_ex_en": "don't compost heavily infested plants",
+      "definitions_ex_vn": "Đừng ủ phân cây bị nhiễm bệnh nặng nề",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051650_c589ccae9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051650_e7fcde5296_o.png",
+      "id_image": "compost_1208497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051635_3f20dc49cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051635_0b8bcfcbd4_o.png",
+      "id_image": "compost_4660787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315081_9fc55e0537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315081_b628ff29f3_o.png",
+      "id_image": "compost_4745537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315071_2217b11bcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315071_4ae73dc23d_o.png",
+      "id_image": "compost_6041349"
+    }
+  ]
+}

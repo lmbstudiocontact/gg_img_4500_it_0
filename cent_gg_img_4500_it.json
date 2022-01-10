@@ -1,0 +1,46 @@
+{
+  "english": "cent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồng một xu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần trăm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a monetary unit of the US, Canada, and various other countries, equal to one hundredth of a dollar, euro, or other decimal currency unit.",
+      "definitions_ex_en": "he was paid 40 cents an hour",
+      "definitions_ex_vn": "Ông đã được trả 40 xu một giờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one hundredth of a half step.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "centigrade.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "century.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671554_35efe9911c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671554_9e0d1b07d4_o.png",
+      "id_image": "cent_1538312"
+    }
+  ]
+}

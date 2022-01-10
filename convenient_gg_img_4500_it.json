@@ -1,0 +1,33 @@
+{
+  "english": "convenient",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiện lợi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiện nghi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fitting in well with a person's needs, activities, and plans.",
+      "definitions_ex_en": "I phoned your office to confirm that this date is convenient",
+      "definitions_ex_vn": "Tôi gọi điện cho văn phòng của bạn để xác nhận rằng ngày này là thuận tiện",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305941_c3e46f8c14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305941_8bfc736d02_o.png",
+      "id_image": "convenient_5773085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042930_6d1425c0cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042930_779002bc4c_o.png",
+      "id_image": "convenient_5906060"
+    }
+  ]
+}

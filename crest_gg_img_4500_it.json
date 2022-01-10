@@ -1,0 +1,104 @@
+{
+  "english": "crest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huy chương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỏm núi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chóp mào trên đầu chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mồng gà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ nhô lên của xương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nóc nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chùm lông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọn sóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ trang sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gợn lăn tăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trèo lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a comb or tuft of feathers, fur, or skin on the head of a bird or other animal.",
+      "definitions_ex_en": "a large game bird with a conspicuous erect red crest",
+      "definitions_ex_vn": "một con chim trò chơi lớn với một đỉnh đỏ dễ thấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the top of a mountain or hill.",
+      "definitions_ex_en": "she reached the crest of the hill",
+      "definitions_ex_vn": "Cô đến đỉnh đồi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the curling foamy top of a wave.",
+      "definitions_ex_en": "a high wave formed by the meeting of two crests",
+      "definitions_ex_vn": "một làn sóng cao được hình thành bởi cuộc họp của hai mào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinctive device borne above the shield of a coat of arms (originally as worn on a helmet), or separately reproduced, for example on writing paper or silverware, to represent a family or corporate body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reach the top of (something such as a hill or wave).",
+      "definitions_ex_en": "she crested a hill and saw the valley spread out before her",
+      "definitions_ex_vn": "Cô ấy mò mò một ngọn đồi và thấy thung lũng trải ra trước cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a wave) form a curling foamy top.",
+      "definitions_ex_en": "the swell begins to curl and crest",
+      "definitions_ex_vn": "Swell bắt đầu curl và Crest",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have attached or affixed at the top.",
+      "definitions_ex_en": "his helmet was crested with a fan of spikes",
+      "definitions_ex_vn": "Mũ bảo hiểm của anh ta đã bị mào với một fan hâm mộ của gai",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436103_395f014e1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436103_706ce0827f_o.png",
+      "id_image": "crest_1835048"
+    }
+  ]
+}

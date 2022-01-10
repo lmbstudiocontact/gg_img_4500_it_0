@@ -1,0 +1,83 @@
+{
+  "english": "climb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "leo lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hướng thượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lên cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiến bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trèo lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tốc lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "leo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trèo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "go or come up (a slope, incline, or staircase), especially by using the feet and sometimes the hands; ascend.",
+      "definitions_ex_en": "we began to climb the hill",
+      "definitions_ex_vn": "Chúng tôi bắt đầu leo lên đồi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move with effort, especially into or out of a confined space; clamber.",
+      "definitions_ex_en": "Howard started to climb out of the front seat",
+      "definitions_ex_vn": "Howard bắt đầu trèo ra khỏi ghế trước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an ascent, especially of a mountain or hill, by climbing.",
+      "definitions_ex_en": "the rigorous climb up the mountain",
+      "definitions_ex_vn": "sự khắt khe leo lên núi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687154_a8658d1d19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687154_2c5b432253_o.png",
+      "id_image": "climb_2640185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447113_62917b317d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447113_b91ee06504_o.png",
+      "id_image": "climb_2808463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447083_ef00ec0ba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447083_c67af9480c_o.png",
+      "id_image": "climb_5235867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447048_558213de1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447048_cddda6ff0f_o.png",
+      "id_image": "climb_6381773"
+    }
+  ]
+}

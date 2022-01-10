@@ -1,0 +1,59 @@
+{
+  "english": "confidence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện bí mật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện kín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện tâm phúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự qủa quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tín nhiệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the feeling or belief that one can rely on someone or something; firm trust.",
+      "definitions_ex_en": "we had every confidence in the staff",
+      "definitions_ex_vn": "Chúng tôi đã có mọi sự tự tin vào nhân viên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356597_f0286b2249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356597_c3bddf4566_o.png",
+      "id_image": "confidence_2037294"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049135_45b217cd21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049135_03270d7920_o.png",
+      "id_image": "confidence_5225011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049110_c7dc4b4b08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049110_e4dedf62b3_o.png",
+      "id_image": "confidence_5772957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427303_ea6aff8554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427303_df84302989_o.png",
+      "id_image": "confidence_5906152"
+    }
+  ]
+}

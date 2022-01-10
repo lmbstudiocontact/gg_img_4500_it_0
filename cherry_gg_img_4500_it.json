@@ -1,0 +1,50 @@
+{
+  "english": "cherry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dâu tây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "anh đào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu đỏ hồng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small, round stone fruit that is typically bright or dark red.",
+      "definitions_ex_en": "a bowl of cherries",
+      "definitions_ex_vn": "Một bát anh đào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the tree that bears the cherry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bright deep red color.",
+      "definitions_ex_en": "her mouth was a bright cherry red",
+      "definitions_ex_vn": "Miệng cô ấy là một màu đỏ anh đào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one's virginity.",
+      "definitions_ex_en": "only 3 percent of the students lost their cherry at college",
+      "definitions_ex_vn": "Chỉ có 3 phần trăm học sinh bị mất anh đào ở trường đại học",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425708_279e98478f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425708_9bd4e641b3_o.png",
+      "id_image": "cherry_4796217"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "couple",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây buộc liền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một cặp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngẫu lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghép lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao cấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hợp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết đôi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "two individuals of the same sort considered together.",
+      "definitions_ex_en": "a couple of girls were playing marbles",
+      "definitions_ex_vn": "Một vài cô gái đang chơi bi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "two people who are married, engaged, or otherwise closely associated romantically or sexually.",
+      "definitions_ex_en": "in three weeks the couple fell in love and became engaged",
+      "definitions_ex_vn": "Trong ba tuần, cặp vợ chồng đã yêu và đính hôn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an indefinite small number.",
+      "definitions_ex_en": "he hoped she'd be better in a couple of days",
+      "definitions_ex_vn": "Anh hy vọng cô sẽ tốt hơn trong một vài ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "combine.",
+      "definitions_ex_en": "a sense of hope is coupled with a palpable sense of loss",
+      "definitions_ex_vn": "Một cảm giác hy vọng được kết hợp với một cảm giác mất mát",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mate or have sexual intercourse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682139_e262679884_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682139_15d1a4e5a9_o.png",
+      "id_image": "couple_332952"
+    }
+  ]
+}

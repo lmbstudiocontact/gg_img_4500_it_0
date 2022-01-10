@@ -1,0 +1,80 @@
+{
+  "english": "claw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "càng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chụp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "móng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vồ bằng móng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vuốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xé",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bám lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chụp lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "móc vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a curved pointed horny nail on each digit of the foot in birds, lizards, and some mammals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an animal or person) scratch or tear something with the claws or the fingernails.",
+      "definitions_ex_en": "the kitten was clawing at Lowell's trouser leg",
+      "definitions_ex_vn": "Con mèo con đã vuốt vuốt ở chân quần của Lowell",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348847_506e5628cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348847_52da632686_o.png",
+      "id_image": "claw_1408443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660079_df253776d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660079_6477ca5638_o.png",
+      "id_image": "claw_464491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304691_136817ee14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304691_609a317102_o.png",
+      "id_image": "claw_815954"
+    }
+  ]
+}

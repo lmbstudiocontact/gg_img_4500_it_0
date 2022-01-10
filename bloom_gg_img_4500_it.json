@@ -1,0 +1,74 @@
+{
+  "english": "bloom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông phấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính mướt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chói lọi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nở hoa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flower, especially one cultivated for its beauty.",
+      "definitions_ex_en": "an exotic bloom",
+      "definitions_ex_vn": "một nụ cười kỳ lạ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a delicate powdery surface deposit on certain fresh fruits, leaves, or stems.",
+      "definitions_ex_en": "the bloom on a plum",
+      "definitions_ex_vn": "nở hoa trên một mận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a full bright sound, especially in a musical recording.",
+      "definitions_ex_en": "the remastering has lost some of the bloom of the strings",
+      "definitions_ex_vn": "Remastering đã mất một số sự nở rộ của các chuỗi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mass of iron, steel, or other metal hammered or rolled into a thick bar for further working.",
+      "definitions_ex_en": "an 18-foot-long steel bloom emerges red-hot from a new reheat furnace",
+      "definitions_ex_vn": "Một bông hoa dài 18 feet xuất hiện nóng từ một lò hâm nóng mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "produce flowers; be in flower.",
+      "definitions_ex_en": "a rose tree bloomed on a ruined wall",
+      "definitions_ex_vn": "một cây hoa hồng nở rộ trên một bức tường bị hủy hoại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (iron, steel, etc.) into a bloom.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683909_96b9931efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683909_840094e11a_o.png",
+      "id_image": "bloom_1749794"
+    }
+  ]
+}

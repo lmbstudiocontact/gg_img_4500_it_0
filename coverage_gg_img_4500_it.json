@@ -1,0 +1,29 @@
+{
+  "english": "coverage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao gồm các tuổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the extent to which something deals with or applies to something else.",
+      "definitions_ex_en": "the grammar did not offer total coverage of the language",
+      "definitions_ex_vn": "Ngữ pháp đã không cung cấp tổng số bảo hiểm của ngôn ngữ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325521_b23279ccd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325521_661388ab75_o.png",
+      "id_image": "coverage_2419573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062235_6be2c29ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062235_4c9762a87a_o.png",
+      "id_image": "coverage_5746262"
+    }
+  ]
+}

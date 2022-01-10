@@ -1,0 +1,72 @@
+{
+  "english": "cardinal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ có thịt của con hào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hồng y giáo chủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chủ yếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cốt yếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu đỏ thắm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a leading dignitary of the Roman Catholic Church. Cardinals are nominated by the Pope, and form the Sacred College which elects succeeding popes (now invariably from among their own number).",
+      "definitions_ex_en": "his appointment as cardinal",
+      "definitions_ex_vn": "cuộc hẹn của anh ấy như hồng y",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a New World songbird of the bunting family, with a stout bill and typically with a conspicuous crest. The male is partly or mostly red in color.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of the greatest importance; fundamental.",
+      "definitions_ex_en": "two cardinal points must be borne in mind",
+      "definitions_ex_vn": "hai điểm hồng y phải được sinh ra trong tâm trí",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441243_7cfb24dd31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441243_62397e400c_o.png",
+      "id_image": "cardinal_2220558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681314_7982c2fc2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681314_a0bfed64e7_o.png",
+      "id_image": "cardinal_3338212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681279_0cce15a47e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681279_f21d245ff7_o.png",
+      "id_image": "cardinal_3338328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062960_3b6a426927_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062960_ba16186837_o.png",
+      "id_image": "cardinal_6236397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326341_89c6e82703_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326341_1e0bccfcca_o.png",
+      "id_image": "cardinal_642077"
+    }
+  ]
+}

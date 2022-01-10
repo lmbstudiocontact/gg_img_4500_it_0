@@ -1,0 +1,88 @@
+{
+  "english": "crazy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gió thổi mạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "máy chạy không đều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người điên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhà cửa hư nát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phát điên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rồ dại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "say đắm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "mentally deranged, especially as manifested in a wild or aggressive way.",
+      "definitions_ex_en": "Stella went crazy and assaulted a visitor",
+      "definitions_ex_vn": "Stella đã phát điên và tấn công một vị khách",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "extremely enthusiastic.",
+      "definitions_ex_en": "I'm crazy about Cindy",
+      "definitions_ex_vn": "Tôi điên về Cindy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an angle) appearing absurdly out of place or in an unlikely position.",
+      "definitions_ex_en": "the monument leaned at a crazy angle",
+      "definitions_ex_vn": "Đài tưởng niệm dựa vào một góc điên",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677969_f1e8304f57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677969_9bcfff0350_o.png",
+      "id_image": "crazy_2577500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322796_4442dec3e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322796_a9cbe44ee0_o.png",
+      "id_image": "crazy_3362149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059490_23349b9419_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059490_60bb589b7d_o.png",
+      "id_image": "crazy_4138918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367657_4dca0eb32a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367657_84692a2a7c_o.png",
+      "id_image": "crazy_4177151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677844_23360b08ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677844_6e383a380b_o.png",
+      "id_image": "crazy_6300020"
+    }
+  ]
+}

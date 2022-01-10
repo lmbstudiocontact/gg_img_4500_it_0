@@ -1,0 +1,68 @@
+{
+  "english": "caution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời cảnh cáo và quở trách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự báo cho biết nguy hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bảo chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh cẩn thận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "care taken to avoid danger or mistakes.",
+      "definitions_ex_en": "anyone receiving a suspect package should exercise extreme caution",
+      "definitions_ex_vn": "bất cứ ai nhận được một gói nghi ngờ nên thực hiện hết sức thận trọng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amusing or surprising person.",
+      "definitions_ex_en": "“You're a caution, you are,” she said",
+      "definitions_ex_vn": "\"Bạn là một sự thận trọng, bạn là\", cô nói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "say something as a warning.",
+      "definitions_ex_en": "the secretary cautioned that economic uncertainties remained",
+      "definitions_ex_vn": "Bí thư cảnh báo rằng sự không chắc chắn kinh tế vẫn còn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433858_07b970b971_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433858_9c11c2dcc0_o.png",
+      "id_image": "caution_1348669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318601_3f7b4b7512_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318601_4ef0602ac0_o.png",
+      "id_image": "caution_1972903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055175_4ab2a0b513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055175_6cd22fd706_o.png",
+      "id_image": "caution_3100328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673494_ab22828212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673494_fbedaebf95_o.png",
+      "id_image": "caution_313085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318571_91a5d0cf72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318571_2701287843_o.png",
+      "id_image": "caution_3751796"
+    }
+  ]
+}

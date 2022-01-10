@@ -1,0 +1,98 @@
+{
+  "english": "bank",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bờ đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bờ giốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất giốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngân hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứa lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhà băng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhóm lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự quẹo nghiên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the land alongside or sloping down to a river or lake.",
+      "definitions_ex_en": "willows lined the bank",
+      "definitions_ex_vn": "liễu xếp hàng ngân hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slope, mass, or mound of a particular substance.",
+      "definitions_ex_en": "a bank of snow",
+      "definitions_ex_vn": "một ngân hàng tuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set or series of similar things, especially electrical or electronic devices, grouped together in rows.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cushion of a pool table.",
+      "definitions_ex_en": "a bank shot",
+      "definitions_ex_vn": "một cú sút ngân hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a financial establishment that invests money deposited by customers, pays it out when required, makes loans at interest, and exchanges currency.",
+      "definitions_ex_en": "I paid the money straight into my bank",
+      "definitions_ex_vn": "Tôi đã trả tiền vào ngân hàng của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "heap (a substance) into a mass or mound.",
+      "definitions_ex_en": "the rain banked the soil up behind the gate",
+      "definitions_ex_vn": "mưa làm hỏng đất phía sau cổng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an aircraft or vehicle) tilt or cause to tilt sideways in making a turn.",
+      "definitions_ex_en": "the plane banked as if to return to the airport",
+      "definitions_ex_vn": "Máy bay ngân hàng như thể quay trở lại sân bay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deposit (money or valuables) in a bank.",
+      "definitions_ex_en": "I banked the check",
+      "definitions_ex_vn": "Tôi đánh vào séc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431988_6ab9c6d939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431988_f86b5c30e9_o.png",
+      "id_image": "bank_1101598"
+    }
+  ]
+}

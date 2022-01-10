@@ -1,0 +1,82 @@
+{
+  "english": "collection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kết hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyên chở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hội hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấy lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quyên tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tụ lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thâu lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of collecting someone or something.",
+      "definitions_ex_en": "the collection of maple sap",
+      "definitions_ex_vn": "Bộ sưu tập Maple Sap",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of things or people.",
+      "definitions_ex_en": "a rambling collection of houses",
+      "definitions_ex_vn": "một bộ sưu tập ngôi nhà lan man",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677214_fb36587254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677214_a300ae310b_o.png",
+      "id_image": "collection_4647471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677174_144e1ff3b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677174_9a42e7fda1_o.png",
+      "id_image": "collection_4647508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437248_225415f9c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437248_020b5dda59_o.png",
+      "id_image": "collection_4647519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058775_41a9a719b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058775_1632783832_o.png",
+      "id_image": "collection_5526135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437193_e519cdcca2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437193_0b6e5c1017_o.png",
+      "id_image": "collection_5526145"
+    }
+  ]
+}

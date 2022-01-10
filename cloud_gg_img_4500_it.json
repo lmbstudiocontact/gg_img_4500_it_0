@@ -1,0 +1,105 @@
+{
+  "english": "cloud",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao phủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầy đặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một cụm mây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đám đông đặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một làn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mây che",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "án mây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho có lằn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a visible mass of condensed water vapor floating in the atmosphere, typically high above the ground.",
+      "definitions_ex_en": "the sun had disappeared behind a cloud",
+      "definitions_ex_vn": "Mặt trời đã biến mất đằng sau một đám mây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a state or cause of gloom, suspicion, trouble, or worry.",
+      "definitions_ex_en": "a black cloud hung over their lives",
+      "definitions_ex_vn": "một đám mây đen treo trên cuộc sống của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "networked computing facilities providing remote data storage and processing services via the internet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of the sky) become overcast with clouds.",
+      "definitions_ex_en": "the blue skies clouded over abruptly",
+      "definitions_ex_vn": "Bầu trời xanh đột ngột",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or become less clear or transparent.",
+      "definitions_ex_en": "blood pumped out, clouding the water",
+      "definitions_ex_vn": "Máu bơm ra, làm mờ nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of someone's face or eyes) show worry, sorrow, or anger.",
+      "definitions_ex_en": "his expression clouded over",
+      "definitions_ex_vn": "Biểu cảm của anh ấy đã che mờ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684124_2a76cb3155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684124_60549d4dd3_o.png",
+      "id_image": "clouds_238382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683994_cc85a0d71c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683994_b6293f3937_o.png",
+      "id_image": "clouds_5903922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444218_645aa62601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444218_77fb5aa080_o.png",
+      "id_image": "cloud_350949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684204_9efbf763b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684204_cabe26d0b4_o.png",
+      "id_image": "cloud_383833"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "english": "cut",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ kẻ tháp cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cú đấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoạn bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường tắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giảm giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tranh ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết cắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết mổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình vẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng thịt cắt ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rút thăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đào đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự từ khước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trốn học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cố ý không có mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cúp banh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn học",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xén",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chém",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make an opening, incision, or wound in (something) with a sharp-edged tool or object.",
+      "definitions_ex_en": "he cut his toe on a sharp stone",
+      "definitions_ex_vn": "Anh ta cắt ngón chân trên một hòn đá sắc nhọn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "divide into pieces with a knife or other sharp implement.",
+      "definitions_ex_en": "cut the beef into thin slices",
+      "definitions_ex_vn": "Cắt thịt bò thành lát mỏng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or form (something) by using a sharp tool to remove material.",
+      "definitions_ex_en": "workmen cut a hole in the pipe",
+      "definitions_ex_vn": "công nhân cắt một lỗ trên đường ống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "trim or reduce the length of (something, especially grass or a person's hair or fingernails) by using a sharp implement.",
+      "definitions_ex_en": "Ted was cutting the lawn",
+      "definitions_ex_vn": "Ted đang cắt cỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reduce the size, amount, or quantity of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "end or interrupt the provision of (something, especially power or food supplies).",
+      "definitions_ex_en": "we resolved to cut oil supplies to territories controlled by the rebels",
+      "definitions_ex_vn": "Chúng tôi quyết tâm cắt giảm nguồn cung dầu cho các lãnh thổ được kiểm soát bởi các phiến quân",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a line) cross or intersect (another line).",
+      "definitions_ex_en": "mark the point where the line cuts the vertical axis",
+      "definitions_ex_vn": "Đánh dấu điểm mà dòng cắt trục dọc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stop filming or recording.",
+      "definitions_ex_en": "“Cut” shouted a voice, followed by “Could we do it again, please?”",
+      "definitions_ex_vn": "\"Cắt\" hét lên một giọng nói, theo sau là \"chúng ta có thể làm lại một lần nữa không?\"",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "adulterate (a drug) or dilute (alcohol) by mixing it with another substance.",
+      "definitions_ex_en": "dealers cut the drugs to stretch their supply",
+      "definitions_ex_vn": "Các đại lý cắt thuốc để kéo dài nguồn cung của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "divide (a pack of playing cards) by lifting a portion from the top, either to reveal or draw a card at random or to place the top portion under the bottom portion.",
+      "definitions_ex_en": "let's cut for dealer",
+      "definitions_ex_vn": "Hãy cắt bỏ cho đại lý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ignore or refuse to recognize (someone).",
+      "definitions_ex_en": "they cut her in public",
+      "definitions_ex_vn": "Họ cắt cô ấy ở nơi công cộng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a stroke or blow given by a sharp-edged implement or by a whip or cane.",
+      "definitions_ex_en": "he could skin an animal with a single cut of the knife",
+      "definitions_ex_vn": "anh ta có thể làm da một con vật chỉ bằng một con dao duy nhất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, narrow incision in the skin made by something sharp.",
+      "definitions_ex_en": "blood ran from a cut on his jaw",
+      "definitions_ex_vn": "Máu chạy từ một vết cắt trên hàm của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a wounding remark or act.",
+      "definitions_ex_en": "his unkindest cut at Elizabeth was to call her heartless",
+      "definitions_ex_vn": "Cú cắt unkindest của anh ấy ở Elizabeth là gọi cho cô ấy vô tâm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the way or style in which something, especially a garment, is cut.",
+      "definitions_ex_en": "the elegant cut of his dinner jacket",
+      "definitions_ex_vn": "sự cắt giảm thanh lịch của áo khoác ăn tối của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357202_bc49264e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357202_e5c9033f13_o.png",
+      "id_image": "cut_1265885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667999_a0371e2294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667999_6d14a1f8ce_o.png",
+      "id_image": "cut_1721425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049770_46e5d18772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049770_8407f80168_o.png",
+      "id_image": "cut_264276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428063_75bffe325d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428063_1f9a1cd0d5_o.png",
+      "id_image": "cut_269071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667974_ffc7cfa436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667974_d6fa344467_o.png",
+      "id_image": "cut_6347611"
+    }
+  ]
+}

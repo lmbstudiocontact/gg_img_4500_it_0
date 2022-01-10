@@ -1,0 +1,37 @@
+{
+  "english": "deaf",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điếc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điếc đặc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trái hồ đào",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lacking the power of hearing or having impaired hearing.",
+      "definitions_ex_en": "I'm a bit deaf so you'll have to speak up",
+      "definitions_ex_vn": "Tôi hơi điếc để bạn sẽ phải lên tiếng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663924_3e8ab70f06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663924_c186887392_o.png",
+      "id_image": "deaf_2395143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308706_a64974d575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308706_7e3435ce24_o.png",
+      "id_image": "deaf_2472657"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "catalogue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ca ta lô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản tổng kê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghi vào bản tổng kê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục lục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách in kiểu hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách tổng kê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia ra từng loại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho vào mục lục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kê thứ tự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bản tổng kê",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a complete list of items, typically one in alphabetical or other systematic order.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a systematic list of (items of the same type).",
+      "definitions_ex_en": "it will be some time before the collection is fully cataloged",
+      "definitions_ex_vn": "Nó sẽ là một thời gian trước khi bộ sưu tập được xếp vào thành lập hoàn toàn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365377_af2b3278c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365377_be8eaf577c_o.png",
+      "id_image": "catalogue_1131465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435528_38d34b2315_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435528_7940acb59d_o.png",
+      "id_image": "catalogue_3814138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057105_42db014170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057105_baf8883bf7_o.png",
+      "id_image": "catalogue_4287223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675284_7fc43a7808_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675284_216187098c_o.png",
+      "id_image": "catalogue_5240931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675434_79ef5179bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675434_5fb2efaf28_o.png",
+      "id_image": "catalogue_741897"
+    }
+  ]
+}

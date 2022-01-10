@@ -1,0 +1,105 @@
+{
+  "english": "count",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiểm điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểm tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổng số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tính toán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tính toán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "determine the total number of (a collection of items).",
+      "definitions_ex_en": "I started to count the stars I could see",
+      "definitions_ex_vn": "Tôi bắt đầu đếm những ngôi sao tôi có thể nhìn thấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take into account; include.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be significant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of determining the total number of something.",
+      "definitions_ex_en": "at the last count, fifteen applications were still outstanding",
+      "definitions_ex_vn": "Ở số lượng cuối cùng, mười lăm ứng dụng vẫn còn tồn tại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of reciting numbers in ascending order, up to the specified number.",
+      "definitions_ex_en": "hold it for a count of seven",
+      "definitions_ex_vn": "giữ nó cho một số bảy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a point for discussion or consideration.",
+      "definitions_ex_en": "the program remained vulnerable on a number of counts",
+      "definitions_ex_vn": "Chương trình vẫn dễ bị tổn thương trên một số lượng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the measure of the fineness of a yarn expressed as the weight of a given length or the length of a given weight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a European nobleman whose rank corresponds to that of an English earl.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064490_82c6b4132d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064490_375a2d0586_o.png",
+      "id_image": "count_3155259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327761_7edec116e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327761_dc98599dd5_o.png",
+      "id_image": "count_5291791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064395_1d8854b25d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064395_fe8626c87e_o.png",
+      "id_image": "count_5605901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442693_dbe1424c94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442693_f0fdb2fd47_o.png",
+      "id_image": "count_5979299"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "english": "crop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bầu diều chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cán roi da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất trồng trọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gậy đi săn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật gặt hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa gặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa hái trái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hớt tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thâu hoạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt bả vai của bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có huê lợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trồng trọt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cultivated plant that is grown as food, especially a grain, fruit, or vegetable.",
+      "definitions_ex_en": "the main crops were oats and barley",
+      "definitions_ex_vn": "Cây trồng chính là yến mạch và lúa mạch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group or amount of related people or things appearing or occurring at one time.",
+      "definitions_ex_en": "the current crop of politicians",
+      "definitions_ex_vn": "cây trồng hiện tại của các chính trị gia",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hairstyle in which the hair is cut very short.",
+      "definitions_ex_en": "she has her hair cut in a short crop",
+      "definitions_ex_vn": "Cô ấy bị cắt tóc trong một vụ mùa ngắn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for riding crop.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pouch in a bird's gullet where food is stored or prepared for digestion.",
+      "definitions_ex_en": "the parent waxbill partially digests food in its crop",
+      "definitions_ex_vn": "Waxbill cha mẹ tiêu hóa một phần thức ăn trong vụ mùa của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the entire tanned hide of an animal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut (something, especially a person's hair) very short.",
+      "definitions_ex_en": "she cropped her long golden hair",
+      "definitions_ex_vn": "Cô ấy cắt tóc vàng dài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an animal) bite off and eat the tops of (plants).",
+      "definitions_ex_en": "the horse was gratefully cropping the grass",
+      "definitions_ex_vn": "Con ngựa đang biết ơn trồng cỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "harvest (plants or their produce) from a particular area.",
+      "definitions_ex_en": "hay would have been cropped several times through the summer",
+      "definitions_ex_vn": "hay sẽ đã được cắt vài lần trong suốt mùa hè",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434463_488b17f7dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434463_01787d33c7_o.png",
+      "id_image": "crops_1686495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434393_b2c0aa917f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434393_e034480659_o.png",
+      "id_image": "crops_3239276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364062_8f478dbcc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364062_87420cdb8b_o.png",
+      "id_image": "crop_1583433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364017_27753b8833_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364017_13dab4260c_o.png",
+      "id_image": "crop_1791909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319401_03ccf0b88b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319401_a1143e621a_o.png",
+      "id_image": "crop_593505"
+    }
+  ]
+}

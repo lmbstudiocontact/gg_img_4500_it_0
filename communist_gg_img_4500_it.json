@@ -1,0 +1,39 @@
+{
+  "english": "communist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cộng sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người theo cộng sản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who supports or believes in the principles of communism.",
+      "definitions_ex_en": "I was very left-wing but I was never a communist",
+      "definitions_ex_vn": "Tôi đã rất cánh trái nhưng tôi không bao giờ là một người cộng sản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "adhering to or based on the principles of communism.",
+      "definitions_ex_en": "a French communist writer",
+      "definitions_ex_vn": "một nhà văn cộng sản người Pháp",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432988_a2ff3d04a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432988_a6981fcc95_o.png",
+      "id_image": "communist_1868224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672584_1a2f08b7f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672584_5f6a6ab131_o.png",
+      "id_image": "communist_5822341"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "buffet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thoi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đấm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đấm túi bụi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cái tát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái vả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cú thoi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đấm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a meal consisting of several dishes from which guests serve themselves.",
+      "definitions_ex_en": "a cold buffet lunch",
+      "definitions_ex_vn": "Một bữa trưa tự chọn lạnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a room or counter in a station, hotel, or other public building selling light meals or snacks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a blow, typically of the hand or fist.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for buffeting.",
+      "definitions_ex_en": "fifteen degrees of flap induce marked buffet",
+      "definitions_ex_vn": "mười lăm độ flap gây ra buffet được đánh dấu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially of wind or waves) strike repeatedly and violently; batter.",
+      "definitions_ex_en": "the rough seas buffeted the coast",
+      "definitions_ex_vn": "Biển gồ ghề với bờ biển",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312651_e7bf3d6ea9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312651_77f205a83b_o.png",
+      "id_image": "buffet_2934173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312716_6c1f61b1c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312716_27c51e1cf6_o.png",
+      "id_image": "buffet_417443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049185_38e562b5d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049185_5e2dc887cb_o.png",
+      "id_image": "buffet_5775206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049260_3634ff233e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049260_f01cd6d986_o.png",
+      "id_image": "buffet_978387"
+    }
+  ]
+}

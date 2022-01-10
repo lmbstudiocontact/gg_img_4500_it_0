@@ -1,0 +1,68 @@
+{
+  "english": "casual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất ngờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cây ngẩu sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đột ngột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngạc nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngẩu nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình cờ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relaxed and unconcerned.",
+      "definitions_ex_en": "she regarded his affairs with a casual indulgence",
+      "definitions_ex_vn": "cô ấy coi các vấn đề của mình với sự nuông chiều giản dị",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not regular or permanent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "happening by chance; accidental.",
+      "definitions_ex_en": "he pretended it was a casual meeting",
+      "definitions_ex_vn": "Anh giả vờ đó là một cuộc họp bình thường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "without formality of style or manner, in particular (of clothing) suitable for everyday wear rather than formal occasions.",
+      "definitions_ex_en": "a casual short-sleeved shirt",
+      "definitions_ex_vn": "Một chiếc áo sơ mi ngắn tay giản dị",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who does something irregularly.",
+      "definitions_ex_en": "a number of casuals became regular customers",
+      "definitions_ex_vn": "Một số người giản dị đã trở thành khách hàng thường xuyên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435898_4a5c0a5977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435898_9d94a40177_o.png",
+      "id_image": "casual_1720728"
+    }
+  ]
+}

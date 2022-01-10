@@ -1,0 +1,118 @@
+{
+  "english": "chip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dùng cho điện tử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lát mõng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân thú vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẻ bằng ngà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quèo chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ gỗ bào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bào mõng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chế giểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mẽ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quèo chân",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small piece of something removed in the course of chopping, cutting, or breaking a hard material such as wood or stone.",
+      "definitions_ex_en": "mulch the shrubs with cedar chips",
+      "definitions_ex_vn": "Mulch cây bụi với chip tuyết tùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tiny wafer of semiconducting material used to make an integrated circuit; a microchip.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a counter used in certain gambling games to represent money.",
+      "definitions_ex_en": "a poker chip",
+      "definitions_ex_vn": "một con chip poker.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in soccer, golf, and other sports) a short lofted kick or shot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut or break (a small piece) from a hard material.",
+      "definitions_ex_en": "we had to chip ice off the upper deck",
+      "definitions_ex_vn": "Chúng tôi phải chip băng khỏi tầng trên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in golf, soccer, and other sports) kick or strike (a ball or shot) to produce a short lobbed shot or pass.",
+      "definitions_ex_en": "he chipped a superb shot",
+      "definitions_ex_vn": "Anh sứt một cú sút tuyệt vời",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308846_0f45b802a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308846_d73e38dfd2_o.png",
+      "id_image": "chips_2819418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424033_d07dfd03b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424033_7d6e3f1215_o.png",
+      "id_image": "chips_3728168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045865_02637c33d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045865_1dc73896b0_o.png",
+      "id_image": "chips_536103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353132_dea381f6f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353132_b3c654d82f_o.png",
+      "id_image": "chip_750992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308891_5f91af9d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308891_20554b634a_o.png",
+      "id_image": "chip_752568"
+    }
+  ]
+}

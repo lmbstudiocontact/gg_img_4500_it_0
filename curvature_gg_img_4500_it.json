@@ -1,0 +1,28 @@
+{
+  "english": "curvature",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự trẹo xương sống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự uốn cong",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fact of being curved or the degree to which something is curved.",
+      "definitions_ex_en": "spinal curvature",
+      "definitions_ex_vn": "độ cong cột sống",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314251_ed485b0056_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314251_4bce5ae17e_o.png",
+      "id_image": "curvature_1589495"
+    }
+  ]
+}

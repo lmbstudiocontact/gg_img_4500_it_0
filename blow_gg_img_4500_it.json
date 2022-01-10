@@ -1,0 +1,121 @@
+{
+  "english": "blow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bí mật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi thổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm sình bụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọn gió",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin kín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoe mình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm hết hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phun nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of wind) move creating an air current.",
+      "definitions_ex_en": "a cold wind began to blow",
+      "definitions_ex_vn": "Một cơn gió lạnh bắt đầu thổi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expel air through pursed lips.",
+      "definitions_ex_en": "Will took a deep breath, and blew",
+      "definitions_ex_vn": "Sẽ hít một hơi thật sâu và thổi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an explosion or explosive device) displace violently or send flying.",
+      "definitions_ex_en": "the blast had blown the windows out of the van",
+      "definitions_ex_vn": "vụ nổ đã thổi tung các cửa sổ ra khỏi xe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "spend recklessly.",
+      "definitions_ex_en": "they blew $100,000 in just eighteen months",
+      "definitions_ex_vn": "họ đã thổi 100.000 đô la chỉ trong mười tám tháng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "completely lose or miss (an opportunity).",
+      "definitions_ex_en": "the wider issues were to show that politicians had blown it",
+      "definitions_ex_vn": "Các vấn đề rộng hơn là cho thấy các chính trị gia đã thổi nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of flies) lay eggs in or on (something).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "produce flowers or be in flower.",
+      "definitions_ex_en": "I know a bank where the wild thyme blows",
+      "definitions_ex_vn": "Tôi biết một ngân hàng nơi thyme hoang dã thổi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a strong wind.",
+      "definitions_ex_en": "we're in for a blow",
+      "definitions_ex_vn": "Chúng tôi đang trong một cú đánh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of blowing an instrument.",
+      "definitions_ex_en": "a number of blows on the whistle",
+      "definitions_ex_vn": "một số cú đánh trên tiếng huýt sáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a powerful stroke with a hand, weapon, or hard object.",
+      "definitions_ex_en": "he received a blow to the skull",
+      "definitions_ex_vn": "Anh nhận được một cú đánh vào hộp sọ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state or period of flowering.",
+      "definitions_ex_en": "stocks in fragrant blow",
+      "definitions_ex_vn": "cổ phiếu trong đòn thơm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683639_95b7bfce24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683639_e093aef47b_o.png",
+      "id_image": "blow_1040516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683619_269736533e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683619_460d757891_o.png",
+      "id_image": "blow_4845861"
+    }
+  ]
+}

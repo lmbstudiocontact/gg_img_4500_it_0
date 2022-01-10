@@ -1,0 +1,56 @@
+{
+  "english": "behaviour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cư xử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đối đải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẩm hạmh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thái độ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the way in which one acts or conducts oneself, especially toward others.",
+      "definitions_ex_en": "his insulting behavior toward me",
+      "definitions_ex_vn": "hành vi xúc phạm của anh ấy đối với tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352697_99cd560bcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352697_a590b3da34_o.png",
+      "id_image": "behaviour_3930532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308536_7d2ddaca85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308536_0dcc6c42eb_o.png",
+      "id_image": "behaviour_5308028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308506_6da64d49e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308506_8251de3079_o.png",
+      "id_image": "behaviour_5778282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663694_d71123f9f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663694_5bf3eae389_o.png",
+      "id_image": "behaviour_5998589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663659_bc7bd82778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663659_85882ea737_o.png",
+      "id_image": "behaviour_6002351"
+    }
+  ]
+}

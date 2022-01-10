@@ -1,0 +1,96 @@
+{
+  "english": "code",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luật lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mật mã",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "pháp điển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "qui tắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ám hiệu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dấu hiệu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biên tập pháp điển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a system of words, letters, figures, or other symbols substituted for other words, letters, etc., especially for the purposes of secrecy.",
+      "definitions_ex_en": "the Americans cracked their diplomatic code",
+      "definitions_ex_vn": "Người Mỹ đã phá vỡ mã ngoại giao của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "program instructions.",
+      "definitions_ex_en": "assembly code",
+      "definitions_ex_vn": "Mã hội.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a systematic collection of laws or regulations.",
+      "definitions_ex_en": "the criminal code",
+      "definitions_ex_vn": "Bộ luật hình sự",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convert (the words of a message) into a particular code in order to convey a secret meaning.",
+      "definitions_ex_en": "only Mitch knew how to read the message—even the name was coded",
+      "definitions_ex_vn": "Chỉ Mitch biết cách đọc tin nhắn - thậm chí tên được mã hóa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "write code for (a computer program).",
+      "definitions_ex_en": "most developers code C + + like C",
+      "definitions_ex_vn": "hầu hết các nhà phát triển mã C giống như c",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "specify the genetic sequence for (an amino acid or protein).",
+      "definitions_ex_en": "genes that code for human growth hormone",
+      "definitions_ex_vn": "gen mã hóa cho hormone tăng trưởng của con người",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325371_c2995aff8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325371_d471191a02_o.png",
+      "id_image": "code_2419238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062110_1484f34863_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062110_1a8bbb9b39_o.png",
+      "id_image": "code_3380517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440293_cf66ed1310_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440293_d73db44be2_o.png",
+      "id_image": "code_5322098"
+    }
+  ]
+}

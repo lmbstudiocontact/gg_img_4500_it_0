@@ -1,0 +1,51 @@
+{
+  "english": "delicious",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thơm ngon",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ăn ngon miệng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khoái trá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm mê mẩn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui sướng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "highly pleasant to the taste.",
+      "definitions_ex_en": "delicious home-baked brown bread",
+      "definitions_ex_vn": "Bánh mì nâu nướng ngon lành",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a red or yellow variety of eating apple with a sweet flavor and a slightly elongated shape, originally cultivated in the US.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042370_bba3de0b4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042370_d75ebc0c66_o.png",
+      "id_image": "delicious_2965079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305416_c838eac5cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305416_622a42d2c4_o.png",
+      "id_image": "delicious_3508661"
+    }
+  ]
+}

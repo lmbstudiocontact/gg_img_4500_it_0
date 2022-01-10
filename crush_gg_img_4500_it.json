@@ -1,0 +1,107 @@
+{
+  "english": "crush",
+  "list_translation_mean": [
+    {
+      "translate_mean": "yêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc hội họp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám đông chen lấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đè nát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phải lòng người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đè bẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sập mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đập giẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đè bẹp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nhăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền nát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rẻ đám đông",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "compress or squeeze forcefully so as to break, damage, or distort in shape.",
+      "definitions_ex_en": "the front of his car was crushed in the collision",
+      "definitions_ex_vn": "Mặt trước của chiếc xe của anh ta bị nghiền nát trong vụ va chạm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a government or state) violently subdue (opposition or a rebellion).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring about a feeling of overwhelming disappointment or embarrassment in (someone).",
+      "definitions_ex_en": "his defeat crushed a lot of supporters",
+      "definitions_ex_vn": "Thất bại của anh ấy đã nghiền nát rất nhiều người ủng hộ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a crowd of people pressed closely together, especially in an enclosed space.",
+      "definitions_ex_en": "a number of youngsters fainted in the crush",
+      "definitions_ex_vn": "Một số thanh niên ngất xỉu trong lòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a brief but intense infatuation for someone, especially someone unattainable or inappropriate.",
+      "definitions_ex_en": "she did have a crush on Dr. Russell",
+      "definitions_ex_vn": "Cô ấy đã phải lòng Tiến sĩ Russell",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a drink made from the juice of pressed fruit.",
+      "definitions_ex_en": "lemon crush",
+      "definitions_ex_vn": "Lemon Crush.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672284_f11df4fdbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672284_10cca6e882_o.png",
+      "id_image": "crush_4412635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361847_917c52ac56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361847_a4c23916b8_o.png",
+      "id_image": "crush_5526137"
+    }
+  ]
+}

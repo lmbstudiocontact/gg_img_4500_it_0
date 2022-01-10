@@ -1,0 +1,55 @@
+{
+  "english": "beggar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người ăn xin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nghèo khổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person, typically a homeless one, who lives by asking for money or food.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person of a specified type, especially one to be envied or pitied.",
+      "definitions_ex_en": "poor little beggars",
+      "definitions_ex_vn": "người ăn xin nhỏ kém",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reduce (someone) to poverty.",
+      "definitions_ex_en": "by being soft to the unfortunate, we beggared ourselves",
+      "definitions_ex_vn": "Bằng cách mềm mại đến những điều không may, chúng ta hãy tự rửa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423968_0349fd72b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423968_4a7f0e7e85_o.png",
+      "id_image": "beggar_4244635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045715_56858ea5d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045715_1ba689ecdc_o.png",
+      "id_image": "beggar_4244641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352902_3351a5137a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352902_b35d4a4ed3_o.png",
+      "id_image": "beggar_5256187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664034_6a9b7a6831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664034_554fa23ea3_o.png",
+      "id_image": "beggar_949555"
+    }
+  ]
+}

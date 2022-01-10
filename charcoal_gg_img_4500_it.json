@@ -1,0 +1,66 @@
+{
+  "english": "charcoal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "than",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bức họa bằng than",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở mỹ bức vẽ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẽ bằng than",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bôi than cho đen",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a porous black solid, consisting of an amorphous form of carbon, obtained as a residue when wood, bone, or other organic matter is heated in the absence of air.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cook over charcoal.",
+      "definitions_ex_en": "we charcoaled a couple T-bone steaks",
+      "definitions_ex_vn": "Chúng tôi than cấy một vài miếng bít tết xương T",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357882_fe652b4c36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357882_8505b55b32_o.png",
+      "id_image": "charcoal_1939665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313711_7b6093ea61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313711_23cf05d030_o.png",
+      "id_image": "charcoal_2333799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428568_bc86304eb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428568_61148b6007_o.png",
+      "id_image": "charcoal_3828192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668449_d70b27131e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668449_4319be0a42_o.png",
+      "id_image": "charcoal_6331992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428643_307a956bf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428643_f856e0a715_o.png",
+      "id_image": "charcoal_933265"
+    }
+  ]
+}

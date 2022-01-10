@@ -1,0 +1,72 @@
+{
+  "english": "circular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có hình tròn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đi vòng quanh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về hình tròn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vòng tròn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xoay vòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về đoàn thể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having the form of a circle.",
+      "definitions_ex_en": "the building features a circular atrium",
+      "definitions_ex_vn": "Tòa nhà có tâm nhĩ tròn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an argument) already containing an assumption of what is to be proved, and therefore fallacious.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a letter or advertisement) for distribution to a large number of people.",
+      "definitions_ex_en": "a circular letter was sent asking for support",
+      "definitions_ex_vn": "Một lá thư hình tròn đã được gửi yêu cầu hỗ trợ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a letter or advertisement that is distributed to a large number of people.",
+      "definitions_ex_en": "I received a circular from a building society",
+      "definitions_ex_vn": "Tôi đã nhận được một thông tư từ một xã hội xây dựng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350507_30583451fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350507_57562c9fbc_o.png",
+      "id_image": "circular_2442310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350472_64680601da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350472_9fa9938906_o.png",
+      "id_image": "circular_3815512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421483_c9054fa57e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421483_931e52e825_o.png",
+      "id_image": "circular_6203356"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "english": "bang",
+  "list_translation_mean": [
+    {
+      "translate_mean": "om sòm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng đóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng nổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng ồn ào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "báng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh mạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập cửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập mạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gỏ cửa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden loud noise.",
+      "definitions_ex_en": "the door slammed with a bang",
+      "definitions_ex_vn": "cánh cửa đập với một tiếng nổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of bhang.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "strike or put down (something) forcefully and noisily.",
+      "definitions_ex_en": "he began to bang the table with his fist",
+      "definitions_ex_vn": "Anh bắt đầu đập bàn với nắm đấm của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of music) have a loud, energetic beat that is good for dancing to.",
+      "definitions_ex_en": "the track bangs and is perfect for any house party",
+      "definitions_ex_vn": "theo dõi bangs và là hoàn hảo cho bất kỳ bữa tiệc nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to express or imitate the sound of a sudden loud noise.",
+      "definitions_ex_en": "firecrackers went bang",
+      "definitions_ex_vn": "pháo đã đi bang bang",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "used to convey the suddenness of an action or process.",
+      "definitions_ex_en": "the minute something becomes obsolete, bang, it's gone",
+      "definitions_ex_vn": "Phút thứ có gì đó trở nên lỗi thời, đập, nó đã biến mất",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053505_dcdbebbb4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053505_8c7b42fb33_o.png",
+      "id_image": "bang_3770909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053465_91dddc71ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053465_6536d5b1a9_o.png",
+      "id_image": "bang_5928138"
+    }
+  ]
+}

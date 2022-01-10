@@ -1,0 +1,136 @@
+{
+  "english": "crown",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tôn lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khum lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ban thưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ca ngợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đội mũ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đội vương miệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phong chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán thưởng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a circular ornamental headdress worn by a monarch as a symbol of authority, usually made of or decorated with precious metals and jewels.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the top or highest part of something.",
+      "definitions_ex_en": "the crown of the hill",
+      "definitions_ex_vn": "Vương miện của ngọn đồi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of a tooth projecting from the gum.",
+      "definitions_ex_en": "a thin layer of enamel covers the crown",
+      "definitions_ex_vn": "một lớp men mỏng bao phủ vương miện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a British coin with a face value of five shillings or 25 pence, now minted only for commemorative purposes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a paper size, now standardized at 384 × 504 mm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ceremonially place a crown on the head of (someone) in order to invest them as a monarch.",
+      "definitions_ex_en": "he went to Rome to be crowned",
+      "definitions_ex_vn": "Anh ấy đã đến Rome để được trao vương miện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rest on or form the top of.",
+      "definitions_ex_en": "the distant knoll was crowned with trees",
+      "definitions_ex_vn": "Knoll xa xôi đã được trao vương miện với cây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be the triumphant culmination of (an effort or endeavor, especially a prolonged one).",
+      "definitions_ex_en": "years of struggle were crowned by a state visit to Paris",
+      "definitions_ex_vn": "Nhiều năm đấu tranh đã được trao vương miện bởi một chuyến thăm nhà nước đến Paris",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fit a crown to (a tooth).",
+      "definitions_ex_en": "simple fillings no longer suffice and the tooth has to be crowned",
+      "definitions_ex_vn": "Trám đơn đơn giản không còn đủ và răng phải được trao vương miện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit on the head.",
+      "definitions_ex_en": "she contained the urge to crown him",
+      "definitions_ex_vn": "Cô ấy khao khát vương miện anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a baby's head during labor) fully appear in the vaginal opening prior to emerging.",
+      "definitions_ex_en": "I was able to see our baby's head crowning",
+      "definitions_ex_vn": "Tôi đã có thể nhìn thấy vương miện đầu của em bé",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362657_4b8f5ee297_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362657_a17bbdc136_o.png",
+      "id_image": "crown_1503888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318236_51395f6fb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318236_12615811d7_o.png",
+      "id_image": "crown_536118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673079_aa8bcc16f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673079_128cf657f9_o.png",
+      "id_image": "crown_599566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673039_2d98658f90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673039_83d940492e_o.png",
+      "id_image": "crown_751024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673014_00417bf8d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673014_3062a171d4_o.png",
+      "id_image": "crown_991815"
+    }
+  ]
+}

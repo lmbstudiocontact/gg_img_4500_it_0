@@ -1,0 +1,30 @@
+{
+  "english": "cubic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có hình khối",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having the shape of a cube.",
+      "definitions_ex_en": "a cubic room",
+      "definitions_ex_vn": "một phòng hình khối",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a cubic equation, or a curve described by one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431553_67c3b6884b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431553_635c23fae0_o.png",
+      "id_image": "cubic_1533916"
+    }
+  ]
+}

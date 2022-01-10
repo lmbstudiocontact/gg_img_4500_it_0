@@ -1,0 +1,55 @@
+{
+  "english": "coral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "san hô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trứng tôm hùm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hard stony substance secreted by certain marine coelenterates as an external skeleton, typically forming large reefs in warm seas.",
+      "definitions_ex_en": "a coral reef",
+      "definitions_ex_vn": "một rạn san hô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sedentary coelenterate of warm and tropical seas, with a calcareous, horny, or soft skeleton. Most corals are colonial and many rely on the presence of green algae in their tissues to obtain energy from sunlight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the unfertilized roe of a lobster or scallop, which is used as food and becomes reddish when cooked.",
+      "definitions_ex_en": "we had scallops with their coral, in their fluted shells",
+      "definitions_ex_vn": "Chúng tôi đã có sò điệp với san hô của họ, trong vỏ sò của chúng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688029_b8f14a5d5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688029_3d1659fbab_o.png",
+      "id_image": "coral_2333710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687994_8d62ebc828_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687994_cb7c61cef0_o.png",
+      "id_image": "coral_3860075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377817_f47e3b54b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377817_b18279d393_o.png",
+      "id_image": "coral_4545245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377742_04f4d2324c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377742_835ba7dbc5_o.png",
+      "id_image": "coral_4751234"
+    }
+  ]
+}

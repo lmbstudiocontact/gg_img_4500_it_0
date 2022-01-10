@@ -1,0 +1,68 @@
+{
+  "english": "cope",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo lể của giáo sỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bầu trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần trên của khuôn đúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòm trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "choàng áo lể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chống cự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt qua sự khó khăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây mái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đương đầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) deal effectively with something difficult.",
+      "definitions_ex_en": "his ability to cope with stress",
+      "definitions_ex_vn": "khả năng của anh ấy để đối phó với căng thẳng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in building) cover (a joint or structure) with a coping.",
+      "definitions_ex_en": "a high wall coped with tiles",
+      "definitions_ex_vn": "Một bức tường cao được đối phó với gạch",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a long, loose cloak worn by a priest or bishop on ceremonial occasions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378192_438dc7fca4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378192_a98db0c4d5_o.png",
+      "id_image": "cope_6159126"
+    }
+  ]
+}

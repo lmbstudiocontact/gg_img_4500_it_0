@@ -1,0 +1,82 @@
+{
+  "english": "default",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khiếm diện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuyết tịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phá sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vắng mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỡ nợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khiếm diện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không ra hầu kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phá sản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyệt tự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vắng mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vỡ nợ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "failure to fulfill an obligation, especially to repay a loan or appear in a court of law.",
+      "definitions_ex_en": "it will have to restructure its debts to avoid default",
+      "definitions_ex_vn": "nó sẽ phải cơ cấu lại các khoản nợ của nó để tránh mặc định",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a preselected option adopted by a computer program or other mechanism when no alternative is specified by the user or programmer.",
+      "definitions_ex_en": "the default is fifty lines",
+      "definitions_ex_vn": "Mặc định là năm mươi dòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fail to fulfill an obligation, especially to repay a loan or to appear in a court of law.",
+      "definitions_ex_en": "some had defaulted on student loans",
+      "definitions_ex_vn": "Một số đã mặc định trong các khoản vay sinh viên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a computer program or other mechanism) revert automatically to (a preselected option).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043200_ea406f6d7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043200_e765e019a7_o.png",
+      "id_image": "default_5762278"
+    }
+  ]
+}

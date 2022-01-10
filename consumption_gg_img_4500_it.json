@@ -1,0 +1,57 @@
+{
+  "english": "consumption",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự tiêu diệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiêu thụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiêu dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiêu xài",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the using up of a resource.",
+      "definitions_ex_en": "industrialized countries should reduce their energy consumption",
+      "definitions_ex_vn": "Các nước công nghiệp nên giảm mức tiêu thụ năng lượng của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a wasting disease, especially pulmonary tuberculosis.",
+      "definitions_ex_en": "his mother had died of consumption",
+      "definitions_ex_vn": "Mẹ anh đã chết vì tiêu thụ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308436_f03be589cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308436_c30dfc27fb_o.png",
+      "id_image": "consumption_1486206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308416_dcea8fc3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308416_8aa005f7d9_o.png",
+      "id_image": "consumption_2390236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045325_117eafcab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045325_e78066e0c5_o.png",
+      "id_image": "consumption_4465742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308321_1f2c2f74df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308321_cd8714c8ac_o.png",
+      "id_image": "consumption_6315590"
+    }
+  ]
+}

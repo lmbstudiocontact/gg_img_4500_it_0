@@ -1,0 +1,100 @@
+{
+  "english": "cycle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chu kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chu trình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tuần hoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuần trăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thi tập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe đạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi bằng xe đạp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi xe đạp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a series of events that are regularly repeated in the same order.",
+      "definitions_ex_en": "the boom and slump periods of a trade cycle",
+      "definitions_ex_vn": "sự bùng nổ và thời gian slump của một chu kỳ thương mại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a complete set or series.",
+      "definitions_ex_en": "the painting is one of a cycle of seven",
+      "definitions_ex_vn": "Bức tranh là một trong những chu kỳ bảy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bicycle or tricycle.",
+      "definitions_ex_en": "for the energetic, cycles may be hired",
+      "definitions_ex_vn": "Đối với năng lượng, chu kỳ có thể được thuê",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ride a bicycle.",
+      "definitions_ex_en": "she cycled to work every day",
+      "definitions_ex_vn": "Cô đạp xe đi làm mỗi ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move in or follow a regularly repeated sequence of events.",
+      "definitions_ex_en": "economies cycle regularly between boom and slump",
+      "definitions_ex_vn": "chu trình kinh tế thường xuyên giữa sự bùng nổ và sụt giảm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427478_4781e828c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427478_cf18fca8d0_o.png",
+      "id_image": "cycle_2535545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427458_bb4831360e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427458_bbf57c245b_o.png",
+      "id_image": "cycle_2621308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049150_faed3ca303_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049150_4385337f4b_o.png",
+      "id_image": "cycle_2721289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427378_cc0fa393c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427378_01baae1618_o.png",
+      "id_image": "cycle_3050506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356567_d23cfc5f24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356567_31ec286c27_o.png",
+      "id_image": "cycle_4018100"
+    }
+  ]
+}

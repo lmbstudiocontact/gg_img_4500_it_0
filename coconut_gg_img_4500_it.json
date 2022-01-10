@@ -1,0 +1,45 @@
+{
+  "english": "coconut",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dừa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the large, oval, brown seed of a tropical palm, consisting of a hard shell lined with edible white flesh and containing a clear liquid. It grows inside a woody husk, surrounded by fiber.",
+      "definitions_ex_en": "coconut shells",
+      "definitions_ex_vn": "những vỏ dừa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the tall palm tree that yields the coconut, which grows mainly by coastal beaches and has become naturalized throughout the tropics. Many tropical economies are dependent upon its products, which include copra and coir.",
+      "definitions_ex_en": "warm tropical breezes, coconut trees, and magnificent beaches",
+      "definitions_ex_vn": "ấm áp nhiệt đới, cây dừa, và những bãi biển tráng lệ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680869_19083d09ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680869_98d6c9dbb3_o.png",
+      "id_image": "coconut_1411002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370502_2104bb9b60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370502_ea05835b46_o.png",
+      "id_image": "coconut_3944201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440658_85986a782c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440658_e77d68c84b_o.png",
+      "id_image": "coconut_3949420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325621_51c4f01930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325621_1013a90495_o.png",
+      "id_image": "coconut_4509320"
+    }
+  ]
+}

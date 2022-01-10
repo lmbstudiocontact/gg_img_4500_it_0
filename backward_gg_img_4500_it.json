@@ -1,0 +1,54 @@
+{
+  "english": "backward",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lui lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhìn lại phía sau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dòng nước ngược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thụt lại",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "directed behind or to the rear.",
+      "definitions_ex_en": "she left the room without a backward glance",
+      "definitions_ex_vn": "Cô rời khỏi phòng mà không có cái nhìn ngược",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having made less than normal progress.",
+      "definitions_ex_en": "economically backward countries",
+      "definitions_ex_vn": "quốc gia lạc hậu kinh tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a movement) away from one's front; in the direction of one's back.",
+      "definitions_ex_en": "he took a step backward",
+      "definitions_ex_vn": "Anh bước lùi một bước",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "toward or into the past.",
+      "definitions_ex_en": "a loving look backward at his early life",
+      "definitions_ex_vn": "một ánh nhìn yêu thương lùi về phía trước của anh ấy",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321621_0d3075076d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321621_2e4a940bd3_o.png",
+      "id_image": "backward_6040174"
+    }
+  ]
+}

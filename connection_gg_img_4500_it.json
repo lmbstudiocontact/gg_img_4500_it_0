@@ -1,0 +1,94 @@
+{
+  "english": "connection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "liên quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thông gia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xui gia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bà con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao tế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao thiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khách hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liên lạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối quan hệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "môn phái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thân quyến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a relationship in which a person, thing, or idea is linked or associated with something else.",
+      "definitions_ex_en": "the connections between social attitudes and productivity",
+      "definitions_ex_vn": "các kết nối giữa thái độ và năng suất xã hội",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an association of Methodist Churches.",
+      "definitions_ex_en": "the primitive Methodists broke with the Wesleyan connection in 1810",
+      "definitions_ex_vn": "Các phương pháp nguyên thủy đã phá vỡ kết nối Wesleyan vào năm 1810",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666154_d9b6284e55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666154_d60eed5fc4_o.png",
+      "id_image": "connection_1396592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355242_8a86c02229_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355242_e635dfab24_o.png",
+      "id_image": "connection_1400063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311046_a5ce746d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311046_2fb6d67ebd_o.png",
+      "id_image": "connection_1402121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426123_5d4a767212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426123_6a09e12080_o.png",
+      "id_image": "connection_388499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426113_6d84566966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426113_518aa688ab_o.png",
+      "id_image": "connection_445720"
+    }
+  ]
+}

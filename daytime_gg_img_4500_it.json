@@ -1,0 +1,28 @@
+{
+  "english": "daytime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the time of the day between sunrise and sunset.",
+      "definitions_ex_en": "she was alone in the daytime",
+      "definitions_ex_vn": "Cô ấy ở một mình vào ban ngày",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045910_9f14cc10be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045910_352e4214bd_o.png",
+      "id_image": "daytime_4062898"
+    }
+  ]
+}

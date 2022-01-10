@@ -1,0 +1,51 @@
+{
+  "english": "defensive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "để bảo vệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "để binh vực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "để che chở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "để phòng vệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thế thủ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used or intended to defend or protect.",
+      "definitions_ex_en": "troops in defensive positions",
+      "definitions_ex_vn": "quân đội ở vị trí phòng thủ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very anxious to challenge or avoid criticism.",
+      "definitions_ex_en": "he was very defensive about that side of his life",
+      "definitions_ex_vn": "anh ấy rất phòng thủ về khía cạnh đó của cuộc đời anh ấy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661249_f055cb9d68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661249_1cc90ee9f8_o.png",
+      "id_image": "defensive_2748776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042785_866d681403_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042785_0c8098e467_o.png",
+      "id_image": "defensive_4443666"
+    }
+  ]
+}

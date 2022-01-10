@@ -1,0 +1,152 @@
+{
+  "english": "case",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh ngộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện khó sử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng bịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đại khái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng đựng hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường hợp đặc biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dùng để đựng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bị thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc kiện thưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ hàng hóa vào thùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sách bằng bìa cứng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instance of a particular situation; an example of something occurring.",
+      "definitions_ex_en": "a case of mistaken identity",
+      "definitions_ex_vn": "một trường hợp nhận dạng sai lầm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of a disease or problem.",
+      "definitions_ex_en": "200,000 cases of hepatitis B",
+      "definitions_ex_vn": "200.000 trường hợp viêm gan B",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a legal action, especially one to be decided in a court of law.",
+      "definitions_ex_en": "a libel case",
+      "definitions_ex_vn": "một trường hợp libel.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of the inflected forms of a noun, adjective, or pronoun that express the semantic relation of the word to other words in the sentence.",
+      "definitions_ex_en": "the accusative case",
+      "definitions_ex_vn": "Trường hợp buộc tội",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a container designed to hold or protect something.",
+      "definitions_ex_en": "he placed the trumpet safely in its velvet-lined case",
+      "definitions_ex_vn": "Anh ta đặt kèn một cách an toàn trong trường hợp lót nhung của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the two forms, capital or minuscule, in which a letter of the alphabet may be written or printed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "surround in a material or substance.",
+      "definitions_ex_en": "the towers are of steel cased in granite",
+      "definitions_ex_vn": "Tháp có vỏ thép trong đá granit",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reconnoiter (a place) before carrying out a robbery.",
+      "definitions_ex_en": "I was casing the joint",
+      "definitions_ex_vn": "Tôi đã là vỏ khớp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437678_b510d2ffac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437678_03267e1be3_o.png",
+      "id_image": "case_1019362"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437648_369475254f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437648_cc7dcbae6c_o.png",
+      "id_image": "case_2271374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367417_7a3a1dde83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367417_ae49fe69c4_o.png",
+      "id_image": "case_948474"
+    }
+  ]
+}

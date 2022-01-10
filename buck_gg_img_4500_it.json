@@ -1,0 +1,105 @@
+{
+  "english": "buck",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mau lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy dựng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cái lờ bắt lươn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con nai đực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mọi da đỏ đàn ông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thỏ đực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trừu đực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con hoẳng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the male of some horned animals, especially the fallow deer, roe deer, reindeer, and antelopes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vaulting horse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vertical jump performed by a horse, with the head lowered, back arched, and back legs thrown out behind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fashionable and typically high-spirited young man.",
+      "definitions_ex_en": "the dashing young buck, driving his own equipage",
+      "definitions_ex_vn": "Buck Bucking, lái xe của riêng mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "Oxford shoes made of buckskin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an article placed as a reminder before a player whose turn it is to deal at poker.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a horse) to perform a buck.",
+      "definitions_ex_en": "he's got to get his head down to buck",
+      "definitions_ex_vn": "Anh ấy phải cúi đầu xuống Buck",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "oppose or resist (something that seems oppressive or inevitable).",
+      "definitions_ex_en": "the shares bucked the market trend",
+      "definitions_ex_vn": "Các cổ phiếu đã biến xu hướng thị trường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (someone) more cheerful.",
+      "definitions_ex_en": "Bella and Jim need me to buck them up",
+      "definitions_ex_vn": "Bella và Jim cần tôi xô họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050145_86d80c7daf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050145_6a5bbda09a_o.png",
+      "id_image": "buck_1079427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668404_4d800b8ff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668404_45beaa3099_o.png",
+      "id_image": "buck_184083"
+    }
+  ]
+}

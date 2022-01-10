@@ -1,0 +1,84 @@
+{
+  "english": "cause",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguyên nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căng nguyên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lẽ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lý do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "duyên cớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc tố tụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc thưa kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc tranh tụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xui nên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that gives rise to an action, phenomenon, or condition.",
+      "definitions_ex_en": "the cause of the accident is not clear",
+      "definitions_ex_vn": "Nguyên nhân của vụ tai nạn không rõ ràng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a principle, aim, or movement that, because of a deep commitment, one is prepared to defend or advocate.",
+      "definitions_ex_en": "she devoted her life to the cause of deaf people",
+      "definitions_ex_vn": "Cô ấy cống hiến cuộc đời cho sự nghiệp của người điếc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a matter to be resolved in a court of law.",
+      "definitions_ex_en": "forty-five causes were entered in the list for the March session",
+      "definitions_ex_vn": "Bốn mươi lăm nguyên nhân đã được nhập vào danh sách cho phiên tháng 3",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (something, especially something bad) happen.",
+      "definitions_ex_en": "this disease can cause blindness",
+      "definitions_ex_vn": "Bệnh này có thể gây mù",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "short for because.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "conjunction"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363257_83f059b850_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363257_eaf4d041b2_o.png",
+      "id_image": "cause_2620237"
+    }
+  ]
+}

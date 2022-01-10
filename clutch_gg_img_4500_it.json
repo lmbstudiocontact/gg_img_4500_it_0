@@ -1,0 +1,100 @@
+{
+  "english": "clutch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn đạp côn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt lấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "móng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ổ gà com",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ổ trứng gà ấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt lấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chụp lấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nắm lấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vồ lấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vuốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bám lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chụp lấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "grasp or seize (something) tightly or eagerly.",
+      "definitions_ex_en": "he stood clutching a microphone",
+      "definitions_ex_vn": "Anh ấy đứng nắm lấy micro",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a tight grasp or an act of grasping something.",
+      "definitions_ex_en": "she made a clutch at his body",
+      "definitions_ex_vn": "Cô ấy làm một cái ly hợp tại cơ thể của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mechanism for connecting and disconnecting a vehicle engine from its transmission system.",
+      "definitions_ex_en": "she let the clutch in and the car surged forward",
+      "definitions_ex_vn": "Cô để ly hợp vào và chiếc xe dâng trào về phía trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of eggs fertilized at the same time, laid in a single session and (in birds) incubated together.",
+      "definitions_ex_en": "they lay fewer than ten eggs in a clutch",
+      "definitions_ex_vn": "Chúng nằm ít hơn mười quả trứng trong một ly hợp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442938_b1a077ccc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442938_cea42b38f7_o.png",
+      "id_image": "clutch_1336422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372592_95a240b45e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372592_cca658547e_o.png",
+      "id_image": "clutch_1352306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442993_6771db637b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442993_dab5661288_o.png",
+      "id_image": "clutch_659336"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "calculate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho thích hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tính toán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tưởng rằng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trù hoạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "determine (the amount or number of something) mathematically.",
+      "definitions_ex_en": "Japanese land value was calculated at 2.5 times that of the U.S",
+      "definitions_ex_vn": "Giá trị đất Nhật Bản được tính là 2,5 lần so với Hoa Kỳ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "intend (an action) to have a particular effect.",
+      "definitions_ex_en": "his last words were calculated to wound her",
+      "definitions_ex_vn": "những lời cuối cùng của anh ấy được tính toán để làm cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421398_2994a2f2d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421398_a4baf2069c_o.png",
+      "id_image": "calculate_2503374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661619_49df44ce9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661619_6ca4243a1b_o.png",
+      "id_image": "calculate_2542463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421328_d0c6a63719_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421328_d0ec01278e_o.png",
+      "id_image": "calculate_4306935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306156_e06c2ef689_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306156_16d59aef06_o.png",
+      "id_image": "calculate_6388895"
+    }
+  ]
+}

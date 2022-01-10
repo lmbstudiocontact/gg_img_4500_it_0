@@ -1,0 +1,87 @@
+{
+  "english": "chicken",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người trẻ tuổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "còn non nớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "còn trẻ tráng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt gà giò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trai trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gà con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gà giò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người còn trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thành niên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a domestic fowl kept for its eggs or meat, especially a young one.",
+      "definitions_ex_en": "rationing was still in force and most people kept chickens",
+      "definitions_ex_vn": "khẩu phần vẫn có hiệu lực và hầu hết mọi người giữ gà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cowardly.",
+      "definitions_ex_en": "they were too chicken to follow the murderers into the mountains",
+      "definitions_ex_vn": "Họ đã quá gà để theo những kẻ giết người xuống núi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "withdraw from or fail in something through lack of nerve.",
+      "definitions_ex_en": "the referee chickened out of giving a penalty",
+      "definitions_ex_vn": "Trọng tài gà con ra khỏi một hình phạt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046875_4476c5f15e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046875_2d1336272c_o.png",
+      "id_image": "chicken_1408032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424978_08c4079acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424978_6753c0c5db_o.png",
+      "id_image": "chicken_1449791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665239_92a0c53e2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665239_1f2cf9cc70_o.png",
+      "id_image": "chicken_347486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309956_c2279fc338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309956_bfbff8bec7_o.png",
+      "id_image": "chicken_826920"
+    }
+  ]
+}

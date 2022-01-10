@@ -1,0 +1,60 @@
+{
+  "english": "bale",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiện hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khổ sở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi đau đớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự buồn rầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thống khổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tai họa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng thành kiện",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bundle of paper, hay, cotton, etc., tightly wrapped and bound with cords or hoops.",
+      "definitions_ex_en": "the fire destroyed 500 bales of hay",
+      "definitions_ex_vn": "Lửa đã phá hủy 500 kiện cỏ khô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "evil considered as a destructive force.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (something) into bales.",
+      "definitions_ex_en": "they baled a lot of good hay",
+      "definitions_ex_vn": "Họ đã kiện rất nhiều cỏ khô tốt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433788_3317a2dd6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433788_a3b60b55dc_o.png",
+      "id_image": "bale_123947"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "bankrupt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phá sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỡ nợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khánh tận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or organization) declared in law unable to pay outstanding debts.",
+      "definitions_ex_en": "his father went bankrupt and the family had to sell their home",
+      "definitions_ex_vn": "Cha anh đã phá sản và gia đình phải bán nhà của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "completely lacking in a particular quality or value.",
+      "definitions_ex_en": "their cause is morally bankrupt",
+      "definitions_ex_vn": "Nguyên nhân của họ bị phá sản về mặt đạo đức",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person judged by a court to be insolvent, whose property is taken and disposed of for the benefit of creditors.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reduce (a person or organization) to bankruptcy.",
+      "definitions_ex_en": "the strike nearly bankrupted the union",
+      "definitions_ex_vn": "Cuộc đình công gần như phá sản Liên minh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053035_75137dc24e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053035_bd90901d5f_o.png",
+      "id_image": "bankrupt_2361659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431563_55d48bdfb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431563_947dbdec37_o.png",
+      "id_image": "bankrupt_2762484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671354_a4bca02c22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671354_e45f74795c_o.png",
+      "id_image": "bankrupt_536856"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "best",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phỉnh gạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đẹp hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of the most excellent, effective, or desirable type or quality.",
+      "definitions_ex_en": "the best pitcher in the league",
+      "definitions_ex_vn": "Người ném bóng tốt nhất trong giải đấu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "to the highest degree; most.",
+      "definitions_ex_en": "you knew him best",
+      "definitions_ex_vn": "Bạn biết anh ấy tốt nhất",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "that which is the most excellent, outstanding, or desirable.",
+      "definitions_ex_en": "buy the best you can afford",
+      "definitions_ex_vn": "mua tốt nhất bạn có thể đủ khả năng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "outwit or get the better of (someone).",
+      "definitions_ex_en": "she refused to allow herself to be bested",
+      "definitions_ex_vn": "Cô từ chối cho phép mình được tốt nhất",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422323_5abe2c3db6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422323_1be484d2a9_o.png",
+      "id_image": "best_1018794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422288_2d1741a064_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422288_b930b972ee_o.png",
+      "id_image": "best_2545695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351227_caa6b8c38f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351227_71db2d4e07_o.png",
+      "id_image": "best_2911198"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "english": "chair",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ tịch đàn bà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chức giáo sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghế chủ tịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cữ người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghế của quan tòa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghế đại diện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghế một người ngồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chủ tọa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chọn người nào chủ tịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt người nào lên ghế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "người thắng giải cuộc đua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a separate seat for one person, typically with a back and four legs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the person in charge of a meeting or of an organization (used as a neutral alternative to chairman or chairwoman).",
+      "definitions_ex_en": "a three-year term as the board’s deputy chair",
+      "definitions_ex_vn": "một nhiệm kỳ ba năm là phó chủ tịch của hội đồng quản trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a professorship.",
+      "definitions_ex_en": "he held a chair in physics",
+      "definitions_ex_vn": "Ông giữ một chiếc ghế trong vật lý",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular seat in an orchestra.",
+      "definitions_ex_en": "she was fourth-chair trumpet",
+      "definitions_ex_vn": "Cô ấy là Trumpet ghế thứ tư",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "act as chairperson of or preside over (an organization, meeting, or public event).",
+      "definitions_ex_en": "the debate was chaired by the Archbishop of York",
+      "definitions_ex_vn": "Cuộc tranh luận đã được chủ trì bởi Tổng Giám mục York",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670224_f29c76eea7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670224_0c628dc2b7_o.png",
+      "id_image": "chair_547896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315596_7f4bd8b38f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315596_f4184e9873_o.png",
+      "id_image": "chair_656232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430393_a759471f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430393_09f3163df3_o.png",
+      "id_image": "chair_700084"
+    }
+  ]
+}

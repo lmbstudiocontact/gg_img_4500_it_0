@@ -1,0 +1,123 @@
+{
+  "english": "bow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây cung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cúi chào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cúi đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái nơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cung kéo đờn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mống cầu vòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũi tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cúi đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uốn cong",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a knot tied with two loops and two loose ends, used especially for tying shoelaces and decorative ribbons.",
+      "definitions_ex_en": "a girl with long hair tied back in a bow",
+      "definitions_ex_vn": "Một cô gái với mái tóc dài buộc lại trong một cây cung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a weapon for shooting arrows, typically made of a curved piece of wood whose ends are joined by a taut string.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, partially curved rod with horsehair stretched along its length, used for playing the violin and other stringed instruments.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a curved stroke forming part of a letter (e.g. b, p ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a metal ring forming the handle of a key or pair of scissors.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of bending the head or upper body as a sign of respect or greeting.",
+      "definitions_ex_en": "the man gave a little bow",
+      "definitions_ex_vn": "Người đàn ông cung cấp một con nơ nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the front end of a ship.",
+      "definitions_ex_en": "water sprayed high over her bows",
+      "definitions_ex_vn": "nước phun cao trên cung của cô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "play (a stringed instrument or music) using a bow.",
+      "definitions_ex_en": "the techniques by which the pieces were bowed",
+      "definitions_ex_vn": "các kỹ thuật mà các mảnh được chèo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bend the head or upper part of the body as a sign of respect, greeting, or shame.",
+      "definitions_ex_en": "he turned and bowed to his father",
+      "definitions_ex_vn": "Anh quay lại và cúi đầu chào cha mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bend with age or under pressure.",
+      "definitions_ex_en": "the tree next to the house bowed in the wind",
+      "definitions_ex_vn": "Cây bên cạnh ngôi nhà cúi đầu trong gió",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365282_60db7a3edb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365282_3029ce2217_o.png",
+      "id_image": "bow_6240552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675364_f44e54f618_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675364_dc105eb15f_o.png",
+      "id_image": "bow_827173"
+    }
+  ]
+}

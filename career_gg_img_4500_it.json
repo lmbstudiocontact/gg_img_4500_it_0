@@ -1,0 +1,69 @@
+{
+  "english": "career",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chức nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chạy vội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thành công trong nghề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tốc lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành công trong chức vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạy mau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an occupation undertaken for a significant period of a person's life and with opportunities for progress.",
+      "definitions_ex_en": "he seemed destined for a career as an engineer like his father",
+      "definitions_ex_vn": "Anh ta dường như dành cho một nghề nghiệp như một kỹ sư như cha mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move swiftly and in an uncontrolled way in a specified direction.",
+      "definitions_ex_en": "the car careered across the road and went through a hedge",
+      "definitions_ex_vn": "Chiếc xe thoáng qua trên đường và đi qua một hàng rào",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062490_f258a0b258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062490_09ffc8f200_o.png",
+      "id_image": "career_2597120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325656_f946f1e32f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325656_e77d68c84b_o.png",
+      "id_image": "career_4576932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440633_aa0bf6e686_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440633_d5e426d187_o.png",
+      "id_image": "career_5672132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062390_22caf8d254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062390_384f65e397_o.png",
+      "id_image": "career_6182835"
+    }
+  ]
+}

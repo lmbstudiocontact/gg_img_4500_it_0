@@ -1,0 +1,83 @@
+{
+  "english": "boil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sôi lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cái nhọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mụt nhọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước xoáy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhọt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(with reference to a liquid) reach or cause to reach the temperature at which it bubbles and turns to vapor.",
+      "definitions_ex_en": "we tried to get people to boil their drinking water",
+      "definitions_ex_vn": "Chúng tôi đã cố gắng để có được mọi người đun sôi nước uống của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(with reference to food) cook or be cooked by immersing in boiling water or stock.",
+      "definitions_ex_en": "boil the potatoes until well done",
+      "definitions_ex_vn": "Đun sôi khoai tây cho đến khi làm tốt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the sea or clouds) be turbulent and stormy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the temperature at which a liquid bubbles and turns to vapor.",
+      "definitions_ex_en": "stir in cream and bring to a boil",
+      "definitions_ex_vn": "Khuấy kem và đun sôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an inflamed pus-filled swelling on the skin, caused typically by the infection of a hair follicle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681499_392a0dba73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681499_ac618e19a4_o.png",
+      "id_image": "boil_1041592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326411_a1c1279439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326411_dcbe307d9c_o.png",
+      "id_image": "boil_3690224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371112_55681d3bde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371112_c810fb85e9_o.png",
+      "id_image": "boil_4275859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326336_6eb936ded5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326336_8c5fbe767e_o.png",
+      "id_image": "boil_6192642"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "brief",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngắn gọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vắn tắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hồ sơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tóm tắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý kiến trình trước tòa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tường thuật công việc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of short duration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a concise statement or summary.",
+      "definitions_ex_en": "their comments were cribbed right from industry briefs",
+      "definitions_ex_vn": "Nhận xét của họ đã được chế giễu ngay từ các bản tóm tắt ngành",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "instruct or inform (someone) thoroughly, especially in preparation for a task.",
+      "definitions_ex_en": "she briefed him on last week's decisions",
+      "definitions_ex_vn": "Cô đã tóm tắt về những quyết định của tuần trước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670744_94c971b7d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670744_3978b6a070_o.png",
+      "id_image": "briefing_1265879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360302_6019c4b25e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360302_9775272d66_o.png",
+      "id_image": "briefing_1999235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360232_449651e72a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360232_6a74b0a7ff_o.png",
+      "id_image": "briefing_3050479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360207_24f30ef3c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360207_9e26da99c4_o.png",
+      "id_image": "briefing_4213340"
+    }
+  ]
+}

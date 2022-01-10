@@ -1,0 +1,112 @@
+{
+  "english": "cock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim trống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ mép nón",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chú ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cò súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để tai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đống rơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gà rừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gà trống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "góc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vảnh lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòi nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọc hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất thành đống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a firing lever in a gun which can be raised to be released by the trigger.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stopcock.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small pile of hay, straw, or other material, with vertical sides and a rounded top.",
+      "definitions_ex_en": "we perched on a half-built cock of hay",
+      "definitions_ex_vn": "Chúng tôi ngồi trên một cái vòi cỏ khô được chế tạo một nửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "tilt (something) in a particular direction.",
+      "definitions_ex_en": "she cocked her head slightly to one side",
+      "definitions_ex_vn": "Cô hơi nghiêng đầu sang một bên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "raise the cock of (a gun) in order to make it ready for firing.",
+      "definitions_ex_en": "he took the loaded pistol from his belt and cocked it",
+      "definitions_ex_vn": "Anh ta lấy khẩu súng lục nạp từ thắt lưng của mình và nghiêng nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shape (hay, straw, or other material) into a pile with vertical sides and a rounded top.",
+      "definitions_ex_en": "it does not rake the grass into rows, nor cock it",
+      "definitions_ex_vn": "nó không cào cỏ vào hàng, cũng không có gà",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441303_30184cc75d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441303_063e90798b_o.png",
+      "id_image": "cock_2281152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441393_1ee0d74c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441393_e5d3653bb5_o.png",
+      "id_image": "cock_311564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326346_c483797b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326346_1a07b849ed_o.png",
+      "id_image": "cock_3638425"
+    }
+  ]
+}

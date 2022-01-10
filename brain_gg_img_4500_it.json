@@ -1,0 +1,58 @@
+{
+  "english": "brain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ óc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "óc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nát óc nghỉ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an organ of soft nervous tissue contained in the skull of vertebrates, functioning as the coordinating center of sensation and intellectual and nervous activity.",
+      "definitions_ex_en": "a brain tumor",
+      "definitions_ex_vn": "một khối u não",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "intellectual capacity.",
+      "definitions_ex_en": "I didn't have enough brains for the sciences",
+      "definitions_ex_vn": "Tôi đã không có đủ bộ não cho các ngành khoa học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hit (someone) hard on the head with an object.",
+      "definitions_ex_en": "she brained me with a rolling pin",
+      "definitions_ex_vn": "Cô ấy dũng cảm với một pin lăn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363462_fcb0a6598b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363462_34a8dc39b2_o.png",
+      "id_image": "brains_2451242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363442_5d576bc84a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363442_39984e0e6f_o.png",
+      "id_image": "brains_2451257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673749_9e58910032_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673749_a141d85c54_o.png",
+      "id_image": "brain_286484"
+    }
+  ]
+}

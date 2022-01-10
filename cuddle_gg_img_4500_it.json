@@ -1,0 +1,54 @@
+{
+  "english": "cuddle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ôm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "âu yếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nép mình lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "âu yếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mơn trớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ôm nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vuốt ve",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hold close in one's arms as a way of showing love or affection.",
+      "definitions_ex_en": "he cuddles the baby close",
+      "definitions_ex_vn": "Anh ấy ôm ấp em bé",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a prolonged and affectionate hug.",
+      "definitions_ex_en": "he just wanted a comforting kiss and a cuddle",
+      "definitions_ex_vn": "Anh chỉ muốn một nụ hôn thoải mái và một cái ôm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052795_42468eb08d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052795_9d40accc52_o.png",
+      "id_image": "cuddle_4966084"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "customer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khách hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người mua",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or organization that buys goods or services from a store or business.",
+      "definitions_ex_en": "Mr. Harrison was a regular customer at the Golden Lion",
+      "definitions_ex_vn": "Ông Harrison là một khách hàng thường xuyên tại Lion Golden",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing of a specified kind that one has to deal with.",
+      "definitions_ex_en": "the fish is a slippery customer and very hard to catch",
+      "definitions_ex_vn": "Cá là một khách hàng trơn trượt và rất khó để bắt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050225_db9cb31984_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050225_fca95bca00_o.png",
+      "id_image": "customer_1312309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313616_e63409b979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313616_9ce90ab3a0_o.png",
+      "id_image": "customer_1688401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668464_ab17fd8fd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668464_8099af7c60_o.png",
+      "id_image": "customer_228390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428463_ba18ba4299_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428463_d092fc0982_o.png",
+      "id_image": "customer_2654570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428413_f26547148c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428413_24f40f27e1_o.png",
+      "id_image": "customer_3255388"
+    }
+  ]
+}

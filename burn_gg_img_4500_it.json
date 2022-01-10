@@ -1,0 +1,102 @@
+{
+  "english": "burn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hầm gạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phỏng lữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết bỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết phỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cháy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đốt cháy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát hỏa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiêu hủy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a fire) produce flames and heat while consuming a material such as coal or wood.",
+      "definitions_ex_en": "a fire burned and crackled cheerfully in the grate",
+      "definitions_ex_vn": "một ngọn lửa bị đốt cháy và lách dựng vui vẻ trong lưới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "destroy, damage, or injure by heat or fire.",
+      "definitions_ex_en": "he burned all the letters",
+      "definitions_ex_vn": "Anh đốt tất cả các chữ cái",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "produce (a compact disc or DVD) by copying from an original or master copy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "drive or move very fast.",
+      "definitions_ex_en": "he burned past us like a maniac",
+      "definitions_ex_vn": "anh ấy đã bỏ qua chúng tôi như một kẻ điên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "insult (someone) in a particularly cutting way.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an injury caused by exposure to heat or flame.",
+      "definitions_ex_en": "he was treated in the hospital for burns to his hands",
+      "definitions_ex_vn": "Anh ta được đối xử trong bệnh viện để đốt bàn tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "consumption of a type of fuel as an energy source.",
+      "definitions_ex_en": "natural gas produces the cleanest burn of the lot",
+      "definitions_ex_vn": "khí tự nhiên tạo ra vết bỏng sạch nhất của lô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664489_f343b65713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664489_98fc31187a_o.png",
+      "id_image": "burn_1599790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353352_8752346027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353352_af94c9434d_o.png",
+      "id_image": "burn_5601132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424378_39a05d7fc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424378_3d867c5001_o.png",
+      "id_image": "burn_648459"
+    }
+  ]
+}

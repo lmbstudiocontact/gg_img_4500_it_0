@@ -1,0 +1,70 @@
+{
+  "english": "decrease",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bớt xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giảm bớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạ xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giảm bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ lần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sụt lần",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become smaller or fewer in size, amount, intensity, or degree.",
+      "definitions_ex_en": "the population of the area has decreased radically",
+      "definitions_ex_vn": "Dân số của khu vực đã giảm triệt để",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance or example of becoming smaller or fewer.",
+      "definitions_ex_en": "a decrease in births",
+      "definitions_ex_vn": "giảm sinh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043675_7914b8dc11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043675_a5f94d813a_o.png",
+      "id_image": "decrease_1011587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306636_fac3b3121b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306636_441875d936_o.png",
+      "id_image": "decrease_267983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043665_a99e221a48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043665_0bbf3bcb07_o.png",
+      "id_image": "decrease_5260144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306571_4a328ba3aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306571_0c37a9f4f3_o.png",
+      "id_image": "decrease_6315561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043610_b9545ffeb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043610_d017698e10_o.png",
+      "id_image": "decrease_6344119"
+    }
+  ]
+}

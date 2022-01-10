@@ -1,0 +1,34 @@
+{
+  "english": "charitable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoan dung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "việc từ thiện",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the assistance of those in need.",
+      "definitions_ex_en": "charitable works such as care of the sick",
+      "definitions_ex_vn": "các công trình từ thiện như chăm sóc bệnh tật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "apt to judge others leniently or favorably.",
+      "definitions_ex_en": "those who were less charitable called for his resignation",
+      "definitions_ex_vn": "những người ít từ thiện kêu gọi từ chức của mình",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357312_d420502d2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357312_3ddc92d98c_o.png",
+      "id_image": "charitable_5267703"
+    }
+  ]
+}

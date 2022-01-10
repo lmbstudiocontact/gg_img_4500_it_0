@@ -1,0 +1,66 @@
+{
+  "english": "bargain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khế ước giao kèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặc cả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thỏa thuận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều đình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thương thuyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả gía",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an agreement between two or more parties as to what each party will do for the other.",
+      "definitions_ex_en": "the extraconstitutional bargain between the northern elite and the southern planters",
+      "definitions_ex_vn": "cuộc hống hề ngoại ngạch giữa giới thượng lưu phía bắc và những người trồng trọt phía Nam",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing bought or offered for sale more cheaply than is usual or expected.",
+      "definitions_ex_en": "the secondhand table was a real bargain",
+      "definitions_ex_vn": "bàn cũ là một món hời thực sự",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "negotiate the terms and conditions of a transaction.",
+      "definitions_ex_en": "he bargained with the city council to rent the stadium",
+      "definitions_ex_vn": "Ông mặc cả với hội đồng thành phố để thuê sân vận động",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670174_6ac711080f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670174_d5d852d890_o.png",
+      "id_image": "bargaining_6213289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670244_6e6af8e96f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670244_7bf059c287_o.png",
+      "id_image": "bargain_1476900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359712_55ee7f76c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359712_5ab8a8c5e1_o.png",
+      "id_image": "bargain_1900171"
+    }
+  ]
+}

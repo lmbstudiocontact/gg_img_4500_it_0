@@ -1,0 +1,54 @@
+{
+  "english": "bucket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bít tông của ống bơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gàu múc nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng bằng cây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a roughly cylindrical open container, typically made of metal or plastic, with a handle, used to hold and carry liquids or other material.",
+      "definitions_ex_en": "a bucket and spade",
+      "definitions_ex_vn": "một cái xô và thuổng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit of data that can be transferred from secondary storage in a single operation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a vehicle) move quickly and jerkily.",
+      "definitions_ex_en": "the car came bucketing out of a side road",
+      "definitions_ex_vn": "Chiếc xe đã ra khỏi một con đường bên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357562_70b4ff4c2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357562_417e3a402f_o.png",
+      "id_image": "bucket_1682254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050105_ae593c29f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050105_700f83bb6d_o.png",
+      "id_image": "bucket_387350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050075_7c69e7dc40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050075_2e689297c9_o.png",
+      "id_image": "bucket_685151"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "constitution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hiến pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nghị án",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cấu tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tổ chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thành lập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thể chất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a body of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed.",
+      "definitions_ex_en": "Britain lacks a codified constitution",
+      "definitions_ex_vn": "Anh thiếu một hiến pháp được mã hóa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the composition of something.",
+      "definitions_ex_en": "the genetic constitution of a species",
+      "definitions_ex_vn": "hiến pháp di truyền của một loài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's physical state with regard to vitality, health, and strength.",
+      "definitions_ex_en": "pregnancy had weakened her constitution",
+      "definitions_ex_vn": "Mang thai đã làm suy yếu hiến pháp của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664679_bb3449303c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664679_4d162c396c_o.png",
+      "id_image": "constitution_1887143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353507_7829aeff54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353507_9964d439f3_o.png",
+      "id_image": "constitution_3571054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309246_29306561b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309246_a5f961ee68_o.png",
+      "id_image": "constitution_4507387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424398_040188f49d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424398_61ff3668f8_o.png",
+      "id_image": "constitution_4624200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353412_708163a5cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353412_d55175e6d6_o.png",
+      "id_image": "constitution_4934495"
+    }
+  ]
+}

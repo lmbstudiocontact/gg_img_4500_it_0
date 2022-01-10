@@ -1,0 +1,108 @@
+{
+  "english": "copy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản sao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu mẩu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phỏng theo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sao lục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chép lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản thảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sao lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt chước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt chước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cọp dê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phỏng theo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing made to be similar or identical to another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single specimen of a particular book, record, or other publication or issue.",
+      "definitions_ex_en": "the record has sold more than a million copies",
+      "definitions_ex_vn": "Hồ sơ đã bán được hơn một triệu bản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "matter to be printed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a similar or identical version of; reproduce.",
+      "definitions_ex_en": "each form had to be copied and sent to a different department",
+      "definitions_ex_vn": "Mỗi mẫu phải được sao chép và gửi đến một bộ phận khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "imitate the style or behavior of.",
+      "definitions_ex_en": "lifestyles that were copied from Miami and Fifth Avenue",
+      "definitions_ex_vn": "Lối sống được sao chép từ Miami và Đại lộ thứ năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hear or understand someone speaking on a radio transmitter.",
+      "definitions_ex_en": "this is Edwards, do you copy, over",
+      "definitions_ex_vn": "Đây là Edwards, bạn có sao chép, hơn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333261_344992194c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333261_2f167fd420_o.png",
+      "id_image": "copy_1265884"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688299_06b6a9fe69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688299_4ed49879f4_o.png",
+      "id_image": "copy_3056374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688239_2239277c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688239_c3db3332f3_o.png",
+      "id_image": "copy_4371362"
+    }
+  ]
+}

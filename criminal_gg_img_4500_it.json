@@ -1,0 +1,54 @@
+{
+  "english": "criminal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đại hình sự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về trọng tội",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who has committed a crime.",
+      "definitions_ex_en": "these men are dangerous criminals",
+      "definitions_ex_vn": "Những người đàn ông này là tội phạm nguy hiểm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to crime.",
+      "definitions_ex_en": "they are charged with conspiracy to commit criminal damage",
+      "definitions_ex_vn": "Họ bị buộc tội với âm mưu để thực hiện thiệt hại hình sự",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320231_ed9a81d0fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320231_4765a2d0ff_o.png",
+      "id_image": "criminal_1331408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365052_46d17a740f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365052_8bc58494e8_o.png",
+      "id_image": "criminal_2302379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365022_1052a03e04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365022_854bf627be_o.png",
+      "id_image": "criminal_2861240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364952_82aef53da0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364952_ea910be7d9_o.png",
+      "id_image": "criminal_4321413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364907_21554dfc66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364907_9193957c7d_o.png",
+      "id_image": "criminal_5640938"
+    }
+  ]
+}

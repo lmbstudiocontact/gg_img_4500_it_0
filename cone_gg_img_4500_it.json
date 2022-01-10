@@ -1,0 +1,64 @@
+{
+  "english": "cone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình nón",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái cây hình chóp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống hình nón",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a solid or hollow object which tapers from a circular or roughly circular base to a point.",
+      "definitions_ex_en": "stalls selling paper cones full of fresh berries",
+      "definitions_ex_vn": "quầy hàng bán nón đầy quả mọng tươi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the dry fruit of a conifer, typically tapering to a rounded end and formed of a tight array of overlapping scales on a central axis which separate to release the seeds.",
+      "definitions_ex_en": "a cedar cone",
+      "definitions_ex_vn": "một cây tuyết tùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light-sensitive cell of one of the two types present in the retina of the eye, responding mainly to bright light and responsible for sharpness of vision and color perception.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667909_56e04c42ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667909_52de9eea7b_o.png",
+      "id_image": "cone_227939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667864_e68d78e22f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667864_a60a6d2313_o.png",
+      "id_image": "cone_232992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049475_cd82a1b99c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049475_d8cd1059c8_o.png",
+      "id_image": "cone_4110511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427783_32beddde7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427783_dc3d4d7af1_o.png",
+      "id_image": "cone_5784086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049505_68fc791cbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049505_163050b824_o.png",
+      "id_image": "cone_605581"
+    }
+  ]
+}

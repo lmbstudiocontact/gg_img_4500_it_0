@@ -1,0 +1,40 @@
+{
+  "english": "bald",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khô khan",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having a scalp wholly or partly lacking hair.",
+      "definitions_ex_en": "he was starting to go bald",
+      "definitions_ex_vn": "anh ấy đã bắt đầu đi hói",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not having any extra detail or explanation; plain or blunt.",
+      "definitions_ex_en": "the bald statement in the preceding paragraph requires amplification",
+      "definitions_ex_vn": "Tuyên bố hói trong đoạn trước yêu cầu khuếch đại",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055160_33400a42b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055160_71f75d50da_o.png",
+      "id_image": "bald_3296716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318646_755c396f2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318646_6e5bcc837e_o.png",
+      "id_image": "bald_435064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433843_e0cf382555_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433843_25f76170ab_o.png",
+      "id_image": "bald_599669"
+    }
+  ]
+}

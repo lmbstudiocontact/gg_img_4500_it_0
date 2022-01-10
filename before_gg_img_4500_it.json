@@ -1,0 +1,95 @@
+{
+  "english": "before",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khi trước",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngày trước",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "phía trước",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "trước",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "trước khi",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "đàng trước",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "during the period of time preceding a particular event or time.",
+      "definitions_ex_en": "my playing days had ended six years before",
+      "definitions_ex_vn": "những ngày chơi của tôi đã kết thúc sáu năm trước",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in front of someone or something.",
+      "definitions_ex_en": "they began trotting through the city with guards running before and behind",
+      "definitions_ex_vn": "Họ bắt đầu chạy trốn qua thành phố với những người bảo vệ chạy trước và phía sau",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in advance of the time when.",
+      "definitions_ex_en": "they lived rough for four days before they were arrested",
+      "definitions_ex_vn": "họ sống thô trong bốn ngày trước khi họ bị bắt",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "in preference to (doing a particular thing).",
+      "definitions_ex_en": "they would die before they would cooperate with each other",
+      "definitions_ex_vn": "họ sẽ chết trước khi họ hợp tác với nhau",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "during the period of time preceding (a particular event or time).",
+      "definitions_ex_en": "she had to rest before dinner",
+      "definitions_ex_vn": "Cô phải nghỉ ngơi trước bữa tối",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in front of.",
+      "definitions_ex_en": "Matilda stood before her, panting",
+      "definitions_ex_vn": "Matilda đứng trước cô, thở hổn hển",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in preference to; with a higher priority than.",
+      "definitions_ex_en": "a skilled warrior who places duty before all else",
+      "definitions_ex_vn": "một chiến binh lành nghề, nơi đặt nhiệm vụ trước tất cả những thứ khác",
+      "definitions_type_word": "preposition"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308861_308f2dc361_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308861_42525998b9_o.png",
+      "id_image": "before_5200143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424048_aa5ae3512b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424048_76b53920b2_o.png",
+      "id_image": "before_5454100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664114_cd13841012_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664114_3043207c71_o.png",
+      "id_image": "before_5518098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045790_632683063f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045790_480c44c23a_o.png",
+      "id_image": "before_5659344"
+    }
+  ]
+}

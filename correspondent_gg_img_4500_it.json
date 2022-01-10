@@ -1,0 +1,34 @@
+{
+  "english": "correspondent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đúng với vật gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thông tín viên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who writes letters to a person or a newspaper, especially on a regular basis.",
+      "definitions_ex_en": "she wasn't much of a correspondent",
+      "definitions_ex_vn": "Cô ấy không có nhiều phóng viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "corresponding.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375072_398d5f6fc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375072_55bcc6d2ba_o.png",
+      "id_image": "correspondent_1661617"
+    }
+  ]
+}

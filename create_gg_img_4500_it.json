@@ -1,0 +1,44 @@
+{
+  "english": "create",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gây nên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng tuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rối loạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phong chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sáng tạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tạo thành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring (something) into existence.",
+      "definitions_ex_en": "he created a thirty-acre lake",
+      "definitions_ex_vn": "Ông đã tạo ra một hồ nước ba mươi mẫu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367327_973544c488_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367327_c8cf1de5b3_o.png",
+      "id_image": "create_1263919"
+    }
+  ]
+}

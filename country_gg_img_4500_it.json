@@ -1,0 +1,87 @@
+{
+  "english": "country",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quê hương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng ruộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi quê nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở ruộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quốc gia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổ quốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xứ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a nation with its own government, occupying a particular territory.",
+      "definitions_ex_en": "the country's increasingly precarious economic position",
+      "definitions_ex_vn": "Vị trí kinh tế ngày càng bấp bênh của đất nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "districts and small settlements outside large towns, cities, or the capital.",
+      "definitions_ex_en": "the airfield is right out in the country",
+      "definitions_ex_vn": "sân bay đang ở ngay trong nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area or region with regard to its physical features.",
+      "definitions_ex_en": "a tract of wild country",
+      "definitions_ex_vn": "một vùng đất hoang dã",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for country music.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682259_3558a0bc9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682259_9ea4fb5b96_o.png",
+      "id_image": "country_5663672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063955_ebcfe4c099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063955_74eb0b146c_o.png",
+      "id_image": "country_6313937"
+    }
+  ]
+}

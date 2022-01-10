@@ -1,0 +1,69 @@
+{
+  "english": "cement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xi măng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "men chân răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bột than dùng luyện sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng trám hay gắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xi măng dùng trám bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho chắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây bằng xi măng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a powdery substance made with calcined lime and clay. It is mixed with water to form mortar or mixed with sand, gravel, and water to make concrete.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attach with cement.",
+      "definitions_ex_en": "wooden posts were cemented into the ground",
+      "definitions_ex_vn": "Bài viết bằng gỗ được gắn vào mặt đất",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361402_712484e1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361402_e251377cf5_o.png",
+      "id_image": "cement_1207145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053485_71f29c2d32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053485_80c33aa37d_o.png",
+      "id_image": "cement_2276254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671739_50c1bd6e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671739_db78953810_o.png",
+      "id_image": "cement_4370431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317041_14c16b87d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317041_200c21ec9d_o.png",
+      "id_image": "cement_4646801"
+    }
+  ]
+}

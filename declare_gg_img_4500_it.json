@@ -1,0 +1,69 @@
+{
+  "english": "declare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyên ngôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chịu thua trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khai hàng hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quả quyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyên bố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyên cáo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xác nhận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "say something in a solemn and emphatic manner.",
+      "definitions_ex_en": "“I was under too much pressure,” he declared",
+      "definitions_ex_vn": "\"Tôi đã chịu quá nhiều áp lực,\" anh tuyên bố",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "acknowledge possession of (taxable income or dutiable goods).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "announce that one holds (certain combinations of cards) in a card game.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307266_57146639fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307266_b1b0c9d0f3_o.png",
+      "id_image": "declare_5361668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307251_1bb6002e05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307251_7acf82f3b3_o.png",
+      "id_image": "declare_6159101"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "chubby",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mập mạp",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "plump and rounded.",
+      "definitions_ex_en": "a pretty child with chubby cheeks",
+      "definitions_ex_vn": "một đứa trẻ xinh đẹp với đôi má mũm mĩm",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044210_26fa013728_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044210_ca37473d7e_o.png",
+      "id_image": "chubby_1818370"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422343_5d343e6cef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422343_10d8af63d8_o.png",
+      "id_image": "chubby_5571374"
+    }
+  ]
+}

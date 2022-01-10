@@ -1,0 +1,80 @@
+{
+  "english": "batter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bột nhồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn đại bác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh bể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm móp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strike repeatedly with hard blows.",
+      "definitions_ex_en": "he was battered and falsely imprisoned by the officers",
+      "definitions_ex_vn": "anh ta bị vùi dập và bị giam cầm bởi các sĩ quan",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a wall) have a receding slope.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a semiliquid mixture of flour, egg, and milk or water used in cooking, especially for making cakes or for coating food before frying.",
+      "definitions_ex_en": "pancake batter",
+      "definitions_ex_vn": "bột làm bánh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a damaged area of metal type or a printing block.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in various sports, especially baseball) a player who is batting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gradual backward slope in a wall or similar structure.",
+      "definitions_ex_en": "the batter is an inch in for every foot of height",
+      "definitions_ex_vn": "Bột đập là một inch trong mỗi chân chiều cao",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049500_0c66327b8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049500_9a23528ac5_o.png",
+      "id_image": "batter_1867111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049565_5267ba013e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049565_c44d3af02d_o.png",
+      "id_image": "batter_209561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667874_8e22812463_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667874_9961e6bf5f_o.png",
+      "id_image": "batter_221847"
+    }
+  ]
+}

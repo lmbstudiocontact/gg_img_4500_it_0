@@ -1,0 +1,46 @@
+{
+  "english": "curtain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bức màn treo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bức thành nối hai pháo đài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng sắt che lổ khóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "treo màn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of material suspended at the top to form a covering or screen, typically one of a pair at a window.",
+      "definitions_ex_en": "she drew the curtains and lit the fire",
+      "definitions_ex_vn": "Cô rút rèm cửa và thắp lửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with a curtain or curtains.",
+      "definitions_ex_en": "is it OK if we only curtain the lower windows?",
+      "definitions_ex_vn": "Có ổn không nếu chúng ta chỉ rèm cửa sổ dưới?",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669039_2c2d52fd05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669039_331d09b926_o.png",
+      "id_image": "curtain_2433268"
+    }
+  ]
+}

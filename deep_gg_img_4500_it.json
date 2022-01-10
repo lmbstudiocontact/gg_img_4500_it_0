@@ -1,0 +1,119 @@
+{
+  "english": "deep",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sâu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thâm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khôn lanh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đậm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quỹ quyệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sậm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trầm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xảo trá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sâu kín",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hang sâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giữa đêm khuya",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quá nhiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thâm trầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vực sâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vực thẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữa đêm",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extending far down from the top or surface.",
+      "definitions_ex_en": "a deep gorge",
+      "definitions_ex_vn": "một hẻm núi sâu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very intense or extreme.",
+      "definitions_ex_en": "she was in deep trouble",
+      "definitions_ex_vn": "Cô ấy đang gặp rắc rối sâu sắc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of sound) low in pitch and full in tone; not shrill.",
+      "definitions_ex_en": "a deep, resonant voice",
+      "definitions_ex_vn": "một giọng nói sâu sắc, cộng hưởng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of color) dark and intense.",
+      "definitions_ex_en": "a deep pink",
+      "definitions_ex_vn": "một màu hồng đậm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the sea.",
+      "definitions_ex_en": "denizens of the deep",
+      "definitions_ex_vn": "Denizens của sâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "far down or in; deeply.",
+      "definitions_ex_en": "traveling deep into the countryside",
+      "definitions_ex_vn": "đi sâu vào nông thôn",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350462_799e37b199_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350462_13d9fc7aac_o.png",
+      "id_image": "deep_1035461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306281_89f2d80495_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306281_0f00c09b82_o.png",
+      "id_image": "deep_5538313"
+    }
+  ]
+}

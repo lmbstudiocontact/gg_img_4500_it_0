@@ -1,0 +1,44 @@
+{
+  "english": "colony",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đất thực dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn kiều dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuộc địa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a country or area under the full or partial political control of another country, typically a distant one, and occupied by settlers from that country.",
+      "definitions_ex_en": "Japanese forces overran the French colony of Indo-China",
+      "definitions_ex_vn": "Lực lượng Nhật Bản tràn ngập thuộc địa Pháp của Indo-Trung Quốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people of one nationality or ethnic group living in a foreign city or country.",
+      "definitions_ex_en": "the British colony in New York",
+      "definitions_ex_vn": "Thuộc địa Anh ở New York",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a community of animals or plants of one kind living close together or forming a physically connected structure.",
+      "definitions_ex_en": "a colony of seals",
+      "definitions_ex_vn": "một đàn phong tràng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058105_43f6f3c6e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058105_87e864ee6c_o.png",
+      "id_image": "colony_749499"
+    }
+  ]
+}

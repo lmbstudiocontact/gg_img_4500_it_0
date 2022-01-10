@@ -1,0 +1,125 @@
+{
+  "english": "bill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấy bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy yết thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi đất nhô ra biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phắc tuya",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hóa đơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản dư luật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phiếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rỉa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "văn tự",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an amount of money owed for goods supplied or services rendered, set out in a printed or written statement of charges.",
+      "definitions_ex_en": "the bill for their meal came to $17",
+      "definitions_ex_vn": "Bill cho bữa ăn của họ đến $ 17",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a draft of a proposed law presented to parliament for discussion.",
+      "definitions_ex_en": "a debate over the civil rights bill",
+      "definitions_ex_vn": "một cuộc tranh luận về hóa đơn dân quyền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a program of entertainment, especially at a theater.",
+      "definitions_ex_en": "she was top of the bill at America's leading vaudeville house",
+      "definitions_ex_vn": "Cô đứng đầu dự luật tại Nhà Vaudeville hàng đầu của Mỹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a poster or handbill.",
+      "definitions_ex_en": "the circus promoters were posting bills all over town",
+      "definitions_ex_vn": "Các nhà quảng bá xiếc đang đăng các hóa đơn trên toàn thị trấn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the beak of a bird, especially when it is slender, flattened, or weak, or belongs to a web-footed bird or a bird of the pigeon family.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a medieval weapon like a halberd with a hook instead of a blade.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "list (a person or event) in a program.",
+      "definitions_ex_en": "they were billed to appear but didn't show up",
+      "definitions_ex_vn": "họ đã được lập hóa đơn để xuất hiện nhưng không xuất hiện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "send a note of charges to (someone).",
+      "definitions_ex_en": "we shall be billing them for the damage caused",
+      "definitions_ex_vn": "Chúng tôi sẽ thanh toán cho họ thiệt hại gây ra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of birds, especially doves) stroke bill with bill during courtship.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420698_7f4c4e28eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420698_9021a8036b_o.png",
+      "id_image": "bill_1580789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305586_fa21d0d25f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305586_7a3a9eb4e4_o.png",
+      "id_image": "bill_1605273"
+    }
+  ]
+}

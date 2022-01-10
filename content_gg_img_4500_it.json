@@ -1,0 +1,115 @@
+{
+  "english": "content",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng lòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mãn nguyện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui thích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vừa lòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đẹp ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bằng lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toại ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thỏa mản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật đựng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vui lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm thỏa mản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vui lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vừa ý",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a state of peaceful happiness.",
+      "definitions_ex_en": "he seemed more content, less bitter",
+      "definitions_ex_vn": "Anh ấy có vẻ nhiều nội dung hơn, ít cay đắng hơn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "satisfy (someone).",
+      "definitions_ex_en": "nothing would content her",
+      "definitions_ex_vn": "Không có gì sẽ hài lòng với cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a state of satisfaction.",
+      "definitions_ex_en": "the greater part of the century was a time of content",
+      "definitions_ex_vn": "Phần lớn của thế kỷ là thời điểm nội dung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of the British House of Lords who votes for a particular motion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the things that are held or included in something.",
+      "definitions_ex_en": "she unscrewed the top of the flask and drank the contents",
+      "definitions_ex_vn": "Cô ấy tháo đầu bình và uống nội dung",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044275_2606c44f18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044275_c1e0e67a70_o.png",
+      "id_image": "content_2132256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307321_e56b9649cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307321_3dfbd00747_o.png",
+      "id_image": "content_2503644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422488_5c64368be1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422488_fa302096b8_o.png",
+      "id_image": "content_536871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662649_c5ab6c9e4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662649_14bf0ec0ed_o.png",
+      "id_image": "content_950572"
+    }
+  ]
+}

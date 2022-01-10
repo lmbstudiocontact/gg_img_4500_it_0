@@ -1,0 +1,69 @@
+{
+  "english": "collateral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "song song",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kế bên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về bên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phụ thuộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "something pledged as security for repayment of a loan, to be forfeited in the event of a default.",
+      "definitions_ex_en": "she put her house up as collateral for the bank loan",
+      "definitions_ex_vn": "Cô ấy đặt nhà của mình lên làm tài sản thế chấp cho vay ngân hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person having the same descent in a family as another but by a different line.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "additional but subordinate; secondary.",
+      "definitions_ex_en": "the collateral meanings of a word",
+      "definitions_ex_vn": "ý nghĩa thế chấp của một từ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "descended from the same stock but by a different line.",
+      "definitions_ex_en": "a collateral descendant of George Washington",
+      "definitions_ex_vn": "một hậu duệ của George Washington",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "situated side by side; parallel.",
+      "definitions_ex_en": "collateral veins",
+      "definitions_ex_vn": "tĩnh mạch thế chấp.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437478_341a52b701_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437478_daa2d7e84b_o.png",
+      "id_image": "collateral_2620251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677294_74154c9165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677294_28f77903a3_o.png",
+      "id_image": "collateral_5571336"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "english": "course",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường vận chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dĩ nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khóa học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "món ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dòng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dòng sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiến hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trôi chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tất như thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi theo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the route or direction followed by a ship, aircraft, road, or river.",
+      "definitions_ex_en": "the road adopts a tortuous course along the coast",
+      "definitions_ex_vn": "Con đường thông qua một khóa học quanh co dọc bờ biển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dish, or a set of dishes served together, forming one of the successive parts of a meal.",
+      "definitions_ex_en": "guests are offered a choice of main course",
+      "definitions_ex_vn": "Khách được lựa chọn một sự lựa chọn của khóa học chính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area of land set aside and prepared for racing, golf, or another sport.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a series of lectures or lessons in a particular subject, typically leading to a qualification.",
+      "definitions_ex_en": "a business studies course",
+      "definitions_ex_vn": "Một khóa học nghiên cứu kinh doanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous horizontal layer of brick, stone, or other material in a building.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pursuit of game (especially hares) with greyhounds by sight rather than scent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lowest sail on a square-rigged mast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of adjacent strings on a guitar, lute, etc., tuned to the same note.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of liquid) move without obstruction; flow.",
+      "definitions_ex_en": "tears were coursing down her cheeks",
+      "definitions_ex_vn": "Nước mắt rơi xuống má cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pursue (game, especially hares) with greyhounds using sight rather than scent.",
+      "definitions_ex_en": "many of the hares coursed escaped unharmed",
+      "definitions_ex_vn": "Nhiều Hares đã thoát khỏi không hề hấn gì",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371027_8e6c2a6e6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371027_ddc1d5e9cf_o.png",
+      "id_image": "course_3965926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371012_48548fcf90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371012_034aca8962_o.png",
+      "id_image": "course_4728718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063000_28766d36c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063000_21b5107da1_o.png",
+      "id_image": "course_5352122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681249_dfbcba6f52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681249_95e5aaaf2b_o.png",
+      "id_image": "course_5965835"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "cop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái suốt chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh sát viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt được",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a police officer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a conical or cylindrical roll of thread wound onto a spindle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "catch or arrest (an offender).",
+      "definitions_ex_en": "he was copped for speeding",
+      "definitions_ex_vn": "anh ta đã bị thủng để tăng tốc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "receive or obtain (something welcome).",
+      "definitions_ex_en": "she copped an award for her role in the film",
+      "definitions_ex_vn": "Cô đã từ bỏ một giải thưởng cho vai trò của mình trong bộ phim",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070210_ebc97d90b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070210_ecd2bd7ce4_o.png",
+      "id_image": "cop_1865647"
+    }
+  ]
+}

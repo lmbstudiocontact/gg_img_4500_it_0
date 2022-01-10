@@ -1,0 +1,48 @@
+{
+  "english": "bury",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mai táng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xỏ vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put or hide under ground.",
+      "definitions_ex_en": "he buried the box in the back garden",
+      "definitions_ex_vn": "Anh chôn chiếc hộp ở khu vườn phía sau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "completely cover; cause to disappear or become inconspicuous.",
+      "definitions_ex_en": "the countryside has been buried under layers of concrete",
+      "definitions_ex_vn": "Nông thôn đã được chôn cất dưới các lớp bê tông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353537_c222e628ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353537_6b1cab8f2b_o.png",
+      "id_image": "burial_1450728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309261_6d70ae7ec3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309261_c889fb369e_o.png",
+      "id_image": "burial_2458045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424433_c52f6a6872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424433_0d02dac102_o.png",
+      "id_image": "burial_6000688"
+    }
+  ]
+}

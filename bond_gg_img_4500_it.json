@@ -1,0 +1,106 @@
+{
+  "english": "bond",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bó lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối liên lạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ràng buộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật gì cột lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đem gởi vào kho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây gạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a relationship between people or groups based on shared feelings, interests, or experiences.",
+      "definitions_ex_en": "there was a bond of understanding between them",
+      "definitions_ex_vn": "có một sự ràng buộc giữa họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a connection between two surfaces or objects that have been joined together, especially by means of an adhesive substance, heat, or pressure.",
+      "definitions_ex_en": "there was no effective bond between the concrete and the steel",
+      "definitions_ex_vn": "Không có liên kết hiệu quả giữa bê tông và thép",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an agreement with legal force.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pattern in which bricks are laid in order to ensure the strength of the resulting structure.",
+      "definitions_ex_en": "English bond",
+      "definitions_ex_vn": "Trái phiếu tiếng Anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for bond paper.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "join or be joined securely to something else, especially by means of an adhesive substance, heat, or pressure.",
+      "definitions_ex_en": "press the material to bond the layers together",
+      "definitions_ex_vn": "Nhấn vật liệu để liên kết các lớp với nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "join or be joined by a chemical bond.",
+      "definitions_ex_en": "neutral molecules bond to the central atom",
+      "definitions_ex_vn": "Phân tử trung tính liên kết với nguyên tử trung tâm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lay (bricks) in an overlapping pattern so as to form a strong structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place (dutiable goods) in bond.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369882_f29b087f8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369882_0a449710bf_o.png",
+      "id_image": "bond_2719700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325026_aa357e5577_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325026_e29a217b30_o.png",
+      "id_image": "bond_310061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324956_7b627799ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324956_44ea752aac_o.png",
+      "id_image": "bond_6159162"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "burst",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự nổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia lữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng sấm sét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vở từng mảnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xông vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nở hoa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a container) break suddenly and violently apart, spilling the contents, typically as a result of an impact or internal pressure.",
+      "definitions_ex_en": "we inflated dozens of balloons and only one burst",
+      "definitions_ex_vn": "Chúng tôi thổi phồng hàng chục bóng bay và chỉ một vụ nổ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance of breaking or splitting as a result of internal pressure or puncturing; an explosion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664184_f1ddce1fe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664184_122094b461_o.png",
+      "id_image": "burst_1408476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353087_e1b9d5c7a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353087_dbf1dc1a7c_o.png",
+      "id_image": "burst_1733408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308916_5490e97f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308916_b876fe7480_o.png",
+      "id_image": "burst_316528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664149_9dc3cc0332_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664149_e2171bc84d_o.png",
+      "id_image": "burst_6315782"
+    }
+  ]
+}

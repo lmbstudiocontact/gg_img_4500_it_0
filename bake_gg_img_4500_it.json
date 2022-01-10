@@ -1,0 +1,48 @@
+{
+  "english": "bake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nướng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface.",
+      "definitions_ex_en": "they bake their own bread and cakes",
+      "definitions_ex_vn": "Họ nướng bánh mì và bánh ngọt của riêng họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the sun or other agency) subject (something) to dry heat, especially so as to harden it.",
+      "definitions_ex_en": "the sun has baked the earth a dusty brown",
+      "definitions_ex_vn": "Mặt trời đã nướng trái đất một màu nâu bụi bặm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319661_272da5681d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319661_c3168b888b_o.png",
+      "id_image": "bake_311781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056200_50a81c1c5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056200_6a9122481e_o.png",
+      "id_image": "bake_3690196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434693_c7b2f8f454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434693_8f5cc9c5bd_o.png",
+      "id_image": "bake_3843522"
+    }
+  ]
+}

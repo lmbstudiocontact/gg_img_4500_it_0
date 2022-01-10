@@ -1,0 +1,79 @@
+{
+  "english": "bright",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tươi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hăng hái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tương lai rực rở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sáng chói",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sốt sắng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "giving out or reflecting a lot of light; shining.",
+      "definitions_ex_en": "her bright, dark eyes",
+      "definitions_ex_vn": "đôi mắt sáng sủa của cô ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person, idea, or remark) intelligent and quick-witted.",
+      "definitions_ex_en": "a bright young journalist",
+      "definitions_ex_vn": "một nhà báo trẻ tươi sáng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "giving an appearance of cheerful liveliness.",
+      "definitions_ex_en": "she gave a bright smile",
+      "definitions_ex_vn": "Cô nở một nụ cười rạng rỡ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of sound) clear, vibrant, and typically high-pitched.",
+      "definitions_ex_en": "her voice is fresh and bright",
+      "definitions_ex_vn": "Giọng cô tươi và sáng.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "luminously.",
+      "definitions_ex_en": "a full moon shining bright",
+      "definitions_ex_vn": "trăng tròn tỏa sáng rực rỡ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "bold and vivid colors.",
+      "definitions_ex_en": "webbed gloves in neon brights",
+      "definitions_ex_vn": "Găng tay có màng trong neon Brights",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670629_4cf690fcf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670629_705d79aa65_o.png",
+      "id_image": "bright_1114046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360132_a2cdf7ca74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360132_ed82ae6a4f_o.png",
+      "id_image": "bright_1576543"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "confidential",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bí mật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chuyện mật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chuyện riêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kín",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tâm sự",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "intended to be kept secret.",
+      "definitions_ex_en": "confidential information",
+      "definitions_ex_vn": "thông tin mật",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356472_e4a556e5c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356472_431abc2044_o.png",
+      "id_image": "confidential_2170165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427213_57cd9c3ca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427213_acc9936900_o.png",
+      "id_image": "confidential_2519390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048995_3288bda2ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048995_84e6498f9a_o.png",
+      "id_image": "confidential_4524038"
+    }
+  ]
+}

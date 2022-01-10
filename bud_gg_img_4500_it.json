@@ -1,0 +1,43 @@
+{
+  "english": "bud",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đọt non",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mầm non",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mọc mầm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a compact growth on a plant that develops into a leaf, flower, or shoot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a plant or animal) form a bud.",
+      "definitions_ex_en": "new blood vessels bud out from the vascular bed",
+      "definitions_ex_vn": "Mẫu máu mới Bud ra khỏi giường mạch máu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357472_7b6a85446a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357472_3b1f5fc534_o.png",
+      "id_image": "bud_3442558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313416_5243dd3b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313416_013dee8f2a_o.png",
+      "id_image": "bud_3486590"
+    }
+  ]
+}

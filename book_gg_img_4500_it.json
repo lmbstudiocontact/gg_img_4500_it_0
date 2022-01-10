@@ -1,0 +1,78 @@
+{
+  "english": "book",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ghi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi vào sổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sổ sách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
+      "definitions_ex_en": "a book of selected poems",
+      "definitions_ex_vn": "một cuốn sách thơ chọn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bound set of blank sheets for writing or keeping records in.",
+      "definitions_ex_en": "an accounts book",
+      "definitions_ex_vn": "một cuốn sách tài khoản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of tickets, stamps, matches, checks, samples of cloth, etc., bound together.",
+      "definitions_ex_en": "a pattern book",
+      "definitions_ex_vn": "một cuốn sách mẫu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reserve (accommodations, a place, etc.); buy (a ticket) in advance.",
+      "definitions_ex_en": "I have booked a table at the Swan",
+      "definitions_ex_vn": "Tôi đã đặt một cái bàn tại Swan",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make an official record of the name and other personal details of (a criminal suspect or offender).",
+      "definitions_ex_en": "the cop booked me and took me down to the station",
+      "definitions_ex_vn": "Cop đặt tôi và đưa tôi xuống nhà ga",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368992_5277c8f323_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368992_065dd3c8ac_o.png",
+      "id_image": "book_1032653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369062_c49360913a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369062_922e007483_o.png",
+      "id_image": "book_169120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679339_ec3fcbe3b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679339_37b7a601ba_o.png",
+      "id_image": "book_170584"
+    }
+  ]
+}

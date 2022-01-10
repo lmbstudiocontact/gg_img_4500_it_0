@@ -1,0 +1,95 @@
+{
+  "english": "cup",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chén",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khớp xương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ lỏm xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số phận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cúp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đài hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh xuống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small bowl-shaped container for drinking from, typically having a handle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ornamental trophy in the form of a cup, usually made of gold or silver and having a stem and two handles, awarded as a prize in a contest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cup-shaped thing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mixed drink made from fruit juices and typically containing wine or cider.",
+      "definitions_ex_en": "the bars offered large glasses of white wine cup",
+      "definitions_ex_vn": "Các thanh cung cấp ly rượu vang lớn màu trắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form (one's hand or hands) into the curved shape of a cup.",
+      "definitions_ex_en": "“Hey!” Dad shouted, with his hands cupped around his mouth",
+      "definitions_ex_vn": "\"Này!\" Bố hét lên, với hai tay ôm chặt miệng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bleed (someone) by using a glass in which a partial vacuum is formed by heating.",
+      "definitions_ex_en": "Dr. Ross ordered me to be cupped",
+      "definitions_ex_vn": "Tiến sĩ Ross đã ra lệnh cho tôi được sửa đổi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359792_c17efde0e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359792_a59a6b29d8_o.png",
+      "id_image": "cup_125132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359767_a3a88721db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359767_472fa6d886_o.png",
+      "id_image": "cup_202636"
+    }
+  ]
+}

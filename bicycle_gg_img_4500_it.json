@@ -1,0 +1,53 @@
+{
+  "english": "bicycle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe đạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đạp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ride a bicycle in a particular direction.",
+      "definitions_ex_en": "they had spent the day bicycling around the island",
+      "definitions_ex_vn": "Họ đã dành cả ngày đi xe đạp quanh đảo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306266_c42621534e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306266_c09b48eccd_o.png",
+      "id_image": "bicycle_169421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350397_5237d673d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350397_cdef17f8fb_o.png",
+      "id_image": "bicycle_183988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306226_31806a2bbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306226_b6edfdb3aa_o.png",
+      "id_image": "bicycle_2307941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306211_ac634b0321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306211_e82cf3f1e7_o.png",
+      "id_image": "bicycle_6032470"
+    }
+  ]
+}

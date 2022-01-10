@@ -1,0 +1,47 @@
+{
+  "english": "compensation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đền bù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bồi thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thường lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "something, typically money, awarded to someone as a recompense for loss, injury, or suffering.",
+      "definitions_ex_en": "seeking compensation for injuries suffered at work",
+      "definitions_ex_vn": "tìm kiếm bồi thường cho thương tích bị làm việc tại nơi làm việc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671609_6f826c50e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671609_a0c2359800_o.png",
+      "id_image": "compensation_2586927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431938_0f30a75be2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431938_ed86bc73d3_o.png",
+      "id_image": "compensation_2631378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431918_869805e848_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431918_3615650b8c_o.png",
+      "id_image": "compensation_2631381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053275_9574d589b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053275_f3f8641b00_o.png",
+      "id_image": "compensation_5781691"
+    }
+  ]
+}

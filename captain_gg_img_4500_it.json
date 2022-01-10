@@ -1,0 +1,73 @@
+{
+  "english": "captain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đại úy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu đảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuyền trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cầm đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tướng soái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủ quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầm đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thủ quân đội banh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the person in command of a ship.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be the captain of (a ship, aircraft, or sports team).",
+      "definitions_ex_en": "all the boats are captained by professional sailors",
+      "definitions_ex_vn": "Tất cả các thuyền được sát thủ bởi các thủy thủ chuyên nghiệp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442753_4058d12807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442753_d8013fa5d6_o.png",
+      "id_image": "captain_1733953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064405_7ced9b2dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064405_7921ea710a_o.png",
+      "id_image": "captain_1876747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372367_727bd4107c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372367_6b3e16ac09_o.png",
+      "id_image": "captain_6150306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327796_61c8cf066f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327796_94d5b2514f_o.png",
+      "id_image": "captain_683825"
+    }
+  ]
+}

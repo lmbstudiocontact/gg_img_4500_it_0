@@ -1,0 +1,74 @@
+{
+  "english": "contrast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đối chiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đối chọi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trái ngược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tương phản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mâu thuẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "so sánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tương phản",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being strikingly different from something else in juxtaposition or close association.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "differ strikingly.",
+      "definitions_ex_en": "his friend's success contrasted with his own failure",
+      "definitions_ex_vn": "thành công của bạn mình tương phản với thất bại của chính mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661834_522147333a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661834_ceef315daf_o.png",
+      "id_image": "contrast_227201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306451_dd0b98961b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306451_c2a43ea9f8_o.png",
+      "id_image": "contrast_2620652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350632_b2e6c06cd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350632_9b00bb651b_o.png",
+      "id_image": "contrast_391299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661769_e58fa18009_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661769_77c6d9a744_o.png",
+      "id_image": "contrast_5797811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350542_6ba10ec305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350542_186eff306b_o.png",
+      "id_image": "contrast_6040140"
+    }
+  ]
+}

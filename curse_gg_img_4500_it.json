@@ -1,0 +1,79 @@
+{
+  "english": "curse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể ghét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghê tởm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiệt hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trù rủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chưởi thề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật đáng ghét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời rủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chưởi rủa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nguyền rủa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a solemn utterance intended to invoke a supernatural power to inflict harm or punishment on someone or something.",
+      "definitions_ex_en": "she'd put a curse on him",
+      "definitions_ex_vn": "cô ấy đặt một lời nguyền lên anh ta",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an offensive word or phrase used to express anger or annoyance.",
+      "definitions_ex_en": "his mouth was spitting vile oaths and curses",
+      "definitions_ex_vn": "Miệng anh khẳng định lời thề và nguyền rủa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "invoke or use a curse against.",
+      "definitions_ex_en": "it often seemed as if the family had been cursed",
+      "definitions_ex_vn": "Dường như họ thường bị nguyền rủa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "utter offensive words in anger or annoyance.",
+      "definitions_ex_en": "drivers were cursing and sounding their horns",
+      "definitions_ex_vn": "Người lái xe đang chửi rủa và âm thanh sừng của họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669199_808130aa09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669199_34ca26dd70_o.png",
+      "id_image": "cursing_1805258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051090_3143e0b9f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051090_c24f1b7da4_o.png",
+      "id_image": "cursing_4126461"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "curl",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bĩu môi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật xoắn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lọn tóc quặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quăn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự uốn cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tóc quăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ bịnh của khoai tây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "uốn quăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoắn lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "form or cause to form into a curved or spiral shape.",
+      "definitions_ex_en": "her fingers curled around the microphone",
+      "definitions_ex_vn": "Những ngón tay của cô cuộn tròn xung quanh micro",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in weight training) lift (a weight) using only the hands, wrists, and forearms.",
+      "definitions_ex_en": "slowly curl the barbell to shoulder height",
+      "definitions_ex_vn": "Từ từ cuộn tròn đập vào chiều cao vai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play at the game of curling.",
+      "definitions_ex_en": "during the severe spell in 1740, men curled on the pond",
+      "definitions_ex_vn": "Trong câu thần chú nghiêm trọng vào năm 1740, những người đàn ông cuộn tròn trên ao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "something having a spiral or inwardly curved form, especially a lock of hair.",
+      "definitions_ex_en": "her blond hair was a mass of tangled curls",
+      "definitions_ex_vn": "Tóc vàng của cô ấy là một khối các lọn tóc rối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a weightlifting exercise involving movement of only the hands, wrists, and forearms.",
+      "definitions_ex_en": "a dumbbell curl",
+      "definitions_ex_vn": "một curlbell",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the vector product of the operator del and a given vector.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430013_f15114e9d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430013_a934ac7c66_o.png",
+      "id_image": "curl_1403050"
+    }
+  ]
+}

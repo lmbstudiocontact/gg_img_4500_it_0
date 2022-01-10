@@ -1,0 +1,76 @@
+{
+  "english": "community",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoàn thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cộng đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dân chúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hội đoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một nhóm người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính cách chung",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of people living in the same place or having a particular characteristic in common.",
+      "definitions_ex_en": "the scientific community",
+      "definitions_ex_vn": "Cộng đồng khoa học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals.",
+      "definitions_ex_en": "the sense of community that organized religion can provide",
+      "definitions_ex_vn": "ý thức của cộng đồng tôn giáo có tổ chức có thể cung cấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of interdependent organisms of different species growing or living together in a specified habitat.",
+      "definitions_ex_en": "communities of insectivorous birds",
+      "definitions_ex_vn": "Cộng đồng chim ăn côn trùng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362122_3c1e7b275b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362122_3d2ea7e9b0_o.png",
+      "id_image": "community_1001231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362092_3e3f39bd2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362092_c2ce534a3e_o.png",
+      "id_image": "community_1476614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054195_3ddfb0bc42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054195_d257060fb8_o.png",
+      "id_image": "community_2170765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317776_87dde63505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317776_df34daf87e_o.png",
+      "id_image": "community_417754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672514_e06e7b43af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672514_a8eab89921_o.png",
+      "id_image": "community_992615"
+    }
+  ]
+}

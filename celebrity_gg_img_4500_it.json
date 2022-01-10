@@ -1,0 +1,46 @@
+{
+  "english": "celebrity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "danh nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thanh danh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nổi danh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a famous person.",
+      "definitions_ex_en": "a celebrity chef",
+      "definitions_ex_vn": "một đầu bếp người nổi tiếng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432818_cbdc46af05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432818_c9c013368a_o.png",
+      "id_image": "celebrity_1999341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317651_0a31812baf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317651_36c9b3d1a1_o.png",
+      "id_image": "celebrity_2132490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054215_c8a483cec5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054215_cbc5281cf8_o.png",
+      "id_image": "celebrity_879498"
+    }
+  ]
+}

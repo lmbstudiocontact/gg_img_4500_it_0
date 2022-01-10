@@ -1,0 +1,57 @@
+{
+  "english": "combination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất hóa hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phối hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hóa hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tổ hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tập đoàn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a joining or merging of different parts or qualities in which the component elements are individually distinct.",
+      "definitions_ex_en": "this color combination is stunningly effective",
+      "definitions_ex_vn": "Sự kết hợp màu này có hiệu quả tuyệt vời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sequence of numbers or letters used to open a combination lock.",
+      "definitions_ex_en": "a combination briefcase",
+      "definitions_ex_vn": "một cặp kết hợp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a selection of a given number of elements from a larger number without regard to their arrangement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675274_4476902fe8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675274_b3b0d4c68a_o.png",
+      "id_image": "combination_4428829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057025_4a8fe884a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057025_57bc8a8029_o.png",
+      "id_image": "combination_5052338"
+    }
+  ]
+}

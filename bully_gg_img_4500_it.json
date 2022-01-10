@@ -1,0 +1,74 @@
+{
+  "english": "bully",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lạ lùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lúc hổn đấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hung bạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt bò hộp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngược đải",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who habitually seeks to harm or intimidate those whom they perceive as vulnerable.",
+      "definitions_ex_en": "he is a ranting, domineering bully",
+      "definitions_ex_vn": "Anh ấy là một kẻ bắt nạt, độc đoán độc đoán",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "corned beef.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of starting play in field hockey, in which two opponents strike each other's sticks three times and then go for the ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "seek to harm, intimidate, or coerce (someone perceived as vulnerable).",
+      "definitions_ex_en": "her 11- year-old son has been constantly bullied at school",
+      "definitions_ex_vn": "Con trai 11 tuổi của cô đã liên tục bị bắt nạt ở trường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in field hockey) start play with a bully.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311116_a9d218c0b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311116_db9a5a2a6b_o.png",
+      "id_image": "bullying_2284974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355232_3bcdb04580_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355232_5e83c8a838_o.png",
+      "id_image": "bullying_2534566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426013_5d94658b15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426013_d669f17a61_o.png",
+      "id_image": "bullying_3387037"
+    }
+  ]
+}

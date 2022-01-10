@@ -1,0 +1,77 @@
+{
+  "english": "cotton",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bông gòn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trồng bông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây bông vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều đình trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đồng ý với nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "yêu người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a soft white fibrous substance that surrounds the seeds of a tropical and subtropical plant and is used as textile fiber and thread for sewing.",
+      "definitions_ex_en": "a cargo of cotton and wheat",
+      "definitions_ex_vn": "một hàng hóa của bông và lúa mì",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the plant that is commercially grown for cotton products. Oil and a protein-rich flour are also obtained from the seeds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328471_356df998b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328471_1730a7df5d_o.png",
+      "id_image": "cotton_3174960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373192_f40c151dbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373192_e1cedeacf5_o.png",
+      "id_image": "cotton_3944317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683519_812610c0bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683519_601bdf5242_o.png",
+      "id_image": "cotton_4637058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443398_67722c3c3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443398_3603c15148_o.png",
+      "id_image": "cotton_5579799"
+    }
+  ]
+}

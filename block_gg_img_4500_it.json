@@ -1,0 +1,137 @@
+{
+  "english": "block",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chòm nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súc cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đòn kê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình nộm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khối lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc đường rầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nghẽn tắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "róc rách",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large solid piece of hard material, especially rock, stone, or wood, typically with flat surfaces on each side.",
+      "definitions_ex_en": "a block of marble",
+      "definitions_ex_vn": "một khối đá cẩm thạch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large quantity or allocation of things regarded as a unit.",
+      "definitions_ex_en": "a block of shares",
+      "definitions_ex_vn": "một khối cổ phiếu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an obstacle to the normal progress or functioning of something.",
+      "definitions_ex_en": "substantial demands for time off may constitute a block to career advancement",
+      "definitions_ex_vn": "Nhu cầu đáng kể cho thời gian nghỉ có thể tạo thành một khối để thăng tiến nghề nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat area of something, especially a solid area of color.",
+      "definitions_ex_en": "cover the eyelid with a neutral block of color",
+      "definitions_ex_vn": "bao phủ mí mắt với một khối màu trung tính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pulley or system of pulleys mounted in a case.",
+      "definitions_ex_en": "a simple pulley block",
+      "definitions_ex_vn": "một khối ròng rọc đơn giản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's head.",
+      "definitions_ex_en": "“I'll knock your block off,” he said",
+      "definitions_ex_vn": "\"Tôi sẽ đánh bật khối của bạn,\" anh nói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make the movement or flow in (a passage, pipe, road, etc.) difficult or impossible.",
+      "definitions_ex_en": "block up the holes with sticky tape",
+      "definitions_ex_vn": "Chặn các lỗ bằng băng dính",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "impress text or a design on (a book cover).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shape or reshape (a hat) using a wooden mold.",
+      "definitions_ex_en": "nobody cleans and blocks old felt hats any more",
+      "definitions_ex_vn": "không ai làm sạch và chặn mũ cũ cảm thấy nữa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "design or plan the movements of actors on a stage or movie set.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066565_743a2da344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066565_633e0a4f42_o.png",
+      "id_image": "block_2123817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066530_8b5102395a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066530_77e7c04589_o.png",
+      "id_image": "block_2222961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374397_c5f8947700_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374397_392f53ffc9_o.png",
+      "id_image": "block_4418104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329756_bf16c637af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329756_701c34f369_o.png",
+      "id_image": "block_5512149"
+    }
+  ]
+}

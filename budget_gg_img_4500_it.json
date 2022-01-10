@@ -1,0 +1,61 @@
+{
+  "english": "budget",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngân sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túi nhỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an estimate of income and expenditure for a set period of time.",
+      "definitions_ex_en": "keep within the household budget",
+      "definitions_ex_vn": "Giữ trong ngân sách hộ gia đình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quantity of material, typically that which is written or printed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "allow or provide a particular amount of money in a budget.",
+      "definitions_ex_en": "the university is budgeting for a deficit",
+      "definitions_ex_vn": "Trường đại học đang lập ngân sách để thâm hụt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "inexpensive.",
+      "definitions_ex_en": "a budget guitar",
+      "definitions_ex_vn": "một guitar ngân sách.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049700_1953e6a398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049700_ff66fd211c_o.png",
+      "id_image": "budgeting_2037592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357167_884d9de3e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357167_c7cbbca62f_o.png",
+      "id_image": "budgeting_2471933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049765_cce09418b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049765_15eac949c5_o.png",
+      "id_image": "budget_1353778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049750_079c2aa2ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049750_ffbe415c30_o.png",
+      "id_image": "budget_4576143"
+    }
+  ]
+}

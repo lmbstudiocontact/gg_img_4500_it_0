@@ -1,0 +1,118 @@
+{
+  "english": "concern",
+  "list_translation_mean": [
+    {
+      "translate_mean": "liên quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "doanh nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều lo ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hảng buôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lo lắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xí nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan hệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liên can đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lo lắng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quan hệ về",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuộc về",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relate to; be about.",
+      "definitions_ex_en": "the story concerns a friend of mine",
+      "definitions_ex_vn": "Câu chuyện liên quan đến một người bạn của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "worry (someone); make anxious.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "anxiety; worry.",
+      "definitions_ex_en": "such unsatisfactory work gives cause for concern",
+      "definitions_ex_vn": "Công việc không đạt yêu cầu như vậy mang lại nguyên nhân quan tâm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a matter of interest or importance to someone.",
+      "definitions_ex_en": "oil reserves are the concern of the Energy Department",
+      "definitions_ex_vn": "trữ lượng dầu là mối quan tâm của bộ phận năng lượng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a business; a firm.",
+      "definitions_ex_en": "a small, debt-ridden concern",
+      "definitions_ex_vn": "một mối quan tâm nhỏ, cưỡi nợ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a complicated or awkward object or structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668584_c352b7146a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668584_bb355a532c_o.png",
+      "id_image": "concern_4525460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357922_4123450b03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357922_8c5451358f_o.png",
+      "id_image": "concern_4729313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668539_16cd7f756f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668539_bac0f7a6bb_o.png",
+      "id_image": "concern_5308161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428598_013ee26e31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428598_dc52d844cb_o.png",
+      "id_image": "concern_6000781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050285_95b9ddabb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050285_9e46bdef2c_o.png",
+      "id_image": "concern_6002476"
+    }
+  ]
+}

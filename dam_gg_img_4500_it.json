@@ -1,0 +1,87 @@
+{
+  "english": "dam",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con thú mẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đập ngăn nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước do đập ngăn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đắp đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đắp đê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kềm chế",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a barrier constructed to hold back water and raise its level, forming a reservoir used to generate electricity or as a water supply.",
+      "definitions_ex_en": "the dam burst after torrential rain",
+      "definitions_ex_vn": "Đập vỡ sau cơn mưa xối xả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rubber sheet used to keep saliva from the teeth during dental operations, or as a prophylactic device during cunnilingus and anilingus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the female parent of an animal, especially a domestic mammal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "build a dam across (a river or lake).",
+      "definitions_ex_en": "the river was dammed to form Lake Powell",
+      "definitions_ex_vn": "Dòng sông đã bị đập để tạo thành hồ Powell",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decameter(s).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311596_3349a64370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311596_ceb22d3d9d_o.png",
+      "id_image": "dam_2321431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311541_d1495d51a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311541_ae5a2f744b_o.png",
+      "id_image": "dam_3722851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048175_18657f3016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048175_16955a6fb4_o.png",
+      "id_image": "dam_5782512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426493_ef76a28a22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426493_899359629c_o.png",
+      "id_image": "dam_778653"
+    }
+  ]
+}

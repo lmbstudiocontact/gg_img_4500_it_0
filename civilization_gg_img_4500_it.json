@@ -1,0 +1,47 @@
+{
+  "english": "civilization",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nền văn minh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "những nước văn minh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khai hóa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the stage of human social and cultural development and organization that is considered most advanced.",
+      "definitions_ex_en": "they equated the railroad with progress and civilization",
+      "definitions_ex_vn": "họ đánh đồng đường sắt với tiến độ và nền văn minh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661189_76cb7143ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661189_c1523c093c_o.png",
+      "id_image": "civilization_3317437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661179_242cac009e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661179_860cb477b9_o.png",
+      "id_image": "civilization_5234355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349957_1232ce6dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349957_e1b6a81374_o.png",
+      "id_image": "civilization_5998818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349902_451d234c1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349902_b601f97fd8_o.png",
+      "id_image": "civilization_6193005"
+    }
+  ]
+}

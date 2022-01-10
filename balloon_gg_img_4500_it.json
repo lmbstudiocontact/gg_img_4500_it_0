@@ -1,0 +1,76 @@
+{
+  "english": "balloon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình trứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quả cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phồng ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a brightly colored rubber sac inflated with air and then sealed at the neck, used as a children's toy or a decoration.",
+      "definitions_ex_en": "the room was festooned with balloons and streamers",
+      "definitions_ex_vn": "Căn phòng được lễ hội với bóng bay và Streamers",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large bag filled with hot air or gas to make it rise in the air, typically carrying a basket for passengers.",
+      "definitions_ex_en": "he set his sights on crossing the Pacific by balloon",
+      "definitions_ex_vn": "Anh ấy đặt tầm nhìn của mình về việc vượt qua Thái Bình Dương bằng khinh khí cầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rounded outline in which the words or thoughts of characters in a comic strip or cartoon are written.",
+      "definitions_ex_en": "a balloon reading “Ka-Pow!”",
+      "definitions_ex_vn": "Một quả bóng đọc \"Ka-pow!\"",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large rounded drinking glass, used for brandy and other drinks.",
+      "definitions_ex_en": "a balloon of armagnac",
+      "definitions_ex_vn": "Một khinh khí cầu Armagnac",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "swell out in a spherical shape; billow.",
+      "definitions_ex_en": "the trousers ballooned out below his waist",
+      "definitions_ex_vn": "quần bóng bay ra bên dưới eo của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "travel by hot-air balloon.",
+      "definitions_ex_en": "he is famous for ballooning across oceans",
+      "definitions_ex_vn": "Anh ấy nổi tiếng với bóng bay trên đại dương",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433283_befa1fded4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433283_94d101c467_o.png",
+      "id_image": "balloon_414797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362557_500a9cdd55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362557_0a66c288c4_o.png",
+      "id_image": "balloon_675161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672824_b7608fba93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672824_e5151ae831_o.png",
+      "id_image": "balloon_907391"
+    }
+  ]
+}

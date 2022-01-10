@@ -1,0 +1,117 @@
+{
+  "english": "bear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ôm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đầu cơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phòng sụt giá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chịu thiệt hại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chịu trách nhiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "con gấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đầu cơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "carry the weight of; support.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "endure (an ordeal or difficulty).",
+      "definitions_ex_en": "she bore the pain stoically",
+      "definitions_ex_vn": "Cô ấy chán nản",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) carry (someone or something).",
+      "definitions_ex_en": "he was bearing a tray of brimming glasses",
+      "definitions_ex_vn": "Anh ta đang mang một khay kính tràn đầy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give birth to (a child).",
+      "definitions_ex_en": "she bore six daughters",
+      "definitions_ex_vn": "cô ấy mang sáu con gái",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "turn and proceed in a specified direction.",
+      "definitions_ex_en": "bear left and follow the old road",
+      "definitions_ex_vn": "Gấu trái và theo con đường cũ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a large, heavy mammal that walks on the soles of its feet, having thick fur and a very short tail. Bears are related to the dog family but most species are omnivorous.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large, heavy, cumbersome man.",
+      "definitions_ex_en": "a lumbering bear of a man",
+      "definitions_ex_vn": "Một con gấu đang lén lút của một người đàn ông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who forecasts that prices of stocks or commodities will fall, especially a person who sells shares hoping to buy them back later at a lower price.",
+      "definitions_ex_en": "bear markets",
+      "definitions_ex_vn": "Chợ gấu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426453_bc3b575026_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426453_8cae9d5e0a_o.png",
+      "id_image": "bear_2253551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355682_125be2c4b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355682_818eed5f69_o.png",
+      "id_image": "bear_2267462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311496_e5e07371a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311496_304a18dc08_o.png",
+      "id_image": "bear_5970934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048270_d15f90d33b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048270_6a0ea3e895_o.png",
+      "id_image": "bear_604189"
+    }
+  ]
+}

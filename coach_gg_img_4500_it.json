@@ -1,0 +1,113 @@
+{
+  "english": "coach",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dạy riêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dạy tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giáo sư luyện thi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "huấn luyện viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toa xe lữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thể tháo gia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe đò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi xe ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "học riêng với ai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "học tư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tập dượt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a horse-drawn carriage, especially a closed one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a railroad car.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bus, especially one that is comfortably equipped and used for longer journeys.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an athletic instructor or trainer.",
+      "definitions_ex_en": "a football coach",
+      "definitions_ex_vn": "một huấn luyện viên bóng đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel by coach.",
+      "definitions_ex_en": "they coached to Claude's dwelling",
+      "definitions_ex_vn": "Họ huấn luyện đến nhà ở của Claude",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "train or instruct (a team or player).",
+      "definitions_ex_en": "he has coached the Edmeston Panthers for six years",
+      "definitions_ex_vn": "Ông đã huấn luyện Edmeston Panthers trong sáu năm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372542_32b9e40f6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372542_ff91ecb6f3_o.png",
+      "id_image": "coach_2357252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064500_282a9c738d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064500_817bc889ce_o.png",
+      "id_image": "coach_2374019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327766_a808aefe61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327766_62ccbde505_o.png",
+      "id_image": "coach_2396156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372402_d29720f2b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372402_af1914b695_o.png",
+      "id_image": "coach_6031985"
+    }
+  ]
+}

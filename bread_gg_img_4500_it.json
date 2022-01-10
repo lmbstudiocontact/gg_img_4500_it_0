@@ -1,0 +1,59 @@
+{
+  "english": "bread",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh mì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sống đạm bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bánh mì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "food made of flour, water, and yeast or another leavening agent, mixed together and baked.",
+      "definitions_ex_en": "a loaf of bread",
+      "definitions_ex_vn": "một ổ bánh mì",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "money.",
+      "definitions_ex_en": "I hate doing this, but I need the bread",
+      "definitions_ex_vn": "Tôi ghét làm điều này, nhưng tôi cần bánh mì",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "coat (food) in breadcrumbs before cooking.",
+      "definitions_ex_en": "bread the chicken and fry it in oil",
+      "definitions_ex_vn": "bánh mì gà và chiên nó trong dầu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317771_621b339d50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317771_1ddcedca63_o.png",
+      "id_image": "bread_1118015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054270_d121ebaf24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054270_bc29ed1c91_o.png",
+      "id_image": "bread_1191587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317821_b18face8ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317821_d90c3ab6ed_o.png",
+      "id_image": "bread_129121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432953_3b6075e2c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432953_000cb8b384_o.png",
+      "id_image": "bread_527774"
+    }
+  ]
+}

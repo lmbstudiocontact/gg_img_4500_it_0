@@ -1,0 +1,61 @@
+{
+  "english": "bath",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bồn tắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà tắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng tắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tắm rữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng tắm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act or process of immersing and washing one's body in a large container of water.",
+      "definitions_ex_en": "she took a long, hot bath",
+      "definitions_ex_vn": "Cô tắm dài, tắm nắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ancient Hebrew liquid measure equivalent to about 40 liters or 9 gallons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050275_5b6cc9e1c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050275_01efe69cbc_o.png",
+      "id_image": "bath_326302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357812_5a15c14bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357812_799a005380_o.png",
+      "id_image": "bath_417449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357767_5788a9871a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357767_4d5e7b7ed0_o.png",
+      "id_image": "bath_645038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050215_5c62aa475f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050215_be0b5ab3d0_o.png",
+      "id_image": "bath_769640"
+    }
+  ]
+}

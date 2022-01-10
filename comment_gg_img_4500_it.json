@@ -1,0 +1,77 @@
+{
+  "english": "comment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời chỉ trích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chú thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời giải thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời phê bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chú thích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải thích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a verbal or written remark expressing an opinion or reaction.",
+      "definitions_ex_en": "you asked for comments on the new proposals",
+      "definitions_ex_vn": "Bạn đã hỏi ý kiến về các đề xuất mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of text placed within a program to help other users to understand it, which the computer ignores when running the program.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "express (an opinion or reaction).",
+      "definitions_ex_en": "the company would not comment on the venture",
+      "definitions_ex_vn": "Công ty sẽ không bình luận về liên doanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place a piece of specially tagged explanatory text within (a program) to assist other users.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319391_2d11ae0ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319391_da8ec973c9_o.png",
+      "id_image": "comment_2482337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319321_f32dc775dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319321_57e5b0fb04_o.png",
+      "id_image": "comment_5638465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319261_bd61f4db8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319261_abb8e7dd50_o.png",
+      "id_image": "comment_5853658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674339_9df644214d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674339_a370415241_o.png",
+      "id_image": "comment_655236"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "english": "brew",
+  "list_translation_mean": [
+    {
+      "translate_mean": "số rượu đựng trong thùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cất rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đặt bia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự pha nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cất rượu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "pha rượu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trù liệu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (beer) by soaking, boiling, and fermentation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (tea or coffee) by mixing it with hot water.",
+      "definitions_ex_en": "I've just brewed some coffee",
+      "definitions_ex_vn": "Tôi vừa mới uống một ít cà phê",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an unwelcome event or situation) begin to develop.",
+      "definitions_ex_en": "there was more trouble brewing as the airline pilots went on strike",
+      "definitions_ex_vn": "Có nhiều vấn đề về việc sản xuất bia như các phi công hàng không đã đình công",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a kind of beer.",
+      "definitions_ex_en": "nonalcoholic brews",
+      "definitions_ex_vn": "BREWS KHÔNG GIỚI HẠN",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cup or mug of tea or coffee.",
+      "definitions_ex_en": "she took a sip of the hot reviving brew",
+      "definitions_ex_vn": "Cô ấy đã uống một ngụm bia hồi sinh nóng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mixture of events, people, or things which interact to form a more potent whole.",
+      "definitions_ex_en": "a dangerous brew of political turmoil and violent conflict",
+      "definitions_ex_vn": "một loại bia nguy hiểm của sự hỗn loạn chính trị và xung đột bạo lực",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053360_b3ae1136c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053360_5c8668edc0_o.png",
+      "id_image": "brew_1687023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316936_b87a839d40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316936_db73b287ff_o.png",
+      "id_image": "brew_2597453"
+    }
+  ]
+}

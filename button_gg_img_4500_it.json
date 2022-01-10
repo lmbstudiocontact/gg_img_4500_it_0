@@ -1,0 +1,69 @@
+{
+  "english": "button",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nụ hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nút áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nút bấm chuông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small disk or knob sewn on to a garment, either to fasten it by being pushed through a slit made for the purpose or for decoration.",
+      "definitions_ex_en": "a blouse with five buttons in front",
+      "definitions_ex_vn": "một chiếc áo có năm nút ở phía trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a knob on a piece of electrical or electronic equipment that is pressed to operate it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten (clothing) with buttons.",
+      "definitions_ex_en": "I buttoned my shirt and knotted my tie",
+      "definitions_ex_vn": "Tôi đưa áo của tôi và thắt nút cà vạt của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stop talking.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307706_ece18a6634_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307706_f1cd9cf305_o.png",
+      "id_image": "button_1021330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662944_0551225f89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662944_ab407afb7d_o.png",
+      "id_image": "button_3179531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307751_01988b26af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307751_2d59125cea_o.png",
+      "id_image": "button_528081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351862_2367d37849_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351862_10da45bc9b_o.png",
+      "id_image": "button_917236"
+    }
+  ]
+}

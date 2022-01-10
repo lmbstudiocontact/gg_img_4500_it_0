@@ -1,0 +1,48 @@
+{
+  "english": "bachelor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cử nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỵ sĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chưa vợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tốt nghiệp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man who is not and has never been married.",
+      "definitions_ex_en": "one of the country's most eligible bachelors",
+      "definitions_ex_vn": "một trong những cử nhân đủ điều kiện nhất của đất nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who holds an undergraduate degree from a university or college (only in titles or set expressions).",
+      "definitions_ex_en": "a Bachelor of Arts",
+      "definitions_ex_vn": "một Cử nhân nghệ thuật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a young knight serving under another's banner.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367862_22a9bf39da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367862_fdd171bcf9_o.png",
+      "id_image": "bachelor_5352114"
+    }
+  ]
+}

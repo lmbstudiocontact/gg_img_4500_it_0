@@ -1,0 +1,44 @@
+{
+  "english": "crater",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ đất trủng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỏm xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng núi lửa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large, bowl-shaped cavity in the ground or on the surface of a planet or the moon, typically one caused by an explosion or the impact of a meteorite or other celestial body.",
+      "definitions_ex_en": "the blast left a crater in the car park",
+      "definitions_ex_vn": "vụ nổ rời một miệng núi lửa trong bãi đậu xe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large bowl used in ancient Greece for mixing wine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form a crater in (the ground or a planet).",
+      "definitions_ex_en": "he has the offensive power to crater the enemy's runways",
+      "definitions_ex_vn": "Anh ta có sức mạnh tấn công để miệng núi lửa đường băng của kẻ thù",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678464_fabac390d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678464_bfee9a16fd_o.png",
+      "id_image": "crater_1703655"
+    }
+  ]
+}

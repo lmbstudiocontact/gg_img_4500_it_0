@@ -1,0 +1,67 @@
+{
+  "english": "child",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con cái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con cháu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đứa bé",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đứa trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hài nhi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người còn trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhi đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trẻ em",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a young human being below the age of puberty or below the legal age of majority.",
+      "definitions_ex_en": "she'd been playing tennis since she was a child",
+      "definitions_ex_vn": "cô ấy đã chơi tennis từ khi còn nhỏ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424833_7d51b98afd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424833_bf03026c48_o.png",
+      "id_image": "child_3014379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424788_65db19bca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424788_10e15893f3_o.png",
+      "id_image": "child_3564520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353877_9284448931_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353877_3a0b8738c2_o.png",
+      "id_image": "child_4110366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046635_833d67f550_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046635_5771fb8266_o.png",
+      "id_image": "child_5234006"
+    }
+  ]
+}

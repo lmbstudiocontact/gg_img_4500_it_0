@@ -1,0 +1,67 @@
+{
+  "english": "calendar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ghi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biên vào sổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp thứ tự văn kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chương trình của quốc hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh sách tù nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "niên giám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sổ hàng năm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyển lịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a chart or series of pages showing the days, weeks, and months of a particular year, or giving particular seasonal information.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "enter (something) in a calendar or timetable.",
+      "definitions_ex_en": "it was at their discretion whether to index or calendar the records",
+      "definitions_ex_vn": "Đó là theo ý của họ nếu lập chỉ mục hoặc lịch hồ sơ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042775_4063b04597_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042775_5c8b00b24e_o.png",
+      "id_image": "calendar_124770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350042_84ae7fe393_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350042_71057e868a_o.png",
+      "id_image": "calendar_183292"
+    }
+  ]
+}

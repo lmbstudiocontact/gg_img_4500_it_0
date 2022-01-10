@@ -1,0 +1,76 @@
+{
+  "english": "choice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quyền lựa chọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự tuyển lựa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chọn lọc kỷ càng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "được chọn lựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lựa chọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ưa thích",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of selecting or making a decision when faced with two or more possibilities.",
+      "definitions_ex_en": "the choice between good and evil",
+      "definitions_ex_vn": "sự lựa chọn giữa thiện và ác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially of food) of very good quality.",
+      "definitions_ex_en": "he picked some choice early plums",
+      "definitions_ex_vn": "anh ấy chọn một số mận sớm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of words, phrases, or language) rude and abusive.",
+      "definitions_ex_en": "he had a few choice words at his command",
+      "definitions_ex_vn": "anh ấy đã có một vài từ lựa chọn theo lệnh của mình",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663664_c114ae59dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663664_11042ef5a1_o.png",
+      "id_image": "choices_5778306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045360_ca5f70881d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045360_8b8cb7fc75_o.png",
+      "id_image": "choices_5998622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352612_0b8d2f56f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352612_253db864a2_o.png",
+      "id_image": "choice_1356586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423668_d67ce7c5ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423668_7a00c1c146_o.png",
+      "id_image": "choice_3899178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423703_252bebab1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423703_af3cc00e51_o.png",
+      "id_image": "choice_751782"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "cheap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hà tiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ít",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không đắt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhục nhả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô giá trị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấu hổ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an item for sale) low in price; worth more than its cost.",
+      "definitions_ex_en": "they bought some cheap fruit",
+      "definitions_ex_vn": "Họ đã mua một số trái cây giá rẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "at or for a low price.",
+      "definitions_ex_en": "a house that was going cheap",
+      "definitions_ex_vn": "một ngôi nhà đã đi giá rẻ",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667494_c0da67d740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667494_72a3d46bc9_o.png",
+      "id_image": "cheap_1259997"
+    }
+  ]
+}

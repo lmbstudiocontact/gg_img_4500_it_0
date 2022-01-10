@@ -1,0 +1,73 @@
+{
+  "english": "consolidate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bền vửng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "củng cố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "củng cố địa vị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "củng cố một vị trí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hợp nhứt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiên cố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho vửng chắc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (something) physically stronger or more solid.",
+      "definitions_ex_en": "the first phase of the project is to consolidate the outside walls",
+      "definitions_ex_vn": "giai đoạn đầu tiên của dự án là hợp nhất các bức tường bên ngoài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "combine (a number of things) into a single more effective or coherent whole.",
+      "definitions_ex_en": "all manufacturing activities have been consolidated in new premises",
+      "definitions_ex_vn": "Tất cả các hoạt động sản xuất đã được hợp nhất trong cơ sở mới",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046540_2a53767f2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046540_be818ec320_o.png",
+      "id_image": "consolidate_5182001"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046475_d06bc1f2d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046475_5f4b096cf7_o.png",
+      "id_image": "consolidate_5331512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664839_fbc62719a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664839_69ebf21f37_o.png",
+      "id_image": "consolidate_5396973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353637_81e833fc18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353637_b4e7271357_o.png",
+      "id_image": "consolidate_5680034"
+    }
+  ]
+}

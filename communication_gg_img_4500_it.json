@@ -1,0 +1,75 @@
+{
+  "english": "communication",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thông tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điện thoại nối liền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xe lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liên lạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin tức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trao đổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the imparting or exchanging of information or news.",
+      "definitions_ex_en": "at the moment I am in communication with London",
+      "definitions_ex_vn": "Hiện tại tôi đang liên lạc với London",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "means of sending or receiving information, such as phone lines or computers.",
+      "definitions_ex_en": "satellite communications",
+      "definitions_ex_vn": "Truyền thông vệ tinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the means of traveling or of transporting goods, such as roads or railroads.",
+      "definitions_ex_en": "a city providing excellent road and rail communications",
+      "definitions_ex_vn": "Một thành phố cung cấp thông tin liên lạc đường và đường sắt tuyệt vời",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054690_5884254a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054690_2421c6e883_o.png",
+      "id_image": "communication_2191227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673054_2121a26b4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673054_471da900c2_o.png",
+      "id_image": "communication_296914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054760_c8aee87acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054760_bb68994611_o.png",
+      "id_image": "communication_332965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362667_f9218e1d4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362667_7f919e34c1_o.png",
+      "id_image": "communication_417749"
+    }
+  ]
+}

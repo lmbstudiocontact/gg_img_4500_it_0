@@ -1,0 +1,62 @@
+{
+  "english": "defence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảo vệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chống cự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng thủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng vệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự che chở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of defending from or resisting attack.",
+      "definitions_ex_en": "she came to the defense of the eccentric professor",
+      "definitions_ex_vn": "Cô đến phòng thủ giáo sư lập dị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the case presented by or on behalf of the party being accused or sued in a lawsuit.",
+      "definitions_ex_en": "the farmer's defense was that he intended only to wound the thief",
+      "definitions_ex_vn": "Quốc phòng của nông dân là anh ta chỉ định làm vết thương kẻ trộm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in sports) the action or role of defending one's goal against the opposition.",
+      "definitions_ex_en": "we played solid defense",
+      "definitions_ex_vn": "Chúng tôi đã chơi phòng thủ rắn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421163_5a1a622ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421163_126fb2fc98_o.png",
+      "id_image": "defence_2534481"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421138_d2348be004_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421138_7dd4a2e374_o.png",
+      "id_image": "defence_2742145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661429_8e0f81d443_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661429_21d8a8c222_o.png",
+      "id_image": "defence_4965937"
+    }
+  ]
+}

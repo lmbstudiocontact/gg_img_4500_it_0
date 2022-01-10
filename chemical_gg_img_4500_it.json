@@ -1,0 +1,54 @@
+{
+  "english": "chemical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về hoá học",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoá phẩm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to chemistry, or the interactions of substances as studied in chemistry.",
+      "definitions_ex_en": "the chemical composition of the atmosphere",
+      "definitions_ex_vn": "thành phần hóa học của khí quyển",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a compound or substance that has been purified or prepared, especially artificially.",
+      "definitions_ex_en": "never mix disinfectant with other chemicals",
+      "definitions_ex_vn": "Không bao giờ trộn chất khử trùng với các hóa chất khác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311221_b028e004a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311221_36c0347513_o.png",
+      "id_image": "chemicals_1486187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311171_46edb995b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311171_82305289e7_o.png",
+      "id_image": "chemicals_1631455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426203_d8a1e2a227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426203_d2fb6fb108_o.png",
+      "id_image": "chemical_1420272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048000_e6b83fede2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048000_acf43450ef_o.png",
+      "id_image": "chemical_416192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047975_352ec4f41e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047975_e727a60014_o.png",
+      "id_image": "chemical_752552"
+    }
+  ]
+}

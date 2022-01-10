@@ -1,0 +1,59 @@
+{
+  "english": "booth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rạp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small temporary tent or structure at a market, fair, or exhibition, used for selling goods, providing information, or staging shows.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an enclosure or compartment that allows privacy or seclusion, for example when voting, broadcasting or recording sound, or making a phone call.",
+      "definitions_ex_en": "he installed a soundproof booth for private phone calls",
+      "definitions_ex_vn": "Ông đã cài đặt một gian hàng cách âm cho các cuộc gọi điện thoại riêng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type of seating, typically in a restaurant or bar, consisting of two high-backed benches with a table between them.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677864_219dcf3f52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677864_f27afe9579_o.png",
+      "id_image": "booth_2066953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322651_e6fea6ac31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322651_05606462e0_o.png",
+      "id_image": "booth_4133226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367592_26424a1521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367592_d6b8306c4c_o.png",
+      "id_image": "booth_4213348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677754_1e682b6b65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677754_d29d29d1f8_o.png",
+      "id_image": "booth_5593675"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "cosmopolitan",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khắp thế giới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khắp vũ trụ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "including or containing people from many different countries.",
+      "definitions_ex_en": "immigration transformed the city into a cosmopolitan metropolis",
+      "definitions_ex_vn": "Nhập cư biến thành phố thành một đô thị quốc tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a plant or animal) found all over the world.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a cosmopolitan person.",
+      "definitions_ex_en": "cosmopolitans who spoke both Spanish and English",
+      "definitions_ex_vn": "Cosmopolitans đã nói cả tiếng Tây Ban Nha và tiếng Anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a plant or animal found all over the world.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cocktail typically made with vodka, Cointreau, cranberry juice, and lime juice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684574_3fb9c3c4ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684574_9fe121d0f9_o.png",
+      "id_image": "cosmopolitan_3500308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329571_74d208248c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329571_af99e53073_o.png",
+      "id_image": "cosmopolitan_5295948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684509_0c24e5061b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684509_5516c36e49_o.png",
+      "id_image": "cosmopolitan_6408823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374302_f5360f41af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374302_95a687594b_o.png",
+      "id_image": "cosmopolitan_920600"
+    }
+  ]
+}

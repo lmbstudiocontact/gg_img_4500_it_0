@@ -1,0 +1,98 @@
+{
+  "english": "dawn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buổi đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc tinh sương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mới đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rạng đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tảng sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trời gần sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mới rạng đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ló ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát hiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trổ ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the first appearance of light in the sky before sunrise.",
+      "definitions_ex_en": "the rose-pink light of dawn",
+      "definitions_ex_vn": "ánh sáng hồng hồng của bình minh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the beginning of a phenomenon or period of time, especially one considered favorable.",
+      "definitions_ex_en": "the dawn of civilization",
+      "definitions_ex_vn": "Bình minh của nền văn minh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a day) begin.",
+      "definitions_ex_en": "Thursday dawned bright and sunny",
+      "definitions_ex_vn": "Thứ năm bình minh tươi sáng và nắng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become evident to the mind; be perceived or understood.",
+      "definitions_ex_en": "the awful truth was beginning to dawn on him",
+      "definitions_ex_vn": "Sự thật khủng khiếp đã bắt đầu bình minh trên anh ta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424368_9174c064d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424368_e771a05522_o.png",
+      "id_image": "dawn_1146828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353402_b68760bf15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353402_607803e97f_o.png",
+      "id_image": "dawn_1207568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353342_2e6bdacf48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353342_52338ab3b1_o.png",
+      "id_image": "dawn_2071649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046140_fac6bd63c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046140_6c16c7e9dd_o.png",
+      "id_image": "dawn_3104466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046205_8aceace750_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046205_53dd86abd9_o.png",
+      "id_image": "dawn_721073"
+    }
+  ]
+}

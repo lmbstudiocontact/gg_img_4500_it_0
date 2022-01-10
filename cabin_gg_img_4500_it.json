@@ -1,0 +1,91 @@
+{
+  "english": "cabin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồng hành khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buồng sĩ quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ngồi riêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà lụp xụp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng ăn dưới tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng ngủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buồng tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chòi của ghe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chổ phi công ngồi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a private room or compartment on a ship.",
+      "definitions_ex_en": "she lay in her cabin on a steamer",
+      "definitions_ex_vn": "Cô nằm trong cabin của mình trên một nồi hấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small shelter or house, made of wood and situated in a wild or remote area.",
+      "definitions_ex_en": "the cabin lay three miles into the reserve",
+      "definitions_ex_vn": "cabin lay ba dặm vào khu bảo tồn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "confine within narrow bounds.",
+      "definitions_ex_en": "once loosed, the idea of equality is not easily cabined",
+      "definitions_ex_vn": "một lần bị mất, ý tưởng về sự bình đẳng không dễ dàng kiểm soát được",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422238_557562634c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422238_327ebc2dc0_o.png",
+      "id_image": "cabin_1348663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044095_b68afcb8f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044095_332a1567cf_o.png",
+      "id_image": "cabin_3762888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307026_e3d723bcfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307026_944fe540b3_o.png",
+      "id_image": "cabin_3827704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662414_8194eb3693_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662414_125123a695_o.png",
+      "id_image": "cabin_613855"
+    }
+  ]
+}

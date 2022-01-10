@@ -1,0 +1,52 @@
+{
+  "english": "burner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đèn đốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỏ đèn hàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ đốt lò gạch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that burns.",
+      "definitions_ex_en": "uphill walking is a great calorie-burner",
+      "definitions_ex_vn": "Uphill Walking là một lượng calo lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device for producing a CD or DVD by copying from an original or master copy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496908_55c8d832d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496908_887f9b9f3b_o.png",
+      "id_image": "burner_310090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309101_1a5fd63174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309101_0213b249ea_o.png",
+      "id_image": "burner_353610"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664384_14b21eeb2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664384_a5a3924f6f_o.png",
+      "id_image": "burner_3716571"
+    }
+  ]
+}

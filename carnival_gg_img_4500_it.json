@@ -1,0 +1,38 @@
+{
+  "english": "carnival",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc hội hè",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày vui trước tuần trai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a period of public revelry at a regular time each year, typically during the week before Lent in Roman Catholic countries, involving processions, music, dancing, and the use of masquerade.",
+      "definitions_ex_en": "the culmination of the week-long carnival",
+      "definitions_ex_vn": "đỉnh cao của lễ hội dài trong tuần",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369742_ecc6378c73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369742_aeba71fde4_o.png",
+      "id_image": "carnival_4090075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061775_c44d66b6c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061775_b6760142bd_o.png",
+      "id_image": "carnival_4515095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369667_552db8c735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369667_ed6d62bf2c_o.png",
+      "id_image": "carnival_5238344"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "correspondence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đối xứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao thiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tương đối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tương hợp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a close similarity, connection, or equivalence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "communication by exchanging letters with someone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330511_9207633f8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330511_c889f453ff_o.png",
+      "id_image": "correspondence_3387814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445488_42465551aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445488_7067ee0378_o.png",
+      "id_image": "correspondence_5709150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445433_bb7a924a72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445433_564d10ebb3_o.png",
+      "id_image": "correspondence_5907474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067265_9fccc9205b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067265_6bc138be6d_o.png",
+      "id_image": "correspondence_5907962"
+    }
+  ]
+}

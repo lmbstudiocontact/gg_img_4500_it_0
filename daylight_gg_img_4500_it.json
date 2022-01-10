@@ -1,0 +1,47 @@
+{
+  "english": "daylight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ánh sáng ban ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giữa ban ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thanh thiên bạch nhật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the natural light of the day.",
+      "definitions_ex_en": "there were two hours of daylight left",
+      "definitions_ex_vn": "Có hai giờ ánh sáng ban ngày bên trái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045990_2a4f06017f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045990_06ca45c76f_o.png",
+      "id_image": "daylight_2130685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308991_d1a06912ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308991_f63f201b9d_o.png",
+      "id_image": "daylight_2358493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353167_cd7cf58af2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353167_02c7351819_o.png",
+      "id_image": "daylight_4661013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045915_51ec26488f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045915_c2190c7f3e_o.png",
+      "id_image": "daylight_6316156"
+    }
+  ]
+}

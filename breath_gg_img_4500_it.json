@@ -1,0 +1,52 @@
+{
+  "english": "breath",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơi gió",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi thở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the air taken into or expelled from the lungs.",
+      "definitions_ex_en": "I was gasping for breath",
+      "definitions_ex_vn": "Tôi thở hổn hển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053540_b73ece527c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053540_ab84c10477_o.png",
+      "id_image": "breathing_2877810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432168_2a7e9342bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432168_114812f698_o.png",
+      "id_image": "breathing_3890925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671779_edcf2aea41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671779_614614302c_o.png",
+      "id_image": "breathing_4694655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361497_76a3bbfe43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361497_e8d19d0561_o.png",
+      "id_image": "breath_2451263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317171_d15bc195eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317171_706bd3a7b2_o.png",
+      "id_image": "breath_2688252"
+    }
+  ]
+}

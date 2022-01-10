@@ -1,0 +1,30 @@
+{
+  "english": "chairman",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người khiêng kiệu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person, especially a man, designated to preside over a meeting.",
+      "definitions_ex_en": "the chairman of the conference",
+      "definitions_ex_vn": "Chủ tịch hội nghị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of the two people carrying a sedan chair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315371_f14ef3b99d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315371_e2cf15f1a8_o.png",
+      "id_image": "chairman_2361599"
+    }
+  ]
+}

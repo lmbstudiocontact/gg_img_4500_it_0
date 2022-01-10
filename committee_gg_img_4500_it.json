@@ -1,0 +1,43 @@
+{
+  "english": "committee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ủy ban",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ủy ban chấp hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ủy ban thường trực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of people appointed for a specific function, typically consisting of members of a larger group.",
+      "definitions_ex_en": "the housing committee",
+      "definitions_ex_vn": "Ban nhà ở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person entrusted with the charge of another person or another person's property.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318496_a652f8a108_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318496_9fdd2353e6_o.png",
+      "id_image": "committee_1505375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318481_a1bf07567b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318481_f2cb608e96_o.png",
+      "id_image": "committee_3967510"
+    }
+  ]
+}

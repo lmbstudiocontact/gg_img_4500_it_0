@@ -1,0 +1,48 @@
+{
+  "english": "battle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc chiến đấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tranh đấu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sustained fight between large organized armed forces.",
+      "definitions_ex_en": "the Battle of Shiloh",
+      "definitions_ex_vn": "Trận chiến Shiloh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fight or struggle tenaciously to achieve or resist something.",
+      "definitions_ex_en": "he has been battling against the illness",
+      "definitions_ex_vn": "anh ấy đã chiến đấu chống lại căn bệnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667539_d880c35a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667539_5e70b4e98d_o.png",
+      "id_image": "battle_1469810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667499_57d65a74fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667499_9414c2c60c_o.png",
+      "id_image": "battle_2507971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356672_32e550dafe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356672_5928d6d85c_o.png",
+      "id_image": "battle_2671422"
+    }
+  ]
+}

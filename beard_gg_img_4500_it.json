@@ -1,0 +1,49 @@
+{
+  "english": "beard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "râu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khinh khi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a growth of hair on the chin and lower cheeks of a man's face.",
+      "definitions_ex_en": "he had a black beard",
+      "definitions_ex_vn": "Anh ta có một bộ râu đen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "boldly confront or challenge (someone formidable).",
+      "definitions_ex_en": "he was afraid to beard the sultan himself",
+      "definitions_ex_vn": "anh ta sợ phải tự mình ra mồ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426393_463c41944f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426393_45b0287f0c_o.png",
+      "id_image": "beard_2681522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311421_1f8549b98b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311421_854a668b96_o.png",
+      "id_image": "beard_2681607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355572_579dd5e574_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355572_3e595b9893_o.png",
+      "id_image": "beard_4615594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048070_dd7a2ca4ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048070_897aef4473_o.png",
+      "id_image": "beard_4713726"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "barter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giao hoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi chác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổi chác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "exchange (goods or services) for other goods or services without using money.",
+      "definitions_ex_en": "he often bartered a meal for drawings",
+      "definitions_ex_vn": "Anh ta thường trao đổi một bữa ăn cho bản vẽ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action or system of exchanging goods or services without using money.",
+      "definitions_ex_en": "it will be paid for by a mixture of barter and cash",
+      "definitions_ex_vn": "Nó sẽ được thanh toán bởi một hỗn hợp trao đổi và tiền mặt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358837_02fac02305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358837_cb7f7c7ed5_o.png",
+      "id_image": "barter_4313138"
+    }
+  ]
+}

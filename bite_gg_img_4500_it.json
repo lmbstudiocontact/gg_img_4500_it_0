@@ -1,0 +1,89 @@
+{
+  "english": "bite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối đớp mồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn mòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cắn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or animal) use the teeth to cut into or through something.",
+      "definitions_ex_en": "he bit off a piece of cheese",
+      "definitions_ex_vn": "Anh ta cắn một miếng phô mai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a fish) take the bait or lure on the end of a fishing line into the mouth.",
+      "definitions_ex_en": "I marvel at how easily and eagerly a chub will bite",
+      "definitions_ex_vn": "Tôi ngạc nhiên về cách dễ dàng và háo hức một chub sẽ cắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make firm contact with a surface.",
+      "definitions_ex_en": "the brake pads don't bite until they're warmed up",
+      "definitions_ex_vn": "Các má phanh không cắn cho đến khi chúng ấm lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a policy or situation) take effect, with unpleasant consequences.",
+      "definitions_ex_en": "the cuts in art education were starting to bite",
+      "definitions_ex_vn": "những vết cắt trong giáo dục nghệ thuật đã bắt đầu cắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of biting something in order to eat it.",
+      "definitions_ex_en": "Stephen ate a hot dog in three big bites",
+      "definitions_ex_vn": "Stephen ăn một con chó nóng trong ba vết cắn lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece cut off by biting.",
+      "definitions_ex_en": "Robyn took a large bite out of her sandwich",
+      "definitions_ex_vn": "Robyn cắn một miếng lớn ra khỏi bánh sandwich của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sharp or pungent flavor.",
+      "definitions_ex_en": "a fresh, lemony bite",
+      "definitions_ex_vn": "một vết cắn tươi, bite",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303181_316b655442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303181_5961d1be60_o.png",
+      "id_image": "bite_1488843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347397_1ec991db3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347397_f44cd216d0_o.png",
+      "id_image": "bite_6401194"
+    }
+  ]
+}

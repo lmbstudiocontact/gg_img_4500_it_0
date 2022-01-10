@@ -1,0 +1,52 @@
+{
+  "english": "democracy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chánh thể dân chủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế độ dân chủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đảng dân chủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a system of government by the whole population or all the eligible members of a state, typically through elected representatives.",
+      "definitions_ex_en": "capitalism and democracy are ascendant in the third world",
+      "definitions_ex_vn": "Chủ nghĩa tư bản và dân chủ là thế giới thứ ba",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070880_3056a76a27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070880_e507907058_o.png",
+      "id_image": "democracy_2529647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688904_d86d0dfb60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688904_c67042c92f_o.png",
+      "id_image": "democracy_3205462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070780_0e87eb2b41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070780_397016a84e_o.png",
+      "id_image": "democracy_5389887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378672_b0db7f4e71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378672_17b280f9c9_o.png",
+      "id_image": "democracy_5389925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070655_ba6c997c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070655_c867b71ce1_o.png",
+      "id_image": "democracy_5392380"
+    }
+  ]
+}

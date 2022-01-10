@@ -1,0 +1,62 @@
+{
+  "english": "compress",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phô bày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súc tích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đè ép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vải băng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "flatten by pressure; squeeze or press.",
+      "definitions_ex_en": "the skirt can be folded and compressed into a small bag",
+      "definitions_ex_vn": "Váy có thể được gấp lại và nén thành một túi nhỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a pad of absorbent material pressed onto part of the body to relieve inflammation or stop bleeding.",
+      "definitions_ex_en": "a cold compress",
+      "definitions_ex_vn": "một nén lạnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314871_b11738fc02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314871_401fcd8739_o.png",
+      "id_image": "compress_1250196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669489_a3c611d91d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669489_56d1d519c3_o.png",
+      "id_image": "compress_1653101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358992_edec8ea3cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358992_5214546b2e_o.png",
+      "id_image": "compress_286532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358907_500b572dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358907_37ce52dc68_o.png",
+      "id_image": "compress_3690072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429663_f01277e6d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429663_dc061b2cac_o.png",
+      "id_image": "compress_4427886"
+    }
+  ]
+}

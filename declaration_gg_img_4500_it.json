@@ -1,0 +1,55 @@
+{
+  "english": "declaration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuyên ngôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời tuyên bố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tuyên chiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ khai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyên cáo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal or explicit statement or announcement.",
+      "definitions_ex_en": "they issued a declaration at the close of the talks",
+      "definitions_ex_vn": "họ đã đưa ra một tuyên bố tại sự kết thúc của các cuộc đàm phán",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351457_643f52faee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351457_ec81f74119_o.png",
+      "id_image": "declaration_2463834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044280_d37d684c83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044280_98c6604fb9_o.png",
+      "id_image": "declaration_2688839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307311_f833680a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307311_7c3b2dcfdf_o.png",
+      "id_image": "declaration_3530058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307286_a741fe1185_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307286_477db535d6_o.png",
+      "id_image": "declaration_3842673"
+    }
+  ]
+}

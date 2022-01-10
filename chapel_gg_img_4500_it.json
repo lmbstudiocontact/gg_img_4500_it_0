@@ -1,0 +1,40 @@
+{
+  "english": "chapel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhà in",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà thờ nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng cầu nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiểu giáo đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ nhà in",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small building for Christian worship, typically one attached to an institution or private house.",
+      "definitions_ex_en": "a service in the chapel",
+      "definitions_ex_vn": "một dịch vụ trong nhà nguyện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050625_54426626a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050625_ccfa20bdb6_o.png",
+      "id_image": "chapel_6000724"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "comparison",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự so sánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a consideration or estimate of the similarities or dissimilarities between two things or people.",
+      "definitions_ex_en": "they drew a comparison between Gandhi's teaching and that of other teachers",
+      "definitions_ex_vn": "họ đã vẽ một so sánh giữa việc giảng dạy của Gandhi và của các giáo viên khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the formation of the comparative and superlative forms of adjectives and adverbs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671964_3e928468ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671964_ff59ed2473_o.png",
+      "id_image": "comparison_2137465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317241_cc5930633e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317241_294ffef784_o.png",
+      "id_image": "comparison_2358354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361582_8f67880e03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361582_324f66f265_o.png",
+      "id_image": "comparison_921931"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "bumper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái cản xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chật ních",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm chắn trước xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái đầy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a horizontal bar fixed across the front or back of a motor vehicle to reduce damage in a collision or as a trim.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a generous glassful of an alcoholic drink, typically one drunk as a toast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "exceptionally large, fine, or successful.",
+      "definitions_ex_en": "a bumper crop",
+      "definitions_ex_vn": "một vụ mùa bội thu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666004_0916af3df1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666004_d17a174513_o.png",
+      "id_image": "bumper_1514207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310841_b1e8ecfa18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310841_812ab70655_o.png",
+      "id_image": "bumper_2597874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310801_1013a94914_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310801_ae1a882547_o.png",
+      "id_image": "bumper_4805794"
+    }
+  ]
+}

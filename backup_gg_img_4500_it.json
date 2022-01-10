@@ -1,0 +1,45 @@
+{
+  "english": "backup",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phụ thuộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "help or support.",
+      "definitions_ex_en": "no police backup could be expected",
+      "definitions_ex_vn": "Không có dự phòng cảnh sát có thể được dự kiến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an extra copy of data from a computer.",
+      "definitions_ex_en": "make a backup of any important files",
+      "definitions_ex_vn": "Tạo bản sao lưu của bất kỳ tệp quan trọng nào",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436888_d1baa980f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436888_107b81b528_o.png",
+      "id_image": "backup_2709664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058520_b6db18cdd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058520_b48688f0e6_o.png",
+      "id_image": "backup_356486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058470_669cf63b51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058470_4503560aef_o.png",
+      "id_image": "backup_5139985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436843_bf04fb564b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436843_9266ab9f62_o.png",
+      "id_image": "backup_5827589"
+    }
+  ]
+}

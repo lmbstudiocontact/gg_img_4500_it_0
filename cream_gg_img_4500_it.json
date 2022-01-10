@@ -1,0 +1,96 @@
+{
+  "english": "cream",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kem",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cà rem",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần đặc sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáp đánh giày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ mở sữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bôi kem lên mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho thêm kem vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh cà rem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gạn lấy kem ở sữa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the thick white or pale yellow fatty liquid which rises to the top when milk is left to stand and which can be eaten as an accompaniment to desserts or used as a cooking ingredient.",
+      "definitions_ex_en": "strawberries and cream",
+      "definitions_ex_vn": "dâu tây và kem",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thick liquid or semisolid cosmetic or medical preparation applied to the skin.",
+      "definitions_ex_en": "shaving cream",
+      "definitions_ex_vn": "kem cạo râu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the very best of a group of people or things.",
+      "definitions_ex_en": "the paper's readership is the cream of American society",
+      "definitions_ex_vn": "Độc giả của tờ giấy là kem của xã hội Mỹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very pale yellow or off-white color.",
+      "definitions_ex_en": "the dress is available in white or cream",
+      "definitions_ex_vn": "Chiếc váy có sẵn màu trắng hoặc kem",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work (two or more ingredients, typically butter and sugar) together to form a creamy paste.",
+      "definitions_ex_en": "you cream the butter first and then add the egg yolks",
+      "definitions_ex_vn": "bạn bôi kem bơ trước rồi thêm lòng đỏ trứng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rub a cosmetic cream into (the skin).",
+      "definitions_ex_en": "Madge was creaming her face in front of the mirror",
+      "definitions_ex_vn": "Madge đang làm kem mặt trước gương",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677784_8bc64cddbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677784_b9a646bf11_o.png",
+      "id_image": "cream_209723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677734_b419488244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677734_16bf0dc8af_o.png",
+      "id_image": "cream_410420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437848_8cded3fd07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437848_2593ee96d6_o.png",
+      "id_image": "cream_5578304"
+    }
+  ]
+}

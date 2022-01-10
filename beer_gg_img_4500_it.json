@@ -1,0 +1,43 @@
+{
+  "english": "beer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an alcoholic drink made from yeast-fermented malt flavored with hops.",
+      "definitions_ex_en": "a pint of beer",
+      "definitions_ex_vn": "một pint bia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664744_c3ef590f36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664744_7704c898f6_o.png",
+      "id_image": "beer_129114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046300_0f8a1034b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046300_0b60b9b06b_o.png",
+      "id_image": "beer_166899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309316_2abb6438f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309316_9e080b3959_o.png",
+      "id_image": "beer_590753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424448_26998cc7bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424448_45980d773a_o.png",
+      "id_image": "beer_705061"
+    }
+  ]
+}

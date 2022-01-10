@@ -1,0 +1,93 @@
+{
+  "english": "caper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạch hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây ông lảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy dởn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây phong điểu thảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây dùi trống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giểu cợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy cà tưng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy cởn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy nhót",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy thót",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "skip or dance about in a lively or playful way.",
+      "definitions_ex_en": "children were capering about the room",
+      "definitions_ex_vn": "Trẻ em đang trải qua căn phòng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a playful skipping movement.",
+      "definitions_ex_en": "she did a little caper",
+      "definitions_ex_vn": "Cô ấy đã làm một kẻ naper nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an activity or escapade, typically one that is illicit or ridiculous.",
+      "definitions_ex_en": "I'm too old for this kind of caper",
+      "definitions_ex_vn": "Tôi quá già cho loại Caper này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cooked and pickled flower bud of a prickly southern European shrub, used to flavor food.",
+      "definitions_ex_en": "add capers and olives",
+      "definitions_ex_vn": "Thêm Capers và Olives",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the shrub from which capers are taken.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328836_4cb53b61cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328836_eb3993fd33_o.png",
+      "id_image": "capers_6108931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373642_0c3c115e5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373642_572a85ea9e_o.png",
+      "id_image": "caper_1135504"
+    }
+  ]
+}

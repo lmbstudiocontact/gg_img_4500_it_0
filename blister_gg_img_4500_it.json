@@ -1,0 +1,52 @@
+{
+  "english": "blister",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỗ phồng da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mụt ghẻ nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết phồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm phồng lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small bubble on the skin filled with serum and caused by friction, burning, or other damage.",
+      "definitions_ex_en": "his heels were covered in blisters",
+      "definitions_ex_vn": "gót chân của anh ta được bao phủ trong mụn nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form blisters on the skin or other surface.",
+      "definitions_ex_en": "the surface of the door began to blister",
+      "definitions_ex_vn": "Bề mặt của cánh cửa bắt đầu vỉ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066905_6df7b9e724_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066905_6100cdd959_o.png",
+      "id_image": "blister_1732558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066850_1b2242de8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066850_bd02b3c6d8_o.png",
+      "id_image": "blister_4290103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445033_aeeb7325a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445033_ccc6deb4bb_o.png",
+      "id_image": "blister_4646652"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "english": "close",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm điệu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chấm dứt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm xong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phần cuối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điệu hát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phần kết luận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điệu nhạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự bế mạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự ôm vật nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kết liểu",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "kết thúc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "bế mạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bọc kín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ đất rào kín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng kín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khép lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bủn xỉn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liền lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dè dặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần chót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hà tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết sổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân chơi trường học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kín đáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chận đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kín miệng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short distance away or apart in space or time.",
+      "definitions_ex_en": "the hotel is close to the sea",
+      "definitions_ex_vn": "Khách sạn nằm sát biển",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a family member who is part of a person's immediate family, typically a parent or sibling.",
+      "definitions_ex_en": "the family history of cancer in close relatives",
+      "definitions_ex_vn": "Lịch sử gia đình ung thư ở người thân gần gũi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of observation, examination, etc.) done in a careful and thorough way.",
+      "definitions_ex_en": "pay close attention to what your body is telling you about yourself",
+      "definitions_ex_vn": "Hãy chú ý đến những gì cơ thể bạn đang nói với bạn về bản thân bạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "uncomfortably humid or airless.",
+      "definitions_ex_en": "a close, hazy day",
+      "definitions_ex_vn": "một ngày khuất phục, mơ hồ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "another term for high (sense 7 of the adjective).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in a position so as to be very near to someone or something; with very little space between.",
+      "definitions_ex_en": "they stood close to the door",
+      "definitions_ex_vn": "Họ đứng gần cửa",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "move or cause to move so as to cover an opening.",
+      "definitions_ex_en": "she jumped into the train just as the doors were closing",
+      "definitions_ex_vn": "Cô nhảy xuống tàu giống như cánh cửa đang đóng cửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring or come to an end.",
+      "definitions_ex_en": "the members were thanked for attending and the meeting was closed",
+      "definitions_ex_vn": "Các thành viên được cảm ơn đã tham dự và cuộc họp đã bị đóng cửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a business, organization, or institution) cease to be in operation or accessible to the public, either permanently or at the end of a working day or other period of time.",
+      "definitions_ex_en": "the factory is to close with the loss of 150 jobs",
+      "definitions_ex_vn": "Nhà máy sắp kết thúc với khoản lỗ 150 việc làm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "gradually get nearer to someone or something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the end of an event or of a period of time or activity.",
+      "definitions_ex_en": "the afternoon drew to a close",
+      "definitions_ex_vn": "Buổi chiều đã đến gần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the shutting of something, especially a door.",
+      "definitions_ex_en": "the door jerked to a close behind them",
+      "definitions_ex_vn": "cánh cửa bị giật đến phía sau họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374882_85a62c83d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374882_eb09daee45_o.png",
+      "id_image": "closed_2036918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330151_4183edf709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330151_dcd5bd5123_o.png",
+      "id_image": "closed_2112464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685164_9d53a09fbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685164_8bf54698fe_o.png",
+      "id_image": "closed_4383543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067105_c58e0d280c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067105_868c122d35_o.png",
+      "id_image": "close_1588896"
+    }
+  ]
+}

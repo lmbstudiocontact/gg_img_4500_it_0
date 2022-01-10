@@ -1,0 +1,92 @@
+{
+  "english": "brush",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn chải đánh răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây cọ vẽ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổi quét nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đụng chạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia ánh sáng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an implement with a handle, consisting of bristles, hair, or wire set into a block, used for cleaning or scrubbing, applying a liquid or powder to a surface, arranging the hair, or other purposes.",
+      "definitions_ex_en": "a paint brush",
+      "definitions_ex_vn": "một cây cọ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slight and fleeting touch.",
+      "definitions_ex_en": "the lightest brush of his lips against her cheek",
+      "definitions_ex_vn": "bàn chải nhẹ nhất của đôi môi của mình chống lại má cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the bushy tail of a fox.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thin stick set with long wire bristles, used to make a soft hissing sound on drums or cymbals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of carbon or metal serving as an electrical contact with a moving part in a motor or alternator.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "undergrowth, small trees, and shrubs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "remove (dust or dirt) by sweeping or scrubbing.",
+      "definitions_ex_en": "we'll be able to brush the mud off easily",
+      "definitions_ex_vn": "chúng ta sẽ có thể chải bùn dễ dàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "touch something lightly and gently.",
+      "definitions_ex_en": "their fingers brushed as she took the glass from him",
+      "definitions_ex_vn": "Những ngón tay của họ chải khi cô lấy ly từ anh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050560_f0b6780cfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050560_ff9046fa60_o.png",
+      "id_image": "brush_438640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050530_bbb5257324_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050530_37cb7a278b_o.png",
+      "id_image": "brush_563043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050490_c97df1006a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050490_cd758b1684_o.png",
+      "id_image": "brush_807853"
+    }
+  ]
+}

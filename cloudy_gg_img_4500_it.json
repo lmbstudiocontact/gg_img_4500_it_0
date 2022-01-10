@@ -1,0 +1,78 @@
+{
+  "english": "cloudy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm u",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đen đặc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó hiểu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lờ mờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mập mờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều mây",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sầm tối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "u tối",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of the sky or weather) covered with or characterized by clouds; overcast.",
+      "definitions_ex_en": "next morning was cloudy",
+      "definitions_ex_vn": "Sáng hôm sau trời nhiều mây",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a liquid) not transparent or clear.",
+      "definitions_ex_en": "the pond water is slightly cloudy",
+      "definitions_ex_vn": "Nước ao hơi nhiều mây",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328826_0973cdcac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328826_f73f01ec09_o.png",
+      "id_image": "cloudy_1462983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065630_0973cdcac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065630_87053d7144_o.png",
+      "id_image": "cloudy_4968414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683829_a4d61ee82c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683829_fde0e9197f_o.png",
+      "id_image": "cloudy_4968458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373662_bb9b26b42b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373662_f4581fc2e2_o.png",
+      "id_image": "cloudy_762531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328891_0fe76c03ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328891_8c6d7d1ba1_o.png",
+      "id_image": "cloudy_765847"
+    }
+  ]
+}

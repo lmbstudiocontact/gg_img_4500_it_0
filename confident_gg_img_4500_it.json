@@ -1,0 +1,62 @@
+{
+  "english": "confident",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "liều lỉnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quả quyết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tin chắc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling or showing confidence in oneself; self-assured.",
+      "definitions_ex_en": "we require outgoing, confident people able to approach large groups",
+      "definitions_ex_vn": "Chúng tôi yêu cầu những người tự tin, tự tin có thể tiếp cận các nhóm lớn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a confidant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356597_f0286b2249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356597_c3bddf4566_o.png",
+      "id_image": "confidence_2037294"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049135_45b217cd21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049135_03270d7920_o.png",
+      "id_image": "confidence_5225011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049110_c7dc4b4b08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049110_e4dedf62b3_o.png",
+      "id_image": "confidence_5772957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427303_ea6aff8554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427303_df84302989_o.png",
+      "id_image": "confidence_5906152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356507_657e2b4ba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356507_c9988324d0_o.png",
+      "id_image": "confident_6000790"
+    }
+  ]
+}

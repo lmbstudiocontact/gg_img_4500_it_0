@@ -1,0 +1,78 @@
+{
+  "english": "benefit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lợi ích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ơn huệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền cấp dưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền phụ cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền lợi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an advantage or profit gained from something.",
+      "definitions_ex_en": "enjoy the benefits of being a member",
+      "definitions_ex_vn": "Tận hưởng những lợi ích của việc trở thành một thành viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a payment or gift made by an employer, the state, or an insurance company.",
+      "definitions_ex_en": "welfare benefits",
+      "definitions_ex_vn": "Lợi ích phúc lợi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a public performance or other entertainment of which the proceeds go to a particular charitable cause.",
+      "definitions_ex_en": "the social season was highlighted by debutante balls and charity benefits",
+      "definitions_ex_vn": "Mùa xã hội được nhấn mạnh bởi những quả bóng và lợi ích từ thiện Deak",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "receive an advantage; profit.",
+      "definitions_ex_en": "the areas would benefit from regeneration",
+      "definitions_ex_vn": "Các khu vực sẽ được hưởng lợi từ sự tái sinh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044690_96bbe7d81a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044690_ed4571e05d_o.png",
+      "id_image": "benefit_2191239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351797_5209822599_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351797_200a49bd96_o.png",
+      "id_image": "benefit_2419567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044635_a624c226d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044635_8a665b36d0_o.png",
+      "id_image": "benefit_5136089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044615_1345292bcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044615_692d9d502a_o.png",
+      "id_image": "benefit_5455894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662864_00edfe4a8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662864_97bd409a23_o.png",
+      "id_image": "benefit_6303114"
+    }
+  ]
+}

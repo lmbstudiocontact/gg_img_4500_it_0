@@ -1,0 +1,68 @@
+{
+  "english": "defect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không có",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không đủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuyết điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhược điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tật xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng thiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tỳ vết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần thiếu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shortcoming, imperfection, or lack.",
+      "definitions_ex_en": "genetic defects",
+      "definitions_ex_vn": "Khiếm khuyết di truyền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "abandon one's country or cause in favor of an opposing one.",
+      "definitions_ex_en": "he defected to the Soviet Union after the war",
+      "definitions_ex_vn": "Ông đào rể Liên Xô sau chiến tranh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421273_ae1b1b5ac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421273_f853cb5bea_o.png",
+      "id_image": "defect_1769105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661524_1fc22e4534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661524_8fde2f61b7_o.png",
+      "id_image": "defect_4401423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306091_a8acf57c96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306091_293dd0aae8_o.png",
+      "id_image": "defect_6040986"
+    }
+  ]
+}

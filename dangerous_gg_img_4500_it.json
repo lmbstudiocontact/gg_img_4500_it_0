@@ -1,0 +1,38 @@
+{
+  "english": "dangerous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có hại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiểm nghèo",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able or likely to cause harm or injury.",
+      "definitions_ex_en": "a dangerous animal",
+      "definitions_ex_vn": "một động vật nguy hiểm",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310681_8ecb1e9459_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310681_c0aa043b49_o.png",
+      "id_image": "dangerous_1901052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665824_d4f6784aee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665824_a2e899627c_o.png",
+      "id_image": "dangerous_5264731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310621_bf706a8170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310621_0bfcd4d71c_o.png",
+      "id_image": "dangerous_5848269"
+    }
+  ]
+}

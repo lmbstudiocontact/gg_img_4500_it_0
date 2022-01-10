@@ -1,0 +1,49 @@
+{
+  "english": "banner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phướn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cờ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long strip of cloth bearing a slogan or design, hung in a public place or carried in a demonstration or procession.",
+      "definitions_ex_en": "students waved banners and chanted slogans",
+      "definitions_ex_vn": "Học sinh vẫy biểu ngữ và những khẩu hiệu hô vang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heading or advertisement appearing on a web page in the form of a bar, column, or box.",
+      "definitions_ex_en": "a banner ad",
+      "definitions_ex_vn": "một banner quảng cáo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431178_28d1998561_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431178_261b316e4b_o.png",
+      "id_image": "banner_1879673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431163_14ed5d215f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431163_45067443d7_o.png",
+      "id_image": "banner_3956673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670989_9346089c48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670989_e1a0d200e9_o.png",
+      "id_image": "banner_876235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052745_bff2ed4155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052745_4e4bbc0b46_o.png",
+      "id_image": "banner_939238"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "crease",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lằn xếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ dao găm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gấp thành nếp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nhăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành lằn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a line or ridge produced on paper or cloth by folding, pressing, or crushing.",
+      "definitions_ex_en": "khaki trousers with knife-edge creases",
+      "definitions_ex_vn": "Khaki quần có nếp nhăn cạnh dao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a number of lines marked on the pitch at specified places, especially the position of a batsman.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area around the goal in ice hockey or lacrosse that attacking players may not normally enter unless the puck or ball has already done so.",
+      "definitions_ex_en": "he was caught in the crease without the puck",
+      "definitions_ex_vn": "anh ta bị bắt trong nếp nhăn mà không có puck",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a crease in (cloth or paper).",
+      "definitions_ex_en": "he sank into the chair, careful not to crease his dinner jacket",
+      "definitions_ex_vn": "Anh chìm xuống ghế, cẩn thận đừng làm nhăn áo khoác ăn tối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bullet) graze (someone or something), causing little damage.",
+      "definitions_ex_en": "a bullet creased his thigh",
+      "definitions_ex_vn": "một viên đạn nhăn đùi của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322441_ed6419f016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322441_f06910dddd_o.png",
+      "id_image": "crease_2856482"
+    }
+  ]
+}

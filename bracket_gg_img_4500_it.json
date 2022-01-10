@@ -1,0 +1,97 @@
+{
+  "english": "bracket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu ngoặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để chống đở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để gác cho vững",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để kê cho chắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "họp lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of a pair of marks [ ] used to enclose words or figures so as to separate them from the context.",
+      "definitions_ex_en": "symbols are given in brackets",
+      "definitions_ex_vn": "Các biểu tượng được đưa ra trong ngoặc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a category of people or things that are similar or fall between specified limits.",
+      "definitions_ex_en": "those in a high income bracket",
+      "definitions_ex_vn": "những người trong một khung thu nhập cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a right-angled support attached to and projecting from a wall for holding a shelf, lamp, or other object.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the distance between two artillery shots fired either side of the target to establish range.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "enclose (words or figures) in brackets.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place (one or more people or things) in the same category or group.",
+      "definitions_ex_en": "he is sometimes bracketed with the “new wave” of film directors",
+      "definitions_ex_vn": "đôi khi anh ta được đóng dấu ngoặc với \"sóng mới\" của các giám đốc phim",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hold or attach (something) by means of a right-angled support.",
+      "definitions_ex_en": "pipes should be bracketed",
+      "definitions_ex_vn": "Ống nên được đặt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "establish the range of (a target) by firing two preliminary shots, one short of the target and the other beyond it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434398_8eb48df7c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434398_9e99f48649_o.png",
+      "id_image": "bracket_1023618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363892_8f25641612_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363892_03a5d1dbe8_o.png",
+      "id_image": "bracket_1678228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674074_7d5459d15d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674074_233198793e_o.png",
+      "id_image": "bracket_1678229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055895_9d0d593fd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055895_d4efb9d7cf_o.png",
+      "id_image": "bracket_605614"
+    }
+  ]
+}

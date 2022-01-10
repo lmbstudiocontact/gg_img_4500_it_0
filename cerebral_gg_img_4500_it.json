@@ -1,0 +1,34 @@
+{
+  "english": "cerebral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "những âm đọc cong lưởi lên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về não",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of the cerebrum of the brain.",
+      "definitions_ex_en": "a cerebral hemorrhage",
+      "definitions_ex_vn": "một xuất huyết não",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "another term for retroflex.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052560_44e9f5a772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052560_592193c19e_o.png",
+      "id_image": "cerebral_4200912"
+    }
+  ]
+}

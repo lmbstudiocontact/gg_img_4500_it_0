@@ -1,0 +1,63 @@
+{
+  "english": "breach",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mối bất hòa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phạm phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sóng đánh to",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bất tuân kỷ luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phá lủng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of breaking or failing to observe a law, agreement, or code of conduct.",
+      "definitions_ex_en": "a breach of confidence",
+      "definitions_ex_vn": "vi phạm sự tự tin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gap in a wall, barrier, or defense, especially one made by an attacking army.",
+      "definitions_ex_en": "a breach in the mountain wall",
+      "definitions_ex_vn": "Một vi phạm trên tường núi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a gap in and break through (a wall, barrier, or defense).",
+      "definitions_ex_en": "the river breached its bank",
+      "definitions_ex_vn": "Con sông đã vi phạm ngân hàng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a whale) rise and break through the surface of the water.",
+      "definitions_ex_en": "we saw whales breaching in the distance",
+      "definitions_ex_vn": "Chúng tôi thấy cá voi vi phạm từ xa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362327_3503801eb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362327_1f353498a3_o.png",
+      "id_image": "breach_2720497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672654_64809497cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672654_1a6872f15b_o.png",
+      "id_image": "breach_2720551"
+    }
+  ]
+}

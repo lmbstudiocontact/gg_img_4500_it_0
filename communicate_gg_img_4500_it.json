@@ -1,0 +1,64 @@
+{
+  "english": "communicate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thông tri",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ban thánh thể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truyền cho biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truyền sang",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "share or exchange information, news, or ideas.",
+      "definitions_ex_en": "the prisoner was forbidden to communicate with his family",
+      "definitions_ex_vn": "tù nhân bị cấm giao tiếp với gia đình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass on (an infectious disease) to another person or animal.",
+      "definitions_ex_en": "the disease is communicated from one person to another",
+      "definitions_ex_vn": "Bệnh được truyền đạt từ người này sang người khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of two rooms) have a common connecting door.",
+      "definitions_ex_en": "the dining room communicates with the kitchen",
+      "definitions_ex_vn": "Phòng ăn giao tiếp với nhà bếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "receive Holy Communion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054880_658fa5b8d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054880_1b5e272199_o.png",
+      "id_image": "communicate_2343544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362772_0cf0b4a9c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362772_e6103295a9_o.png",
+      "id_image": "communicate_2472337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054830_975fe69f36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054830_a62b2d217b_o.png",
+      "id_image": "communicate_4133378"
+    }
+  ]
+}

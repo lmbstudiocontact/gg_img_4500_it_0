@@ -1,0 +1,65 @@
+{
+  "english": "championship",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chức quán quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chức vô địch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dẫn chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biện luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biện hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tranh luận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a contest for the position of champion in a sport, often involving a series of games or matches.",
+      "definitions_ex_en": "the final round of the championship will be in Japan",
+      "definitions_ex_vn": "Vòng cuối cùng của chức vô địch sẽ ở Nhật Bản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the vigorous support or defense of someone or something.",
+      "definitions_ex_en": "Alan's championship of his estranged wife",
+      "definitions_ex_vn": "Giải vô địch của Alan về người vợ estranged của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358787_79f1918d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358787_436a4f75d1_o.png",
+      "id_image": "championship_2751934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429533_9bc9cb5fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429533_b6de320476_o.png",
+      "id_image": "championship_2845139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314616_9a2e1be717_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314616_6f8ef48800_o.png",
+      "id_image": "championship_4033521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051160_84e0325f21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051160_94d82fecd4_o.png",
+      "id_image": "championship_5284188"
+    }
+  ]
+}

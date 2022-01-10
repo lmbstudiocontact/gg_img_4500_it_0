@@ -1,0 +1,61 @@
+{
+  "english": "conception",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có mang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khái niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thọ thai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of conceiving a child or of a child being conceived.",
+      "definitions_ex_en": "an unfertilized egg before conception",
+      "definitions_ex_vn": "một quả trứng không thụ tinh trước khi thụ thai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the forming or devising of a plan or idea.",
+      "definitions_ex_en": "the time between a product's conception and its launch",
+      "definitions_ex_vn": "thời gian giữa quan niệm của sản phẩm và sự ra mắt của nó",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428728_fd63943598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428728_6bd94d0afc_o.png",
+      "id_image": "conception_2733398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050565_ebfc2895bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050565_a07e04a32b_o.png",
+      "id_image": "concept_2111175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668664_18757759df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668664_ca08e93ffd_o.png",
+      "id_image": "concept_2311639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428758_3cb2793963_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428758_bb3cddf717_o.png",
+      "id_image": "concept_4234369"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "crane",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim hạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con cò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy trục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòi chuyền nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large, tall machine used for moving heavy objects by suspending them from a projecting arm or beam.",
+      "definitions_ex_en": "a dockside crane",
+      "definitions_ex_vn": "một cần cẩu bến cảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tall, long-legged, long-necked bird, typically with white or gray plumage and often with tail plumes and patches of bare red skin on the head. Cranes are noted for their elaborate courtship dances.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stretch out one's body or neck in order to see something.",
+      "definitions_ex_en": "she craned forward to look more clearly",
+      "definitions_ex_vn": "Cô cran về phía trước để trông rõ ràng hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move (a heavy object) with a crane.",
+      "definitions_ex_en": "the wheelhouse module is craned into position on the hull",
+      "definitions_ex_vn": "mô-đun bánh xe được craned vào vị trí trên thân tàu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438828_c42127a672_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438828_2b61074d39_o.png",
+      "id_image": "crane_2002985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060600_201e6c2edc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060600_476eb036db_o.png",
+      "id_image": "crane_3462111"
+    }
+  ]
+}

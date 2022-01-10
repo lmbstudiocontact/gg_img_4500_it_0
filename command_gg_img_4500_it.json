@@ -1,0 +1,117 @@
+{
+  "english": "command",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ tư lịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cai quản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đốc xuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạng lịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự điều khiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ huy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quân đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt phải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ huy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đốc xuất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ra lịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sai khiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tùy ý sử dụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truyền lịnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give an authoritative order.",
+      "definitions_ex_en": "a gruff voice commanded us to enter",
+      "definitions_ex_vn": "Một giọng nói Gruff chỉ huy chúng ta vào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "dominate (a strategic position) from a superior height.",
+      "definitions_ex_en": "the two castles commanded the harbor",
+      "definitions_ex_vn": "Hai lâu đài chỉ huy bến cảng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be in a strong enough position to have or secure (something).",
+      "definitions_ex_en": "no party commanded a majority",
+      "definitions_ex_vn": "không có đảng nào chỉ huy đa số",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an authoritative order.",
+      "definitions_ex_en": "it's unlikely they'll obey your commands",
+      "definitions_ex_vn": "Không có khả năng họ sẽ tuân theo các lệnh của bạn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319636_312dbba471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319636_a5e7ba69f9_o.png",
+      "id_image": "command_1553236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674484_6a3e524758_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674484_0f5afe7fd1_o.png",
+      "id_image": "command_3602408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056125_3930f24941_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056125_b3a735029b_o.png",
+      "id_image": "command_3602425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364247_727b7cc965_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364247_e470a11fa8_o.png",
+      "id_image": "command_5954961"
+    }
+  ]
+}

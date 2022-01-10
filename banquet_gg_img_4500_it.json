@@ -1,0 +1,47 @@
+{
+  "english": "banquet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buổi tiệc sang trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn tiệc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dự tiệc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đãi tiệc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an elaborate and formal meal for many people.",
+      "definitions_ex_en": "the Austrian emperor's lavish banquets",
+      "definitions_ex_vn": "Các bữa tiệc xa hoa của Hoàng đế Áo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "entertain with a banquet.",
+      "definitions_ex_en": "ambassadors were fabulously banqueted and loaded with gifts",
+      "definitions_ex_vn": "Đại sứ đã được tổ chức tuyệt vời và tải quà tặng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316236_3b106bc412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316236_5e80f6130c_o.png",
+      "id_image": "banquet_2037550"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052625_71e22def00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052625_54ca26c4cf_o.png",
+      "id_image": "banquet_2037555"
+    }
+  ]
+}

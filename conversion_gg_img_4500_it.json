@@ -1,0 +1,106 @@
+{
+  "english": "conversion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đổi tôn giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoán vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép hóan vị của mệnh đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cải biến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cải đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển hồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thụt kết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of changing or causing something to change from one form to another.",
+      "definitions_ex_en": "the conversion of food into body tissues",
+      "definitions_ex_vn": "việc chuyển đổi thực phẩm thành các mô cơ thể",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the fact of changing one's religion or beliefs or the action of persuading someone else to change theirs.",
+      "definitions_ex_en": "my conversion to the Catholic faith",
+      "definitions_ex_vn": "sự chuyển đổi của tôi với đức tin Công giáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the context of online marketing) the proportion of people viewing an advertisement and going on to buy the product, click on a link, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of wrongfully dealing with goods in a manner inconsistent with the owner's rights.",
+      "definitions_ex_en": "he was found guilty of the fraudulent conversion of clients' monies",
+      "definitions_ex_vn": "Ông đã bị kết tội chuyển đổi gian lận của các khoản tiền của khách hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the manifestation of a mental disturbance as a physical disorder or disease.",
+      "definitions_ex_en": "conversion disorders",
+      "definitions_ex_vn": "rối loạn chuyển đổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the change in a quantity's numerical value as a result of using a different unit of measurement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305676_085061c0ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305676_5625b7bb2d_o.png",
+      "id_image": "conversion_1162278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042590_2989d683b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042590_83bcfc9ac8_o.png",
+      "id_image": "conversion_1622685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661069_4d1bc4654e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661069_5c017a105d_o.png",
+      "id_image": "conversion_1685709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420663_949a2d478f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420663_cc37679276_o.png",
+      "id_image": "conversion_2132265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305566_02f7cc2503_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305566_f4afdba393_o.png",
+      "id_image": "conversion_4497109"
+    }
+  ]
+}

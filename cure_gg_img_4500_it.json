@@ -1,0 +1,106 @@
+{
+  "english": "cure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chừa tánh xấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trị bịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xông khói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cách trị bịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chửa bịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chức vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kỳ cục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kỳ dị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hấp cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lạ đời",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relieve (a person or animal) of the symptoms of a disease or condition.",
+      "definitions_ex_en": "he was cured of the disease",
+      "definitions_ex_vn": "Ông đã chữa khỏi bệnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "preserve (meat, fish, tobacco, or an animal skin) by various methods such as salting, drying, or smoking.",
+      "definitions_ex_en": "home-cured ham",
+      "definitions_ex_vn": "Ham chữa khỏi nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a substance or treatment that cures a disease or condition.",
+      "definitions_ex_en": "the search for a cure for the common cold",
+      "definitions_ex_vn": "việc tìm kiếm một phương pháp chữa bệnh cho cảm lạnh thông thường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of curing rubber, plastic, or other material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a Christian minister's pastoral charge or area of responsibility for spiritual ministry.",
+      "definitions_ex_en": "a benefice involving the cure of souls",
+      "definitions_ex_vn": "Một lợi ích liên quan đến việc chữa bệnh tâm hồn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a parish priest in a French-speaking country or region.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359412_0712af9238_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359412_bb9a321d11_o.png",
+      "id_image": "cure_1029134"
+    }
+  ]
+}

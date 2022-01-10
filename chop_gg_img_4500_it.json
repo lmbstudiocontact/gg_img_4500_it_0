@@ -1,0 +1,133 @@
+{
+  "english": "chop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ nứt da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàm của cái kềm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng thịt sườn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cúp banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi chác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt sườn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lát búa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng sóng vỗ đều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rơm cắt vụn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ chứng nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi chác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sóng vỗ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thái mõng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xắt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cut (something) into pieces with repeated sharp blows of an axe or knife.",
+      "definitions_ex_en": "they chopped up the pulpit for firewood",
+      "definitions_ex_vn": "họ đã cắt nhỏ bục giảng cho củi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "abolish or reduce the size of (something) in a way regarded as ruthless.",
+      "definitions_ex_en": "their training courses are to be chopped",
+      "definitions_ex_vn": "các khóa đào tạo của họ sẽ được cắt nhỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a downward cutting blow or movement, typically with the hand.",
+      "definitions_ex_en": "an effective chop to the back of the neck",
+      "definitions_ex_vn": "một chặt hiệu quả về phía sau của cổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thick slice of meat, especially pork or lamb, adjacent to and often including a rib.",
+      "definitions_ex_en": "he lived on liver or chops",
+      "definitions_ex_vn": "Anh sống về gan hoặc sườn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the broken motion of water, typically due to the action of the wind against the tide.",
+      "definitions_ex_en": "we started our run into a two-foot chop",
+      "definitions_ex_vn": "Chúng tôi bắt đầu chạy vào chặt hai chân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a trademark; a brand of goods.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307861_d5f0e1f988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307861_3b4c2b4ed0_o.png",
+      "id_image": "chop_1740505"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663109_8cb73ca52d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663109_ae72216224_o.png",
+      "id_image": "chop_3690254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044885_bdefeb3b39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044885_575a143656_o.png",
+      "id_image": "chop_413213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663159_33b910f4de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663159_846ffb43fd_o.png",
+      "id_image": "chop_815966"
+    }
+  ]
+}

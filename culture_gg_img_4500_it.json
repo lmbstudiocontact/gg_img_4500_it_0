@@ -1,0 +1,87 @@
+{
+  "english": "culture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "canh tác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cày cấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giáo hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khai khẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mở mamg",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nuôi tằm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trồng trọt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the arts and other manifestations of human intellectual achievement regarded collectively.",
+      "definitions_ex_en": "20th century popular culture",
+      "definitions_ex_vn": "Văn hóa phổ biến thế kỷ 20",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the customs, arts, social institutions, and achievements of a particular nation, people, or other social group.",
+      "definitions_ex_en": "Caribbean culture",
+      "definitions_ex_vn": "Văn hóa Caribbean",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cultivation of bacteria, tissue cells, etc. in an artificial medium containing nutrients.",
+      "definitions_ex_en": "the cells proliferate readily in culture",
+      "definitions_ex_vn": "Các tế bào sinh sôi nảy nở dễ dàng trong văn hóa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cultivation of plants.",
+      "definitions_ex_en": "this variety of lettuce is popular for its ease of culture",
+      "definitions_ex_vn": "Sự đa dạng của rau diếp này là phổ biến cho sự dễ dàng của văn hóa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "maintain (tissue cells, bacteria, etc.) in conditions suitable for growth.",
+      "definitions_ex_en": "several investigators have attempted to culture biliary cells",
+      "definitions_ex_vn": "Một số nhà điều tra đã cố gắng nuôi cấy các tế bào mật",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360277_a4a7c55f9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360277_12e88cb438_o.png",
+      "id_image": "culture_3053696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052465_f2af9b7e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052465_0f0b611392_o.png",
+      "id_image": "culture_4412701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315991_5d1275a7e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315991_ea8dd143b8_o.png",
+      "id_image": "culture_5381457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052400_9b60433763_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052400_05e3afb3ea_o.png",
+      "id_image": "culture_6213247"
+    }
+  ]
+}

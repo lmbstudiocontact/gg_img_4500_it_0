@@ -1,0 +1,34 @@
+{
+  "english": "concept",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khái niệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an abstract idea; a general notion.",
+      "definitions_ex_en": "structuralism is a difficult concept",
+      "definitions_ex_vn": "Kết cấu là một khái niệm khó khăn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050565_ebfc2895bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050565_a07e04a32b_o.png",
+      "id_image": "concept_2111175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668664_18757759df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668664_ca08e93ffd_o.png",
+      "id_image": "concept_2311639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428758_3cb2793963_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428758_bb3cddf717_o.png",
+      "id_image": "concept_4234369"
+    }
+  ]
+}

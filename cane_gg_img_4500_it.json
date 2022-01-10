@@ -1,0 +1,92 @@
+{
+  "english": "cane",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây roi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây ba toong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cán cầm tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây gậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây sậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây trúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây trượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoản côn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gậy ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quất bằng gậy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the hollow jointed stem of a tall grass, especially bamboo or sugar cane, or the stem of a slender palm such as rattan.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a length of cane or a slender stick, especially one used as a support for plants, as a walking stick, or as an instrument of punishment.",
+      "definitions_ex_en": "tie the shoot to a cane if vertical growth is required",
+      "definitions_ex_vn": "Buộc bắn vào mía nếu cần tăng trưởng dọc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "beat with a cane as a punishment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303666_fcebd8a036_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303666_127f7e0f59_o.png",
+      "id_image": "cane_1451523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347847_8f01c87d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347847_a8034ef84e_o.png",
+      "id_image": "cane_2142587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347842_22546d1c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347842_95699bab37_o.png",
+      "id_image": "cane_2142626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347827_0c18df1ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347827_68d59fdb30_o.png",
+      "id_image": "cane_2855490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658914_313f0df1b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658914_2a3d74debf_o.png",
+      "id_image": "cane_707279"
+    }
+  ]
+}

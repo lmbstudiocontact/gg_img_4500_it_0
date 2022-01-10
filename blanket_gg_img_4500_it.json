@@ -1,0 +1,72 @@
+{
+  "english": "blanket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mềm chăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phỉn lừa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đắp mềm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ỉm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trùm mềm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large piece of woolen or similar material used as a bed covering or other covering for warmth.",
+      "definitions_ex_en": "I slept on the ground covered by my blanket",
+      "definitions_ex_vn": "Tôi đã ngủ trên mặt đất được bao phủ bởi chăn của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rubber surface used for transferring the image in ink from the plate to the paper in offset printing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "covering all cases or instances; total and inclusive.",
+      "definitions_ex_en": "a blanket ban on tobacco advertising",
+      "definitions_ex_vn": "Một lệnh cấm chăn trên quảng cáo thuốc lá",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "cover completely with a thick layer of something.",
+      "definitions_ex_en": "the countryside was blanketed in snow",
+      "definitions_ex_vn": "Nông thôn được phủ đầy tuyết",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658054_d8397cf9aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658054_7a904ab2bf_o.png",
+      "id_image": "blanket_1337883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417813_5522781024_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417813_44f5f74d6e_o.png",
+      "id_image": "blanket_1348285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039395_b7fde1ee10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039395_8e01a57c52_o.png",
+      "id_image": "blanket_5059805"
+    }
+  ]
+}

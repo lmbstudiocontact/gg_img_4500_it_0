@@ -1,0 +1,122 @@
+{
+  "english": "board",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nuôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cập bến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng bìa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lên tàu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lót ván",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đường tàu chạy vát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy dầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm ván",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền ăn cơm tháng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy cạt tông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy cứng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, thin, flat piece of wood or other hard material, used for floors or other building purposes.",
+      "definitions_ex_en": "loose boards creaked as I walked on them",
+      "definitions_ex_vn": "Các bảng lỏng lẻo ọp ẹp khi tôi bước vào họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thin, flat piece of wood or other stiff material used for various purposes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people constituted as the decision-making body of an organization.",
+      "definitions_ex_en": "he sits on the board of directors",
+      "definitions_ex_vn": "Anh ngồi vào hội đồng quản trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the provision of regular meals when one stays somewhere, in return for payment or services.",
+      "definitions_ex_en": "your room and board will be free",
+      "definitions_ex_vn": "Phòng và bảng của bạn sẽ được miễn phí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distance covered by a vessel in a single tack.",
+      "definitions_ex_en": "we were tacking up to the anchor, shortening cable at each board",
+      "definitions_ex_vn": "Chúng tôi đã giải quyết với neo, rút ngắn cáp ở mỗi bảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "get on or into (a ship, aircraft, or other vehicle).",
+      "definitions_ex_en": "we boarded the plane for Oslo",
+      "definitions_ex_vn": "Chúng tôi lên máy bay cho Oslo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "live and receive regular meals in a house in return for payment or services.",
+      "definitions_ex_en": "the cousins boarded for a while with Ruby",
+      "definitions_ex_vn": "Anh em họ lên máy bay một lúc với Ruby",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cover or seal a window, storefront, or other structure with pieces of wood.",
+      "definitions_ex_en": "the shop was still boarded up",
+      "definitions_ex_vn": "cửa hàng vẫn còn lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ride on a snowboard.",
+      "definitions_ex_en": "when we're not boarding, we're skiing",
+      "definitions_ex_vn": "Khi chúng ta không nội trú, chúng ta đang trượt tuyết",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064015_49c7df2518_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064015_8f6b3be3cd_o.png",
+      "id_image": "boards_344061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327236_129e7bfb98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327236_4d4f84d193_o.png",
+      "id_image": "board_4334310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442218_eb337d1666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442218_539ecf5dd6_o.png",
+      "id_image": "board_4371357"
+    }
+  ]
+}

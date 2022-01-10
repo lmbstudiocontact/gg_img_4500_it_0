@@ -1,0 +1,36 @@
+{
+  "english": "crux",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điểm chánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điểm khó giải quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điểm then chốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối khó",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the decisive or most important point at issue.",
+      "definitions_ex_en": "the crux of the matter is that attitudes have changed",
+      "definitions_ex_vn": "mấu chốt của vấn đề là thái độ đã thay đổi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317261_0ce6076b2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317261_acfdb0f2d4_o.png",
+      "id_image": "crux_3982010"
+    }
+  ]
+}

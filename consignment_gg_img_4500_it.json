@@ -1,0 +1,32 @@
+{
+  "english": "consignment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đến nơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gởi để bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gởi hàng hóa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a batch of goods destined for or delivered to someone.",
+      "definitions_ex_en": "a consignment of beef",
+      "definitions_ex_vn": "một lô hàng thịt bò",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665199_84034715ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665199_c689cf0f5d_o.png",
+      "id_image": "consignment_2463819"
+    }
+  ]
+}

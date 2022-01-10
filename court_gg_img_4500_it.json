@@ -1,0 +1,114 @@
+{
+  "english": "court",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biệt thự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường hẻm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tòa án",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiên đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngỏ hẻm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "triều đình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "pháp viện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trước vành móng ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ao ước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cầu thân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quyến rũ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tribunal presided over by a judge, judges, or a magistrate in civil and criminal cases.",
+      "definitions_ex_en": "she will take the matter to court",
+      "definitions_ex_vn": "Cô ấy sẽ đưa vấn đề ra tòa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quadrangular area, either open or covered, marked out for ball games such as tennis or basketball.",
+      "definitions_ex_en": "I prefer an indoor court",
+      "definitions_ex_vn": "Tôi thích một tòa án trong nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the establishment, retinue, and courtiers of a sovereign.",
+      "definitions_ex_en": "the emperor is shown with his court",
+      "definitions_ex_vn": "Hoàng đế được hiển thị với tòa án của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be involved with romantically, typically with the intention of marrying.",
+      "definitions_ex_en": "he was courting a girl from the neighboring farm",
+      "definitions_ex_vn": "Anh ta đang tán tỉnh một cô gái từ trang trại lân cận",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062830_d16d5afd29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062830_d7904e9fd4_o.png",
+      "id_image": "court_1548368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370787_a6a564ef16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370787_93013428f5_o.png",
+      "id_image": "court_1750509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062770_c5fa2e117f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062770_5fdac48d61_o.png",
+      "id_image": "court_2322900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370672_b241a95049_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370672_7c6ee406cf_o.png",
+      "id_image": "court_4253282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440848_02b81daa2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440848_fed0135239_o.png",
+      "id_image": "court_4751284"
+    }
+  ]
+}

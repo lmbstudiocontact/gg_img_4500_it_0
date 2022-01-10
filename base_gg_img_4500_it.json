@@ -1,0 +1,135 @@
+{
+  "english": "base",
+  "list_translation_mean": [
+    {
+      "translate_mean": "diêm cơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căn cứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơ số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường đáy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đê hèn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hèn hạ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "căn cứ vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the lowest part or edge of something, especially the part on which it rests or is supported.",
+      "definitions_ex_en": "she sat down at the base of a tree",
+      "definitions_ex_vn": "Cô ngồi xuống gốc cây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a conceptual structure or entity on which something draws or depends.",
+      "definitions_ex_en": "the town's economic base collapsed",
+      "definitions_ex_vn": "cơ sở kinh tế của thị trấn sụp đổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place used as a center of operations by the armed forces or others; a headquarters.",
+      "definitions_ex_en": "the corporal headed back to base",
+      "definitions_ex_vn": "Corporal quay trở lại căn cứ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a main or important element or ingredient to which other things are added.",
+      "definitions_ex_en": "soaps with a vegetable oil base",
+      "definitions_ex_vn": "xà phòng với một cơ sở dầu thực vật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a substance capable of reacting with an acid to form a salt and water, or (more broadly) of accepting or neutralizing hydrogen ions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the middle part of a bipolar transistor, separating the emitter from the collector.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the root or stem of a word or a derivative.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a number used as the basis of a numeration scale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of the four stations that must be reached in turn to score a run.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "have as the foundation for (something); use as a point from which (something) can develop.",
+      "definitions_ex_en": "the film is based on a novel by Pat Conroy",
+      "definitions_ex_vn": "Bộ phim dựa trên một cuốn tiểu thuyết của Pat Conroy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "situate as the center of operations.",
+      "definitions_ex_en": "a London-based band",
+      "definitions_ex_vn": "một ban nhạc có trụ sở tại London",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person or a person's actions or feelings) without moral principles; ignoble.",
+      "definitions_ex_en": "the electorate's baser instincts of greed and selfishness",
+      "definitions_ex_vn": "Bản năng bậc bầu cử của lòng tham và ích kỷ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or befitting a person of low social class.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of coins or other articles) not made of precious metal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358782_0b51becd78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358782_1cc6ef5413_o.png",
+      "id_image": "base_2090037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429513_407b2653c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429513_5d35cebf03_o.png",
+      "id_image": "base_2646763"
+    }
+  ]
+}

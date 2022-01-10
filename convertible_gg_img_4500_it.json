@@ -1,0 +1,52 @@
+{
+  "english": "convertible",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyển hoán",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể biến hóa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể cải biến",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể đổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hóa cải được",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able to be changed in form, function, or character.",
+      "definitions_ex_en": "a living room that is miraculously convertible into a bedroom",
+      "definitions_ex_vn": "một phòng khách có thể chuyển đổi một cách kỳ diệu thành một phòng ngủ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a car with a folding or detachable roof.",
+      "definitions_ex_en": "Brendan picked her up in his cherry-red convertible",
+      "definitions_ex_vn": "Brendan đón cô trong chiếc mui trần màu đỏ anh đào của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a convertible security.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660869_e6c1434827_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660869_9be13cbd91_o.png",
+      "id_image": "convertible_5731839"
+    }
+  ]
+}

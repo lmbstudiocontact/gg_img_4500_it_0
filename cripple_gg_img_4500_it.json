@@ -1,0 +1,52 @@
+{
+  "english": "cripple",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người què",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tàn tật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho què",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tàn tật",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause severe and disabling damage to; deprive of the ability to function normally.",
+      "definitions_ex_en": "developing countries are crippled by their debts",
+      "definitions_ex_vn": "Các nước đang phát triển bị tê liệt bởi các khoản nợ của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (someone) to become unable to walk or move normally.",
+      "definitions_ex_en": "a young student was crippled for life",
+      "definitions_ex_vn": "Một sinh viên trẻ bị tê liệt vì cuộc sống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person with a severe limitation of a specified kind.",
+      "definitions_ex_en": "an emotional cripple",
+      "definitions_ex_vn": "một sự nghiệt ngã cảm xúc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056695_2d2c9b3cfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056695_ce44bd5456_o.png",
+      "id_image": "cripple_2317729"
+    }
+  ]
+}

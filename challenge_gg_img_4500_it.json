@@ -1,0 +1,126 @@
+{
+  "english": "challenge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài bác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luật hồi tị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phản đối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng người canh gác gọi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thách đấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thách đấu gươm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thách làm việc gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gọi người đứng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không chịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phản kháng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ khước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thách người nào đấu gươm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không thừa nhận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a call to take part in a contest or competition, especially a duel.",
+      "definitions_ex_en": "he accepted the challenge",
+      "definitions_ex_vn": "anh ấy đã chấp nhận thử thách",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an objection or query as to the truth of something, often with an implicit demand for proof.",
+      "definitions_ex_en": "a challenge to the legality of the order",
+      "definitions_ex_vn": "một thách thức đối với tính hợp pháp của trật tự",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "exposure of the immune system to pathogenic organisms or antigens.",
+      "definitions_ex_en": "recently vaccinated calves should be protected from challenge",
+      "definitions_ex_vn": "bê được tiêm vắc-xin gần đây nên được bảo vệ khỏi thử thách",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "invite (someone) to engage in a contest.",
+      "definitions_ex_en": "he challenged one of my men to a duel",
+      "definitions_ex_vn": "anh ấy đã thách thức một người đàn ông của tôi với một cuộc đấu tay đôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "dispute the truth or validity of.",
+      "definitions_ex_en": "employees challenged the company's requirement",
+      "definitions_ex_vn": "Nhân viên thách thức yêu cầu của công ty",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expose (the immune system) to pathogenic organisms or antigens.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429798_4824fe41b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429798_fa341c1988_o.png",
+      "id_image": "challenges_1934019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359032_99cbca0f6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359032_8cb26a97f8_o.png",
+      "id_image": "challenges_3965814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669654_2ff0b5dfba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669654_197f14d0e7_o.png",
+      "id_image": "challenge_2586919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669639_d13d4501a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669639_0449077988_o.png",
+      "id_image": "challenge_3310330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669609_daa2238d37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669609_7f6fed7ffb_o.png",
+      "id_image": "challenge_3475873"
+    }
+  ]
+}

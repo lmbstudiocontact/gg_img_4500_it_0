@@ -1,0 +1,42 @@
+{
+  "english": "combat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiến đấu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tranh đấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fighting between armed forces.",
+      "definitions_ex_en": "men killed in combat",
+      "definitions_ex_vn": "đàn ông bị giết trong chiến đấu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take action to reduce or prevent (something bad or undesirable).",
+      "definitions_ex_en": "an effort to combat drug trafficking",
+      "definitions_ex_vn": "một nỗ lực để chống buôn bán ma túy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365267_b666076037_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365267_208b1f03f1_o.png",
+      "id_image": "combat_1119868"
+    }
+  ]
+}

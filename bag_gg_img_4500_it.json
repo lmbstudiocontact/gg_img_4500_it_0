@@ -1,0 +1,85 @@
+{
+  "english": "bag",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vú bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ vật gì vào bao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "túm lấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a container made of flexible material with an opening at the top, used for carrying things.",
+      "definitions_ex_en": "brown paper bags",
+      "definitions_ex_vn": "túi giấy màu nâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one's particular interest or taste.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a base.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put (something) in a bag.",
+      "definitions_ex_en": "customers bagged their own groceries",
+      "definitions_ex_vn": "Khách hàng đóng gói đồ tạp hóa của riêng họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "succeed in killing or catching (an animal).",
+      "definitions_ex_en": "in 1979, handgun hunters bagged 677 deer",
+      "definitions_ex_vn": "Năm 1979, Hunters Handgun đã đóng gói 677 hươu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of clothes, especially pants) hang loosely or lose shape.",
+      "definitions_ex_en": "these trousers never bag at the knee",
+      "definitions_ex_vn": "Những chiếc quần này không bao giờ túi ở đầu gối",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675534_f60543a7b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675534_158ed8c508_o.png",
+      "id_image": "bag_1088128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365562_29d7324ac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365562_6ae3382f86_o.png",
+      "id_image": "bag_649218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320581_a43e6a61e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320581_a2ecdf5389_o.png",
+      "id_image": "bag_673889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675574_c2ab9d577b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675574_2244e12b74_o.png",
+      "id_image": "bag_868188"
+    }
+  ]
+}

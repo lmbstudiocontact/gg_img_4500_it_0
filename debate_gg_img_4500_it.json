@@ -1,0 +1,73 @@
+{
+  "english": "debate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn thảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc bàn cải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tranh luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảo luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn cải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bàn luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thảo luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tranh luận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal discussion on a particular topic in a public meeting or legislative assembly, in which opposing arguments are put forward.",
+      "definitions_ex_en": "last night's debate on the Education Bill",
+      "definitions_ex_vn": "Cuộc tranh luận đêm qua về hóa đơn giáo dục",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "argue about (a subject), especially in a formal manner.",
+      "definitions_ex_en": "the board debated his proposal",
+      "definitions_ex_vn": "Hội đồng quản trị tranh luận về đề xuất của ông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352357_407a4381cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352357_26ebc110be_o.png",
+      "id_image": "debate_1147948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308131_8db599c0cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308131_a8bb66bf86_o.png",
+      "id_image": "debate_2688835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423338_4fcb4271d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423338_df17fefc0c_o.png",
+      "id_image": "debate_3571109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423313_b438204cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423313_a67be26fdb_o.png",
+      "id_image": "debate_5605909"
+    }
+  ]
+}

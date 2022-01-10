@@ -1,0 +1,58 @@
+{
+  "english": "boy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con trai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thanh niên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học trò",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a male child or young man.",
+      "definitions_ex_en": "a four-year-old boy",
+      "definitions_ex_vn": "một cậu bé bốn tuổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used informally or lightheartedly to refer to a man.",
+      "definitions_ex_en": "the inspector was a local boy",
+      "definitions_ex_vn": "Thanh tra là một cậu bé địa phương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to express strong feelings, especially of excitement or admiration.",
+      "definitions_ex_en": "oh boy, that's wonderful!",
+      "definitions_ex_vn": "Oh boy, thật tuyệt vời!",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056415_51aa03a5bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056415_8986049395_o.png",
+      "id_image": "boy_421598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434913_42416101ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434913_4d74369770_o.png",
+      "id_image": "boy_421600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674649_c377aa0d3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674649_7b2c79c5f4_o.png",
+      "id_image": "boy_435043"
+    }
+  ]
+}

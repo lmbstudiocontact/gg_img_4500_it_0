@@ -1,0 +1,89 @@
+{
+  "english": "conductor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dẫn đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dẫn đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dẫn nhiệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầm đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ huy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đốc công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giám đốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hướng đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bán vé",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thâu tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhạc trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dẫn điện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who directs the performance of an orchestra or choir.",
+      "definitions_ex_en": "he was appointed principal conductor of the Berlin Philharmonic Orchestra",
+      "definitions_ex_vn": "Ông được bổ nhiệm làm nhạc trưởng chính của dàn nhạc Berlin Philharmonic",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a material or device that conducts or transmits heat, electricity, or sound, especially when regarded in terms of its capacity to do this.",
+      "definitions_ex_en": "graphite is a reasonably good conductor of electricity",
+      "definitions_ex_vn": "Graphite là một dây dẫn điện tốt một cách hợp lý",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313206_706f35ff2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313206_8722bc02fa_o.png",
+      "id_image": "conductor_1776623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049635_faaa384e32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049635_fbf164733d_o.png",
+      "id_image": "conductor_2855708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357102_9da4fee4cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357102_0777a1b086_o.png",
+      "id_image": "conductor_2855768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427943_d814cc3a72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427943_12392a5720_o.png",
+      "id_image": "conductor_6101682"
+    }
+  ]
+}

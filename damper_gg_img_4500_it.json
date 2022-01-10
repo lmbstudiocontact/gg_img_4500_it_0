@@ -1,0 +1,50 @@
+{
+  "english": "damper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biến cố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm người khác ngã lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng ăn đở đói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phá đám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm chán nản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that has a depressing, subduing, or inhibiting effect.",
+      "definitions_ex_en": "another damper on reactor development was the problem of safeguards",
+      "definitions_ex_vn": "Một Damper khác về phát triển lò phản ứng là vấn đề của các biện pháp bảo vệ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047985_2d8758d9fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047985_7dde6d6444_o.png",
+      "id_image": "damper_1656944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311256_e7ac70d880_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311256_46ab22b2b9_o.png",
+      "id_image": "damper_2061994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048005_43a7005953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048005_4981e952e7_o.png",
+      "id_image": "damper_998298"
+    }
+  ]
+}

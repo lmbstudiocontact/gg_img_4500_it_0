@@ -1,0 +1,53 @@
+{
+  "english": "deadline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "như chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quá đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rất đổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the latest time or date by which something should be completed.",
+      "definitions_ex_en": "the deadline for submissions is February 5th",
+      "definitions_ex_vn": "Thời hạn nộp là ngày 5 tháng 2",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a line drawn around a prison beyond which prisoners were liable to be shot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353002_8680fb4ca3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353002_8fee3417f3_o.png",
+      "id_image": "deadline_287490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663999_de0863e450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663999_e7eecd57a9_o.png",
+      "id_image": "deadline_3772898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352987_a35dcef205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352987_72e332be15_o.png",
+      "id_image": "deadline_448741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664029_ea02ac4897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664029_715165e250_o.png",
+      "id_image": "deadline_850145"
+    }
+  ]
+}

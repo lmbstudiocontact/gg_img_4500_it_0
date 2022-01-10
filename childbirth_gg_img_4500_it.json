@@ -1,0 +1,41 @@
+{
+  "english": "childbirth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con nít mới sanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hài nhi mới đẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sanh sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đẻ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of giving birth to a child.",
+      "definitions_ex_en": "the benefits of exercising after childbirth are well-documented",
+      "definitions_ex_vn": "Những lợi ích của việc tập thể dục sau khi sinh con được ghi nhận tốt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353777_492d457ed4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353777_227ed07165_o.png",
+      "id_image": "childbirth_1775611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424648_75ce3d986c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424648_e212a81e17_o.png",
+      "id_image": "childbirth_5233821"
+    }
+  ]
+}

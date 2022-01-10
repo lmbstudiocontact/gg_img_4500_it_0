@@ -1,0 +1,85 @@
+{
+  "english": "chamber",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gian buồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ hổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ổ thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà đàn ông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhốt trong phòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ổ đạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phòng sự vụ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large room used for formal or public events.",
+      "definitions_ex_en": "a council chamber",
+      "definitions_ex_vn": "một buồng hội đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a private room, especially a bedroom.",
+      "definitions_ex_en": "he had his meals brought to his chamber",
+      "definitions_ex_vn": "anh ấy đã có những bữa ăn của mình mang đến buồng của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an enclosed space or cavity.",
+      "definitions_ex_en": "an echo chamber",
+      "definitions_ex_vn": "một buồng echo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of or for a small group of instruments.",
+      "definitions_ex_en": "a chamber concert",
+      "definitions_ex_vn": "một buổi hòa nhạc buồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place (a bullet) into the chamber of a gun.",
+      "definitions_ex_en": "he chambered a fresh cartridge",
+      "definitions_ex_vn": "anh ta buồng một hộp mực tươi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051380_12e4a47a9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051380_ccd90ccb6a_o.png",
+      "id_image": "chamber_6213648"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051415_82ac61d66f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051415_408ae471ae_o.png",
+      "id_image": "chamber_815298"
+    }
+  ]
+}

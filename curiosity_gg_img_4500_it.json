@@ -1,0 +1,64 @@
+{
+  "english": "curiosity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hiếu kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ít có",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỳ dị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kỳ lạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hiếm có",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh ham biết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tò mò",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strong desire to know or learn something.",
+      "definitions_ex_en": "filled with curiosity, she peered through the window",
+      "definitions_ex_vn": "Đầy sự tò mò, cô nhìn qua cửa sổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strange or unusual object or fact.",
+      "definitions_ex_en": "he showed them some of the curiosities of the house",
+      "definitions_ex_vn": "Anh ấy chỉ cho họ một số sự tò mò của ngôi nhà",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315181_c8e3a63f12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315181_15cc32fbed_o.png",
+      "id_image": "curiosity_4953286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051705_d3e262323d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051705_edc28433c3_o.png",
+      "id_image": "curious_3362451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051660_538c22a4d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051660_6579eaf87f_o.png",
+      "id_image": "curious_5020323"
+    }
+  ]
+}

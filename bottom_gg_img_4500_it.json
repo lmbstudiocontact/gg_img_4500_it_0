@@ -1,0 +1,96 @@
+{
+  "english": "bottom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ thấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đáy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở dưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần dưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng đáy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem xét kỷ lưởng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the lowest point or part of something.",
+      "definitions_ex_en": "the bottom of the page",
+      "definitions_ex_vn": "Phía dưới của trang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's buttocks.",
+      "definitions_ex_en": "he climbs the side of the gorge, scratching his bottom unselfconsciously",
+      "definitions_ex_vn": "Anh ta leo lên một bên hẻm núi, gãi đáy của anh ta một cách vô ý",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stamina or strength of character, especially of a horse.",
+      "definitions_ex_en": "whatever his faults, he possesses that old-fashioned quality—bottom",
+      "definitions_ex_vn": "Dù lỗi của anh ấy là gì, anh ấy sở hữu đáy chất lượng cũ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a man who takes the passive role in anal intercourse with another man.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the second half of an inning.",
+      "definitions_ex_en": "the bottom of the ninth",
+      "definitions_ex_vn": "đáy của thứ chín",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in the lowest position.",
+      "definitions_ex_en": "the books on the bottom shelf",
+      "definitions_ex_vn": "những cuốn sách trên kệ dưới cùng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a flavor (variety) of unstable quark having an electric charge of - 1/3. Bottom quarks have similar properties to down quarks and strange quarks, but are distinguished from them by having a larger mass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a performance or situation) reach the lowest point before stabilizing or improving.",
+      "definitions_ex_en": "interest rates have bottomed out",
+      "definitions_ex_vn": "Lãi suất đã chạm đáy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057805_899f6e5826_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057805_9e7665e71f_o.png",
+      "id_image": "bottom_2329812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057775_6e607f9519_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057775_9c8bc0f026_o.png",
+      "id_image": "bottom_3602893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436288_d83d4a196a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436288_a9eb003ddb_o.png",
+      "id_image": "bottom_979792"
+    }
+  ]
+}

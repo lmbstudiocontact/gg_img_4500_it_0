@@ -1,0 +1,72 @@
+{
+  "english": "bias",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tư kiến",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "dự kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường nghiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuynh hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chịu ảnh hưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có khuynh hướng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+      "definitions_ex_en": "there was evidence of bias against foreign applicants",
+      "definitions_ex_vn": "Có bằng chứng về sự thiên vị đối với người nộp đơn nước ngoài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in some sports, such as lawn bowling, the irregular shape given to a ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a steady voltage, magnetic field, or other factor applied to an electronic system or device to cause it to operate over a predetermined range.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause to feel or show inclination or prejudice for or against someone or something.",
+      "definitions_ex_en": "all too often, our recruitment processes are biased toward younger candidates",
+      "definitions_ex_vn": "Tất cả quá thường xuyên, các quy trình tuyển dụng của chúng tôi được thiên vị đối với các ứng cử viên trẻ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give a bias to.",
+      "definitions_ex_en": "bias the ball",
+      "definitions_ex_vn": "thiên vị bóng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421758_31d2217b56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421758_2f5ca6a9a1_o.png",
+      "id_image": "bias_6314227"
+    }
+  ]
+}

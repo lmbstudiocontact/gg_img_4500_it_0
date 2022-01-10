@@ -1,0 +1,86 @@
+{
+  "english": "beam",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cán cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây đà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhánh cái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sườn ngang",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, sturdy piece of squared timber or metal spanning an opening or part of a building, usually to support the roof or floor above.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ray or shaft of light.",
+      "definitions_ex_en": "a beam of light flashed in front of her",
+      "definitions_ex_vn": "một chùm ánh sáng lóe lên trước mặt cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a radiant or good-natured look or smile.",
+      "definitions_ex_en": "a beam of satisfaction",
+      "definitions_ex_vn": "một chùm sự hài lòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "transmit (a radio signal or broadcast) in a specified direction.",
+      "definitions_ex_en": "beaming a distress signal into space",
+      "definitions_ex_vn": "rạng rỡ một tín hiệu đau khổ vào không gian",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a light or light source) shine brightly.",
+      "definitions_ex_en": "the sun's rays beamed down",
+      "definitions_ex_vn": "Những tia nắng mặt trời chiếu xuống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "smile radiantly.",
+      "definitions_ex_en": "she beamed with pleasure",
+      "definitions_ex_vn": "Cô ấy cười rạng rỡ với niềm vui",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "construct a ceiling with exposed beams.",
+      "definitions_ex_en": "vaulted beamed ceilings in the family room",
+      "definitions_ex_vn": "trần nhà rạng rỡ trong phòng gia đình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355987_2febe2de3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355987_3f85ea8b13_o.png",
+      "id_image": "beam_5672100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356032_2b6526af69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356032_b720b1570f_o.png",
+      "id_image": "beam_605594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048560_d4f2b4a027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048560_3e87da5321_o.png",
+      "id_image": "beam_605595"
+    }
+  ]
+}

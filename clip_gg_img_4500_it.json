@@ -1,0 +1,142 @@
+{
+  "english": "clip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái cặp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái kẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ nạp đạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kềm bấm vé",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xén hớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cặp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểm soát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xén",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cái bốp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cú đánh lẹ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xén",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xén lá cây",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device, typically flexible or worked by a spring, for holding an object or objects together or in place.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of clipping or trimming something.",
+      "definitions_ex_en": "I gave him a full clip",
+      "definitions_ex_vn": "Tôi đã cho anh ta một clip đầy đủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short sequence taken from a movie or broadcast.",
+      "definitions_ex_en": "clips from earlier shows",
+      "definitions_ex_vn": "clip từ các chương trình trước đó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a specified speed or rate of movement, especially when rapid.",
+      "definitions_ex_en": "we crossed the dance floor at a fast clip",
+      "definitions_ex_vn": "Chúng tôi băng qua sàn nhảy vào một clip nhanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten or be fastened with a clip or clips.",
+      "definitions_ex_en": "she clipped on a pair of diamond earrings",
+      "definitions_ex_vn": "cô ấy cắt trên một đôi bông tai kim cương",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut short or trim (hair, wool, nails, or vegetation) with shears or scissors.",
+      "definitions_ex_en": "clipping the hedge",
+      "definitions_ex_vn": "cắt hàng rào",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068230_16c933c1a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068230_87334f76e8_o.png",
+      "id_image": "clip_2003509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068170_492f020a6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068170_35648e57bf_o.png",
+      "id_image": "clip_2249530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686424_fb02c21cf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686424_2318c7dfc9_o.png",
+      "id_image": "clip_2598013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331356_6b1caac6e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331356_b0bd7f658b_o.png",
+      "id_image": "clip_2748981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446308_f8ae1a41b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446308_f7ecdf6f3d_o.png",
+      "id_image": "clip_4684452"
+    }
+  ]
+}

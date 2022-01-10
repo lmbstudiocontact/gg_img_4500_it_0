@@ -1,0 +1,98 @@
+{
+  "english": "brake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bụi rậm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ dùng đập đat",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy bẻ đay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tay vặn máy bơm nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thắng xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đạp thắng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device for slowing or stopping a moving vehicle, typically by applying pressure to the wheels.",
+      "definitions_ex_en": "he slammed on his brakes",
+      "definitions_ex_vn": "Anh đập vào phanh của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an open, horse-drawn, four-wheeled carriage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a toothed instrument used for crushing flax and hemp.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thicket.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a coarse fern of warm and tropical countries, frequently having the fronds divided into long linear segments.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a moving vehicle slow down or stop by using a brake.",
+      "definitions_ex_en": "drivers who brake abruptly",
+      "definitions_ex_vn": "những người lái xe phanh đột ngột",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "archaic past of break1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363087_4989b24ce1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363087_07f42f9314_o.png",
+      "id_image": "brakes_662856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363147_5545fd858e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363147_2bbbd87f6c_o.png",
+      "id_image": "brake_1581914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433793_6fe7980bd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433793_7443341c5b_o.png",
+      "id_image": "brake_1870853"
+    }
+  ]
+}

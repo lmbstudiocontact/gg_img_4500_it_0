@@ -1,0 +1,58 @@
+{
+  "english": "comparative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ sự so sánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dùng để so sánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tương đối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tỷ giao",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tỷ đối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "perceptible by comparison; relative.",
+      "definitions_ex_en": "he returned to the comparative comfort of his own home",
+      "definitions_ex_vn": "Anh trở lại sự thoải mái so sánh của ngôi nhà của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or involving comparison between two or more branches of science or subjects of study.",
+      "definitions_ex_en": "comparative religion",
+      "definitions_ex_vn": "Tôn giáo so sánh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an adjective or adverb) expressing a higher degree of a quality, but not the highest possible (e.g. braver ; more fiercely ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a comparative adjective or adverb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672144_5ce4b5475e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672144_6edc5942d4_o.png",
+      "id_image": "comparative_5835524"
+    }
+  ]
+}

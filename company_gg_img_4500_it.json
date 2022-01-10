@@ -1,0 +1,104 @@
+{
+  "english": "company",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công ty",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung đụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung sống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hội hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hội buôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hùn vốn chung",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a commercial business.",
+      "definitions_ex_en": "a shipping company",
+      "definitions_ex_vn": "một công ty vận chuyển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the fact or condition of being with another or others, especially in a way that provides friendship and enjoyment.",
+      "definitions_ex_en": "I could do with some company",
+      "definitions_ex_vn": "Tôi có thể làm với một số công ty",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a number of individuals gathered together, especially for a particular purpose.",
+      "definitions_ex_en": "the Mayor addressed the assembled company",
+      "definitions_ex_vn": "Thị trưởng đã đề cập đến công ty lắp ráp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Central Intelligence Agency.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "associate with; keep company with.",
+      "definitions_ex_en": "these men which have companied with us all this time",
+      "definitions_ex_vn": "Những người đàn ông này có các công ty với chúng tôi trong suốt thời gian này",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317511_18051d87bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317511_ac8f2e080d_o.png",
+      "id_image": "company_2761008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053990_72ce3e6c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053990_387e398894_o.png",
+      "id_image": "company_2798710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053935_541b9250df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053935_30034dc894_o.png",
+      "id_image": "company_4514945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432558_35809829ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432558_e1f2b4e809_o.png",
+      "id_image": "company_5663343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054050_c19a1176ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054050_3898c7ebe9_o.png",
+      "id_image": "company_992824"
+    }
+  ]
+}

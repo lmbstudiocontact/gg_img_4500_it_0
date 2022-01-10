@@ -1,0 +1,42 @@
+{
+  "english": "current",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hiện tại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiện hành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đang lưu hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "belonging to the present time; happening or being used or done now.",
+      "definitions_ex_en": "keep abreast of current events",
+      "definitions_ex_vn": "bám sát các sự kiện hiện tại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a body of water or air moving in a definite direction, especially through a surrounding body of water or air in which there is less movement.",
+      "definitions_ex_en": "ocean currents",
+      "definitions_ex_vn": "dòng chảy đại dương",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358922_313e2f2a15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358922_433d3f09a2_o.png",
+      "id_image": "current_2361619"
+    }
+  ]
+}

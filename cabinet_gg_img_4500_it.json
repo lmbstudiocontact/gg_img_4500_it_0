@@ -1,0 +1,67 @@
+{
+  "english": "cabinet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ chung tất cả bộ trưởng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nội các chánh phủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tủ kiến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cupboard with shelves or drawers for storing or displaying articles.",
+      "definitions_ex_en": "a medicine cabinet",
+      "definitions_ex_vn": "một tủ thuốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the UK, Canada, and other Commonwealth countries) the committee of senior ministers responsible for controlling government policy.",
+      "definitions_ex_en": "a cabinet meeting",
+      "definitions_ex_vn": "một cuộc họp nội các",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small private room.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422133_d6408bca90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422133_393439f2c2_o.png",
+      "id_image": "cabinet_3255558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306911_03ff5cc174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306911_e1156c442a_o.png",
+      "id_image": "cabinet_4806477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306871_b73468d8ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306871_b92712dcfd_o.png",
+      "id_image": "cabinet_5684022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306966_dbeac0ed10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306966_371e99d94f_o.png",
+      "id_image": "cabinet_700082"
+    }
+  ]
+}

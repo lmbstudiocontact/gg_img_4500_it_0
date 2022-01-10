@@ -1,0 +1,110 @@
+{
+  "english": "circuit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chu vi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quanh co",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi quanh co",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạy quanh co",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xoay vòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật bao quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi một vòng lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luồng điện vòng quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quanh co",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a roughly circular line, route, or movement that starts and finishes at the same place.",
+      "definitions_ex_en": "I ran a circuit of the village",
+      "definitions_ex_vn": "Tôi chạy một mạch của làng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an established itinerary of events or venues used for a particular activity, typically involving public performance.",
+      "definitions_ex_en": "the alternative cabaret circuit",
+      "definitions_ex_vn": "Mạch cabaret thay thế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a complete and closed path around which a circulating electric current can flow.",
+      "definitions_ex_en": "the maximum number of light fittings on a circuit is twelve",
+      "definitions_ex_vn": "Số lượng phụ kiện ánh sáng tối đa trên một mạch là mười hai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move all the way around (a place or thing).",
+      "definitions_ex_en": "the trains will follow the Northern line, circuiting the capital",
+      "definitions_ex_vn": "Các chuyến tàu sẽ theo dòng phía bắc, mạch vốn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350617_a1580e62a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350617_3b395bec25_o.png",
+      "id_image": "circuit_3211832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421643_fe284f65e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421643_980312bb82_o.png",
+      "id_image": "circuit_4259332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306431_afbc7d76a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306431_b8af27fa8c_o.png",
+      "id_image": "circuit_4606967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421568_5ee6cbfb77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421568_d8a1ba0b19_o.png",
+      "id_image": "circuit_4684553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661839_22086a2e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661839_5e833a7f4b_o.png",
+      "id_image": "circuit_675827"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "curve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cong vòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình thế vật cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khòm lưng xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc đường quẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uốn cong",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a line or outline which gradually deviates from being straight for some or all of its length.",
+      "definitions_ex_en": "the parapet wall sweeps down in a bold curve",
+      "definitions_ex_vn": "Bức tường Parapet quét xuống trong một đường cong đậm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form or cause to form a curve.",
+      "definitions_ex_en": "her mouth curved in a smile",
+      "definitions_ex_vn": "miệng cô cong trong một nụ cười",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314191_b11904970c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314191_d7fa0094b5_o.png",
+      "id_image": "curve_1070223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668894_684f8990e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668894_f10e8a22a9_o.png",
+      "id_image": "curve_1900206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314126_fca138d001_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314126_c77c05a964_o.png",
+      "id_image": "curve_2597900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050705_fa8935524d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050705_e380ffca28_o.png",
+      "id_image": "curve_5772951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429153_242fd352d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429153_9a3627b51b_o.png",
+      "id_image": "curve_803199"
+    }
+  ]
+}

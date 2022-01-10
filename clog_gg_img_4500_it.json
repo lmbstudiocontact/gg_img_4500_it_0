@@ -1,0 +1,86 @@
+{
+  "english": "clog",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịt kín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây xích chân ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giầy guốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lấp lổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngăn cản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trở ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật cản trở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xiềng chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bịt lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm trở ngại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shoe with a thick wooden sole.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an encumbrance or impediment.",
+      "definitions_ex_en": "a clog in the system",
+      "definitions_ex_vn": "một cái guốc trong hệ thống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "block or become blocked with an accumulation of thick, wet matter.",
+      "definitions_ex_en": "the gutters were clogged up with leaves",
+      "definitions_ex_vn": "Các máng xối bị tắc nghẽn với lá",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375232_e60a997502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375232_d73a184307_o.png",
+      "id_image": "clog_5799269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330466_19abc18a99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330466_14c19f5b56_o.png",
+      "id_image": "clog_5955987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375282_b455ee265c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375282_7fda943425_o.png",
+      "id_image": "clog_805277"
+    }
+  ]
+}

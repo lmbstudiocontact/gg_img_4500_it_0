@@ -1,0 +1,37 @@
+{
+  "english": "conquer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chế ngự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chinh phục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xâm lược",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "overcome and take control of (a place or people) by use of military force.",
+      "definitions_ex_en": "the Magyars conquered Hungary in the Middle Ages",
+      "definitions_ex_vn": "Magyars đã chinh phục Hungary vào thời trung cổ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425703_ff8bdb5873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425703_06eeea5371_o.png",
+      "id_image": "conquer_2597236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425663_27739f37a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425663_92dfff6643_o.png",
+      "id_image": "conquer_6257400"
+    }
+  ]
+}

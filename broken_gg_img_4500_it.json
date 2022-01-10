@@ -1,0 +1,76 @@
+{
+  "english": "broken",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đả bể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đả nứt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đả vở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past participle of break1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "having been fractured or damaged and no longer in one piece or in working order.",
+      "definitions_ex_en": "he had a broken arm",
+      "definitions_ex_vn": "anh ấy có một cánh tay bị gãy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) having given up all hope; despairing.",
+      "definitions_ex_en": "he went to his grave a broken man",
+      "definitions_ex_vn": "anh ấy đã đi đến mộ của mình một người đàn ông tan vỡ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having breaks or gaps in continuity.",
+      "definitions_ex_en": "a broken white line across the road",
+      "definitions_ex_vn": "một đường trắng bị hỏng trên đường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having an uneven and rough surface.",
+      "definitions_ex_en": "broken ground",
+      "definitions_ex_vn": "gãy đất",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430033_c5a36663de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430033_d6a68fc17f_o.png",
+      "id_image": "broken_1656426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315101_1f3518590e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315101_35f0a371ba_o.png",
+      "id_image": "broken_1719145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429973_a92aaa9e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429973_d7dfc0ce2e_o.png",
+      "id_image": "broken_4772164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051565_a4d5a559ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051565_a6252eeaff_o.png",
+      "id_image": "broken_6267452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051695_9c247e3e93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051695_e212fa224f_o.png",
+      "id_image": "broken_977873"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "bearer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đem",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khiêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sanh lợi nhiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để chóng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that carries or holds something.",
+      "definitions_ex_en": "a flag-bearer",
+      "definitions_ex_vn": "một người mang cờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who presents a check or other order to pay money.",
+      "definitions_ex_en": "promissory notes payable to the bearer",
+      "definitions_ex_vn": "Ghi chú Promissory phải trả cho người mang",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048030_c093d52e3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048030_8a9c3f967a_o.png",
+      "id_image": "bearer_1347435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355447_d123b0ddbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355447_dd1ba7558a_o.png",
+      "id_image": "bearer_6413521"
+    }
+  ]
+}

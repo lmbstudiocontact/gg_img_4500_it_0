@@ -1,0 +1,115 @@
+{
+  "english": "carry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thừa nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ẳm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắn xa đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi nơi khác bằng tàu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "support and move (someone or something) from one place to another.",
+      "definitions_ex_en": "medics were carrying a wounded man on a stretcher",
+      "definitions_ex_vn": "Medics đang mang một người đàn ông bị thương trên cáng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "support the weight of.",
+      "definitions_ex_en": "the bridge is capable of carrying even the heaviest loads",
+      "definitions_ex_vn": "Cây cầu có khả năng mang theo nhiều tải nặng nhất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a sound, ball, missile, etc.) reach a certain point.",
+      "definitions_ex_en": "his voice carried clearly across the room",
+      "definitions_ex_vn": "giọng anh mang rõ ràng bên kia phòng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assume or accept (responsibility or blame).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have as a feature or consequence.",
+      "definitions_ex_en": "being a combat sport, karate carries with it the risk of injury",
+      "definitions_ex_vn": "Là một môn thể thao chiến đấu, karate mang theo nguy cơ chấn thương",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "approve (a proposed measure) by a majority of votes.",
+      "definitions_ex_en": "the resolution was carried by a two-to-one majority",
+      "definitions_ex_vn": "Độ phân giải được thực hiện bởi một đa số hai đến một",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "transfer (a figure) to an adjacent column during an arithmetical operation (e.g., when a column of digits adds up to more than ten).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of lifting and transporting something from one place to another.",
+      "definitions_ex_en": "we did a carry of equipment from the camp",
+      "definitions_ex_vn": "Chúng tôi đã thực hiện một thiết bị từ trại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the range of a gun or similar weapon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the maintenance of an investment position in a securities market, especially with regard to the costs or profits accruing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368352_fe656b7e8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368352_e5b7f94c98_o.png",
+      "id_image": "carrying_4770336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438618_2e77c69230_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438618_ca4d69a0ea_o.png",
+      "id_image": "carry_1165761"
+    }
+  ]
+}

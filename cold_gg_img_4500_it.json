@@ -1,0 +1,106 @@
+{
+  "english": "cold",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cảm hàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chứng cảm phong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lạnh lùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phát lạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rét",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô tình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lãnh đạm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or at a low or relatively low temperature, especially when compared with the human body.",
+      "definitions_ex_en": "a freezing cold day",
+      "definitions_ex_vn": "một ngày lạnh giá đông lạnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lacking affection or warmth of feeling; unemotional.",
+      "definitions_ex_en": "how cold and calculating he was",
+      "definitions_ex_vn": "Làm thế nào lạnh lùng và tính toán anh ta đã",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of the scent or trail of a hunted person or animal) no longer fresh and easy to follow.",
+      "definitions_ex_en": "the trail went cold",
+      "definitions_ex_vn": "Đường mòn lạnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "without preparation or rehearsal; unawares.",
+      "definitions_ex_en": "going into the test cold",
+      "definitions_ex_vn": "đi vào thử nghiệm lạnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a low temperature, especially in the atmosphere; cold weather; a cold environment.",
+      "definitions_ex_en": "my teeth chattered with the cold",
+      "definitions_ex_vn": "răng của tôi đau khổ với cái lạnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a common viral infection in which the mucous membrane of the nose and throat becomes inflamed, typically causing running at the nose, sneezing, a sore throat, and other similar symptoms.",
+      "definitions_ex_en": "Suzie's got a cold",
+      "definitions_ex_vn": "Suzie bị cảm lạnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059945_7d32fa4c1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059945_d4a06937d5_o.png",
+      "id_image": "cold_1146841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059900_7e51a3bda8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059900_eba3fa1726_o.png",
+      "id_image": "cold_4647942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323126_76b2d5771d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323126_45d656c772_o.png",
+      "id_image": "cold_5110580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059820_9f2f9fabe9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059820_a0515de4af_o.png",
+      "id_image": "cold_5492994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323186_d835a76b89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323186_73fcb81f5f_o.png",
+      "id_image": "cold_645709"
+    }
+  ]
+}

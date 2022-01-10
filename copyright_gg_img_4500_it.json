@@ -1,0 +1,63 @@
+{
+  "english": "copyright",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giử bản quyền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bản quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "được quyền tác giả cho phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền tác giả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the exclusive legal right, given to an originator or an assignee to print, publish, perform, film, or record literary, artistic, or musical material, and to authorize others to do the same.",
+      "definitions_ex_en": "he issued a writ for breach of copyright",
+      "definitions_ex_vn": "Ông đã ban hành một bài viết về vi phạm bản quyền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "protected by copyright.",
+      "definitions_ex_en": "permission to reproduce photographs and other copyright material",
+      "definitions_ex_vn": "được phép tái tạo hình ảnh và các vật liệu bản quyền khác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "secure copyright for (material).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333166_81454a4c6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333166_b9888a0e8e_o.png",
+      "id_image": "copyright_1620455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448228_3eab7660d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448228_89673984ea_o.png",
+      "id_image": "copyright_3579179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333101_9d0b1eaa91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333101_9f91b0bcb6_o.png",
+      "id_image": "copyright_4391480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333056_022b87bb2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333056_38f6113a03_o.png",
+      "id_image": "copyright_4391568"
+    }
+  ]
+}

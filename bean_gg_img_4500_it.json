@@ -1,0 +1,69 @@
+{
+  "english": "bean",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chói sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hớn hở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an edible seed, typically kidney-shaped, growing in long pods on certain leguminous plants.",
+      "definitions_ex_en": "beans on toast",
+      "definitions_ex_vn": "đậu trên bánh mì nướng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a leguminous plant that bears beans in pods.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very small amount or nothing at all of something (used emphatically).",
+      "definitions_ex_en": "there is not a single bean of substance in the report",
+      "definitions_ex_vn": "Không có một loại đậu nào trong báo cáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's head, especially when regarded as a source of common sense.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048475_c3a22dbf29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048475_763415a484_o.png",
+      "id_image": "bean_2551399"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355932_38bde7d908_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355932_cac2c9a6c5_o.png",
+      "id_image": "bean_2612556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355892_2b39f18b9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355892_96e76ec09e_o.png",
+      "id_image": "bean_2656607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666729_9a6105a485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666729_8f44b0709f_o.png",
+      "id_image": "bean_2656697"
+    }
+  ]
+}

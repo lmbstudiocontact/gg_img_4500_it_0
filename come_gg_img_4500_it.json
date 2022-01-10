@@ -1,0 +1,99 @@
+{
+  "english": "come",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi tới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lên đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lên tới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xảy đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xảy ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or travel toward or into a place thought of as near or familiar to the speaker.",
+      "definitions_ex_en": "Jessica came into the kitchen",
+      "definitions_ex_vn": "Jessica vào bếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "occur; happen; take place.",
+      "definitions_ex_en": "twilight had not yet come",
+      "definitions_ex_vn": "Chưa nắng chưa đến",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take or occupy a specified position in space, order, or priority.",
+      "definitions_ex_en": "prisons come far down the list of priorities",
+      "definitions_ex_vn": "Các nhà tù đi xa trong danh sách các ưu tiên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass into a specified state, especially one of separation or disunion.",
+      "definitions_ex_en": "his shirt had come undone",
+      "definitions_ex_vn": "Áo của anh ấy đã hoàn tác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be sold, available, or found in a specified form.",
+      "definitions_ex_en": "the cars come with a variety of extras",
+      "definitions_ex_vn": "Những chiếc xe đi kèm với một loạt các tính năng bổ sung",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have an orgasm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "when a specified time is reached or event happens.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "semen ejaculated by a man at an orgasm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364947_9d2da0dfe4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364947_ee881d6e80_o.png",
+      "id_image": "come_2165937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364892_2d2c9b3cfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364892_e6e4d451c7_o.png",
+      "id_image": "come_6401042"
+    }
+  ]
+}

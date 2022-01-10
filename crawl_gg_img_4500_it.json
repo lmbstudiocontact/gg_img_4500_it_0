@@ -1,0 +1,114 @@
+{
+  "english": "crawl",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ao nuôi cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách lội sải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ nuôi rùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối đi kéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lội kiểu sải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe chạy rề rề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trườn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bò",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy rề rề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lê chân bước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trườn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) move forward on the hands and knees or by dragging the body close to the ground.",
+      "definitions_ex_en": "they crawled out from under the table",
+      "definitions_ex_vn": "Họ bò ra từ dưới bàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "behave obsequiously or ingratiatingly in the hope of gaining someone's favor.",
+      "definitions_ex_en": "don't come crawling back to me later when you realize your mistake",
+      "definitions_ex_vn": "Đừng để bò trở lại với tôi sau khi bạn nhận ra sai lầm của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be covered or crowded with insects or people, to an extent that is disgusting or objectionable.",
+      "definitions_ex_en": "the place was crawling with soldiers",
+      "definitions_ex_vn": "nơi này đang bò với những người lính",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a program) systematically visit (a number of web pages) in order to create an index of data.",
+      "definitions_ex_en": "its automated software robots crawl websites, grabbing copies of pages to index",
+      "definitions_ex_vn": "Phần mềm tự động của nó robot thu thập dữ liệu trang web, lấy các bản sao của các trang để lập chỉ mục",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of moving on one's hands and knees or dragging one's body along the ground.",
+      "definitions_ex_en": "they began the crawl back to their own lines",
+      "definitions_ex_vn": "Họ bắt đầu bò trở lại dòng của riêng họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a swimming stroke involving alternate overarm movements and rapid kicks of the legs.",
+      "definitions_ex_en": "she could do the crawl and so many other strokes",
+      "definitions_ex_vn": "cô ấy có thể làm thu thập thông tin và rất nhiều nét khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strip or band running across the bottom of a computer or television screen, within which news headlines, public service announcements, and advertisements are continuously scrolled.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438313_52278a1175_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438313_851c288a44_o.png",
+      "id_image": "crawl_2430098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323171_8cdf47cbc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323171_b185b41bdd_o.png",
+      "id_image": "crawl_5660203"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678344_02a76d834b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678344_6420aabe68_o.png",
+      "id_image": "crawl_5772836"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "conclusion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung kết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuối phiên hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần cuối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần kết luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kết thúc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the end or finish of an event or process.",
+      "definitions_ex_en": "the conclusion of World War Two",
+      "definitions_ex_vn": "Kết luận của Thế chiến thứ hai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a judgment or decision reached by reasoning.",
+      "definitions_ex_en": "each research group came to a similar conclusion",
+      "definitions_ex_vn": "Mỗi nhóm nghiên cứu đã đi đến một kết luận tương tự",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313526_57b9841d1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313526_62e591c5e3_o.png",
+      "id_image": "conclusion_6079733"
+    }
+  ]
+}

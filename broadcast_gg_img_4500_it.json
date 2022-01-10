@@ -1,0 +1,84 @@
+{
+  "english": "broadcast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trên không",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "truyền đi bằng vô tuyến điện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gieo tung lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truyền tin tức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tin tức được pháy thanh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "transmit (a program or some information) by radio or television.",
+      "definitions_ex_en": "the announcement was broadcast live",
+      "definitions_ex_vn": "Thông báo đã được phát sóng trực tiếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "scatter (seeds) by hand or machine rather than placing in drills or rows.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a radio or television program or transmission.",
+      "definitions_ex_en": "the Queen's annual Christmas TV broadcast",
+      "definitions_ex_vn": "TV Giáng sinh hàng năm của Nữ hoàng phát sóng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to radio or television transmission.",
+      "definitions_ex_en": "a broadcast journalist",
+      "definitions_ex_vn": "một nhà báo phát sóng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "by scattering.",
+      "definitions_ex_en": "green manure can be sown broadcast or in rows",
+      "definitions_ex_vn": "Phân xanh có thể được gieo phát sóng hoặc trong hàng",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315726_8195aa7171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315726_f7fb0e969e_o.png",
+      "id_image": "broadcast_2396257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359872_1b294db17b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359872_4bbf3aebcf_o.png",
+      "id_image": "broadcast_4318954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670319_a1854955cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670319_eb848ce1b1_o.png",
+      "id_image": "broadcast_5008315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430468_994f4c743c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430468_86512fce1d_o.png",
+      "id_image": "broadcast_6315596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670414_6505bc42c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670414_39e99f0a1d_o.png",
+      "id_image": "broadcast_650949"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "creation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đóng tuồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phong chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sáng tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tác phẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật được tạo thành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of bringing something into existence.",
+      "definitions_ex_en": "job creation",
+      "definitions_ex_vn": "tạo việc làm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the bringing into of existence of the universe, especially when regarded as an act of God.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or process of investing someone with a new rank or title.",
+      "definitions_ex_en": "Edward's generosity extended beyond the creation of earls",
+      "definitions_ex_vn": "Sự hào phóng của Edward mở rộng vượt ra ngoài việc tạo ra Earls",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437543_e7711be239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437543_9e8e889421_o.png",
+      "id_image": "creation_4752531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059065_7677b87c41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059065_dc4cd8aa88_o.png",
+      "id_image": "creation_5332297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677444_7815be534b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677444_6c146ffaa9_o.png",
+      "id_image": "creation_992619"
+    }
+  ]
+}

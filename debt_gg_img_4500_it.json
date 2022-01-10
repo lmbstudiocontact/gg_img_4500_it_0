@@ -1,0 +1,44 @@
+{
+  "english": "debt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nợ nần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "something, typically money, that is owed or due.",
+      "definitions_ex_en": "I paid off my debts",
+      "definitions_ex_vn": "Tôi đã trả hết nợ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423228_322b12a299_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423228_e97f461a03_o.png",
+      "id_image": "debt_2398982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308026_5809993922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308026_d9f78ee709_o.png",
+      "id_image": "debt_2762625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307991_dc924f69b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307991_2e9d4d2c64_o.png",
+      "id_image": "debt_4334582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663194_ed3dccc5b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663194_19a3db1197_o.png",
+      "id_image": "debt_5705208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423083_5d939d18d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423083_7b25e12c8e_o.png",
+      "id_image": "debt_6159704"
+    }
+  ]
+}

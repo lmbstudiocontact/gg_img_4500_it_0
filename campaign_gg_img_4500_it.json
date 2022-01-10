@@ -1,0 +1,55 @@
+{
+  "english": "campaign",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc vận động tuyển cử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tùng quân",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an organized course of action to achieve a goal.",
+      "definitions_ex_en": "the campaign for a full inquiry into the regime",
+      "definitions_ex_vn": "Chiến dịch cho một cuộc điều tra đầy đủ vào chế độ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a series of military operations intended to achieve a particular objective, confined to a particular area, or involving a specified type of fighting.",
+      "definitions_ex_en": "a desert campaign",
+      "definitions_ex_vn": "một chiến dịch sa mạc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work in an organized and active way toward a particular goal, typically a political or social one.",
+      "definitions_ex_en": "people who campaigned against child labor",
+      "definitions_ex_vn": "Những người vận động chống lại lao động trẻ em",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041545_521c80c4f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041545_4fac11dfd3_o.png",
+      "id_image": "campaign_1666049"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660044_bfeed31cb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660044_8fdd6d3969_o.png",
+      "id_image": "campaign_1999239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304681_4dfec0bbdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304681_221687c5eb_o.png",
+      "id_image": "campaign_5175207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419638_f83304dfd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419638_6e97545fc0_o.png",
+      "id_image": "campaign_5605843"
+    }
+  ]
+}

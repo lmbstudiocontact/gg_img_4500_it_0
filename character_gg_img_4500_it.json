@@ -1,0 +1,111 @@
+{
+  "english": "character",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con chữ dùng để in",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cương nghị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặc chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặc sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặc tính một dân tộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí sắc riêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân vật trong một văn phẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự can đảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng tăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vai tuồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chữ viết của người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the mental and moral qualities distinctive to an individual.",
+      "definitions_ex_en": "running away was not in keeping with her character",
+      "definitions_ex_vn": "chạy trốn không phù hợp với nhân vật của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person in a novel, play, or movie.",
+      "definitions_ex_en": "the author's compassionate identification with his characters",
+      "definitions_ex_vn": "Nhận dạng từ bi của tác giả với các nhân vật của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a printed or written letter or symbol.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a characteristic, especially one that assists in the identification of a species.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "inscribe; engrave.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313891_6b6f2ec6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313891_46895451f3_o.png",
+      "id_image": "character_213272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358062_6395fbb590_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358062_d696d43215_o.png",
+      "id_image": "character_4352110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668604_a1d9753e56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668604_eb785265df_o.png",
+      "id_image": "character_4402843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357967_e025c2f977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357967_ef529948c9_o.png",
+      "id_image": "character_4402868"
+    }
+  ]
+}

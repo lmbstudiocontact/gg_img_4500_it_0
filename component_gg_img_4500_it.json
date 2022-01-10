@@ -1,0 +1,58 @@
+{
+  "english": "component",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cấu tạo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hợp thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thấu kính",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a part or element of a larger whole, especially a part of a machine or vehicle.",
+      "definitions_ex_en": "stereo components",
+      "definitions_ex_vn": "Linh kiện âm thanh nổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "constituting part of a larger whole; constituent.",
+      "definitions_ex_en": "light passed through a prism breaks up into its component colors",
+      "definitions_ex_vn": "ánh sáng được truyền qua một lăng kính tan vỡ vào màu sắc thành phần của nó",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359667_e6fac890dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359667_f90012f266_o.png",
+      "id_image": "component_5830299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315631_c6ef19f5ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315631_8997552cd2_o.png",
+      "id_image": "component_915755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359762_c21ffe46e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359762_5b371a1112_o.png",
+      "id_image": "component_915756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052025_2112dd70e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052025_5a5a3a0419_o.png",
+      "id_image": "component_915757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430408_efc8a144f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430408_dc22729566_o.png",
+      "id_image": "component_915758"
+    }
+  ]
+}

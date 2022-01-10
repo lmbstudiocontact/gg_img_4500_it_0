@@ -1,0 +1,66 @@
+{
+  "english": "collector",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người góp nhặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người quyên tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sưu tầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thâu lãnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thâu tiền góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thâu thuế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thu điện tử",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who collects things of a specified type, professionally or as a hobby.",
+      "definitions_ex_en": "an art collector",
+      "definitions_ex_vn": "một nhà sưu tập nghệ thuật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an official who is responsible for collecting money.",
+      "definitions_ex_en": "a tax collector",
+      "definitions_ex_vn": "một nhà sưu tập thuế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in some South Asian countries) the chief administrative official of a district.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the region in a bipolar transistor that absorbs charge carriers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436883_2a3febed09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436883_e6f948486f_o.png",
+      "id_image": "collector_6295456"
+    }
+  ]
+}

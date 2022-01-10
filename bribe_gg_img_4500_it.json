@@ -1,0 +1,53 @@
+{
+  "english": "bribe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "của hối lộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền hối lộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đút lót",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "persuade (someone) to act in one's favor, typically illegally or dishonestly, by a gift of money or other inducement.",
+      "definitions_ex_en": "an undercover agent bribed the judge into giving a lenient sentence",
+      "definitions_ex_vn": "một đại lý bí mật đã mua chuộc thẩm phán để đưa ra một bản án khoan hồng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sum of money or other inducement offered or given to bribe someone.",
+      "definitions_ex_en": "lawmakers were caught accepting bribes to bring in legalized gambling",
+      "definitions_ex_vn": "Các nhà lập pháp đã bị bắt được chấp nhận hối lộ để mang lại cho việc đánh bạc hợp pháp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360862_e87e098e09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360862_3e36ae1680_o.png",
+      "id_image": "bribery_2631520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431558_d3e7bee940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431558_e4750a407e_o.png",
+      "id_image": "bribery_5434240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671374_86ca22aea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671374_a17c4dc79c_o.png",
+      "id_image": "bribe_3830650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671344_b5e95b20e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671344_6a9e729c3d_o.png",
+      "id_image": "bribe_5291764"
+    }
+  ]
+}

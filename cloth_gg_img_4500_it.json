@@ -1,0 +1,74 @@
+{
+  "english": "cloth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khăn lau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "len",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ vải lụa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm trải bàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "woven or felted fabric made from wool, cotton, or a similar fiber.",
+      "definitions_ex_en": "a cloth bag",
+      "definitions_ex_vn": "một túi vải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the clergy; the clerical profession.",
+      "definitions_ex_en": "a man of the cloth",
+      "definitions_ex_vn": "một người đàn ông của vải",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374212_dccb01ba25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374212_5924c12818_o.png",
+      "id_image": "clothes_1943869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444748_83a910b7bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444748_b3fbd08db5_o.png",
+      "id_image": "cloth_1065107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374347_e9f076bed6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374347_7d660284f2_o.png",
+      "id_image": "cloth_2954883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329701_6dba1d2a8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329701_f3e83e133e_o.png",
+      "id_image": "cloth_3540546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374307_db93310f88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374307_2a8573034d_o.png",
+      "id_image": "cloth_4299125"
+    }
+  ]
+}

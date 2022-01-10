@@ -1,0 +1,63 @@
+{
+  "english": "celebrate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chúc tụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hành lể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lể truy niệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán dương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity.",
+      "definitions_ex_en": "they were celebrating their wedding anniversary at a restaurant",
+      "definitions_ex_vn": "họ đang kỷ niệm ngày cưới của họ tại một nhà hàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "perform (a religious ceremony) publicly and duly, in particular officiate at (the Eucharist).",
+      "definitions_ex_en": "he celebrated holy communion",
+      "definitions_ex_vn": "Anh mừng lễ Rainrion",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "honor or praise publicly.",
+      "definitions_ex_en": "a film celebrating the actor's career",
+      "definitions_ex_vn": "Một bộ phim kỷ niệm sự nghiệp của diễn viên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054560_946850cdea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054560_fb06f2ec31_o.png",
+      "id_image": "celebrate_1553725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362397_dae43213c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362397_76414cb543_o.png",
+      "id_image": "celebrate_2367817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054490_d9dcba342f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054490_c3db9af576_o.png",
+      "id_image": "celebrate_4442765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317876_3c372ac217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317876_267e36ea9f_o.png",
+      "id_image": "celebrate_5020332"
+    }
+  ]
+}

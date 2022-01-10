@@ -1,0 +1,76 @@
+{
+  "english": "cluster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chùm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cụm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mọc từng chùm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dồn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành bầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành đàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thu góp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of similar things or people positioned or occurring closely together.",
+      "definitions_ex_en": "clusters of creamy-white flowers",
+      "definitions_ex_vn": "cụm hoa trắng kem",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be or come into a cluster or close group; congregate.",
+      "definitions_ex_en": "the children clustered around her skirts",
+      "definitions_ex_vn": "Những đứa trẻ tụ tập xung quanh váy của cô",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683149_25bc79b9c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683149_0803b92b90_o.png",
+      "id_image": "cluster_3231334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328026_e18790eab7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328026_e92ea29295_o.png",
+      "id_image": "cluster_3966298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328021_f24ae18626_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328021_19b5e0a7d0_o.png",
+      "id_image": "cluster_4882414"
+    }
+  ]
+}

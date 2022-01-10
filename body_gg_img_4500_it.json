@@ -1,0 +1,110 @@
+{
+  "english": "body",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thân cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thân thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thân thể người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cu lô",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the physical structure of a person or an animal, including the bones, flesh, and organs.",
+      "definitions_ex_en": "it's important to keep your body in good condition",
+      "definitions_ex_vn": "Điều quan trọng là giữ cho cơ thể của bạn trong tình trạng tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the main section of a car or aircraft.",
+      "definitions_ex_en": "the body of the aircraft was filled with smoke",
+      "definitions_ex_vn": "Cơ thể của máy bay chứa đầy khói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the main or central part of something, especially a building or text.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large or substantial amount of something; a mass or collection of something.",
+      "definitions_ex_en": "a rich body of Canadian folklore",
+      "definitions_ex_vn": "một cơ thể phong phú của dân gian Canada",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinct material object.",
+      "definitions_ex_en": "the path taken by the falling body",
+      "definitions_ex_vn": "Con đường được thực hiện bởi cơ thể rơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a full or substantial quality of flavor in wine.",
+      "definitions_ex_en": "best of all, this wine has body and finish",
+      "definitions_ex_vn": "tốt nhất trong tất cả, rượu này có thân và kết thúc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in pottery) a clay used for making the main part of ceramic ware, as distinct from a glaze.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give material form to something abstract.",
+      "definitions_ex_en": "he bodied forth the traditional Prussian remedy for all ills",
+      "definitions_ex_vn": "Anh ta thân thể các phương thuốc Phổ truyền thống cho tất cả các bệnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "build the bodywork of (a motor vehicle).",
+      "definitions_ex_en": "an era when automobiles were bodied over wooden frames",
+      "definitions_ex_vn": "một kỷ nguyên khi ô tô có thân trên khung gỗ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326866_777e03f4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326866_045ef3f916_o.png",
+      "id_image": "body_2375349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681929_1f4086b2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681929_4a42659eea_o.png",
+      "id_image": "body_2688232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441808_15d239812b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441808_0db68d19e3_o.png",
+      "id_image": "body_4601133"
+    }
+  ]
+}

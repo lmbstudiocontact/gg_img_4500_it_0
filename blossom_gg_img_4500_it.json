@@ -1,0 +1,52 @@
+{
+  "english": "blossom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trổ bông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhánh bông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flower or a mass of flowers, especially on a tree or bush.",
+      "definitions_ex_en": "tiny white blossoms",
+      "definitions_ex_vn": "hoa trắng nhỏ xíu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a tree or bush) produce flowers or masses of flowers.",
+      "definitions_ex_en": "the mango trees have shed their fruit and blossomed again",
+      "definitions_ex_vn": "Cây xoài đã rụng trái cây và nở rộ một lần nữa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683899_f9e309f2bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683899_3e1c75af60_o.png",
+      "id_image": "blossom_1727579"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683859_aa9be32611_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683859_be94e3f173_o.png",
+      "id_image": "blossom_1749856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065600_fe4fc8a8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065600_373ee50c98_o.png",
+      "id_image": "blossom_1772129"
+    }
+  ]
+}

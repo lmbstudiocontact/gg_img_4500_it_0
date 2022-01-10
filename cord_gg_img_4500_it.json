@@ -1,0 +1,94 @@
+{
+  "english": "cord",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "băng đeo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây để kết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây để trang sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây tủy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây thừng nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cột",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "thin, flexible string or rope made from several twisted strands.",
+      "definitions_ex_en": "hang the picture from a rail on a length of cord",
+      "definitions_ex_vn": "Treo hình ảnh từ một đường ray trên một chiều dài của dây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ribbed fabric, especially corduroy.",
+      "definitions_ex_en": "cord jackets",
+      "definitions_ex_vn": "áo khoác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a measure of cut wood, usually 128 cubic feet (3.62 cu m).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attach a cord to.",
+      "definitions_ex_en": "you will need to cord the blind",
+      "definitions_ex_vn": "bạn sẽ cần phải buộc người mù",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687864_4b8979d0a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687864_eea3b7e0d1_o.png",
+      "id_image": "cord_123759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377567_ef28f06c66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377567_c6efa73087_o.png",
+      "id_image": "cord_1686342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332736_9d7906f821_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332736_c5eb307513_o.png",
+      "id_image": "cord_2473061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332886_1cf4557cdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332886_5f206ebfdb_o.png",
+      "id_image": "cord_417600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332861_6eac7bed3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332861_648db79a53_o.png",
+      "id_image": "cord_675823"
+    }
+  ]
+}

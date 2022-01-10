@@ -1,0 +1,81 @@
+{
+  "english": "comic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể tức cười",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đáng tức cười",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về hài kịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hài hước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoạt kê",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kịch vui",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỳ cục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khôi hài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lố bịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người đóng hài kịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "causing or meant to cause laughter.",
+      "definitions_ex_en": "comic and fantastic exaggeration",
+      "definitions_ex_vn": "Truyện tranh và sự phóng đại tuyệt vời",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a comedian, especially a professional one.",
+      "definitions_ex_en": "a stand-up comic",
+      "definitions_ex_vn": "một truyện tranh đứng lên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434853_ec94b3781d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434853_84c823332d_o.png",
+      "id_image": "comic_1927777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364382_470dc5d9d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364382_b1664a85d8_o.png",
+      "id_image": "comic_2281829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056240_8aa3790266_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056240_7d3cd89ddf_o.png",
+      "id_image": "comic_5318786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364427_9987fd0bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364427_12f9217012_o.png",
+      "id_image": "comic_626610"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "conflict",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân tranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc xung đột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tranh giành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bất hòa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cải lộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gây lộn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a serious disagreement or argument, typically a protracted one.",
+      "definitions_ex_en": "the eternal conflict between the sexes",
+      "definitions_ex_vn": "cuộc xung đột vĩnh cửu giữa giới tính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be incompatible or at variance; clash.",
+      "definitions_ex_en": "parents' and children's interests sometimes conflict",
+      "definitions_ex_vn": "Lợi ích của cha mẹ và trẻ em đôi khi xung đột",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048745_3b84fb8cfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048745_e84c9944e8_o.png",
+      "id_image": "conflict_1006630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667024_4f29b35818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667024_c3f530b3c8_o.png",
+      "id_image": "conflict_5065298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666994_071400f10e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666994_1faf9a91d4_o.png",
+      "id_image": "conflict_5266134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356117_647fcb9e43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356117_8f91c038f3_o.png",
+      "id_image": "conflict_6159325"
+    }
+  ]
+}

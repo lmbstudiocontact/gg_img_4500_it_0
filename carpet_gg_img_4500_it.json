@@ -1,0 +1,65 @@
+{
+  "english": "carpet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ lót chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp gạch để xây bờ đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm thảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảm cỏ xanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trải thảm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a floor or stair covering made from thick woven fabric, typically shaped to fit a particular room.",
+      "definitions_ex_en": "the house has wall-to-wall carpets throughout",
+      "definitions_ex_vn": "Ngôi nhà có thảm trên tường trong suốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (a floor or stairs) with a carpet.",
+      "definitions_ex_en": "the stairs were carpeted in a lovely shade of red",
+      "definitions_ex_vn": "cầu thang được trải thảm trong một màu đỏ đáng yêu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324171_ee773a1afc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324171_f09e5faf82_o.png",
+      "id_image": "carpet_1347834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439168_47a7d4aa99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439168_6fa19e8bc5_o.png",
+      "id_image": "carpet_1878071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439138_1651f2f536_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439138_b40e02682f_o.png",
+      "id_image": "carpet_4834146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679269_c0f14f96e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679269_87e41a82bc_o.png",
+      "id_image": "carpet_5233865"
+    }
+  ]
+}

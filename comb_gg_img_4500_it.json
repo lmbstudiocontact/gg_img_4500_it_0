@@ -1,0 +1,139 @@
+{
+  "english": "comb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn chải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn chải len",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chải đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chóp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh mật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bửng mật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái lược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chải len",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lục xoát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vỗ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strip of plastic, metal, or wood with a row of narrow teeth, used for untangling or arranging the hair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device for separating and dressing textile fibers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the red fleshy crest on the head of a domestic fowl, especially a rooster.",
+      "definitions_ex_en": "a gray-speckled hen with a red comb and wattles",
+      "definitions_ex_vn": "một con gà mái lốm đốm màu xám với lược đỏ và wattles",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for honeycomb (sense 1 of the noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "untangle or arrange (the hair) by drawing a comb through it.",
+      "definitions_ex_en": "she combed her hair and put some lipstick on",
+      "definitions_ex_vn": "Cô chải tóc và đặt một ít son môi vào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prepare (wool, flax, or cotton) for manufacture with a comb.",
+      "definitions_ex_en": "the wool had been cleaned and combed",
+      "definitions_ex_vn": "Len đã được làm sạch và chải kỹ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "search carefully and systematically.",
+      "definitions_ex_en": "police combed the area for the murder weapon",
+      "definitions_ex_vn": "Cảnh sát chải lại khu vực cho vũ khí giết người",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675354_7a58bf658d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675354_95a3652370_o.png",
+      "id_image": "comb_2071615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365447_79cf689de5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365447_aa595cb013_o.png",
+      "id_image": "comb_224014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320441_9824d7a4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320441_2eabae33fa_o.png",
+      "id_image": "comb_410442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057180_892bfd69c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057180_a145fa2be4_o.png",
+      "id_image": "comb_456667"
+    }
+  ]
+}

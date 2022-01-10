@@ -1,0 +1,111 @@
+{
+  "english": "capital",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ cái gì trên hết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trước hết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chữ hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuất chúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu cột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư bản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủ đô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the most important city or town of a country or region, usually its seat of government and administrative center.",
+      "definitions_ex_en": "Warsaw is the capital of Poland",
+      "definitions_ex_vn": "Warsaw là thủ đô của Ba Lan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wealth in the form of money or other assets owned by a person or organization or available or contributed for a particular purpose such as starting a company or investing.",
+      "definitions_ex_en": "rates of return on invested capital were high",
+      "definitions_ex_vn": "Tỷ lệ lợi nhuận vốn đầu tư cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a letter of the size and form used to begin sentences and names.",
+      "definitions_ex_en": "he wrote the name in capitals",
+      "definitions_ex_vn": "Ông đã viết tên trong thủ đô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the distinct, typically broader section at the head of a pillar or column.",
+      "definitions_ex_en": "the pillars have molded capitals",
+      "definitions_ex_vn": "Các trụ cột đã đúc thủ đô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an offense or charge) liable to the death penalty.",
+      "definitions_ex_en": "murder was a capital crime",
+      "definitions_ex_vn": "Murder là một tội phạm thủ đô",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a letter of the alphabet) large in size and of the form used to begin sentences and names.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "excellent.",
+      "definitions_ex_en": "he's a really capital fellow",
+      "definitions_ex_vn": "anh ấy là một đồng bào thực sự",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443783_bef39af277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443783_6c89825611_o.png",
+      "id_image": "capital_1622590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328761_e3ab683a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328761_bd9f5baa69_o.png",
+      "id_image": "capital_1900189"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683804_f391dd1b84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683804_9a8b179e7a_o.png",
+      "id_image": "capital_2590457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443663_e13c99cddf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443663_d4eedbccc2_o.png",
+      "id_image": "capital_4327409"
+    }
+  ]
+}

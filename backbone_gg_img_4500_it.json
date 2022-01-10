@@ -1,0 +1,52 @@
+{
+  "english": "backbone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không cương quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhu nhược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người suy nhược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người yếu hèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xương sống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the series of vertebrae extending from the skull to the pelvis; the spine.",
+      "definitions_ex_en": "prickles of sweat broke out along her backbone",
+      "definitions_ex_vn": "Những chiếc chích mồ hôi đã nổ ra dọc theo xương sống của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the chief support of a system or organization; the mainstay.",
+      "definitions_ex_en": "these firms are the backbone of our industrial sector",
+      "definitions_ex_vn": "Những công ty này là xương sống của khu vực công nghiệp của chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a high-speed, high-capacity digital connection which forms the axis of a local or wide area network.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367732_e068ac40f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367732_020f7ca566_o.png",
+      "id_image": "backbone_2252843"
+    }
+  ]
+}

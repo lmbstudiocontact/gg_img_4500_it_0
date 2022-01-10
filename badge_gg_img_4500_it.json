@@ -1,0 +1,45 @@
+{
+  "english": "badge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biểu hiệu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a distinctive emblem worn as a mark of office, membership, achievement, licensed employment, etc.",
+      "definitions_ex_en": "name badges",
+      "definitions_ex_vn": "Tên danh hiệu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mark with a badge or other distinguishing emblem.",
+      "definitions_ex_en": "vendors can badge their products ‘certified’",
+      "definitions_ex_vn": "Các nhà cung cấp có thể huy hiệu sản phẩm của họ được chứng nhận '",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320911_6e4c1996db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320911_062617704f_o.png",
+      "id_image": "badge_1133817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675944_e37fda8b30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675944_30b6817621_o.png",
+      "id_image": "badge_1133820"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320951_ac0c3f12a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320951_e137966d52_o.png",
+      "id_image": "badge_224707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365892_1aef65d0da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365892_217158dc35_o.png",
+      "id_image": "badge_412817"
+    }
+  ]
+}

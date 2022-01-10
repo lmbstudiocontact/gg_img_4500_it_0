@@ -1,0 +1,54 @@
+{
+  "english": "consistency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính chắc chắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái nhứt trí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "conformity in the application of something, typically that which is necessary for the sake of logic, accuracy, or fairness.",
+      "definitions_ex_en": "the grading system is to be streamlined to ensure greater consistency",
+      "definitions_ex_vn": "Hệ thống chấm điểm sẽ được sắp xếp hợp lý để đảm bảo tính nhất quán lớn hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the way in which a substance, typically a liquid, holds together; thickness or viscosity.",
+      "definitions_ex_en": "the sauce has the consistency of creamed butter",
+      "definitions_ex_vn": "Nước sốt có tính nhất quán của bơ kem",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424998_973c84b21c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424998_e59e7f83c6_o.png",
+      "id_image": "consistency_4371255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354122_69964af18a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354122_668047c446_o.png",
+      "id_image": "consistency_4729487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046785_fe243a33e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046785_7d698f9679_o.png",
+      "id_image": "consistency_5181960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046765_6388930139_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046765_19e23275c7_o.png",
+      "id_image": "consistency_5331506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046740_0026c5296f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046740_14c883c90f_o.png",
+      "id_image": "consistency_5396955"
+    }
+  ]
+}

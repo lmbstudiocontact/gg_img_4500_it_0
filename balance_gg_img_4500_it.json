@@ -1,0 +1,111 @@
+{
+  "english": "balance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảng đối chiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền còn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền dự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thế thăng bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho thăng bằng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "so sánh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an even distribution of weight enabling someone or something to remain upright and steady.",
+      "definitions_ex_en": "she lost her balance before falling",
+      "definitions_ex_vn": "Cô mất thăng bằng trước khi rơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a condition in which different elements are equal or in the correct proportions.",
+      "definitions_ex_en": "try to keep a balance between work and relaxation",
+      "definitions_ex_vn": "Cố gắng giữ cân bằng giữa công việc và thư giãn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an apparatus for weighing, especially one with a central pivot, beam, and a pair of scales.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a counteracting weight or force.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a predominating weight or amount; the majority.",
+      "definitions_ex_en": "the balance of opinion was that work was more important than leisure",
+      "definitions_ex_vn": "sự cân bằng của ý kiến là công việc quan trọng hơn là giải trí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a figure representing the difference between credits and debits in an account; the amount of money held in an account.",
+      "definitions_ex_en": "he accumulated a healthy balance with the savings bank",
+      "definitions_ex_vn": "Ông tích lũy một sự cân bằng lành mạnh với ngân hàng tiết kiệm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "keep or put (something) in a steady position so that it does not fall.",
+      "definitions_ex_en": "a mug that she balanced on her knee",
+      "definitions_ex_vn": "một cốc mà cô ấy cân bằng trên đầu gối của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "offset or compare the value of (one thing) with another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "compare debits and credits in (an account), typically to ensure that they are equal.",
+      "definitions_ex_en": "the law requires the council to balance its books each year",
+      "definitions_ex_vn": "Luật pháp yêu cầu Hội đồng cân bằng sách của mình mỗi năm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319001_3f41685ba1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319001_093a3ef03c_o.png",
+      "id_image": "balance_1656927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363537_70efbac829_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363537_9ae896ff67_o.png",
+      "id_image": "balance_1721446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673774_2091cef739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673774_621d97c9cd_o.png",
+      "id_image": "balance_1751694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434243_dc51d8a6af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434243_7c3843c15e_o.png",
+      "id_image": "balance_855370"
+    }
+  ]
+}

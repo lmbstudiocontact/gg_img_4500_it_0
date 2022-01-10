@@ -1,0 +1,52 @@
+{
+  "english": "consent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bằng lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tán thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bằng lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán thành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "permission for something to happen or agreement to do something.",
+      "definitions_ex_en": "no change may be made without the consent of all the partners",
+      "definitions_ex_vn": "Không có thay đổi có thể được thực hiện mà không có sự đồng ý của tất cả các đối tác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give permission for something to happen.",
+      "definitions_ex_en": "he consented to a search by a detective",
+      "definitions_ex_vn": "Ông đồng ý tìm kiếm bởi một thám tử",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354707_12e28239ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354707_f3ea7c631b_o.png",
+      "id_image": "consent_1076357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047325_d4d331bd77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047325_cd7ae5e8b7_o.png",
+      "id_image": "consent_2720491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354647_5302ceed25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354647_c079b32a6f_o.png",
+      "id_image": "consent_4412631"
+    }
+  ]
+}

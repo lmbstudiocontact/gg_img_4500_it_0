@@ -1,0 +1,44 @@
+{
+  "english": "candidate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người dự bổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who applies for a job or is nominated for election.",
+      "definitions_ex_en": "candidates applying for this position should be computer-literate",
+      "definitions_ex_vn": "Ứng viên áp dụng cho vị trí này nên được biết chữ máy tính",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040680_e307fd2380_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040680_d45464ef6c_o.png",
+      "id_image": "candidate_2808096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659154_4f04805604_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659154_e338ba6b0c_o.png",
+      "id_image": "candidate_4474097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418883_c6136ab81b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418883_23d296bd6f_o.png",
+      "id_image": "candidate_5392431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303836_43422180e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303836_e56ace5fe4_o.png",
+      "id_image": "candidate_5393332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418893_12ef4d4699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418893_b431365f92_o.png",
+      "id_image": "candidate_927293"
+    }
+  ]
+}

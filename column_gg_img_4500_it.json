@@ -1,0 +1,79 @@
+{
+  "english": "column",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây cột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cột chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đảng phái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi thành hai hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đội quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trụ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an upright pillar, typically cylindrical and made of stone or concrete, supporting an entablature, arch, or other structure or standing alone as a monument.",
+      "definitions_ex_en": "a wide entrance portico of eight Ionic columns",
+      "definitions_ex_vn": "một cổng thông tin rộng của tám cột ion",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vertical division of a page or text.",
+      "definitions_ex_en": "turn to page five, column seven",
+      "definitions_ex_vn": "Chuyển sang trang năm, cột bảy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one or more lines of people or vehicles moving in the same direction.",
+      "definitions_ex_en": "a column of tanks moved northwest",
+      "definitions_ex_vn": "Một cột xe tăng di chuyển về phía tây bắc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057520_d41b487cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057520_45efd57fed_o.png",
+      "id_image": "column_3603706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365647_a9da4e5829_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365647_70fa2eae9a_o.png",
+      "id_image": "column_4598378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675724_2a0132006d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675724_02db0e16f6_o.png",
+      "id_image": "column_4615721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057550_3023917bb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057550_285245dd11_o.png",
+      "id_image": "column_708875"
+    }
+  ]
+}

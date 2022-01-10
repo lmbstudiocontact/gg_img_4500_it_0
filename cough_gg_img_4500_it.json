@@ -1,0 +1,58 @@
+{
+  "english": "cough",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng ho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ho",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "expel air from the lungs with a sudden sharp sound.",
+      "definitions_ex_en": "he tried to speak and started to cough",
+      "definitions_ex_vn": "Anh cố nói và bắt đầu ho",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or sound of coughing.",
+      "definitions_ex_en": "she gave a discreet cough",
+      "definitions_ex_vn": "cô ấy đã cho một ho kín đáo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443283_693ef0c149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443283_c14f4fa44e_o.png",
+      "id_image": "cough_2746423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328156_560cb6b0c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328156_fd326f96f5_o.png",
+      "id_image": "cough_2746661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683254_25581bc045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683254_5862fac739_o.png",
+      "id_image": "cough_2855034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443168_22d56e35ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443168_5ab1b41209_o.png",
+      "id_image": "cough_4171466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683169_a2a9ec55a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683169_ace21bc727_o.png",
+      "id_image": "cough_4310528"
+    }
+  ]
+}

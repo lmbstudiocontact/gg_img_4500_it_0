@@ -1,0 +1,82 @@
+{
+  "english": "crook",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ quanh co",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lừa đảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "pháp trượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự uốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc quanh co",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bẻ cong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uốn cong",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the hooked staff of a shepherd.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who is dishonest or a criminal.",
+      "definitions_ex_en": "the man's a crook, he's not to be trusted",
+      "definitions_ex_vn": "Người đàn ông là kẻ gian, anh ta không được tin tưởng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bend (something, especially a finger as a signal).",
+      "definitions_ex_en": "he crooked a finger for the waitress",
+      "definitions_ex_vn": "Anh ta vẹo một ngón tay cho cô hầu bàn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434603_f79bc6dc8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434603_c723cbfa3c_o.png",
+      "id_image": "crook_1425970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319476_c3673eddff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319476_ab79149373_o.png",
+      "id_image": "crook_1792761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319441_fdd2ff7059_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319441_915e203435_o.png",
+      "id_image": "crook_3113359"
+    }
+  ]
+}

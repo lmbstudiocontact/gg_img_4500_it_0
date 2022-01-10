@@ -1,0 +1,79 @@
+{
+  "english": "coin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịa ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng cắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đúc kim loại ra tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đúc tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền cắc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat, typically round piece of metal with an official stamp, used as money.",
+      "definitions_ex_en": "she opened her purse and took out a coin",
+      "definitions_ex_vn": "Cô mở ví và lấy ra một đồng xu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (coins) by stamping metal.",
+      "definitions_ex_en": "guineas and half-guineas were coined",
+      "definitions_ex_vn": "guineas và một nửa guineas đã được đặt ra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "invent or devise (a new word or phrase).",
+      "definitions_ex_en": "he coined the term “desktop publishing.”",
+      "definitions_ex_vn": "Ông đặt ra thuật ngữ \"xuất bản máy tính để bàn\".",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323846_8d8350169e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323846_e460987f25_o.png",
+      "id_image": "coin_1055866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060880_0d3919d910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060880_50427d980f_o.png",
+      "id_image": "coin_445250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439018_3253c6d308_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439018_44396ebba2_o.png",
+      "id_image": "coin_855396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679084_58be945e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679084_4e6d754c96_o.png",
+      "id_image": "coin_868212"
+    }
+  ]
+}

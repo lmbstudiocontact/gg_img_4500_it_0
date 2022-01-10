@@ -1,0 +1,49 @@
+{
+  "english": "cordon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dải huy chương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần đá lồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường bị cảnh sát cô lập",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a line or circle of police, soldiers, or guards preventing access to or from an area or building.",
+      "definitions_ex_en": "troops threw a cordon around the headquarters",
+      "definitions_ex_vn": "Quân đội đã ném một sợi dây quanh trụ sở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for stringcourse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prevent access to or from an area or building by surrounding it with police or other guards.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447658_ab361a3515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447658_2dd8f23dfb_o.png",
+      "id_image": "cordon_1890709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332581_d0904792ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332581_9f51677406_o.png",
+      "id_image": "cordon_3580817"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "english": "cell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "pin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổi nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đội bộ binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ trong ổ trứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngục tối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tế bào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ tổ ong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần mộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng của người đi tu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng giam hẹp và kín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ trong bao phấn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quân đội",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small room in which a prisoner is locked up or in which a monk or nun sleeps.",
+      "definitions_ex_en": "the authorities locked all remaining inmates in their cells",
+      "definitions_ex_vn": "Chính quyền đã khóa tất cả các tù nhân còn lại trong các tế bào của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the smallest structural and functional unit of an organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane. Microscopic organisms typically consist of a single cell, which is either eukaryotic or prokaryotic.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small group forming a nucleus of political activity, typically a secret, subversive one.",
+      "definitions_ex_en": "the weapons may be used to arm terrorist cells",
+      "definitions_ex_vn": "Vũ khí có thể được sử dụng để cánh tay khủng bố",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device containing electrodes immersed in an electrolyte, used for current-generation or electrolysis.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the local area covered by one of the short-range transmitters in a cellular telephone system.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672219_b5c5a3129f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672219_1b5a4ee8fc_o.png",
+      "id_image": "cell_1474369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053975_8d45359638_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053975_6c67848f39_o.png",
+      "id_image": "cell_191118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317451_725d5193cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317451_89d7fd623d_o.png",
+      "id_image": "cell_2750823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317401_1237cea0c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317401_fd99bfff61_o.png",
+      "id_image": "cell_3360220"
+    }
+  ]
+}

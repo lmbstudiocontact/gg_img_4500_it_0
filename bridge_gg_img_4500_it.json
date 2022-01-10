@@ -1,0 +1,113 @@
+{
+  "english": "bridge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầu ngang ống khói tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối đánh bài tây ở nga",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sống mũi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắc cầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây cầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a structure carrying a road, path, railroad, or canal across a river, ravine, road, railroad, or other obstacle.",
+      "definitions_ex_en": "a bridge across the river",
+      "definitions_ex_vn": "một cây cầu bắc qua sông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the elevated, enclosed platform on a ship from which the captain and officers direct operations.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the upper bony part of a person's nose.",
+      "definitions_ex_en": "he pushed his spectacles further up the bridge of his nose",
+      "definitions_ex_vn": "Anh đẩy lùm dáng của mình hơn nữa lên cây cầu mũi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a partial denture supported by natural teeth on either side.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of a string instrument over which the strings are stretched.",
+      "definitions_ex_en": "ebony bridges and fingerboards",
+      "definitions_ex_vn": "cầu mun và bàn phím",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bridge passage or middle eight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the support formed by the hand for the forward part of a billiard cue.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electric circuit with two branches across which a detector or load is connected, used to measure resistance or other property by equalizing the potential across the two ends of a detector, or to rectify an alternating voltage or current.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a card game descended from whist, played by two partnerships of two players who at the beginning of each hand bid for the right to name the trump suit, the highest bid also representing a contract to make a specified number of tricks with a specified suit as trumps.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be a bridge over (something).",
+      "definitions_ex_en": "a covered walkway that bridged the gardens",
+      "definitions_ex_vn": "một lối đi được bảo hiểm cầu nối những khu vườn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316256_7bfc96a1b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316256_74dd357abc_o.png",
+      "id_image": "bridge_172757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670854_db707dea6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670854_429ef612d4_o.png",
+      "id_image": "bridge_1742466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360477_3ee4276b00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360477_da2378434f_o.png",
+      "id_image": "bridge_183375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316226_0fb9e72558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316226_169532bb88_o.png",
+      "id_image": "bridge_3722837"
+    }
+  ]
+}

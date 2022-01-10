@@ -1,0 +1,146 @@
+{
+  "english": "bar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cản trở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàm thiếc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kháng biện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngăn trở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quán bar",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấm chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chướng ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gạch hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhịp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gài",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long rod or rigid piece of wood, metal, or similar material, typically used as an obstruction, fastening, or weapon.",
+      "definitions_ex_en": "an iron bar",
+      "definitions_ex_vn": "một thanh sắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a counter across which alcoholic drinks or refreshments are served.",
+      "definitions_ex_en": "standing at the bar",
+      "definitions_ex_vn": "Đứng ở quán bar",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a barrier or restriction to an action or advance.",
+      "definitions_ex_en": "political differences are not necessarily a bar to a good relationship",
+      "definitions_ex_vn": "Sự khác biệt chính trị không nhất thiết là một quán bar cho một mối quan hệ tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a measure of music or the time of a piece of music.",
+      "definitions_ex_en": "the opening bars of the first hymn",
+      "definitions_ex_vn": "Các thanh mở đầu của bài thánh ca đầu tiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a partition in a courtroom or legislative assembly, now usually notional, beyond which most people may not pass and, in court, at which an accused person stands.",
+      "definitions_ex_en": "the prisoner at the bar",
+      "definitions_ex_vn": "tù nhân tại quán bar",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the legal profession.",
+      "definitions_ex_en": "his dismissal from the Singapore Bar",
+      "definitions_ex_vn": "sự sa thải của anh ấy từ quán bar Singapore",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit of pressure equivalent to 100,000 newtons per square meter or approximately one atmosphere.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten (something, especially a door or window) with a bar or bars.",
+      "definitions_ex_en": "she bolts and bars the door",
+      "definitions_ex_vn": "Cô bu lông và thanh cửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prevent or prohibit (someone) from doing something or from going somewhere.",
+      "definitions_ex_en": "she is barred from leaving the country",
+      "definitions_ex_vn": "Cô bị cấm rời khỏi đất nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mark (something) with bars or stripes.",
+      "definitions_ex_en": "his face was barred with light",
+      "definitions_ex_vn": "Khuôn mặt anh bị cấm với ánh sáng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in biblical references) Baruch (in the Apocrypha).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052565_61f148b2e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052565_09f715bc78_o.png",
+      "id_image": "bar_1060312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316121_34a118f495_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316121_8090d027ef_o.png",
+      "id_image": "bar_2240575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316101_e9d6954e28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316101_b0fc0eea91_o.png",
+      "id_image": "bar_2334269"
+    }
+  ]
+}

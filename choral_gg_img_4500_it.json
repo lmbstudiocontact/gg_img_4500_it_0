@@ -1,0 +1,36 @@
+{
+  "english": "choral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hợp ca",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồng hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hợp xướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thánh ca",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "composed for or sung by a choir or chorus.",
+      "definitions_ex_en": "a choral work",
+      "definitions_ex_vn": "một công việc hợp xướng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351747_da16571b38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351747_eda00bb774_o.png",
+      "id_image": "choral_122837"
+    }
+  ]
+}

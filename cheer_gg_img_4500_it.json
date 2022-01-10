@@ -1,0 +1,83 @@
+{
+  "english": "cheer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vui lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "la để khen",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cổ vổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều vui vẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự an ủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng hoan hô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ăn ngon",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm cho vui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khen ngợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuyến khích",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "shout for joy or in praise or encouragement.",
+      "definitions_ex_en": "she cheered from the sidelines",
+      "definitions_ex_vn": "Cô cổ vũ từ bên lề",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give comfort or support to.",
+      "definitions_ex_en": "he seemed greatly cheered by my arrival",
+      "definitions_ex_vn": "Anh ấy có vẻ cổ vũ rất nhiều bởi sự xuất hiện của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a shout of encouragement, praise, or joy.",
+      "definitions_ex_en": "a tremendous cheer from the audience",
+      "definitions_ex_vn": "một niềm vui lớn từ khán giả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cheerfulness, optimism, or confidence.",
+      "definitions_ex_en": "an attempt to inject a little cheer into this gloomy season",
+      "definitions_ex_vn": "một nỗ lực để tiêm một chút cổ vũ vào mùa ảm đạm này",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426773_d9ef166a17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426773_5275bc2325_o.png",
+      "id_image": "cheer_1623196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355992_6f464414cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355992_eea497da22_o.png",
+      "id_image": "cheer_3776028"
+    }
+  ]
+}

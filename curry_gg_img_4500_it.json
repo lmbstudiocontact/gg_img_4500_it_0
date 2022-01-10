@@ -1,0 +1,82 @@
+{
+  "english": "curry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bột cà ri",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "món cà ri",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nịnh hót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gia vị cà ri vào đồ ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hành hạ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dish of meat, vegetables, etc., cooked in an Indian-style sauce of hot-tasting spices and typically served with rice.",
+      "definitions_ex_en": "I've been eating a lot of curry",
+      "definitions_ex_vn": "Tôi đã ăn rất nhiều cà ri",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prepare or flavor (food) with a sauce of hot-tasting spices.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat (tanned leather) to improve its properties.",
+      "definitions_ex_en": "I made the deer's hide be curried and dressed by a tanner",
+      "definitions_ex_vn": "Tôi đã làm cho sự ẩn náu của Deer được Curried và ăn mặc bởi một thợ thuộc da",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "thrash; beat.",
+      "definitions_ex_en": "he swore he would curry his hide",
+      "definitions_ex_vn": "anh ấy đã thề rằng anh ấy sẽ curry che giấu của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314676_18bcaf0b4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314676_4b2fe7656d_o.png",
+      "id_image": "curry_1900806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051180_130d618edb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051180_22fa9f44b2_o.png",
+      "id_image": "curry_2014020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358727_0391c58e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358727_5df8effda7_o.png",
+      "id_image": "curry_3813111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314591_f5f6ef14b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314591_a248f1d90e_o.png",
+      "id_image": "curry_5495506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429583_851502094b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429583_ef703ca216_o.png",
+      "id_image": "curry_644703"
+    }
+  ]
+}

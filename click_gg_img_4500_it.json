@@ -1,0 +1,106 @@
+{
+  "english": "click",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi đôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kêu lạch cạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kêu tích tắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "may mắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng cạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng chắt lưởi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng chép miệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng lẻng xẻng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị đánh đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bị la mắng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu lẻng xẻng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có mang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đạt mục đích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short, sharp sound as of a switch being operated or of two hard objects coming quickly into contact.",
+      "definitions_ex_en": "she heard the click of the door",
+      "definitions_ex_vn": "Cô nghe thấy tiếng click của cánh cửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of selecting an option on an electronic interface by pressing a button or touching a screen.",
+      "definitions_ex_en": "it's normal for a click to select an item",
+      "definitions_ex_vn": "Nó bình thường chỉ cần nhấp để chọn một mục",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or cause to make a short, sharp sound as of a switch being operated or of two hard objects coming smartly into contact.",
+      "definitions_ex_en": "the key clicked in the lock and the door opened",
+      "definitions_ex_vn": "Chìa khóa được nhấp vào khóa và cửa mở",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "select (an option on an electronic interface) by pressing a button or touching a screen.",
+      "definitions_ex_en": "click the left mouse button twice",
+      "definitions_ex_vn": "Nhấp vào nút chuột trái hai lần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become suddenly clear or understandable.",
+      "definitions_ex_en": "finally it clicked what all the fuss had been about",
+      "definitions_ex_vn": "Cuối cùng, nó đã nhấp vào những gì tất cả những người ồn ào đã được về",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348392_e7a5ba99b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348392_d2d2bfd474_o.png",
+      "id_image": "click_1188517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304221_df087c6413_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304221_d4d933fa57_o.png",
+      "id_image": "click_4713190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304236_ee305bfb56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304236_d0aff377ec_o.png",
+      "id_image": "click_849983"
+    }
+  ]
+}

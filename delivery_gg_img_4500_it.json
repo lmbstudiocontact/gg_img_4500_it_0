@@ -1,0 +1,104 @@
+{
+  "english": "delivery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách đọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách giao banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách nói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giải thoát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưu lượng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nạp hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đở đẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao phó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân bố",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of delivering letters, packages, or ordered goods.",
+      "definitions_ex_en": "allow up to 28 days for delivery",
+      "definitions_ex_vn": "Cho phép tối đa 28 ngày để giao hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of giving birth.",
+      "definitions_ex_en": "injuries sustained during delivery",
+      "definitions_ex_vn": "Chấn thương kéo dài trong quá trình giao hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of throwing or bowling a ball or striking a blow.",
+      "definitions_ex_en": "a quick, compact delivery that sent the ball zinging",
+      "definitions_ex_vn": "một giao hàng nhanh chóng, nhỏ gọn đã gửi bóng zinging",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the manner or style of giving a speech.",
+      "definitions_ex_en": "her delivery was stilted",
+      "definitions_ex_vn": "Giao hàng của cô đã bị vinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the supply or provision of something.",
+      "definitions_ex_en": "delivery of electricity at a specified price",
+      "definitions_ex_vn": "Giao điện ở một mức giá xác định",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334206_cce80a683c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334206_86ce27eb6e_o.png",
+      "id_image": "delivery_423314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071180_99fcbe2efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071180_077e9bed0b_o.png",
+      "id_image": "delivery_423316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379007_fcde95b1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379007_0ec3d6dec8_o.png",
+      "id_image": "delivery_827377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378992_80898ba758_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378992_bfe6359efa_o.png",
+      "id_image": "delivery_870135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071110_326c7df779_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071110_737a27b8e0_o.png",
+      "id_image": "delivery_870138"
+    }
+  ]
+}

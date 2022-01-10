@@ -1,0 +1,124 @@
+{
+  "english": "compound",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất hỗn hợp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chữ kép",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhịp đôi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phiền phức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phức hiệp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phức ngữ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phức nhiểu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phức tạp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hợp tố hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều chế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều đình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hòa giải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hòa lộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trộn lộn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that is composed of two or more separate elements; a mixture.",
+      "definitions_ex_en": "the air smelled like a compound of diesel and gasoline fumes",
+      "definitions_ex_vn": "Không khí có mùi giống như một hợp chất của khói diesel và xăng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an open area enclosed by a fence, for example around a factory or large house or within a prison.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "made up or consisting of two or more existing parts or elements.",
+      "definitions_ex_en": "a compound noun",
+      "definitions_ex_vn": "một danh từ ghép",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make up (a composite whole); constitute.",
+      "definitions_ex_en": "a dialect compounded of Spanish and Dutch",
+      "definitions_ex_vn": "một phương ngữ gộp của Tây Ban Nha và tiếng Hà Lan",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (something bad) worse; intensify the negative aspects of.",
+      "definitions_ex_en": "I compounded the problem by trying to make wrong things right",
+      "definitions_ex_vn": "Tôi đã gộp được vấn đề bằng cách cố gắng làm cho những điều sai trái",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "forbear from prosecuting (a felony) in exchange for money or other consideration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359097_1d9f983ece_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359097_ff2f61d267_o.png",
+      "id_image": "compound_2927559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314976_3a9368126d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314976_70be719c26_o.png",
+      "id_image": "compound_5966313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051475_88eb3276e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051475_4824fe41b4_o.png",
+      "id_image": "compound_6257174"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "english": "bend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "căng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cúi đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uốn cong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chổ cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ khủy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường khum",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc tuyến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "shape or force (something straight) into a curve or angle.",
+      "definitions_ex_en": "the rising wind bent the long grass",
+      "definitions_ex_vn": "Gió trỗi dậy cỏ dài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) incline the body downward from the vertical.",
+      "definitions_ex_en": "I bent over my plate",
+      "definitions_ex_vn": "Tôi cúi xuống đĩa của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "force or be forced to submit.",
+      "definitions_ex_en": "they want to bend me to their will",
+      "definitions_ex_vn": "họ muốn uốn tôi vào ý muốn của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "direct or devote (one's attention or energies) to a task.",
+      "definitions_ex_en": "Eric bent all his efforts to persuading them to donate some blankets",
+      "definitions_ex_vn": "Eric uốn cong tất cả những nỗ lực của mình để thuyết phục họ tặng một số chăn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attach (a sail or rope) by means of a knot.",
+      "definitions_ex_en": "sailors were bending sails to the spars",
+      "definitions_ex_vn": "Các thủy thủ đang uốn cong những cánh buồm đến xà leng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a curve, especially a sharp one, in a road, river, racecourse, or path.",
+      "definitions_ex_en": "the van screeched around a bend",
+      "definitions_ex_vn": "chiếc xe đã rít lên xung quanh một khúc cua",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a curved or angled part or form of something.",
+      "definitions_ex_en": "making a bend in the wire",
+      "definitions_ex_vn": "Làm một uốn cong trong dây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a kind of knot used to join two ropes, or to tie a rope to another object, e.g. a carrick bend.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "decompression sickness, especially in divers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ordinary in the form of a broad diagonal stripe from top left (dexter chief) to bottom right (sinister base) of a shield or part of one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351962_c4a3d31623_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351962_44f5eb940c_o.png",
+      "id_image": "bending_1055057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307806_867883d40e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307806_bb4ab4be4e_o.png",
+      "id_image": "bending_1055085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351912_cba33dcb4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351912_e0bb7dd578_o.png",
+      "id_image": "bending_2450532"
+    }
+  ]
+}

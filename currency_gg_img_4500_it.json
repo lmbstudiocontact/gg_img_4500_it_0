@@ -1,0 +1,62 @@
+{
+  "english": "currency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồn tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lưu hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự truyền bá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "truyền tin",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a system of money in general use in a particular country.",
+      "definitions_ex_en": "the dollar was a strong currency",
+      "definitions_ex_vn": "Đồng đô la là một loại tiền tệ mạnh mẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the fact or quality of being generally accepted or in use.",
+      "definitions_ex_en": "the term gained currency during the second half of the 20th century",
+      "definitions_ex_vn": "Thuật ngữ đã đạt được tiền tệ trong nửa sau của thế kỷ 20",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051450_a129f98cfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051450_fd46ed9b58_o.png",
+      "id_image": "currency_2078734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358997_32da8c35e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358997_dae4ccc726_o.png",
+      "id_image": "currency_2200843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358967_aa5a97fb28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358967_9417994d39_o.png",
+      "id_image": "currency_2654482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314851_7ed3dc78bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314851_cea271ab9c_o.png",
+      "id_image": "currency_2782059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429788_86c712a7e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429788_3dbe368fb3_o.png",
+      "id_image": "currency_333743"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "english": "class",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giai cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giờ học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân hạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ đẳng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thứ hạng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set or category of things having some property or attribute in common and differentiated from others by kind, type, or quality.",
+      "definitions_ex_en": "the accommodations were good for a hotel of this class",
+      "definitions_ex_vn": "Chỗ ở này là tốt cho một khách sạn của lớp học này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the system of ordering a society in which people are divided into sets based on perceived social or economic status.",
+      "definitions_ex_en": "people who are socially disenfranchised by class",
+      "definitions_ex_vn": "những người bị loại bỏ xã hội theo lớp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of students who are taught together.",
+      "definitions_ex_en": "selected pupils act as representatives for the whole class",
+      "definitions_ex_vn": "Học sinh được chọn đóng vai trò là đại diện cho cả lớp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "assign or regard as belonging to a particular category.",
+      "definitions_ex_en": "conduct that is classed as criminal",
+      "definitions_ex_vn": "hành vi được phân loại là tội phạm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "showing stylish excellence.",
+      "definitions_ex_en": "he's a class player",
+      "definitions_ex_vn": "anh ấy là một người chơi lớp",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349397_e5a9fe7dc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349397_c7ac585002_o.png",
+      "id_image": "class_1058534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660594_f987a27659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660594_451107c706_o.png",
+      "id_image": "class_1058537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660554_810220c7e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660554_dd4669ab7e_o.png",
+      "id_image": "class_4861747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305181_1d83a85e3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305181_9911f535ea_o.png",
+      "id_image": "class_508064"
+    }
+  ]
+}

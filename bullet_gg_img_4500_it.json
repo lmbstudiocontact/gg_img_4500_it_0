@@ -1,0 +1,51 @@
+{
+  "english": "bullet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a metal projectile for firing from a rifle, revolver, or other small firearm, typically cylindrical and pointed, and sometimes containing an explosive.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small symbol, such as a solid circle, printed just before a line of type, such as an item in a list, to emphasize it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stick of lipstick (considered separately from the tube in which it is encased).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311381_1326a689d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311381_3c5d16a0b2_o.png",
+      "id_image": "bullet_1461908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048025_0b3d36fd18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048025_210e7d7155_o.png",
+      "id_image": "bullet_1461915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311416_1e1b178ef9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311416_e5a12ca357_o.png",
+      "id_image": "bullet_224679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311396_719e9b35a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311396_387c799fee_o.png",
+      "id_image": "bullet_427199"
+    }
+  ]
+}

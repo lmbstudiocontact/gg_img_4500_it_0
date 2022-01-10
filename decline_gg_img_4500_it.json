@@ -1,0 +1,134 @@
+{
+  "english": "decline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "suy vong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi xiên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biến hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cự tuyệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đến hồi suy sụp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giảm lần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giá sụt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khônh chịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mặt trời lặn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngày tàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rẻ hướng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sai chiều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tàn héo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ chối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ khước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứng hao mòn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gầy mòn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạ xuống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(typically of something regarded as good) become smaller, fewer, or less; decrease.",
+      "definitions_ex_en": "the birth rate continued to decline",
+      "definitions_ex_vn": "Tỷ lệ sinh tiếp tục giảm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "politely refuse (an invitation or offer).",
+      "definitions_ex_en": "Caroline declined the coffee",
+      "definitions_ex_vn": "Caroline từ chối cà phê",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(especially of the sun) move downward.",
+      "definitions_ex_en": "the sun began to creep around to the west and to decline",
+      "definitions_ex_vn": "Mặt trời bắt đầu leo quanh phía tây và từ chối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in the grammar of Latin, Greek, and certain other languages) state the forms of (a noun, pronoun, or adjective) corresponding to cases, number, and gender.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a gradual and continuous loss of strength, numbers, quality, or value.",
+      "definitions_ex_en": "a serious decline in bird numbers",
+      "definitions_ex_vn": "một sự suy giảm nghiêm trọng về số lượng chim",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044175_77f92854d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044175_be022afc53_o.png",
+      "id_image": "decline_1977274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662454_5f9eb09d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662454_f4016dc11e_o.png",
+      "id_image": "decline_5965800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307226_fd6c84723c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307226_82c2eb899b_o.png",
+      "id_image": "decline_970346"
+    }
+  ]
+}

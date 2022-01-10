@@ -1,0 +1,39 @@
+{
+  "english": "canopy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mái hiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che bằng màn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an ornamental cloth covering hung or held up over something, especially a throne or bed.",
+      "definitions_ex_en": "a romantic four-poster bed complete with drapes and a canopy",
+      "definitions_ex_vn": "Một chiếc giường bốn poster lãng mạn hoàn thiện với màn và tán",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover or provide with a canopy.",
+      "definitions_ex_en": "the river was canopied by overhanging trees",
+      "definitions_ex_vn": "Dòng sông được tán bằng cây nhô ra",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330156_9c5cfba769_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330156_69e99522f8_o.png",
+      "id_image": "canopy_1455789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374817_b349ce7dc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374817_fe461dd8e1_o.png",
+      "id_image": "canopy_3806660"
+    }
+  ]
+}

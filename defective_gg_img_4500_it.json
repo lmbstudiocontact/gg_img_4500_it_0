@@ -1,0 +1,56 @@
+{
+  "english": "defective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chia không đủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tỳ vết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiếu vật gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trí nhớ kém",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không hoàn toàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có khuyết điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không ưu điểm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "imperfect or faulty.",
+      "definitions_ex_en": "complaints over defective goods",
+      "definitions_ex_vn": "Khiếu nại về hàng hóa bị lỗi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306061_f22c2bb5a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306061_bcc205ce79_o.png",
+      "id_image": "defective_5318814"
+    }
+  ]
+}

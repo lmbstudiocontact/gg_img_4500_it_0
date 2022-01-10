@@ -1,0 +1,57 @@
+{
+  "english": "cocktail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cốc tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa bị cắt gân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa lai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu pha nhiều thứ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an alcoholic drink consisting of a spirit or several spirits mixed with other ingredients, such as fruit juice, lemonade, or cream.",
+      "definitions_ex_en": "a cocktail bar",
+      "definitions_ex_vn": "một quán bar cocktail",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dish consisting of small pieces of food, typically served cold at the beginning of a meal as an appetizer.",
+      "definitions_ex_en": "a chilled lobster cocktail prettily presented in a martini glass",
+      "definitions_ex_vn": "một ly cocktail tôm hùm lạnh được trình bày trong một ly martini",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326031_8f91dbe0bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326031_dc5f494f54_o.png",
+      "id_image": "cocktail_282728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370777_53b0d71e9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370777_6f7e70bde6_o.png",
+      "id_image": "cocktail_282741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325961_d74a1fc21d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325961_3606ddd61d_o.png",
+      "id_image": "cocktail_545080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325916_8ce767f28d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325916_6bf232dc6f_o.png",
+      "id_image": "cocktail_545093"
+    }
+  ]
+}

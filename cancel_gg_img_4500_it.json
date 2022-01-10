@@ -1,0 +1,76 @@
+{
+  "english": "cancel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bỏ tem",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bôi bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy giết tem",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hủy bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không đặt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "decide or announce that (a planned event) will not take place.",
+      "definitions_ex_en": "he was forced to cancel his visit",
+      "definitions_ex_vn": "anh ta bị buộc phải hủy chuyến thăm của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a factor or circumstance) neutralize or negate the force or effect of (another).",
+      "definitions_ex_en": "the electric fields may cancel each other out",
+      "definitions_ex_vn": "Các trường điện có thể hủy bỏ nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a mark made on a postage stamp to show that it has been used.",
+      "definitions_ex_en": "a stamp franked and with an adhesive cancel",
+      "definitions_ex_vn": "một con dấu thẳng thắn và hủy bỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a new page or section inserted in a book to replace the original text, typically to correct an error.",
+      "definitions_ex_en": "a cancel title page",
+      "definitions_ex_vn": "một trang tiêu đề hủy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659349_70114e57e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659349_52d89be846_o.png",
+      "id_image": "cancel_2456076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040885_6249a88831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040885_0c40f1ee65_o.png",
+      "id_image": "cancel_2597932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659304_289db5b36e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659304_4813eee3a2_o.png",
+      "id_image": "cancel_3037086"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "context",
+  "list_translation_mean": [
+    {
+      "translate_mean": "định nghỉa bài văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần sau đoạn văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần trước đoạn văn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood and assessed.",
+      "definitions_ex_en": "the decision was taken within the context of planned cuts in spending",
+      "definitions_ex_vn": "Quyết định được đưa ra trong bối cảnh cắt giảm theo kế hoạch trong chi tiêu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044090_855191f28e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044090_1c5415cc62_o.png",
+      "id_image": "context_1783669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044055_18d0cb4465_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044055_54a96bb178_o.png",
+      "id_image": "context_5261866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662334_a2539f71bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662334_4809d041cd_o.png",
+      "id_image": "context_5360558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662319_8e19042976_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662319_e6af6515d9_o.png",
+      "id_image": "context_6348622"
+    }
+  ]
+}

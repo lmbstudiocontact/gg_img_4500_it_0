@@ -1,0 +1,93 @@
+{
+  "english": "bark",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nói cụt ngẳn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng chó sủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng chồn kêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng ho khan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ còn dính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lột vỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sharp explosive cry of certain animals, especially a dog, fox, or seal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the tough protective outer sheath of the trunk, branches, and twigs of a tree or woody shrub.",
+      "definitions_ex_en": "beavers feed on leaves and the living bark of trees",
+      "definitions_ex_vn": "Beavers ăn trên lá và vỏ cây sống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "thin sheets of chocolate topped with ingredients such as nuts, candy, and dried fruit and broken into irregularly shaped pieces.",
+      "definitions_ex_en": "white chocolate bark studded with cranberries and pistachios",
+      "definitions_ex_vn": "Bark sô cô la trắng đính kèm quả cranberries và pistachios",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ship or boat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a dog or other animal) emit a bark.",
+      "definitions_ex_en": "a dog barked at her",
+      "definitions_ex_vn": "Một con chó sủa cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "utter (a command or question) abruptly or aggressively.",
+      "definitions_ex_en": "he began barking out his orders",
+      "definitions_ex_vn": "Anh bắt đầu sủa ra lệnh của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "tan or dye (leather or other materials) using the tannins found in bark.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670009_309e22dbd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670009_b9dcced28e_o.png",
+      "id_image": "bark_5660504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359507_8b5dea35b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359507_fa3cf13511_o.png",
+      "id_image": "bark_5660523"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "english": "clinical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "y học thực hành",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the observation and treatment of actual patients rather than theoretical or laboratory studies.",
+      "definitions_ex_en": "clinical medicine",
+      "definitions_ex_vn": "y học lâm sàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "efficient and unemotional; coldly detached.",
+      "definitions_ex_en": "the clinical detail of a textbook",
+      "definitions_ex_vn": "Các chi tiết lâm sàng của một cuốn sách giáo khoa",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376262_349b6dfe44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376262_76281a069c_o.png",
+      "id_image": "clinical_5458932"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "crystal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "pha lê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ bằng thủy tinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiến đồng hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng thủy tinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy tinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống như thủy tinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm bằng thủy tinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trong suốt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of a homogeneous solid substance having a natural geometrically regular form with symmetrically arranged plane faces.",
+      "definitions_ex_en": "a quartz crystal",
+      "definitions_ex_vn": "một tinh thể thạch anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "highly transparent glass with a high refractive index.",
+      "definitions_ex_en": "a crystal chandelier",
+      "definitions_ex_vn": "một đèn chùm pha lê",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for crystal meth (methamphetamine).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clear and transparent like crystal.",
+      "definitions_ex_en": "the clean crystal waters of the lake",
+      "definitions_ex_vn": "vùng nước pha lê sạch của hồ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671679_5e76f60d5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671679_8698c9c67d_o.png",
+      "id_image": "crystal_1021357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053380_f86b5c30e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053380_4aa3c8a607_o.png",
+      "id_image": "crystal_2464317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361237_d921405596_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361237_be98b642ce_o.png",
+      "id_image": "crystal_2732410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671579_b8b4ecd8a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671579_258970455f_o.png",
+      "id_image": "crystal_4455512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671544_a13113f26f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671544_f90052479a_o.png",
+      "id_image": "crystal_4545077"
+    }
+  ]
+}

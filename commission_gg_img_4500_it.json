@@ -1,0 +1,140 @@
+{
+  "english": "commission",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấy ủy quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoa hồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ủy quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vỏ trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc nhờ cậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền hoa hồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạng lịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền huê hồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhiệm vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ủy ban",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phận sự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ủy hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt mua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự phạm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ủy nhiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ủy thác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instruction, command, or duty given to a person or group of people.",
+      "definitions_ex_en": "he received a commission to act as an informer",
+      "definitions_ex_vn": "ông đã nhận được một ủy ban để làm một người cung cấp thông tin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people officially charged with a particular function.",
+      "definitions_ex_en": "the United Nations High Commission for Refugees",
+      "definitions_ex_vn": "Ủy ban người tị nạn cao của Liên Hợp Quốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amount of money, typically a set percentage of the value involved, paid to an agent in a commercial transaction.",
+      "definitions_ex_en": "foreign banks may charge a commission",
+      "definitions_ex_vn": "Các ngân hàng nước ngoài có thể tính phí hoa hồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a warrant conferring the rank of officer in an army, navy, or air force.",
+      "definitions_ex_en": "he has resigned his commission",
+      "definitions_ex_vn": "anh ấy đã từ chức Ủy ban của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of committing a crime or offense.",
+      "definitions_ex_en": "use of a deadly weapon in the commission of a felony",
+      "definitions_ex_vn": "sử dụng vũ khí chết người trong Ủy ban trọng tội",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give an order for or authorize the production of (something such as a building, piece of equipment, or work of art).",
+      "definitions_ex_en": "the portrait was commissioned by his widow in 1792",
+      "definitions_ex_vn": "Chân dung được ủy quyền bởi góa phụ của mình vào năm 1792",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring (something newly produced, such as a factory or machine) into working condition.",
+      "definitions_ex_en": "we had a few hiccups getting the heating equipment commissioned",
+      "definitions_ex_vn": "Chúng tôi đã có một vài trục trặc có được thiết bị sưởi ấm được ủy quyền",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "appoint (someone) to the rank of officer in the armed services.",
+      "definitions_ex_en": "he was commissioned after attending midshipman school",
+      "definitions_ex_vn": "Ông đã được ủy nhiệm sau khi tham dự trường Midshipman",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673589_e0e40a4389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673589_b9b2dc7231_o.png",
+      "id_image": "commission_1999247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673554_2d1f0789d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673554_13ee75f620_o.png",
+      "id_image": "commission_4514859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055270_5bb6cc6575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055270_9ce220d07f_o.png",
+      "id_image": "commission_4659024"
+    }
+  ]
+}

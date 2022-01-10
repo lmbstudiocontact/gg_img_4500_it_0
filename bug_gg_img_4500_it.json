@@ -1,0 +1,75 @@
+{
+  "english": "bug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "côn trùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tai mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rệp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an insect of a large order distinguished by having mouthparts that are modified for piercing and sucking.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a miniature microphone, typically concealed in a room or telephone, used for surveillance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an error in a computer program or system.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "conceal a miniature microphone in (a room or device) in order to monitor or record someone's conversations.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "annoy or bother (someone).",
+      "definitions_ex_en": "a persistent reporter was bugging me",
+      "definitions_ex_vn": "Một phóng viên dai dẳng đã làm phiền tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049140_64902b0192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049140_36a2d9a44c_o.png",
+      "id_image": "bug_1018798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427298_e4d7ebb0d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427298_48733a96f9_o.png",
+      "id_image": "bug_1590014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049060_213f2c29df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049060_ae4d2f503d_o.png",
+      "id_image": "bug_1590034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312596_cd4173f6cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312596_cea157101d_o.png",
+      "id_image": "bug_269064"
+    }
+  ]
+}

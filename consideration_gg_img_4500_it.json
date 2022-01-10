@@ -1,0 +1,65 @@
+{
+  "english": "consideration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chú ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đắn đo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kính trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quan trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xem xét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bảo chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền thưởng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "careful thought, typically over a period of time.",
+      "definitions_ex_en": "a long process involving a great deal of careful consideration",
+      "definitions_ex_vn": "một quá trình dài liên quan đến một sự xem xét cẩn thận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a payment or reward.",
+      "definitions_ex_en": "you can buy the books for a small consideration",
+      "definitions_ex_vn": "Bạn có thể mua những cuốn sách để xem xét nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "importance; consequence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665289_0b17fe7228_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665289_a7ab67a8b6_o.png",
+      "id_image": "consideration_5778251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046955_ac9c3ae22e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046955_dcf1419cdc_o.png",
+      "id_image": "consideration_5778534"
+    }
+  ]
+}

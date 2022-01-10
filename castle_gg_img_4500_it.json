@@ -1,0 +1,60 @@
+{
+  "english": "castle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dinh thự lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lâu đài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tòa lâu đài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành quách sứ quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành trì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con cờ có hình cái tháp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large building, typically of the medieval period, fortified against attack with thick walls, battlements, towers, and in many cases a moat.",
+      "definitions_ex_en": "Edinburgh Castle",
+      "definitions_ex_vn": "Lâu đài Edinburgh.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a special move (no more than once in a game by each player) in which the king is transferred from its original square two squares along the back rank toward a rook on its corner square which is then transferred to the square passed over by the king.",
+      "definitions_ex_en": "both of the players castled on the queenside",
+      "definitions_ex_vn": "Cả hai người chơi đã qua trên sân khấu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436088_708d75c6e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436088_89cd6da952_o.png",
+      "id_image": "castle_327414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675914_9e906976f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675914_c4961d3c85_o.png",
+      "id_image": "castle_540162"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436008_24d4671b3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436008_358df5698e_o.png",
+      "id_image": "castle_619097"
+    }
+  ]
+}

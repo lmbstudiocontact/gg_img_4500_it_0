@@ -1,0 +1,54 @@
+{
+  "english": "cosmetic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cất làm mướt tóc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chất làm mịn da",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "involving or relating to treatment intended to restore or improve a person's appearance.",
+      "definitions_ex_en": "cosmetic surgery",
+      "definitions_ex_vn": "phẫu thuật thẩm mỹ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a product applied to the body, especially the face, to improve its appearance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684844_84625f99c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684844_d6f3cda7b7_o.png",
+      "id_image": "cosmetics_3967354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444848_b3a1f80e0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444848_a0b47940cb_o.png",
+      "id_image": "cosmetics_5662697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684789_51278b0ce0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684789_d8601030a5_o.png",
+      "id_image": "cosmetics_6036751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374682_a120967750_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374682_c577714b9c_o.png",
+      "id_image": "cosmetic_4283413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444963_9593df4351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444963_639232bfd3_o.png",
+      "id_image": "cosmetic_5493227"
+    }
+  ]
+}

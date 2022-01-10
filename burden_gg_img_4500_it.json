@@ -1,0 +1,80 @@
+{
+  "english": "burden",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chịu trách nhiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điệp khúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gánh nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lập chứng trách nhiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức trọng tải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt gánh vác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a load, typically a heavy one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the main theme or gist of a speech, book, or argument.",
+      "definitions_ex_en": "the burden of his views",
+      "definitions_ex_vn": "gánh nặng quan điểm của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the refrain or chorus of a song.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "load heavily.",
+      "definitions_ex_en": "she walked forward burdened with a wooden box",
+      "definitions_ex_vn": "Cô bước về phía trước gánh nặng bằng một chiếc hộp gỗ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424923_2192e56352_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424923_dae3c720f6_o.png",
+      "id_image": "burden_1749656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424903_6883c94569_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424903_651c388e66_o.png",
+      "id_image": "burden_4593123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309696_261eeeea4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309696_64071faebf_o.png",
+      "id_image": "burden_5705194"
+    }
+  ]
+}

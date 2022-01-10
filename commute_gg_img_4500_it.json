@@ -1,0 +1,58 @@
+{
+  "english": "commute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyển hoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổi chác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thay đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trao đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao hoán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "travel some distance between one's home and place of work on a regular basis.",
+      "definitions_ex_en": "she commuted from Westport in to Grand Central Station",
+      "definitions_ex_vn": "Cô đi từ Westport đến ga Grand Central",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reduce (a judicial sentence, especially a sentence of death) to one less severe.",
+      "definitions_ex_en": "he commuted the sentences of hundreds of convicts",
+      "definitions_ex_vn": "Ông đã đi lại những câu của hàng trăm người bị kết án",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of two operations or quantities) have a commutative relationship.",
+      "definitions_ex_en": "operators which do not commute with each other",
+      "definitions_ex_vn": "Các nhà khai thác không đi lại với nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a regular journey of some distance to and from one's place of work.",
+      "definitions_ex_en": "the daily commute",
+      "definitions_ex_vn": "việc đi lại hàng ngày",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432768_777c2c6fb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432768_20fbcf6a40_o.png",
+      "id_image": "commute_3772931"
+    }
+  ]
+}

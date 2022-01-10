@@ -1,0 +1,56 @@
+{
+  "english": "background",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lý lịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở trong bóng tối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần sau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phía sau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tránh mặt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the area or scenery behind the main object of contemplation, especially when perceived as a framework for it.",
+      "definitions_ex_en": "the house stands against a background of sheltering trees",
+      "definitions_ex_vn": "Ngôi nhà đứng trên một nền tảng của những cây che chở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the circumstances or situation prevailing at a particular time or underlying a particular event.",
+      "definitions_ex_en": "the political and economic background",
+      "definitions_ex_vn": "nền tảng chính trị và kinh tế",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059165_a6d298184f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059165_e34c2080bc_o.png",
+      "id_image": "background_232867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322311_591a85e8b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322311_602754d099_o.png",
+      "id_image": "background_3879544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367192_5bfa0955e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367192_2d9bec5054_o.png",
+      "id_image": "background_3997800"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "english": "corrupt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hư",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồi bại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồi trụy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hủ bại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "suy đồi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thúi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trụy lạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hư hỏng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồi bại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hư tánh nết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hư hỏng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing a willingness to act dishonestly in return for money or personal gain.",
+      "definitions_ex_en": "unscrupulous logging companies assisted by corrupt officials",
+      "definitions_ex_vn": "Các công ty khai thác gỗ vô đạo đức được hỗ trợ bởi các quan chức tham nhũng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a text or a computer database or program) made unreliable by errors or alterations.",
+      "definitions_ex_en": "a progressively corrupt magnetic record is usable nonetheless",
+      "definitions_ex_vn": "Một bản ghi từ tính do tham nhũng dần dần có thể sử dụng được",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of organic or inorganic matter) in a state of decay; rotten or putrid.",
+      "definitions_ex_en": "a corrupt and rotting corpse",
+      "definitions_ex_vn": "một xác chết tham nhũng và mục nát",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "cause to act dishonestly in return for money or personal gain.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "change or debase by making errors or unintentional alterations.",
+      "definitions_ex_en": "Epicurus's teachings have since been much corrupted",
+      "definitions_ex_vn": "Giáo lý của Epicurus đã bị hỏng nhiều",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "infect; contaminate.",
+      "definitions_ex_en": "the corrupting smell of death",
+      "definitions_ex_vn": "mùi chết tiệt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067060_9f1c1d8c28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067060_b2d80a3b60_o.png",
+      "id_image": "corrupt_4542048"
+    }
+  ]
+}

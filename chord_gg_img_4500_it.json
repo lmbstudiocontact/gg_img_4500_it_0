@@ -1,0 +1,62 @@
+{
+  "english": "chord",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuống nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa âm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of (typically three or more) notes sounded together, as a basis of harmony.",
+      "definitions_ex_en": "the triumphal opening chords",
+      "definitions_ex_vn": "Hợp âm mở kịch chiến thắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a straight line joining the ends of an arc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the two principal members of a truss.",
+      "definitions_ex_en": "a stabilizer chord",
+      "definitions_ex_vn": "một hợp âm ổn định",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of cord.",
+      "definitions_ex_en": "spinal chord",
+      "definitions_ex_vn": "hợp âm cột sống.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a string on a harp or other instrument.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "play, sing, or arrange notes in chords.",
+      "definitions_ex_en": "the entire swing session is masterfully chorded by the Duke on piano",
+      "definitions_ex_vn": "Toàn bộ phiên swing được hợp âm hoàn toàn bởi Duke trên Piano",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044585_86637065ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044585_60c96e0042_o.png",
+      "id_image": "chord_3355143"
+    }
+  ]
+}

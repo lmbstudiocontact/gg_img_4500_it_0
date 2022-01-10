@@ -1,0 +1,88 @@
+{
+  "english": "commercial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về thương mải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thương nghiệp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "việc mậu dịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vụ lợi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quảng cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trình bày",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "concerned with or engaged in commerce.",
+      "definitions_ex_en": "a commercial agreement",
+      "definitions_ex_vn": "một thỏa thuận thương mại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "making or intended to make a profit.",
+      "definitions_ex_en": "commercial products",
+      "definitions_ex_vn": "sản phẩm thương mại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of television or radio) funded by the revenue from broadcast advertisements.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of chemicals) supplied in bulk and not of the highest purity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a television or radio advertisement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055410_4cf1c12fbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055410_2323aa3933_o.png",
+      "id_image": "commercial_1734068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434038_c2ee25b056_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434038_af1234d203_o.png",
+      "id_image": "commercial_2104099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318801_7101426695_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318801_f5ed48404e_o.png",
+      "id_image": "commercial_2494727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673614_d2743a4e17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673614_6b1725e599_o.png",
+      "id_image": "commercial_3966313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055445_6b8c987c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055445_b81ac4971b_o.png",
+      "id_image": "commercial_994621"
+    }
+  ]
+}

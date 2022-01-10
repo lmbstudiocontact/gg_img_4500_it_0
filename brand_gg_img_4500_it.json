@@ -1,0 +1,98 @@
+{
+  "english": "brand",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gươm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây đuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc củi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhản hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghi nhớ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "in dấu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a type of product manufactured by a particular company under a particular name.",
+      "definitions_ex_en": "a new brand of detergent",
+      "definitions_ex_vn": "một thương hiệu mới của chất tẩy rửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an identifying mark burned on livestock or (formerly) criminals or slaves with a branding iron.",
+      "definitions_ex_en": "the brand on a sheep identifies it as mine",
+      "definitions_ex_vn": "thương hiệu trên một con cừu xác định nó là của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of burning or smoldering wood.",
+      "definitions_ex_en": "he took two burning brands from the fire",
+      "definitions_ex_vn": "Anh ta lấy hai thương hiệu cháy khỏi đám cháy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sword.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mark with a branding iron.",
+      "definitions_ex_en": "the seller had branded the animal with his grandfather's name",
+      "definitions_ex_vn": "Người bán đã mang nhãn hiệu động vật với tên của ông nội",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assign a brand name to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054810_792920e839_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054810_efbfc02502_o.png",
+      "id_image": "brand_1622679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054795_9830eb4a23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054795_5627d5c717_o.png",
+      "id_image": "brand_1999234"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362712_204eaf5dda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362712_8dc5121947_o.png",
+      "id_image": "brand_2132232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433363_608763d7e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433363_a49abbd0f4_o.png",
+      "id_image": "brand_5823739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673104_2bd52041da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673104_dfa27d4237_o.png",
+      "id_image": "brand_741882"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "decision",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều nghị quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phán quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải quyết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a conclusion or resolution reached after consideration.",
+      "definitions_ex_en": "I'll make the decision on my own",
+      "definitions_ex_vn": "Tôi sẽ tự đưa ra quyết định",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044420_97b4fa5474_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044420_a83816e497_o.png",
+      "id_image": "decision_1900209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662719_d1549bc1aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662719_2be638c65c_o.png",
+      "id_image": "decision_1900265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351577_a439380e75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351577_de3215af68_o.png",
+      "id_image": "decision_993690"
+    }
+  ]
+}

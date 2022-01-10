@@ -1,0 +1,131 @@
+{
+  "english": "date",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỳ hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "niên hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày tháng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày tháng năm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhật ký",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thông hiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt đầu từ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đề ngày tháng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kể từ thời kỳ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết niên hiệu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the day of the month or year as specified by a number.",
+      "definitions_ex_en": "what's the date today?",
+      "definitions_ex_vn": "hôm nay là ngày mấy?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a social or romantic appointment or engagement.",
+      "definitions_ex_en": "a college student on a date with someone he met in class",
+      "definitions_ex_vn": "một sinh viên đại học hẹn hò với người mà anh ta gặp nhau trong lớp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sweet, dark brown oval fruit containing a hard stone, usually eaten dried.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tall palm tree which bears clusters of dates, native to western Asia and North Africa.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "establish or ascertain the date of (an object or event).",
+      "definitions_ex_en": "they date the paintings to 1460–70",
+      "definitions_ex_vn": "Họ hẹn hò với các bức tranh đến 1460-70",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "indicate or expose as being old-fashioned.",
+      "definitions_ex_en": "disco—that word alone dates me",
+      "definitions_ex_vn": "Disco-mà từ một mình có niên đại tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go out with (someone in whom one is romantically or sexually interested).",
+      "definitions_ex_en": "a few years ago, I dated the ex of a friend",
+      "definitions_ex_vn": "Vài năm trước, tôi đã hẹn hò với một người bạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046590_745d2579ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046590_0717f27e6b_o.png",
+      "id_image": "date_1031454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353737_69413c50f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353737_b83af482cc_o.png",
+      "id_image": "date_2231785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046480_eece66160e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046480_ceaa70a07f_o.png",
+      "id_image": "date_5673763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424593_3345002efb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424593_040cbe06b5_o.png",
+      "id_image": "date_5739970"
+    }
+  ]
+}

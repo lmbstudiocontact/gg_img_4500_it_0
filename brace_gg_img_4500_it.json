@@ -1,0 +1,66 @@
+{
+  "english": "brace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vật kết cho chặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật nối cho chắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm vững chắc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device fitted to something, in particular a weak or injured part of the body, to give support.",
+      "definitions_ex_en": "a neck brace",
+      "definitions_ex_vn": "một cái nẹp cổ.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pair of something, typically of birds or mammals killed in hunting.",
+      "definitions_ex_en": "thirty brace of grouse",
+      "definitions_ex_vn": "Ba mươi nẹp của Grouse",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "either of the two marks { and }, used either to indicate that two or more items on one side have the same relationship as each other to the single item to which the other side points, or in pairs to show that words between them are connected.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (a structure) stronger or firmer with wood, iron, or other forms of support.",
+      "definitions_ex_en": "the posts were braced by lengths of timber",
+      "definitions_ex_vn": "Các bài viết đã được giằng bởi độ dài gỗ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prepare (oneself) for something difficult or unpleasant.",
+      "definitions_ex_en": "both stations are bracing themselves for job losses",
+      "definitions_ex_vn": "Cả hai trạm đều tự chuẩn bị tổn thất việc làm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056210_acbb4a55e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056210_b194d1b8a2_o.png",
+      "id_image": "brace_1386880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319611_0edc683e4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319611_9c48135d8a_o.png",
+      "id_image": "brace_1780163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319581_7252551b2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319581_5079baac31_o.png",
+      "id_image": "brace_2933552"
+    }
+  ]
+}

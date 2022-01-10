@@ -1,0 +1,58 @@
+{
+  "english": "concord",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hòa âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa thuận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phối hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuận thảo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "agreement or harmony between people or groups.",
+      "definitions_ex_en": "a pact of peace and concord",
+      "definitions_ex_vn": "một hiệp ước hòa bình và hòa quyện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "agreement between words in gender, number, case, person, or any other grammatical category which affects the forms of the words.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a chord that is pleasing or satisfactory in itself.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a variety of dessert grape developed at Concord, Massachusetts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357587_22b231c28f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357587_6328724a43_o.png",
+      "id_image": "concord_5352345"
+    }
+  ]
+}

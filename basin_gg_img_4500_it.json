@@ -1,0 +1,57 @@
+{
+  "english": "basin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bồn rữa mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chậu lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng chảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưu vực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a wide, round open container, especially one used for holding liquid.",
+      "definitions_ex_en": "she poured water from the jug into the basin",
+      "definitions_ex_vn": "Cô rót nước từ bình vào lưu vực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a natural depression on the earth's surface, typically containing water.",
+      "definitions_ex_en": "the Indian Ocean basin",
+      "definitions_ex_vn": "lưu vực đại dương Ấn Độ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429253_2d44abc2c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429253_aa1a819716_o.png",
+      "id_image": "basin_1691591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429223_2187c0a4aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429223_ee3b3bd3e1_o.png",
+      "id_image": "basin_1894923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429188_7cdbc9dc6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429188_189536aa08_o.png",
+      "id_image": "basin_2642429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050850_25804b1825_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050850_0aaa4501ae_o.png",
+      "id_image": "basin_6080267"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "english": "beat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khu vực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhịp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng đập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh đập",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strike (a person or an animal) repeatedly and violently so as to hurt or injure them, typically with an implement such as a club or whip.",
+      "definitions_ex_en": "if we were caught we were beaten",
+      "definitions_ex_vn": "Nếu chúng ta bị bắt, chúng ta đã bị đánh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "defeat (someone) in a game or other competitive situation.",
+      "definitions_ex_en": "she beat him easily at chess",
+      "definitions_ex_vn": "Cô ấy dễ dàng đánh bại anh ta tại Cờ vua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "succeed in getting somewhere ahead of (someone).",
+      "definitions_ex_en": "the goalie beat him to the ball",
+      "definitions_ex_vn": "Thủ môn đánh anh ta vào quả bóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the heart) pulsate.",
+      "definitions_ex_en": "her heart beat faster with panic",
+      "definitions_ex_vn": "Trái tim cô đập nhanh hơn với sự hoảng loạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bird) move (the wings) up and down.",
+      "definitions_ex_en": "doves wheel around the rooftops, beating their wings",
+      "definitions_ex_vn": "Bánh xe bồ câu xung quanh mái nhà, đánh đôi cánh của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stir (cooking ingredients) vigorously with a fork, whisk, or beater to make a smooth or frothy mixture.",
+      "definitions_ex_en": "beat the butter until light and fluffy",
+      "definitions_ex_vn": "Đánh bơ cho đến khi ánh sáng và mịn màng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sail into the wind, following a zigzag course with repeated tacking.",
+      "definitions_ex_en": "we beat southward all that first day",
+      "definitions_ex_vn": "Chúng tôi đánh bại về phía nam tất cả những ngày đầu tiên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a main accent or rhythmic unit in music or poetry.",
+      "definitions_ex_en": "the glissando begins on the second beat",
+      "definitions_ex_vn": "Glissando bắt đầu trong nhịp thứ hai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the movement of a bird's wings.",
+      "definitions_ex_en": "the beat of the swallow's wings as they dive after midges",
+      "definitions_ex_vn": "nhịp đập của đôi cánh của Swallow khi họ lặn sau những midges",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area allocated to a police officer to patrol.",
+      "definitions_ex_en": "public clamor for more police officers on the beat",
+      "definitions_ex_vn": "Kỷ niệm công khai cho nhiều sĩ quan cảnh sát trên nhịp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a brief pause or moment of hesitation, typically one lasting a specified length.",
+      "definitions_ex_en": "she waited for a beat of three seconds",
+      "definitions_ex_vn": "Cô chờ đợi một nhịp gồm ba giây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for beatnik.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "completely exhausted.",
+      "definitions_ex_en": "I'm beat—I need an hour or so to rest",
+      "definitions_ex_vn": "Tôi đang đánh tôi cần một giờ hoặc lâu hơn để nghỉ ngơi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the beat generation or its philosophy.",
+      "definitions_ex_en": "beat poet Allen Ginsberg",
+      "definitions_ex_vn": "Beat Poet Allen Ginsberg",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047850_874945cc2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047850_1cbe9cb8a0_o.png",
+      "id_image": "beat_1753158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355272_c58a48ff36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355272_c2e35fc589_o.png",
+      "id_image": "beat_1753164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311086_f79052281f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311086_f2c6fe2271_o.png",
+      "id_image": "beat_1753377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666094_06d2e10791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666094_38e8261ba6_o.png",
+      "id_image": "beat_3690085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047755_2fe084aae1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047755_7bd1032199_o.png",
+      "id_image": "beat_4382700"
+    }
+  ]
+}

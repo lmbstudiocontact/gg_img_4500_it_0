@@ -1,0 +1,95 @@
+{
+  "english": "bail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàng rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bảo đảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bảo chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền thế chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bảo lảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng tiền thế chân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tát nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the temporary release of an accused person awaiting trial, sometimes on condition that a sum of money be lodged to guarantee their appearance in court.",
+      "definitions_ex_en": "he has been released on bail",
+      "definitions_ex_vn": "Anh ấy đã được phát hành tại Bail",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bar on a typewriter or computer printer that holds the paper steady.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fastening that secures a crampon to the sole of a boot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bar or pole separating horses in an open stable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arched handle, such as on a bucket or a teapot.",
+      "definitions_ex_en": "drawers fitted with brass bail handles",
+      "definitions_ex_vn": "ngăn kéo được trang bị tay cầm bằng đồng thau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "either of the two crosspieces bridging the stumps, which the bowler and fielders try to dislodge with the ball to get the batsman out.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "release or secure the release of (a prisoner) on payment of bail.",
+      "definitions_ex_en": "his son called home to get bailed out of jail",
+      "definitions_ex_vn": "Con trai anh gọi là nhà để được cứu trợ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "scoop water out of a boat or ship.",
+      "definitions_ex_en": "when we started bailing, the boat was filled with water",
+      "definitions_ex_vn": "Khi chúng tôi bắt đầu bảo lãnh, chiếc thuyền chứa đầy nước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674879_7618c1546a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674879_3c0ec99867_o.png",
+      "id_image": "bail_1750513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319881_3c63ba8990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319881_3e1033bdc6_o.png",
+      "id_image": "bail_6222604"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "coal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "than đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "than mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "than hầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cung cấp than",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếp tế than",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a combustible black or dark brown rock consisting mainly of carbonized plant matter, found mainly in underground deposits and widely used as fuel.",
+      "definitions_ex_en": "a coal fire",
+      "definitions_ex_vn": "lửa than.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with a supply of coal.",
+      "definitions_ex_en": "ships had to be coaled and supplied",
+      "definitions_ex_vn": "Tàu phải được hợp tác và cung cấp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327471_9ca7a6a9ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327471_30247c05c8_o.png",
+      "id_image": "coal_1870741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442518_6f73584c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442518_b9c7f575f3_o.png",
+      "id_image": "coal_307117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064150_94eb1802b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064150_4cc0444010_o.png",
+      "id_image": "coal_3977989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372057_64dff8f934_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372057_643370324f_o.png",
+      "id_image": "coal_6027366"
+    }
+  ]
+}

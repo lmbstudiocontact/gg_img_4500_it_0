@@ -1,0 +1,87 @@
+{
+  "english": "ball",
+  "list_translation_mean": [
+    {
+      "translate_mean": "banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quả banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quả cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòn dái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòn tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm thành cuộn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a solid or hollow spherical or egg-shaped object that is kicked, thrown, or hit in a game.",
+      "definitions_ex_en": "a soccer ball",
+      "definitions_ex_vn": "đá bóng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in baseball) a pitch delivered outside the strike zone that the batter does not attempt to hit.",
+      "definitions_ex_en": "the umpire called it a ball",
+      "definitions_ex_vn": "trọng tài gọi nó là một quả bóng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the rounded protuberant part of the foot at the base of the big toe.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal social gathering for dancing.",
+      "definitions_ex_en": "a ball gown",
+      "definitions_ex_vn": "một chiếc áo choàng bóng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "squeeze or form (something) into a rounded shape.",
+      "definitions_ex_en": "Robert balled up his napkin and threw it onto his plate",
+      "definitions_ex_vn": "Robert ball lên khăn ăn và ném nó lên đĩa của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433768_8444f7c5a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433768_61463e2b04_o.png",
+      "id_image": "ball_203251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055090_a54aaa2981_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055090_f494c34fb0_o.png",
+      "id_image": "ball_257509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433693_059a3f5e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433693_7185f80c9f_o.png",
+      "id_image": "ball_709430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433658_6492ea915e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433658_1828e7b4a8_o.png",
+      "id_image": "ball_849023"
+    }
+  ]
+}

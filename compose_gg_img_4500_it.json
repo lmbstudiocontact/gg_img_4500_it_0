@@ -1,0 +1,72 @@
+{
+  "english": "compose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dàn xếp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều đình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hòa giải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hợp thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sáng tác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp chữ in",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "write or create (a work of art, especially music or poetry).",
+      "definitions_ex_en": "he composed the First Violin Sonata four years earlier",
+      "definitions_ex_vn": "Ông sáng tác cây sonata violin đầu tiên bốn năm trước đó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of elements) constitute or make up (a whole).",
+      "definitions_ex_en": "the system is composed of a group of machines",
+      "definitions_ex_vn": "Hệ thống bao gồm một nhóm máy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "calm or settle (oneself or one's features or thoughts).",
+      "definitions_ex_en": "she tried to compose herself",
+      "definitions_ex_vn": "Cô đã cố gắng soạn chính mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prepare (a text) for printing by manually, mechanically, or electronically setting up the letters and other characters in the order to be printed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315526_75ec28b285_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315526_9bb0fa4683_o.png",
+      "id_image": "compose_2748433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359627_413ed99bf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359627_3744b023d0_o.png",
+      "id_image": "compose_3365393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359612_157d00d8f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359612_159b18ce54_o.png",
+      "id_image": "compose_3424993"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "bottle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ve",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vô chai",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a container, typically made of glass or plastic and with a narrow neck, used for storing drinks or other liquids.",
+      "definitions_ex_en": "a bottle of soda pop",
+      "definitions_ex_vn": "một chai soda pop",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place (drinks or other liquids) in bottles or jars.",
+      "definitions_ex_en": "the wine is then bottled",
+      "definitions_ex_vn": "Rượu sau đó được đóng chai",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436533_df4eb093a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436533_dcfa5a6933_o.png",
+      "id_image": "bottle_169821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366137_c39f503ebc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366137_6bcf5882ac_o.png",
+      "id_image": "bottle_272752"
+    }
+  ]
+}

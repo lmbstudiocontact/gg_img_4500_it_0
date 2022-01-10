@@ -1,0 +1,59 @@
+{
+  "english": "commerce",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao cấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thương nghiệp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the activity of buying and selling, especially on a large scale.",
+      "definitions_ex_en": "the possible increase of commerce by a great railroad",
+      "definitions_ex_vn": "sự gia tăng có thể có của thương mại bởi một đường sắt tuyệt vời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "social dealings between people.",
+      "definitions_ex_en": "outside the normal commerce of civilized life",
+      "definitions_ex_vn": "bên ngoài thương mại bình thường của cuộc sống văn minh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sexual intercourse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673844_c9415ab1fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673844_701c0db474_o.png",
+      "id_image": "commerce_1110173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673819_883fd9ed7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673819_83cf693877_o.png",
+      "id_image": "commerce_2345265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673779_f9b7abe874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673779_c1115ac3fc_o.png",
+      "id_image": "commerce_2400350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055455_d79d10e570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055455_f571e1625b_o.png",
+      "id_image": "commerce_6314602"
+    }
+  ]
+}

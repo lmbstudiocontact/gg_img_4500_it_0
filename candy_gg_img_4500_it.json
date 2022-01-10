@@ -1,0 +1,56 @@
+{
+  "english": "candy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường phèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẹo đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm thành đường",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "preserve (fruit, nuts, etc.) by coating and saturating it with a sugar syrup.",
+      "definitions_ex_en": "I candied the walnuts with maple syrup",
+      "definitions_ex_vn": "Tôi đã kẹo quả óc chó với xi-rô Maple",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040465_47a197bbbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040465_caa3707407_o.png",
+      "id_image": "candy_5965115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040445_820e965d52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040445_c8460f4868_o.png",
+      "id_image": "candy_5965142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303691_2dc67ca5d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303691_7ea826f7d8_o.png",
+      "id_image": "candy_6119325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658949_d6100f012e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658949_900d0baa7d_o.png",
+      "id_image": "candy_6347547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303681_b74b240522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303681_7e9243cdf8_o.png",
+      "id_image": "candy_6347610"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "english": "crowd",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám người ồn ào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vô số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuất chúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diển viên phụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhóm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số nhiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất đống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chen chúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vội vàng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large number of people gathered together in a disorganized or unruly way.",
+      "definitions_ex_en": "a huge crowd gathered in the street outside",
+      "definitions_ex_vn": "Một đám đông khổng lồ tập trung trên đường phố bên ngoài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a number of people) fill (a space) almost completely, leaving little or no room for movement.",
+      "definitions_ex_en": "the dance floor was crowded with revelers",
+      "definitions_ex_vn": "sàn nhảy được đông đúc với những người vui chơi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move too close to (someone).",
+      "definitions_ex_en": "don't crowd her, she needs air",
+      "definitions_ex_vn": "Đừng đông cô ấy, cô ấy cần không khí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "exclude someone or something by taking their place.",
+      "definitions_ex_en": "grass invading the canyon has crowded out native plants",
+      "definitions_ex_vn": "cỏ xâm chiếm hẻm núi đã chen chúc những cây bản địa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318396_0ac6a3cd38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318396_651f9a72ce_o.png",
+      "id_image": "crowd_1610480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362897_65ae4a6e24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362897_0d4326ae86_o.png",
+      "id_image": "crowd_2529639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054905_851c2e1b3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054905_950983b90a_o.png",
+      "id_image": "crowd_2707336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673134_a49f9928f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673134_48cfe59082_o.png",
+      "id_image": "crowd_3382573"
+    }
+  ]
+}

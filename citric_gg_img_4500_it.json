@@ -1,0 +1,24 @@
+{
+  "english": "citric",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất rút ở trái chanh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "derived from or related to citrus fruit.",
+      "definitions_ex_en": "lemongrass gives a slightly sweet citric flavor",
+      "definitions_ex_vn": "Lemongrass cho một hương vị citric hơi ngọt",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042815_4a2fd54ca5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042815_6bf2e112e0_o.png",
+      "id_image": "citric_2358305"
+    }
+  ]
+}

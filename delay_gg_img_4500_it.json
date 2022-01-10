@@ -1,0 +1,78 @@
+{
+  "english": "delay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngăn trở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chậm trể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hoản lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trì hoản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật chướng ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chậm trể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hoản lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (someone or something) late or slow.",
+      "definitions_ex_en": "the train was delayed",
+      "definitions_ex_vn": "Tàu đã bị trì hoãn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a period of time by which something is late or postponed.",
+      "definitions_ex_en": "a two-hour delay",
+      "definitions_ex_vn": "một sự chậm trễ kéo dài hai giờ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305611_ca99598e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305611_36a13c81cb_o.png",
+      "id_image": "delay_3103094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420668_c4b52d45ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420668_06e234fbfa_o.png",
+      "id_image": "delay_3103420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042555_1f3439042c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042555_dfaba90510_o.png",
+      "id_image": "delay_4271279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042540_4a90e16f74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042540_d4ec39563f_o.png",
+      "id_image": "delay_4271651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661039_f92ba5c794_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661039_bd859fb177_o.png",
+      "id_image": "delay_4412665"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "can",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lon",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình đựng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hộp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hộp làm bằng sắt tây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vô hộp,",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be able to.",
+      "definitions_ex_en": "they can run fast",
+      "definitions_ex_vn": "họ có thể chạy nhanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be permitted to.",
+      "definitions_ex_en": "you can use the phone if you want to",
+      "definitions_ex_vn": "Bạn có thể sử dụng điện thoại nếu bạn muốn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to ask someone to do something.",
+      "definitions_ex_en": "can you open the window?",
+      "definitions_ex_vn": "Bạn có thể mở cửa sổ?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "preserve (food) in a can.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a cylindrical metal container.",
+      "definitions_ex_en": "a garbage can",
+      "definitions_ex_vn": "một thùng rác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "Canada or Canadian.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376107_124873dbde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376107_867cd86da6_o.png",
+      "id_image": "can_1676649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446338_917f9be12a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446338_dfd220218c_o.png",
+      "id_image": "can_1676653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376012_51f40f91f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376012_396e606708_o.png",
+      "id_image": "can_1676657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375977_6697c6e328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375977_ce99a00666_o.png",
+      "id_image": "can_3005162"
+    }
+  ]
+}

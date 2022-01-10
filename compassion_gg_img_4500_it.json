@@ -1,0 +1,48 @@
+{
+  "english": "compassion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng trắc ẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thương hại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sympathetic pity and concern for the sufferings or misfortunes of others.",
+      "definitions_ex_en": "the victims should be treated with compassion",
+      "definitions_ex_vn": "Các nạn nhân nên được đối xử với lòng trắc ẩn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432133_1f72fc4784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432133_c9bcf9ffb6_o.png",
+      "id_image": "compassion_2159426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317061_dc087d3479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317061_be4bda5afb_o.png",
+      "id_image": "compassion_3062360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432073_12fb4e3387_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432073_02f1bea819_o.png",
+      "id_image": "compassion_3062580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432048_2ccbc00eb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432048_635a3e8179_o.png",
+      "id_image": "compassion_4371271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361277_79d47a503b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361277_2f973a5432_o.png",
+      "id_image": "compassion_4729410"
+    }
+  ]
+}

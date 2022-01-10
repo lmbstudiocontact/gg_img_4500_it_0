@@ -1,0 +1,68 @@
+{
+  "english": "convict",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự kết án",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người bị đày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bị kết án",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tù khổ sai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị đày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết án",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phạm tội",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phán quyết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "declare (someone) to be guilty of a criminal offense by the verdict of a jury or the decision of a judge in a court of law.",
+      "definitions_ex_en": "the theives were convicted of the robbery",
+      "definitions_ex_vn": "Những tên trộm đã bị kết án về vụ cướp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person found guilty of a criminal offense and serving a sentence of imprisonment.",
+      "definitions_ex_en": "two escaped convicts kidnapped them at gunpoint",
+      "definitions_ex_vn": "Hai kết án trốn thoát đã bắt cóc họ tại Gunpoint",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305211_d260041699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305211_567ddec8d9_o.png",
+      "id_image": "convict_2436800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349482_b2214d2ccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349482_8f7b805278_o.png",
+      "id_image": "convict_583607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042205_545521c613_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042205_c98ce13eb3_o.png",
+      "id_image": "convict_583608"
+    }
+  ]
+}

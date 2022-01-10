@@ -1,0 +1,34 @@
+{
+  "english": "cheese",
+  "list_translation_mean": [
+    {
+      "translate_mean": "pho mát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc phải như thế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a food made from the pressed curds of milk.",
+      "definitions_ex_en": "grated cheese",
+      "definitions_ex_vn": "phô mai bào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality of being too obviously sentimental.",
+      "definitions_ex_en": "the conversations tend too far toward cheese",
+      "definitions_ex_vn": "Các cuộc hội thoại có xu hướng quá xa về pho mát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311676_ee070f499b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311676_0b6c19487a_o.png",
+      "id_image": "cheese_1047478"
+    }
+  ]
+}

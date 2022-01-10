@@ -1,0 +1,86 @@
+{
+  "english": "cradle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "căn nguyên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ kẹp nơi xương bị gảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy giữ cho tàu đứng vửng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nôi trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn gốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng khớp mỏ ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt trong nôi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an infant's bed or crib, typically one mounted on rockers.",
+      "definitions_ex_en": "the baby slept peacefully in its cradle",
+      "definitions_ex_vn": "Em bé ngủ yên bình trong cái nôi của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a framework on which a ship or boat rests during construction or repairs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hold gently and protectively.",
+      "definitions_ex_en": "she cradled his head in her arms",
+      "definitions_ex_vn": "Cô ấy đứng đầu vào tay mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place (a phone receiver) in its cradle.",
+      "definitions_ex_en": "she cradled the receiver gently",
+      "definitions_ex_vn": "Cô ấy đã đánh người nhận nhẹ nhàng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061415_b8a8af0d12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061415_e6d4bfe82e_o.png",
+      "id_image": "cradle_1606459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679744_ea29f81c92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679744_16b10c1f89_o.png",
+      "id_image": "cradle_191530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061440_156633e01a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061440_8aed78a1db_o.png",
+      "id_image": "cradle_191535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324441_ccba7562d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324441_85b592823c_o.png",
+      "id_image": "cradle_2917459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439458_31732215e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439458_871be8fbb1_o.png",
+      "id_image": "cradle_5233840"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "conversation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc nói chuyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đàm thoại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a talk, especially an informal one, between two or more people, in which news and ideas are exchanged.",
+      "definitions_ex_en": "she picked up the phone and held a conversation in French",
+      "definitions_ex_vn": "Cô nhấc điện thoại lên và tổ chức một cuộc trò chuyện bằng tiếng Pháp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042745_14fe03a637_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042745_61d5b074df_o.png",
+      "id_image": "conversation_1147949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350007_f438969521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350007_9b7d99f6cf_o.png",
+      "id_image": "conversation_1147953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042705_ec51d17e50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042705_386134faa9_o.png",
+      "id_image": "conversation_1147954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349982_b134a2b60e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349982_0f5524a50c_o.png",
+      "id_image": "conversation_1147983"
+    }
+  ]
+}

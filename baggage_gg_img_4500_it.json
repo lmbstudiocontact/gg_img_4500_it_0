@@ -1,0 +1,54 @@
+{
+  "english": "baggage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "va ly",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hành lý",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "personal belongings packed in suitcases for traveling; luggage.",
+      "definitions_ex_en": "we collected our baggage before clearing customs",
+      "definitions_ex_vn": "Chúng tôi thu thập hành lý của chúng tôi trước khi làm sạch hải quan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "past experiences or long-held ideas regarded as burdens and impediments.",
+      "definitions_ex_en": "the emotional baggage I'm hauling around",
+      "definitions_ex_vn": "hành lý cảm xúc tôi đang kéo xung quanh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057015_e72cdacab1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057015_ebf46108e0_o.png",
+      "id_image": "baggage_2327395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365122_499dc1ec88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365122_ff2a9b4122_o.png",
+      "id_image": "baggage_2332030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056925_08c3bec744_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056925_e59c8ec583_o.png",
+      "id_image": "baggage_5207642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365067_1d2e255bd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365067_d17570dfbb_o.png",
+      "id_image": "baggage_5772870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365222_e91ba0cbdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365222_97b04b7562_o.png",
+      "id_image": "baggage_824214"
+    }
+  ]
+}

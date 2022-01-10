@@ -1,0 +1,74 @@
+{
+  "english": "converse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chuyện vản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đàm thoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò chuyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói chuyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói chuyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trò chuyện",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "engage in conversation.",
+      "definitions_ex_en": "he fell in beside her and they began to converse amicably",
+      "definitions_ex_vn": "Anh ngã xuống bên cạnh cô và họ bắt đầu trò chuyện một cách thân hình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "conversation.",
+      "definitions_ex_en": "his converse at such seasons was always elevating",
+      "definitions_ex_vn": "Converse của anh ấy ở những mùa như vậy luôn luôn nâng cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a situation, object, or statement that is the reverse of another or corresponds to it but with certain terms transposed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "having characteristics which are the reverse of something else already mentioned.",
+      "definitions_ex_en": "the slow process of growth and the converse process of decay",
+      "definitions_ex_vn": "Quá trình tăng trưởng chậm và quá trình phân rã của sự phân rã",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305716_1fdfb77d9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305716_a5c7fff3c3_o.png",
+      "id_image": "converse_1974761"
+    }
+  ]
+}

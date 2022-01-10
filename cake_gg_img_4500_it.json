@@ -1,0 +1,77 @@
+{
+  "english": "cake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh kẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh ngọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ổ bánh giẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh sáp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thắng trận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh sôcôla",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiến thắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đông lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an item of soft, sweet food made from a mixture of flour, shortening, eggs, sugar, and other ingredients, baked and often decorated.",
+      "definitions_ex_en": "a carrot cake",
+      "definitions_ex_vn": "một chiếc bánh cà rốt.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a thick or sticky substance that hardens when dry) cover and become encrusted on (the surface of an object).",
+      "definitions_ex_en": "a pair of boots caked with mud",
+      "definitions_ex_vn": "Một đôi giày cành có bùn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350562_293628747b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350562_fbd60f4864_o.png",
+      "id_image": "cake_170779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350547_096ddc1cf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350547_1dc6c2c446_o.png",
+      "id_image": "cake_190972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661709_1e051a00f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661709_da4e81e1bb_o.png",
+      "id_image": "cake_332977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350477_be6a0430ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350477_00d889621f_o.png",
+      "id_image": "cake_333423"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "complex",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khó hiểu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mặc cảm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phiền phức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phức tạp",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consisting of many different and connected parts.",
+      "definitions_ex_en": "a complex network of water channels",
+      "definitions_ex_vn": "một mạng lưới các kênh nước phức tạp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or involving numbers or quantities containing both a real and an imaginary part.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting an ion or molecule in which one or more groups are linked to a metal atom by coordinate bonds.",
+      "definitions_ex_en": "in naming complex ions, the names of the ligands are cited first",
+      "definitions_ex_vn": "Trong việc đặt tên ion phức tạp, tên của phối tử được trích dẫn trước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a group of similar buildings or facilities on the same site.",
+      "definitions_ex_en": "a new apartment complex",
+      "definitions_ex_vn": "một khu chung cư mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a related group of emotionally significant ideas that are completely or partly repressed and that cause psychic conflict leading to abnormal mental states or behavior.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ion or molecule in which one or more groups are linked to a metal atom by coordinate bonds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (an atom or compound) form a complex with another.",
+      "definitions_ex_en": "the DNA was complexed with the nuclear extract",
+      "definitions_ex_vn": "DNA đã phức tạp với chiết xuất hạt nhân",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670714_4a58fb300a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670714_078fb8fa25_o.png",
+      "id_image": "complex_6133813"
+    }
+  ]
+}

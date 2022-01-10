@@ -1,0 +1,69 @@
+{
+  "english": "cape",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo tơ choàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo thầy tu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông dài ở cổ và lưng gà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũi đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sleeveless cloak, typically a short one.",
+      "definitions_ex_en": "he was wearing a flowing cape",
+      "definitions_ex_vn": "Anh ta đang mặc một chiếc áo choàng chảy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a headland or promontory.",
+      "definitions_ex_en": "we could see the island from the cape",
+      "definitions_ex_vn": "Chúng ta có thể nhìn thấy hòn đảo từ áo choàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in bullfighting) taunt (the bull) by flourishing a cape.",
+      "definitions_ex_en": "the film shows a man expertly caping a charging bull",
+      "definitions_ex_vn": "Bộ phim cho thấy một người đàn ông chuyên nghiệp giới thiệu một con bò sạc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "skin the head and neck of (an animal) to prepare a hunting trophy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373797_978ea23595_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373797_0e562e1d2a_o.png",
+      "id_image": "cape_1053042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065855_2078476896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065855_220d939fdc_o.png",
+      "id_image": "cape_1352482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443913_b0b8005ff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443913_82153e4b41_o.png",
+      "id_image": "cape_1403046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328936_fbd0317aac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328936_9ee9c1b424_o.png",
+      "id_image": "cape_3460387"
+    }
+  ]
+}

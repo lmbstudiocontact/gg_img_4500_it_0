@@ -1,0 +1,60 @@
+{
+  "english": "church",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chịu lể giải cử",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giáo đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giáo hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thánh đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà thờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tín đồ cơ đốc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building used for public Christian worship.",
+      "definitions_ex_en": "they came to church with me",
+      "definitions_ex_vn": "Họ đến nhà thờ với tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take (a woman who has recently given birth) to church for a service of thanksgiving.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307181_c544492e47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307181_d33656d4d2_o.png",
+      "id_image": "church_1339623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662469_55030b52e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662469_433133aaac_o.png",
+      "id_image": "church_257549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662439_014df7635b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662439_6f675b2ea7_o.png",
+      "id_image": "church_2776267"
+    }
+  ]
+}

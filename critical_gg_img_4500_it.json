@@ -1,0 +1,74 @@
+{
+  "english": "critical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình luận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chỉ trích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguy kịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phán đoán",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự phê bình",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "expressing adverse or disapproving comments or judgments.",
+      "definitions_ex_en": "he was critical of many U.S. welfare programs",
+      "definitions_ex_vn": "Ông rất quan trọng với nhiều chương trình phúc lợi của Hoa Kỳ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "expressing or involving an analysis of the merits and faults of a work of literature, music, or art.",
+      "definitions_ex_en": "she never won the critical acclaim she sought",
+      "definitions_ex_vn": "cô ấy không bao giờ giành được sự hoan nghênh quan trọng mà cô ấy đã tìm kiếm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a situation or problem) having the potential to become disastrous; at a point of crisis.",
+      "definitions_ex_en": "the flood waters had not receded, and the situation was still critical",
+      "definitions_ex_vn": "vùng nước lũ đã không bị rút lại, và tình hình vẫn còn rất quan trọng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting a point of transition from one state to another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a nuclear reactor or fuel) maintaining a self-sustaining chain reaction.",
+      "definitions_ex_en": "the reactor is due to go critical in October",
+      "definitions_ex_vn": "Lò phản ứng sẽ đến hạn quan trọng vào tháng 10",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674834_13f8dc281b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674834_f311b552ea_o.png",
+      "id_image": "critical_2519404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364537_9afbea7c01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364537_db9768d080_o.png",
+      "id_image": "critical_3292661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056405_edf25e26bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056405_18d4c64ea3_o.png",
+      "id_image": "critical_4365175"
+    }
+  ]
+}

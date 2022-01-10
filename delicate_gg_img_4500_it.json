@@ -1,0 +1,87 @@
+{
+  "english": "delicate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tinh vi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kéo léo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó khăn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó nghỉ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó xử",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhẹ nhàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ốm yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sức khỏe kém",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tai thính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tinh xảo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vấn đề khó khăn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "very fine in texture or structure; of intricate workmanship or quality.",
+      "definitions_ex_en": "a spider's web, strong yet delicate",
+      "definitions_ex_vn": "một mạng nhện, mạnh mẽ nhưng tinh tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "easily broken or damaged; fragile.",
+      "definitions_ex_en": "delicate china",
+      "definitions_ex_vn": "Trung Quốc tinh tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "requiring sensitive or careful handling.",
+      "definitions_ex_en": "delicate negotiations",
+      "definitions_ex_vn": "đàm phán tinh tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a delicate fabric or garment made of such fabric.",
+      "definitions_ex_en": "the delicates cycle of a washing machine",
+      "definitions_ex_vn": "Các chu kỳ tinh tế của một máy giặt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660919_c434359f88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660919_4c32f779e4_o.png",
+      "id_image": "delicate_525818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420513_5ee8a5e05a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420513_79716a4333_o.png",
+      "id_image": "delicate_525837"
+    }
+  ]
+}

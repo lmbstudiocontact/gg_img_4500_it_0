@@ -1,0 +1,64 @@
+{
+  "english": "bus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe buýt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe chở hành khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe ô tô buýt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi xe ô tô buýt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.",
+      "definitions_ex_en": "a bus service",
+      "definitions_ex_vn": "một dịch vụ xe buýt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinct set of conductors carrying data and control signals within a computer system, to which pieces of equipment may be connected in parallel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "transport in a communal road vehicle.",
+      "definitions_ex_en": "managerial staff was bused in and out of the factory",
+      "definitions_ex_vn": "Nhân viên quản lý đã được xe buýt trong và ngoài nhà máy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "business.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664129_db66685504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664129_cc732956d6_o.png",
+      "id_image": "bus_168280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308826_c26d4be4d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308826_abc66a15b2_o.png",
+      "id_image": "bus_169423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045795_fc6e6516d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045795_3c4a1c01c7_o.png",
+      "id_image": "bus_422962"
+    }
+  ]
+}

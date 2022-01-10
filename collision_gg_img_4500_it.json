@@ -1,0 +1,49 @@
+{
+  "english": "collision",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chạm nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đụng nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instance of one moving object or person striking violently against another.",
+      "definitions_ex_en": "a midair collision between two aircraft",
+      "definitions_ex_vn": "một va chạm giữa hai giây giữa hai máy bay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an event of two or more records being assigned the same identifier or location in memory.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436838_77e60b5e4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436838_3875fb429d_o.png",
+      "id_image": "collision_1533947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366517_79080cd3ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366517_a3002a116b_o.png",
+      "id_image": "collision_2086469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366442_66204d76b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366442_ac474d6563_o.png",
+      "id_image": "collision_3601488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058285_75baa0b50c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058285_fc8d7154e6_o.png",
+      "id_image": "collision_4351713"
+    }
+  ]
+}

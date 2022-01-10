@@ -1,0 +1,79 @@
+{
+  "english": "battery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ắc quy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ấu đả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bạo hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ pin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục pin",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a container consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power.",
+      "definitions_ex_en": "battery power",
+      "definitions_ex_vn": "Pin điện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fortified emplacement for heavy guns.",
+      "definitions_ex_en": "anti-aircraft missile batteries",
+      "definitions_ex_vn": "Pin tên lửa chống máy bay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of units of equipment, typically when connected together.",
+      "definitions_ex_en": "a battery of equipment to monitor blood pressure",
+      "definitions_ex_vn": "một pin của thiết bị để theo dõi huyết áp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the crime or tort of unconsented physical contact with another person, even where the contact is not violent but merely menacing or offensive.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the pitcher and the catcher in a game, considered as a unit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667694_6a7189fa4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667694_91d6ffefc4_o.png",
+      "id_image": "battery_252592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356782_ddf383a9ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356782_cdb81e452a_o.png",
+      "id_image": "battery_290136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049320_5eb23605a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049320_2f0fc9be22_o.png",
+      "id_image": "battery_307139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427583_9050cdce57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427583_30ccb6e221_o.png",
+      "id_image": "battery_309122"
+    }
+  ]
+}

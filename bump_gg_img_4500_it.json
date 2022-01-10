@@ -1,0 +1,113 @@
+{
+  "english": "bump",
+  "list_translation_mean": [
+    {
+      "translate_mean": "băng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cái xóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ hổng trong không khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ nổi lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng vạc kêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light blow or a jolting collision.",
+      "definitions_ex_en": "a nasty bump on the head",
+      "definitions_ex_vn": "một vết sưng khó chịu trên đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a protuberance on a level surface.",
+      "definitions_ex_en": "bumps in the road",
+      "definitions_ex_vn": "BUMPS TRONG ĐƯỜNG",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in an online forum) an act of posting on an inactive thread in order to move it to the top of the list of active threads.",
+      "definitions_ex_en": "I'm giving this thread a well-deserved bump",
+      "definitions_ex_vn": "Tôi đang đưa ra chủ đề này một vết sưng xứng đáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a loosely woven fleeced cotton fabric used in upholstery and as lining material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "knock or run into someone or something with a jolt.",
+      "definitions_ex_en": "I almost bumped into him",
+      "definitions_ex_vn": "Tôi gần như va vào anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or travel with much jolting and jarring.",
+      "definitions_ex_en": "the car bumped along the rutted track",
+      "definitions_ex_vn": "Chiếc xe va chạm dọc theo đường đua rutted",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an airline) refuse (a passenger) a reserved place on a flight as a consequence of deliberate overbooking.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in an online forum) post on (an inactive thread) in order to move it to the top of the list of active threads.",
+      "definitions_ex_en": "if no one responds after 24 hours, you can bump your thread",
+      "definitions_ex_vn": "Nếu không ai phản hồi sau 24 giờ, bạn có thể va vào chủ đề của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425978_80c083fb7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425978_0c030f5166_o.png",
+      "id_image": "bump_1655281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310971_5147478963_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310971_1e190aa1e2_o.png",
+      "id_image": "bump_2439674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355077_5853dffa98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355077_1825d7bce5_o.png",
+      "id_image": "bump_3410124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666039_c42e1b5d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666039_461546f7b2_o.png",
+      "id_image": "bump_5235594"
+    }
+  ]
+}

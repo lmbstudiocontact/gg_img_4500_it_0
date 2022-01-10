@@ -1,0 +1,108 @@
+{
+  "english": "deliver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con đường dẩn đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cung cấp hơi điện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đọc diển văn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải phóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nạp vật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhường lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng thích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tặng cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyên án",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring and hand over (a letter, parcel, or ordered goods) to the proper recipient or address.",
+      "definitions_ex_en": "the products should be delivered on time",
+      "definitions_ex_vn": "Các sản phẩm nên được giao đúng hạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide (something promised or expected).",
+      "definitions_ex_en": "he had been able to deliver votes in huge numbers",
+      "definitions_ex_vn": "Ông đã có thể cung cấp phiếu bầu với số lượng lớn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "launch or aim (a blow, ball, or attack).",
+      "definitions_ex_en": "the pitcher winds up to deliver the ball",
+      "definitions_ex_vn": "Người ném bóng lên để giao bóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assist in the birth of.",
+      "definitions_ex_en": "the village midwife delivered the baby",
+      "definitions_ex_vn": "Nữ hộ sinh làng giao cho bé",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "save, rescue, or set someone or something free from.",
+      "definitions_ex_en": "deliver us from misery",
+      "definitions_ex_vn": "Cung cấp cho chúng tôi từ sự khốn khổ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071440_7d0673a016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071440_c88c43f20a_o.png",
+      "id_image": "deliver_1783671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449448_4a898198d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449448_d4a32249af_o.png",
+      "id_image": "deliver_3396271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071530_3c9f21335e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071530_0588912e65_o.png",
+      "id_image": "deliver_384030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689604_d326c8bd64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689604_086fbe0dbd_o.png",
+      "id_image": "deliver_384048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379287_0d95fa9a84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379287_b3b128b2a2_o.png",
+      "id_image": "deliver_4108804"
+    }
+  ]
+}

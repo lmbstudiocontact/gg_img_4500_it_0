@@ -1,0 +1,108 @@
+{
+  "english": "choke",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bóp lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ co lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngộp thở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bế tắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm ngạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm nghẹt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nén lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tắc ngẹn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thắt lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bế tắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cầm lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm kẹt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nghẹt thở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or animal) have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
+      "definitions_ex_en": "Willie choked on a mouthful of soda",
+      "definitions_ex_vn": "Willie nghẹn ngào trên một ngụm soda",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fill (a passage or space), especially so as to make movement difficult or impossible.",
+      "definitions_ex_en": "the roads were choked with traffic",
+      "definitions_ex_vn": "Những con đường bị nghẹn với giao thông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (someone) speechless with a strong feeling or emotion.",
+      "definitions_ex_en": "he was choked with fury",
+      "definitions_ex_vn": "Anh ta bị nghẹn giận dữ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "enrich the fuel mixture in (a gasoline engine) by reducing the intake of air.",
+      "definitions_ex_en": "carbon monoxide results during a cold start, when an engine is choked",
+      "definitions_ex_vn": "Kết quả carbon monoxide trong một khởi đầu lạnh, khi một động cơ bị nghẹn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a valve in the carburetor of a gasoline engine that is used to reduce the amount of air in the fuel mixture when the engine is started.",
+      "definitions_ex_en": "an automatic choke",
+      "definitions_ex_vn": "một sặc tự động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sound produced by a person or animal having difficulty in breathing.",
+      "definitions_ex_en": "a little choke of laughter",
+      "definitions_ex_vn": "một chút sặc của tiếng cười",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the inedible mass of silky fibers at the center of a globe artichoke.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045220_c638eafaf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045220_e3ce29dab5_o.png",
+      "id_image": "choke_4658059"
+    }
+  ]
+}

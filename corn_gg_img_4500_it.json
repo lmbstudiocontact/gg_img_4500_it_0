@@ -1,0 +1,91 @@
+{
+  "english": "corn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chai chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngủ cốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xúc phạm đến người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chai ở ngón chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúa mạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "muối thịt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thịt hộp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a North American cereal plant that yields large grains, or kernels, set in rows on a cob. Its many varieties yield numerous products, highly valued for both human and livestock consumption.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something banal or sentimental.",
+      "definitions_ex_en": "the movie is pure corn",
+      "definitions_ex_vn": "Bộ phim là ngô nguyên chất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small, painful area of thickened skin on the foot, especially on the toes, caused by pressure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331926_29509d0b3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331926_8df01a5b38_o.png",
+      "id_image": "corn_1408034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068580_bd6f13b432_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068580_dbf28f038a_o.png",
+      "id_image": "corn_1488298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068675_9e478e0864_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068675_7d37329246_o.png",
+      "id_image": "corn_517606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446993_e9a0e2d24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446993_26d1f4d66a_o.png",
+      "id_image": "corn_525038"
+    }
+  ]
+}

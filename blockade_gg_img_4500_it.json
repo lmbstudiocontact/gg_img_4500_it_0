@@ -1,0 +1,34 @@
+{
+  "english": "blockade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bao vây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phong tỏa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act or means of sealing off a place to prevent goods or people from entering or leaving.",
+      "definitions_ex_en": "there was a blockade of humanitarian aid",
+      "definitions_ex_vn": "Có một sự phong tỏa của viện trợ nhân đạo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "seal off (a place) to prevent goods or people from entering or leaving.",
+      "definitions_ex_en": "the authorities blockaded roads in and out of the capital",
+      "definitions_ex_vn": "Nhà chức trách đã chặn đường trong và ngoài thủ đô",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066430_e33ea8ab65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066430_3f48561bfd_o.png",
+      "id_image": "blockade_1699753"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "corruption",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bại hoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đồi bại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hối lộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hư hỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mua chuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trụy lạc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "dishonest or fraudulent conduct by those in power, typically involving bribery.",
+      "definitions_ex_en": "the journalist who wants to expose corruption in high places",
+      "definitions_ex_vn": "Nhà báo muốn phơi bày tham nhũng ở những nơi cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process by which something, typically a word or expression, is changed from its original use or meaning to one that is regarded as erroneous or debased.",
+      "definitions_ex_en": "a record of a word's corruption",
+      "definitions_ex_vn": "một hồ sơ về tham nhũng của một từ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "decay; putrefaction.",
+      "definitions_ex_en": "the potato turned black and rotten with corruption",
+      "definitions_ex_vn": "Khoai tây chuyển sang màu đen và thối với tham nhũng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067010_019685503b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067010_42b0e82e78_o.png",
+      "id_image": "corruption_2473007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374832_0313e8df45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374832_41623acb60_o.png",
+      "id_image": "corruption_2631527"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066915_300d872b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066915_f900581d32_o.png",
+      "id_image": "corruption_2631542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445073_2636f11761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445073_defec215c0_o.png",
+      "id_image": "corruption_5434133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374712_0d72f9dedf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374712_65dbc5f142_o.png",
+      "id_image": "corruption_5434202"
+    }
+  ]
+}

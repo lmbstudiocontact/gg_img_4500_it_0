@@ -1,0 +1,80 @@
+{
+  "english": "cost",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gía",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phí tổn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở phí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dùng thì giờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "định gía",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giá cả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gía",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an object or action) require the payment of (a specified sum of money) before it can be acquired or done.",
+      "definitions_ex_en": "each issue of the magazine costs $2.25",
+      "definitions_ex_vn": "Mỗi vấn đề của tạp chí có giá $ 2,25",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "estimate the price of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an amount that has to be paid or spent to buy or obtain something.",
+      "definitions_ex_en": "we are able to cover the cost of the event",
+      "definitions_ex_vn": "Chúng tôi có thể chi trả cho chi phí của sự kiện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444443_808b8c6698_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444443_ae01a750e2_o.png",
+      "id_image": "cost_4310151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684379_ca6fa9a3d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684379_92da61c9cc_o.png",
+      "id_image": "cost_4577192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684319_1022049043_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684319_8b2f5fe578_o.png",
+      "id_image": "cost_5138520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329361_b59a590ea2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329361_9f2546fee3_o.png",
+      "id_image": "cost_6078490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329346_c7d53a4b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329346_0f1a4345d9_o.png",
+      "id_image": "cost_6159959"
+    }
+  ]
+}

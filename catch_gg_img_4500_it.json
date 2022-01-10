@@ -1,0 +1,195 @@
+{
+  "english": "catch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bị nhiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ phận dùng để hảm máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho người ta chú ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lừa phỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái móc gài hai mép áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luân xướng khúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưu kế để gạt người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nắm được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt,bắt lấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "then cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "theo đuổi kịp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật hay người bị bắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh xe ăn khớp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chụp lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đàn bà có thai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa gạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi lấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "intercept and hold (something which has been thrown, propelled, or dropped).",
+      "definitions_ex_en": "she threw the bottle into the air and caught it again",
+      "definitions_ex_vn": "Cô ấy ném chai vào không khí và bắt nó lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "capture (a person or animal that tries or would try to escape).",
+      "definitions_ex_en": "we hadn't caught a single rabbit",
+      "definitions_ex_vn": "Chúng tôi đã không bắt được một con thỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an object) accidentally become entangled or trapped in something.",
+      "definitions_ex_en": "the charm bracelet always caught on her clothing",
+      "definitions_ex_vn": "Vòng tay quyến rũ luôn bị cuốn vào quần áo của cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reach in time and board (a train, bus, or aircraft).",
+      "definitions_ex_en": "they caught the 12:15 from Chicago",
+      "definitions_ex_vn": "Họ bắt được 12:15 từ Chicago",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "engage (a person's interest or imagination).",
+      "definitions_ex_en": "it was the business scheme that had caught his imagination",
+      "definitions_ex_vn": "Đó là chương trình kinh doanh đã bắt được trí tưởng tượng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "strike (someone) on a part of the body.",
+      "definitions_ex_en": "Ben caught him on the chin with an uppercut",
+      "definitions_ex_vn": "Ben bắt anh ta trên cằm với một cú đánh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "contract (an illness) through infection or contagion.",
+      "definitions_ex_en": "he served in Macedonia, where he caught malaria",
+      "definitions_ex_vn": "Anh phục vụ ở Macedonia, nơi anh bắt được bệnh sốt rét",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become ignited, due to contact with flame, and start burning.",
+      "definitions_ex_en": "the rafters have caught",
+      "definitions_ex_vn": "Các bè đã bắt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of catching something, typically a ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device for securing something such as a door, window, or box.",
+      "definitions_ex_en": "the window catch was rusty",
+      "definitions_ex_vn": "Cửa sổ bắt bị gỉ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hidden problem or disadvantage in an apparently ideal situation.",
+      "definitions_ex_en": "there's a catch in it somewhere",
+      "definitions_ex_vn": "Có một cái bắt trong đó ở đâu đó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an unevenness in a person's voice caused by emotion.",
+      "definitions_ex_en": "there was a catch in Anne's voice",
+      "definitions_ex_vn": "Có một cái bắt trong giọng nói của Anne",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a round, typically one with words arranged to produce a humorous effect.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364837_ec5a7f723c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364837_9e0ed904d2_o.png",
+      "id_image": "catch_1529260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320041_9614cb7a37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320041_4bdb436737_o.png",
+      "id_image": "catch_3075325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320026_32dae382bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320026_9461880a00_o.png",
+      "id_image": "catch_4610960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364727_569894c9c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364727_51a067abd1_o.png",
+      "id_image": "catch_4615462"
+    }
+  ]
+}

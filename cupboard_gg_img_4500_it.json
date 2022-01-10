@@ -1,0 +1,38 @@
+{
+  "english": "cupboard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tủ đựng chén",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tủ nằm trong tường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cabinet or small recess with a door and typically shelves, used for storage.",
+      "definitions_ex_en": "a kitchen cupboard",
+      "definitions_ex_vn": "một tủ bếp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430413_b80d3224f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430413_90f72e6f54_o.png",
+      "id_image": "cupboard_2286089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315551_b66c0de651_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315551_ef77c4df48_o.png",
+      "id_image": "cupboard_2394549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359727_ba3f675e48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359727_3acc61e3fb_o.png",
+      "id_image": "cupboard_436174"
+    }
+  ]
+}

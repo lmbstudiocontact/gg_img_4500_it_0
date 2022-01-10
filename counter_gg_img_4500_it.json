@@ -1,0 +1,152 @@
+{
+  "english": "counter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trái ngược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngược chiều",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "bán tiền mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "da độn sau gót giày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tính toán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần cong của lái tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đở một tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường gươm đánh trái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẻ đánh bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghi sê nhà băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngực ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phản đối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long flat-topped fixture in a store or bank across which business is conducted with customers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small disk used as a place marker or for keeping the score in board games.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an apparatus used for counting.",
+      "definitions_ex_en": "the counter tells you how many pictures you have taken",
+      "definitions_ex_vn": "quầy cho bạn biết bạn đã chụp bao nhiêu hình ảnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing which opposes or prevents something else.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the curved part of the stern of a ship projecting aft above the waterline.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the white space enclosed by a letter such as O or c.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the back part of a shoe or boot, enclosing the heel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "speak or act in opposition to.",
+      "definitions_ex_en": "the second argument is more difficult to counter",
+      "definitions_ex_vn": "Đối số thứ hai khó truy cập hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "in the opposite direction to or in conflict with.",
+      "definitions_ex_en": "some actions by the authorities ran counter to the call for leniency",
+      "definitions_ex_vn": "Một số hành động của chính quyền chạy ngược lại cuộc gọi để khoan hồng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "responding to something of the same kind, especially in opposition.",
+      "definitions_ex_en": "after years of argument and counter argument there is no conclusive answer",
+      "definitions_ex_vn": "Sau nhiều năm lập luận và đối số truy cập không có câu trả lời kết luận",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting opposition, retaliation, or rivalry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064185_449480db38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064185_334f1c7284_o.png",
+      "id_image": "counter_2403404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372117_d891db0b73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372117_5ab8597ae5_o.png",
+      "id_image": "counter_2596411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327381_2051bbfa52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327381_d94c002805_o.png",
+      "id_image": "counter_3884791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682459_8778020a31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682459_814c3e9c72_o.png",
+      "id_image": "counter_6090977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682414_7d201f4d4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682414_3c8bfc902d_o.png",
+      "id_image": "counter_6091461"
+    }
+  ]
+}

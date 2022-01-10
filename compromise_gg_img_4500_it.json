@@ -1,0 +1,50 @@
+{
+  "english": "compromise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hòa giải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thỏa hiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nguy cho",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an agreement or a settlement of a dispute that is reached by each side making concessions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "settle a dispute by mutual concession.",
+      "definitions_ex_en": "in the end we compromised and deferred the issue",
+      "definitions_ex_vn": "Cuối cùng, chúng tôi đã thỏa hiệp và trì hoãn vấn đề",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "accept standards that are lower than is desirable.",
+      "definitions_ex_en": "we were not prepared to compromise on safety",
+      "definitions_ex_vn": "Chúng tôi đã không chuẩn bị để thỏa hiệp về an toàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring into disrepute or danger by indiscreet, foolish, or reckless behavior.",
+      "definitions_ex_en": "situations in which his troops could be compromised",
+      "definitions_ex_vn": "tình huống mà quân đội của ông có thể bị xâm phạm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314586_52dd7b139a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314586_0bd4af4754_o.png",
+      "id_image": "compromise_5526121"
+    }
+  ]
+}

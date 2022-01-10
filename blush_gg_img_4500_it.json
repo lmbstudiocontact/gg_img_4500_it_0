@@ -1,0 +1,65 @@
+{
+  "english": "blush",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mới đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mới trông qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đỏ mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc hồng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "show shyness, embarrassment, or shame by becoming red in the face.",
+      "definitions_ex_en": "she blushed at the unexpected compliment",
+      "definitions_ex_vn": "Cô đỏ mặt với những lời khen bất ngờ.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be or become pink or pale red.",
+      "definitions_ex_en": "the trees flower heavily in summer and blush brilliantly in fall",
+      "definitions_ex_vn": "Cây hoa rất nhiều vào mùa hè và đỏ mặt rực rỡ vào mùa thu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a reddening of the face as a sign of shyness, embarrassment, or shame.",
+      "definitions_ex_en": "he had brought a faint blush to her cheeks",
+      "definitions_ex_vn": "anh ta đã mang một má má mờ nhạt đến má cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pink or pale red tinge.",
+      "definitions_ex_en": "the roses were white with a lovely pink blush",
+      "definitions_ex_vn": "Hoa hồng có màu trắng với một màu hồng đáng yêu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a wine with a slight pink tint made in the manner of white wine but from red grape varieties.",
+      "definitions_ex_en": "blush Zinfandel",
+      "definitions_ex_vn": "Blush Zinfandel.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327676_f4584a7c6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327676_14ebb5b8d7_o.png",
+      "id_image": "blush_213266"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064320_0b5a81bf91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064320_cb3fd4ec88_o.png",
+      "id_image": "blush_3874499"
+    }
+  ]
+}

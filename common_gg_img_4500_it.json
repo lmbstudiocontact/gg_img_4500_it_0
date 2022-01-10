@@ -1,0 +1,108 @@
+{
+  "english": "common",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cộng đồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cộng hửu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ít gía trị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không đáng gía",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tầm thường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thông thường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thông dụng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thô tục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thường dùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chung vốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất công",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "occurring, found, or done often; prevalent.",
+      "definitions_ex_en": "salt and pepper are the two most common seasonings",
+      "definitions_ex_vn": "muối và hạt tiêu là hai gia vị phổ biến nhất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "shared by, coming from, or done by more than one.",
+      "definitions_ex_en": "the two republics' common border",
+      "definitions_ex_vn": "hai biên giới chung của cộng hòa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(in Latin and certain other languages) of or denoting a gender of nouns that are conventionally regarded as masculine or feminine, contrasting with neuter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a syllable) able to be either short or long.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a crime) of relatively minor importance.",
+      "definitions_ex_en": "common assault",
+      "definitions_ex_vn": "Tấn công chung",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a piece of open land for public use, especially in a village or town.",
+      "definitions_ex_en": "we spent the morning tramping over the common looking for flowers",
+      "definitions_ex_vn": "Chúng tôi đã dành buổi sáng để tìm kiếm những bông hoa chung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the Christian Church) a form of service used for each of a group of occasions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054925_36c5c49fbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054925_a092684e3f_o.png",
+      "id_image": "common_5541816"
+    }
+  ]
+}

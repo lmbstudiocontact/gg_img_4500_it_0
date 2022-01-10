@@ -1,0 +1,66 @@
+{
+  "english": "bid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bỏ thầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả giá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "offer (a certain price) for something, especially at an auction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "utter (a greeting or farewell) to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "command or order (someone) to do something.",
+      "definitions_ex_en": "I did as he bade me",
+      "definitions_ex_vn": "Tôi đã làm như anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an offer of a price, especially at an auction.",
+      "definitions_ex_en": "several buyers made bids for the Van Gogh sketches",
+      "definitions_ex_vn": "Một số người mua đã lập hồ sơ dự thầu cho các bản phác thảo Van Gogh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306111_e115d1a859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306111_f76c6c798d_o.png",
+      "id_image": "bid_1809627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043115_dcfff4a75c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043115_8b23382576_o.png",
+      "id_image": "bid_2162190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661474_32ee04e051_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661474_bdd29e5556_o.png",
+      "id_image": "bid_3814240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350212_a0d95ebff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350212_f97e7f8820_o.png",
+      "id_image": "bid_3814293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306031_5dabe33736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306031_0af81f8532_o.png",
+      "id_image": "bid_6295350"
+    }
+  ]
+}

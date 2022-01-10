@@ -1,0 +1,100 @@
+{
+  "english": "care",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lo âu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ưu tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều lo ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư lự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lo lắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi phiền muộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bảo dưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự cẩn thận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự chăm chú",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the provision of what is necessary for the health, welfare, maintenance, and protection of someone or something.",
+      "definitions_ex_en": "the care of the elderly",
+      "definitions_ex_vn": "sự chăm sóc của người già",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "serious attention or consideration applied to doing something correctly or to avoid damage or risk.",
+      "definitions_ex_en": "he planned his departure with great care",
+      "definitions_ex_vn": "anh ấy đã lên kế hoạch cho sự ra đi của mình với sự chăm sóc tuyệt vời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "feel concern or interest; attach importance to something.",
+      "definitions_ex_en": "they don't care about human life",
+      "definitions_ex_vn": "Họ không quan tâm đến cuộc sống của con người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "look after and provide for the needs of.",
+      "definitions_ex_en": "he has numerous animals to care for",
+      "definitions_ex_vn": "anh ấy có nhiều động vật để chăm sóc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "Cooperative for American Relief Everywhere, a large private organization that provides emergency and long-term assistance to people in need throughout the world.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325871_bc1212df3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325871_3510f93771_o.png",
+      "id_image": "care_2037226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325811_b8fbee4e40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325811_0c422a4e55_o.png",
+      "id_image": "care_2871743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062570_1d172ba71b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062570_b53478f81d_o.png",
+      "id_image": "care_2997187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681019_10d52bee55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681019_2a92eb915a_o.png",
+      "id_image": "care_436662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440748_abbffd1aa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440748_d82bb0147d_o.png",
+      "id_image": "care_5102111"
+    }
+  ]
+}

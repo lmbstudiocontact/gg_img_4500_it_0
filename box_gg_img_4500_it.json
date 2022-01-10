@@ -1,0 +1,128 @@
+{
+  "english": "box",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái ống bỏ tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây hoàn dương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tủ sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ngồi người đánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghế riêng có đánh số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tráp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hộp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ vào hộp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nạp đơn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a container with a flat base and sides, typically square or rectangular and having a lid.",
+      "definitions_ex_en": "a cereal box",
+      "definitions_ex_vn": "một hộp ngũ cốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area on a page that is to be filled in or that is set off by a border.",
+      "definitions_ex_en": "a picture of Sandy was in the upper right-hand box",
+      "definitions_ex_vn": "Một hình ảnh của Sandy ở trong hộp bên phải phía trên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a separate section or enclosed area within a larger building, especially one reserved for a group of people in a theater or sports ground or for witnesses or the jury in a law court.",
+      "definitions_ex_en": "a box at the opera",
+      "definitions_ex_vn": "một hộp tại opera",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a protective casing for a piece of a mechanism.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mailbox at a post office, newspaper office, or other facility where a person may arrange to receive correspondence.",
+      "definitions_ex_en": "write to me care of PO Box 112",
+      "definitions_ex_vn": "Viết thư cho tôi Chăm sóc PO Box 112",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slap with the hand on the side of a person's head given as a punishment or in anger.",
+      "definitions_ex_en": "she gave him a box on the ear",
+      "definitions_ex_vn": "Cô ấy cho anh ấy một cái hộp trên tai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slow-growing European evergreen shrub or small tree with glossy dark green leaves. It is often grown as a hedge and for topiary.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a number of trees that have wood or foliage similar to the box tree.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put in or provide with a box.",
+      "definitions_ex_en": "each piece is boxed with a certificate of authenticity",
+      "definitions_ex_vn": "Mỗi mảnh được đóng hộp với một chứng chỉ xác thực",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fight an opponent using one's fists; compete in the sport of boxing.",
+      "definitions_ex_en": "he boxed for England",
+      "definitions_ex_vn": "anh ấy đóng hộp cho nước Anh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675039_e15cf3628b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675039_8eb2c2a3fc_o.png",
+      "id_image": "box_258500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675029_7ea3a680c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675029_a7b13e7a0b_o.png",
+      "id_image": "box_337150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435148_becbd98dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435148_5b3dd848ae_o.png",
+      "id_image": "box_588424"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "danger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mối hiểm nghèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguy hiểm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the possibility of suffering harm or injury.",
+      "definitions_ex_en": "his life was in danger",
+      "definitions_ex_vn": "Cuộc sống của anh ấy đang gặp nguy hiểm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047580_d92caca7d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047580_a7343f29fd_o.png",
+      "id_image": "danger_1685842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310721_aa48290a38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310721_b9284f14c9_o.png",
+      "id_image": "danger_2333681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354947_2726fbceaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354947_1ac8bb33fd_o.png",
+      "id_image": "danger_488557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354892_38fbd2e646_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354892_fe56f6fc69_o.png",
+      "id_image": "danger_5570598"
+    }
+  ]
+}

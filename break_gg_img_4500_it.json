@@ -1,0 +1,161 @@
+{
+  "english": "break",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho nghỉ giải lao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bẻ gảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập bể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "separate or cause to separate into pieces as a result of a blow, shock, or strain.",
+      "definitions_ex_en": "the branch broke with a loud snap",
+      "definitions_ex_vn": "Chi nhánh đã phá vỡ với một snap lớn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "interrupt (a sequence, course, or continuous state).",
+      "definitions_ex_en": "his concentration was broken by a sound",
+      "definitions_ex_vn": "Nồng độ của anh ta bị phá vỡ bởi một âm thanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fail to observe (a law, regulation, or agreement).",
+      "definitions_ex_en": "the district attorney says she will prosecute retailers who break the law",
+      "definitions_ex_vn": "Luật sư quận nói rằng cô sẽ truy tố các nhà bán lẻ vi phạm pháp luật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "crush the emotional strength, spirit, or resistance of.",
+      "definitions_ex_en": "the idea was to better the prisoners, not to break them",
+      "definitions_ex_vn": "Ý tưởng là để tốt hơn các tù nhân, không phá vỡ họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the weather) change suddenly.",
+      "definitions_ex_en": "the weather broke and thunder rumbled through a leaden sky",
+      "definitions_ex_vn": "Thời tiết tan vỡ và sấm sét ầm ầm qua bầu trời dẫn dắt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of news or a scandal) suddenly become public.",
+      "definitions_ex_en": "since the news broke I've received thousands of wonderful letters",
+      "definitions_ex_vn": "Kể từ khi tin tức đã phá vỡ tôi đã nhận được hàng ngàn thư tuyệt vời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(chiefly of an attacking player or team, or of a military force) make a rush or dash in a particular direction.",
+      "definitions_ex_en": "the flight broke to the right and formed a defensive circle",
+      "definitions_ex_vn": "Chuyến bay đã phá vỡ bên phải và hình thành một vòng tròn phòng thủ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an interruption of continuity or uniformity.",
+      "definitions_ex_en": "the magazine has been published without a break since 1950",
+      "definitions_ex_vn": "Tạp chí đã được xuất bản mà không nghỉ ngơi kể từ năm 1950",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pause in work or during an activity or event.",
+      "definitions_ex_en": "I need a break from mental activity",
+      "definitions_ex_vn": "Tôi cần nghỉ ngơi từ hoạt động tinh thần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gap or opening.",
+      "definitions_ex_en": "he stopped to wait for a break in the traffic",
+      "definitions_ex_vn": "Anh dừng lại để chờ đợi một cuộc nghỉ ngơi trong giao thông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of breaking something, or the point where something is broken.",
+      "definitions_ex_en": "a break in the valve was being repaired",
+      "definitions_ex_vn": "Một sự phá vỡ trong van đang được sửa chữa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rush or dash in a particular direction, especially by an attacking player or team.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an opportunity or chance, especially one leading to professional success.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a consecutive series of successful shots, scoring a specified number of points.",
+      "definitions_ex_en": "a break of 83 put him in front for the first time",
+      "definitions_ex_vn": "nghỉ 83 đặt anh ta trước lần đầu tiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "former term for breaking cart.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for brake2.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361957_3dce06cfc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361957_e46b4d71d6_o.png",
+      "id_image": "breakage_2928720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054220_117823c504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054220_47a8166329_o.png",
+      "id_image": "break_2799938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362022_dc263845ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362022_8d80087f60_o.png",
+      "id_image": "break_4243801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317701_9d4f767d51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317701_d1ba101993_o.png",
+      "id_image": "break_769662"
+    }
+  ]
+}

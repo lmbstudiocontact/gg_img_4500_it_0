@@ -1,0 +1,33 @@
+{
+  "english": "beware",
+  "list_translation_mean": [
+    {
+      "translate_mean": "coi chừng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để ý",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be cautious and alert to the dangers of.",
+      "definitions_ex_en": "consumers were warned to beware of faulty packaging",
+      "definitions_ex_vn": "Người tiêu dùng đã được cảnh báo để coi chừng bao bì bị lỗi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306611_aae90c2fc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306611_9151b5a97b_o.png",
+      "id_image": "beware_4172769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661969_4099db6271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661969_ee16f22b84_o.png",
+      "id_image": "beware_5351166"
+    }
+  ]
+}

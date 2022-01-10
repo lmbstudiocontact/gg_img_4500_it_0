@@ -1,0 +1,88 @@
+{
+  "english": "camp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cắm trại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ đóng quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đảng phái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phe đảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận địa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắm trại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place with temporary accommodations of huts, tents, or other structures, typically used by soldiers, refugees, prisoners, or travelers.",
+      "definitions_ex_en": "the enemy camp",
+      "definitions_ex_vn": "trại địch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the supporters of a particular party or doctrine regarded collectively.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deliberately exaggerated and theatrical behavior or style.",
+      "definitions_ex_en": "Hollywood camp",
+      "definitions_ex_vn": "Trại Hollywood",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "live for a time in a camp, tent, or camper, as when on vacation.",
+      "definitions_ex_en": "parks in which you can camp or stay in a chalet",
+      "definitions_ex_vn": "công viên trong đó bạn có thể cắm trại hoặc ở trong một nhà gỗ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "behave in an ostentatiously effeminate way (typically used of a man).",
+      "definitions_ex_en": "he camped it up a bit for the cameras",
+      "definitions_ex_vn": "Anh cắm trại nó lên một chút cho các máy ảnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deliberately exaggerated and theatrical in style, typically for humorous effect.",
+      "definitions_ex_en": "the movie seems more camp than shocking or gruesome",
+      "definitions_ex_vn": "Bộ phim dường như bị trại nhiều hơn gây sốc hoặc khủng khiếp",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041615_59defa4e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041615_3fe2c0b142_o.png",
+      "id_image": "camp_1719887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304711_9461656783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304711_8abca38aa8_o.png",
+      "id_image": "camp_1879696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041550_c938319394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041550_1202ae810d_o.png",
+      "id_image": "camp_2688330"
+    }
+  ]
+}

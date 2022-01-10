@@ -1,0 +1,42 @@
+{
+  "english": "beg",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn xin",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn mày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khẩn cầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "yêu cầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "ask (someone) earnestly or humbly for something.",
+      "definitions_ex_en": "she begged me to say nothing to her father",
+      "definitions_ex_vn": "Cô cầu xin tôi không nói gì với cha mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ask for something, typically food or money, as charity or a gift.",
+      "definitions_ex_en": "a young woman was begging in the street",
+      "definitions_ex_vn": "Một phụ nữ trẻ đang cầu xin trên đường phố",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664044_45501c90ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664044_c6c9efd88b_o.png",
+      "id_image": "beg_4812235"
+    }
+  ]
+}

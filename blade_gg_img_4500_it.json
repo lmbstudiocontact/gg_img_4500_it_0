@@ -1,0 +1,70 @@
+{
+  "english": "blade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gươm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưởi lam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọn cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiến lá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the flat cutting edge of a knife, saw, or other tool or weapon.",
+      "definitions_ex_en": "cut cleanly using a sharp blade",
+      "definitions_ex_vn": "Cắt sạch bằng lưỡi dao sắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the flat, wide section of an implement or device such as an oar or a propeller.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shoulder bone in a cut of meat, or the cut of meat itself.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, narrow leaf of grass or another similar plant.",
+      "definitions_ex_en": "a blade of grass",
+      "definitions_ex_vn": "một lưỡi cỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dashing or energetic young man.",
+      "definitions_ex_en": "the director, a young blade in an oversized suit",
+      "definitions_ex_vn": "Giám đốc, một lưỡi kiếm trẻ trong một bộ đồ quá khổ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347057_947fab56f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347057_2c94f17731_o.png",
+      "id_image": "blade_1733375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347102_65b7f995c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347102_abe8190f9f_o.png",
+      "id_image": "blade_258239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417858_25a90700f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417858_6f1edd61e9_o.png",
+      "id_image": "blade_534229"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "connect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chấp nối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liên kết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liên lạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liên hiệp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối liền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phối hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring together or into contact so that a real or notional link is established.",
+      "definitions_ex_en": "the electrodes were connected to a recording device",
+      "definitions_ex_vn": "Các điện cực được kết nối với một thiết bị ghi âm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311546_cdc02d094a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311546_16acc893ee_o.png",
+      "id_image": "connect_1373172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355677_5dd540d25f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355677_600426755c_o.png",
+      "id_image": "connect_2313469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426398_1a7472849d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426398_e9025efe1e_o.png",
+      "id_image": "connect_3103354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311446_9165f5633b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311446_24ecda0fb2_o.png",
+      "id_image": "connect_4542100"
+    }
+  ]
+}

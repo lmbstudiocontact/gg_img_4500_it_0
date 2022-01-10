@@ -1,0 +1,96 @@
+{
+  "english": "clap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái đánh nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái nẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng sét đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng vổ tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vổ tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái vổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bịnh lậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự vổ tay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vổ cánh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strike the palms of (one's hands) together repeatedly, typically in order to applaud someone or something.",
+      "definitions_ex_en": "Agnes clapped her hands in glee",
+      "definitions_ex_vn": "Agnes vỗ tay trong Glee",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "slap (someone) encouragingly on the back or shoulder.",
+      "definitions_ex_en": "as they parted, he clapped Owen on the back",
+      "definitions_ex_vn": "Khi họ chia tay, anh vỗ vào lưng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of striking together the palms of the hands, either once or repeatedly.",
+      "definitions_ex_en": "when they stop I give them a clap",
+      "definitions_ex_vn": "Khi họ dừng tôi cho họ một vỗ tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an explosive sound, especially of thunder.",
+      "definitions_ex_en": "a clap of thunder echoed through the valley",
+      "definitions_ex_vn": "Một tiếng sấm sét vang vọng qua thung lũng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a venereal disease, especially gonorrhea.",
+      "definitions_ex_en": "she has given him the clap",
+      "definitions_ex_vn": "Cô ấy đã cho anh ấy vỗ tay",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305346_6232c6c0af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305346_0c8f883b8c_o.png",
+      "id_image": "clap_3158967"
+    }
+  ]
+}

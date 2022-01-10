@@ -1,0 +1,32 @@
+{
+  "english": "beast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cầm thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gia súc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súc vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an animal, especially a large or dangerous four-footed one.",
+      "definitions_ex_en": "a wild beast",
+      "definitions_ex_vn": "một con thú hoang dã",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047870_129ec86df5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047870_6b3f851b89_o.png",
+      "id_image": "beast_2463654"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "cobweb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màng nhện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a spider's web, especially when old and covered with dust.",
+      "definitions_ex_en": "the wooden carvings were almost obliterated by cobwebs",
+      "definitions_ex_vn": "Các chạm khắc bằng gỗ gần như bị xóa sạch bởi mạng nhện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371327_a2abc5303d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371327_8975ee2e58_o.png",
+      "id_image": "cobweb_249388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441573_f7d79a0a06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441573_3b4d6cc1bf_o.png",
+      "id_image": "cobweb_3602755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441518_777bc30f4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441518_43976deb94_o.png",
+      "id_image": "cobweb_4294186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063375_c74aa89f37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063375_fffd40b42b_o.png",
+      "id_image": "cobweb_4677091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326471_3320383d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326471_351cb0929d_o.png",
+      "id_image": "cobweb_5331875"
+    }
+  ]
+}

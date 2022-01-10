@@ -1,0 +1,50 @@
+{
+  "english": "comprehension",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao quát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lãnh hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhận thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bao hàm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tri lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or capability of understanding something.",
+      "definitions_ex_en": "some won't have the least comprehension of what I'm trying to do",
+      "definitions_ex_vn": "Một số sẽ không có sự hiểu biết ít nhất về những gì tôi đang cố gắng làm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "inclusion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314911_bb0b9b840c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314911_2220fbeb36_o.png",
+      "id_image": "comprehension_4953703"
+    }
+  ]
+}

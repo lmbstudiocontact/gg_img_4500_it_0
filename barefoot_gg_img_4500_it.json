@@ -1,0 +1,39 @@
+{
+  "english": "barefoot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân không",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chân đất",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "wearing nothing on the feet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "without wearing anything on the feet.",
+      "definitions_ex_en": "I won't walk barefoot",
+      "definitions_ex_vn": "Tôi sẽ không đi chân trần",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670274_cd010120d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670274_6db12c40b4_o.png",
+      "id_image": "barefoot_3204109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430463_3431406619_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430463_e75816d11b_o.png",
+      "id_image": "barefoot_805530"
+    }
+  ]
+}

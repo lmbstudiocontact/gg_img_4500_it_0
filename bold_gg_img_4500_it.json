@@ -1,0 +1,56 @@
+{
+  "english": "bold",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạo dạng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "can đảm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "liều lỉnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quả quyết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trơ tráo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dũng cảm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person, action, or idea) showing an ability to take risks; confident and courageous.",
+      "definitions_ex_en": "a bold attempt to solve the crisis",
+      "definitions_ex_vn": "một nỗ lực táo bạo để giải quyết cuộc khủng hoảng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a color or design) having a strong or vivid appearance.",
+      "definitions_ex_en": "a coat with bold polka dots",
+      "definitions_ex_vn": "một chiếc áo khoác có chấm bi đậm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a bold typeface or letter.",
+      "definitions_ex_en": "difficult words and phrases are highlighted in bold",
+      "definitions_ex_vn": "Những từ ngữ và cụm từ khó được tô sáng in đậm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680814_364acc947f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680814_a0fa5021ef_o.png",
+      "id_image": "bold_1833900"
+    }
+  ]
+}

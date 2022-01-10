@@ -1,0 +1,38 @@
+{
+  "english": "confession",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhận lỗi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thú nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thú tội",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal statement admitting that one is guilty of a crime.",
+      "definitions_ex_en": "he signed a confession to the murders",
+      "definitions_ex_vn": "Anh ta đã ký một lời thú nhận với những vụ giết người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a statement setting out essential religious doctrine.",
+      "definitions_ex_en": "a Protestant confession of faith",
+      "definitions_ex_vn": "một lời thú nhận Tin lành về đức tin",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049210_d3e1d4016b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049210_79f08a74db_o.png",
+      "id_image": "confession_4207665"
+    }
+  ]
+}

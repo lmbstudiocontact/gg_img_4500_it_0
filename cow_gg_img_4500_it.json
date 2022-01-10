@@ -1,0 +1,39 @@
+{
+  "english": "cow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cá voi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.",
+      "definitions_ex_en": "a dairy cow",
+      "definitions_ex_vn": "một con bò sữa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause (someone) to submit to one's wishes by intimidation.",
+      "definitions_ex_en": "the intellectuals had been cowed into silence",
+      "definitions_ex_vn": "Các trí thức đã bị thương vào im lặng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680409_70c423be4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680409_3e268f32ac_o.png",
+      "id_image": "cow_2361568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370272_ab5e0c70ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370272_46c5528ce4_o.png",
+      "id_image": "cow_616694"
+    }
+  ]
+}

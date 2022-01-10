@@ -1,0 +1,52 @@
+{
+  "english": "comfort",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự an ủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự yên thân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bồi bổ nguyên khí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều tiện nghi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho khỏe khoắn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a state of physical ease and freedom from pain or constraint.",
+      "definitions_ex_en": "room for four people to travel in comfort",
+      "definitions_ex_vn": "Phòng cho bốn người đi du lịch thoải mái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the easing or alleviation of a person's feelings of grief or distress.",
+      "definitions_ex_en": "a few words of comfort",
+      "definitions_ex_vn": "một vài từ thoải mái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ease the grief or distress of; console.",
+      "definitions_ex_en": "she broke down in tears and her friend tried to comfort her",
+      "definitions_ex_vn": "Cô bị gãy trong nước mắt và người bạn của cô đã cố gắng an ủi cô.",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364632_299262ef64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364632_ae0ccf3801_o.png",
+      "id_image": "comfort_5775234"
+    }
+  ]
+}

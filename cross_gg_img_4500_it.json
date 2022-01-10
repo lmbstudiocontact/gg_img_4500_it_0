@@ -1,0 +1,195 @@
+{
+  "english": "cross",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt tréo nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gạch ngang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm dấu thánh giá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm trái ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "pha giống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tréo nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổi đau khổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nổi thống khổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự trái ý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cây thánh giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đạo cơ đốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá thập tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống lai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngả tư đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự pha giống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tạp giao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải cắt xéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đạo thiên chúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình chữ thập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ký chữ thập",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mark, object, or figure formed by two short intersecting lines or pieces (+ or ×).",
+      "definitions_ex_en": "cut a cross in the bark with a sharp knife",
+      "definitions_ex_vn": "Cắt một cây thánh giá trong vỏ cây với một con dao sắc nhọn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an upright post with a transverse bar, as used in antiquity for crucifixion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an animal or plant resulting from crossbreeding; a hybrid.",
+      "definitions_ex_en": "a Devon and Holstein cross",
+      "definitions_ex_vn": "một cây thánh giá Devon và Holstein",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pass of the ball across the field toward the center close to one's opponents' goal.",
+      "definitions_ex_en": "Beckham's low cross was turned into the net by Cole",
+      "definitions_ex_vn": "Thập giá thấp của Beckham bị biến thành cole",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "go or extend across or to the other side of (a path, road, stretch of water, or area).",
+      "definitions_ex_en": "he has crossed the Atlantic twice",
+      "definitions_ex_vn": "Anh ấy đã vượt Đại Tây Dương hai lần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass in an opposite or different direction; intersect.",
+      "definitions_ex_en": "the two lines cross at 90°",
+      "definitions_ex_vn": "Hai dòng chéo ở 90 °",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "draw a line or lines across; mark with a cross.",
+      "definitions_ex_en": "cross the t's",
+      "definitions_ex_vn": "băng qua t",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) make the sign of the cross in front of one's chest as a sign of Christian reverence or to invoke divine protection.",
+      "definitions_ex_en": "Beatie crossed herself quickly at the mention of the dead",
+      "definitions_ex_vn": "Beatie vượt qua bản thân mình nhanh chóng khi đề cập đến người chết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass (the ball) across the field toward the center when attacking.",
+      "definitions_ex_en": "he could not get to the line to cross the ball",
+      "definitions_ex_vn": "Anh ta không thể đến ranh giới để vượt qua bóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (an animal of one species, breed, or variety) to interbreed with one of another species, breed, or variety.",
+      "definitions_ex_en": "many animals of the breed were crossed with the closely related Guernsey",
+      "definitions_ex_vn": "Nhiều động vật của giống chó đã được lai với Guernsey liên quan chặt chẽ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "oppose or stand in the way of (someone).",
+      "definitions_ex_en": "no one dared cross him",
+      "definitions_ex_vn": "Không ai dám vượt qua anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "denoting movement or position across something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    },
+    {
+      "definitions_word_en": "describing the form or figure of a cross.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434183_e8e7f3f092_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434183_765e7762cf_o.png",
+      "id_image": "crossed_5928285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319081_d316881f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319081_dcd30b305f_o.png",
+      "id_image": "cross_3155291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363687_8d3af908c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363687_2c91e85966_o.png",
+      "id_image": "cross_3804897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055740_255c7f6dd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055740_f861d5e69d_o.png",
+      "id_image": "cross_684157"
+    }
+  ]
+}

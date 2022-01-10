@@ -1,0 +1,36 @@
+{
+  "english": "companionship",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tình bạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình bằnh hửu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình bè bạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toán thợ làm chung việc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of fellowship or friendship.",
+      "definitions_ex_en": "the love and companionship of marriage",
+      "definitions_ex_vn": "tình yêu và sự đồng hành của hôn nhân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672334_efbb0278af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672334_ff219b2317_o.png",
+      "id_image": "companionship_1402124"
+    }
+  ]
+}

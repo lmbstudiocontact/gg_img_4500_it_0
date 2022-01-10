@@ -1,0 +1,38 @@
+{
+  "english": "bureau",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở ..",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an office or department for transacting particular business.",
+      "definitions_ex_en": "a news bureau",
+      "definitions_ex_vn": "một văn phòng tin tức",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424783_806b0e4d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424783_9030d540eb_o.png",
+      "id_image": "bureau_3035263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353882_1059b15c00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353882_6012866a1b_o.png",
+      "id_image": "bureau_3232916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664944_1dda66ea9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664944_7cf676d515_o.png",
+      "id_image": "bureau_4353003"
+    }
+  ]
+}

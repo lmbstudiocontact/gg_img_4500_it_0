@@ -1,0 +1,111 @@
+{
+  "english": "bay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "song",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây lá tháng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng chó sủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhịp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc hồng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a broad inlet of the sea where the land curves inward.",
+      "definitions_ex_en": "the Bay of Biscay",
+      "definitions_ex_vn": "Vịnh Biscay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an evergreen Mediterranean shrub of the laurel family, with deep green leaves and purple berries. Its aromatic leaves are used in cooking and were formerly used to make triumphal crowns for victors.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an aromatic tree or shrub of North America, especially the bayberry used in the preparation of bay rum.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a space created by a window-line projecting outward from a wall.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a compartment with a particular function in a motor vehicle, aircraft, or ship.",
+      "definitions_ex_en": "a bomb bay",
+      "definitions_ex_vn": "một Bom Bay.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bay horse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sound of baying, especially that of hounds in close pursuit of their quarry.",
+      "definitions_ex_en": "the bloodhounds' heavy bay",
+      "definitions_ex_vn": "Vịnh hạng nặng của BloodHound",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a horse) brown with black points.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a dog, especially a large one) bark or howl loudly.",
+      "definitions_ex_en": "the dogs bayed",
+      "definitions_ex_vn": "Những con chó bay",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049010_5043348301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049010_61917c5b6b_o.png",
+      "id_image": "bay_2290284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667314_24d2b4d9ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667314_5901fb9b23_o.png",
+      "id_image": "bay_3338327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356367_0be025a038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356367_d15c810d50_o.png",
+      "id_image": "bay_5026470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048950_d6d6202367_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048950_0c2d04ac6a_o.png",
+      "id_image": "bay_6253474"
+    }
+  ]
+}

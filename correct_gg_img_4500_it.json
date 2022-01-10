@@ -1,0 +1,79 @@
+{
+  "english": "correct",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không sai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chính xác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đúng luật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hợp cách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hợp thức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khiển trách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa chửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa phạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trách mắng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trừng phạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trừng trị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "free from error; in accordance with fact or truth.",
+      "definitions_ex_en": "make sure you have been given the correct information",
+      "definitions_ex_vn": "Hãy chắc chắn rằng bạn đã được cung cấp thông tin chính xác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "put right (an error or fault).",
+      "definitions_ex_en": "the Council issued a statement correcting some points in the press reports",
+      "definitions_ex_vn": "Hội đồng đã ban hành một tuyên bố sửa chữa một số điểm trong báo cáo báo chí",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686074_b0172f53ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686074_7089c82ee6_o.png",
+      "id_image": "correct_4565470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445978_2dbf7f381f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445978_6f4cc5e4ce_o.png",
+      "id_image": "correct_4806202"
+    }
+  ]
+}

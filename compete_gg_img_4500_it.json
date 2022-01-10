@@ -1,0 +1,32 @@
+{
+  "english": "compete",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tranh đua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ganh đua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cạnh tranh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strive to gain or win something by defeating or establishing superiority over others who are trying to do the same.",
+      "definitions_ex_en": "universities are competing for applicants",
+      "definitions_ex_vn": "Các trường đại học đang cạnh tranh cho người nộp đơn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361122_c312056203_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361122_167d0dc922_o.png",
+      "id_image": "compete_5692229"
+    }
+  ]
+}

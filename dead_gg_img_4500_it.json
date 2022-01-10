@@ -1,0 +1,146 @@
+{
+  "english": "dead",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đêm khuya",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lể truy điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đả khuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ban đêm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồ không bóng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hết dản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lửa tắt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mùa chết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự ngừng hẳn lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tê cóng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chết giấc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khô héo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiếng câm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đau ầm ỉ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không chịu nghe",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thành phố chết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không màng đến danh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mệt đừ",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "no longer alive.",
+      "definitions_ex_en": "a dead body",
+      "definitions_ex_vn": "một xác chết",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a place or time) characterized by a lack of activity or excitement.",
+      "definitions_ex_en": "Brussels isn't dead after dark, if you know where to look",
+      "definitions_ex_vn": "Brussels không chết sau khi trời tối, nếu bạn biết nơi để nhìn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a piece of equipment) no longer functioning, especially because of a fault.",
+      "definitions_ex_en": "the phone had gone dead",
+      "definitions_ex_vn": "Điện thoại đã chết",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "no longer current, relevant, or important.",
+      "definitions_ex_en": "pollution had become a dead issue",
+      "definitions_ex_vn": "ô nhiễm đã trở thành một vấn đề chết",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of sound) without resonance; dull.",
+      "definitions_ex_en": "the note sounds dead compared to all others on the keyboard",
+      "definitions_ex_vn": "Các ghi chú âm thanh chết so với tất cả những người khác trên bàn phím",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "complete; absolute.",
+      "definitions_ex_en": "we sat in dead silence",
+      "definitions_ex_vn": "Chúng tôi ngồi trong sự im lặng chết",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "absolutely; completely.",
+      "definitions_ex_en": "you're dead right",
+      "definitions_ex_vn": "Bạn đã chết đúng",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353067_f7288731b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353067_6c19389aea_o.png",
+      "id_image": "dead_3768596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353052_7b5962c3de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353052_a34f10e9f9_o.png",
+      "id_image": "dead_5664088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308821_1030a41a28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308821_b6eaf03c45_o.png",
+      "id_image": "dead_6000754"
+    }
+  ]
+}

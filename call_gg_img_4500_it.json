@@ -1,0 +1,185 @@
+{
+  "english": "call",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gọi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gọi đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "la",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc gọi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kêu gọi cổ phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi thăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu của chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu la",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng trống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự điểm danh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự gọi vốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự kêu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự kêu tên",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give (an infant or animal) a specified name.",
+      "definitions_ex_en": "they called their daughter Hannah",
+      "definitions_ex_vn": "Họ gọi cho con gái Hannah của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cry out (a word or words).",
+      "definitions_ex_en": "he heard an insistent voice calling his name",
+      "definitions_ex_vn": "Anh nghe thấy một giọng nói khăng khăng gọi tên anh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "contact or attempt to contact (a person or number) by phone.",
+      "definitions_ex_en": "could I call you back ?",
+      "definitions_ex_vn": "Tôi có thể gọi lại cho bạn không?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "order or request the attendance of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "announce or decide that (an event, especially a meeting, strike, or election) is to happen.",
+      "definitions_ex_en": "there appeared to be no alternative but to call a general election",
+      "definitions_ex_vn": "Dường như không có thay thế nào nhưng gọi một cuộc bầu cử chung",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an umpire or other official in a game) pronounce (a ball, stroke, or other action) to be the thing specified.",
+      "definitions_ex_en": "the linesman called the ball wide",
+      "definitions_ex_vn": "Linesman gọi bóng rộng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a subroutine) to be executed.",
+      "definitions_ex_en": "one subroutine may call another subroutine (or itself)",
+      "definitions_ex_vn": "Một chương trình con có thể gọi một chương trình con khác (hoặc chính nó)",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a cry made as a summons or to attract someone's attention.",
+      "definitions_ex_en": "a nearby fisherman heard their calls for help",
+      "definitions_ex_vn": "Một ngư dân gần đó đã nghe thấy các cuộc gọi của họ để được giúp đỡ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the characteristic cry of a bird or other animal.",
+      "definitions_ex_en": "it is best distinguished by its call, a loud “pwit”",
+      "definitions_ex_vn": "Nó được phân biệt tốt nhất bằng cuộc gọi của nó, một \"pwit\" lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of speaking to someone on the phone or attempting to contact someone by phone.",
+      "definitions_ex_en": "I'll give you a call at around five",
+      "definitions_ex_vn": "Tôi sẽ cho bạn một cuộc gọi vào khoảng năm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a brief social visit.",
+      "definitions_ex_en": "we paid a call on Howard",
+      "definitions_ex_vn": "Chúng tôi đã trả một cuộc gọi trên Howard",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an appeal or demand for something to happen or be done.",
+      "definitions_ex_en": "the call for action was welcomed",
+      "definitions_ex_vn": "Cuộc gọi hành động đã được hoan nghênh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an order or request for someone to be present.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in sports) a decision or ruling made by an umpire or other official, traditionally conveyed by a shout, that the ball has gone out of play or that a rule has been breached.",
+      "definitions_ex_en": "he was visibly irritated with the umpire's calls",
+      "definitions_ex_vn": "Anh ta bị kích thích rõ rệt với các cuộc gọi của Umpire",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a command to execute a subroutine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a demand for payment of lent or unpaid capital.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349812_26939c4f38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349812_0e268bf989_o.png",
+      "id_image": "call_1364955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349782_440d054176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349782_2e6f76f276_o.png",
+      "id_image": "call_1749986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042460_8e2c7222bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042460_6a3297ff41_o.png",
+      "id_image": "call_3109483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660949_e623570328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660949_c055452bf2_o.png",
+      "id_image": "call_3255237"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "border",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biên cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biên giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường viền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giáp giới",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a line separating two political or geographical areas, especially countries.",
+      "definitions_ex_en": "border patrols",
+      "definitions_ex_vn": "tuần tra biên giới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the edge or boundary of something, or the part near it.",
+      "definitions_ex_en": "the northern border of their distribution area",
+      "definitions_ex_vn": "biên giới phía bắc của khu vực phân phối của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a band or strip, especially a decorative one, around the edge of something.",
+      "definitions_ex_en": "put a white border around the picture",
+      "definitions_ex_vn": "Đặt một viền trắng xung quanh hình ảnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form an edge along or beside (something).",
+      "definitions_ex_en": "a pool bordered by palm trees",
+      "definitions_ex_vn": "Một hồ bơi giáp với cây cọ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677554_09f694b01b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677554_a38bf197cc_o.png",
+      "id_image": "border_1082665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322456_c593ac0806_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322456_70ac5b3acf_o.png",
+      "id_image": "border_341634"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367322_c191ea2a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367322_4c51e4b145_o.png",
+      "id_image": "border_4849859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677474_8060c0ee43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677474_b550cf7ff3_o.png",
+      "id_image": "border_5208307"
+    }
+  ]
+}

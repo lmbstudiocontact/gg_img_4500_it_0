@@ -1,0 +1,50 @@
+{
+  "english": "carton",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cạt tông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy dầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy bìa cứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hộp nhỏ bằng cạt tông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng trắng của tấm bìa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light box or container, typically one made of waxed cardboard or plastic in which drinks or foodstuffs are packaged.",
+      "definitions_ex_en": "a carton of milk",
+      "definitions_ex_vn": "một thùng sữa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438178_09b80ef835_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438178_593fb52020_o.png",
+      "id_image": "carton_2421536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678179_9bbac8fc66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678179_1d59e06558_o.png",
+      "id_image": "carton_3408358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438108_6e00c2c551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438108_14dafc7526_o.png",
+      "id_image": "carton_5365762"
+    }
+  ]
+}

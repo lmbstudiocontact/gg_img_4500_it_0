@@ -1,0 +1,64 @@
+{
+  "english": "catholic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao gồm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đại lượng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự khoan dung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về đạo thiên chúa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khoan hồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lợi cho tất cả mọi người",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rộng lượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tín đồ đạo thiên chúa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "including a wide variety of things; all-embracing.",
+      "definitions_ex_en": "her tastes are pretty catholic",
+      "definitions_ex_vn": "thị hiếu của cô ấy là khá công giáo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of the Roman Catholic faith.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a member of the Roman Catholic Church.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674049_ac956b16c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674049_33d8589df5_o.png",
+      "id_image": "catholic_4319911"
+    }
+  ]
+}

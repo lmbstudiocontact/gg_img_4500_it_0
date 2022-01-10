@@ -1,0 +1,207 @@
+{
+  "english": "clear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khoảng trống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không bớt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lương tâm trong sạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "minh bạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiếng trong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trong sáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trống trải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không có gì cản trở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tráng xa vật gì",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "diệt trừ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dọn dẹp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đại hạ gía",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho sáng sủa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lộc trong nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quang đảng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rời bến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả hết nợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả lời tất cả câu hỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tránh chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trong sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uống thuốc xổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quét sạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "easy to perceive, understand, or interpret.",
+      "definitions_ex_en": "clear and precise directions",
+      "definitions_ex_vn": "hướng rõ ràng và chính xác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a substance) transparent; unclouded.",
+      "definitions_ex_en": "the clear glass of the French windows",
+      "definitions_ex_vn": "Kính trong của cửa sổ tiếng Pháp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "free of any obstructions or unwanted objects.",
+      "definitions_ex_en": "with a clear road ahead he shifted into high gear",
+      "definitions_ex_vn": "với một con đường rõ ràng phía trước, anh ta chuyển sang thiết bị cao",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not touching; away from.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a palatalized form of the sound of the letter l (as in leaf in most accents of English).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "so as to be out of the way of or away from.",
+      "definitions_ex_en": "he leapt clear of the car",
+      "definitions_ex_vn": "anh nhảy ra khỏi xe",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "completely.",
+      "definitions_ex_en": "he had time to get clear away",
+      "definitions_ex_vn": "anh ấy đã có thời gian để có được từ chối",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "remove an obstruction or unwanted item or items from.",
+      "definitions_ex_en": "the drive had been cleared of snow",
+      "definitions_ex_vn": "Ổ đĩa đã được dọn sạch tuyết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove (an obstruction or unwanted item) from somewhere.",
+      "definitions_ex_en": "Karen cleared the dirty plates",
+      "definitions_ex_vn": "Karen dọn sạch những tấm bẩn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "get past or over (something) safely or without touching it.",
+      "definitions_ex_en": "the plane rose high enough to clear the trees",
+      "definitions_ex_vn": "Máy bay tăng đủ cao để làm sạch cây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "officially show or declare (someone) to be innocent.",
+      "definitions_ex_en": "his sport's ruling body had cleared him of cheating",
+      "definitions_ex_vn": "Cơ thể cai trị của thể thao anh ta đã dọn sạch anh ta vì gian lận",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give official approval or authorization to.",
+      "definitions_ex_en": "I cleared him to return to his squadron",
+      "definitions_ex_vn": "Tôi đã dọn sạch anh ta để trở về phi đội của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "earn or gain (an amount of money) as a net profit.",
+      "definitions_ex_en": "I would hope to clear £50,000 profit from each match",
+      "definitions_ex_vn": "Tôi hy vọng sẽ xóa 50.000 bảng lợi nhuận từ mỗi trận đấu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348507_d0f16581d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348507_266e9aaa46_o.png",
+      "id_image": "clear_1719139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419308_be9b72f7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419308_7726bfc205_o.png",
+      "id_image": "clear_2598786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419293_dc7bb3366b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419293_d46a191821_o.png",
+      "id_image": "clear_4647935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659624_62391c526e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659624_8c16e1a4cc_o.png",
+      "id_image": "clear_552424"
+    }
+  ]
+}

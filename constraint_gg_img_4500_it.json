@@ -1,0 +1,55 @@
+{
+  "english": "constraint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cưởng ép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt ép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gượng gạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khó chịu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a limitation or restriction.",
+      "definitions_ex_en": "time constraints make it impossible to do everything",
+      "definitions_ex_vn": "những hạn chế về thời gian làm cho nó không thể làm mọi thứ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353392_e985f12f74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353392_fbe139212f_o.png",
+      "id_image": "constraint_1900193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424318_3baefbf6ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424318_d40378eb25_o.png",
+      "id_image": "constraint_2844303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664444_6756c0bac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664444_153f4c1fd3_o.png",
+      "id_image": "constraint_2844384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353307_1554be8697_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353307_935c15cb50_o.png",
+      "id_image": "constraint_4252352"
+    }
+  ]
+}

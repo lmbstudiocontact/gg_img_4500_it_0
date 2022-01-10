@@ -1,0 +1,54 @@
+{
+  "english": "clinic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh viện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dưỡng đường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an establishment or hospital department where outpatients are given medical treatment or advice, especially of a specialist nature.",
+      "definitions_ex_en": "a mental health clinic",
+      "definitions_ex_vn": "một phòng khám sức khỏe tâm thần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a conference or short course on a particular subject.",
+      "definitions_ex_en": "a ski clinic",
+      "definitions_ex_vn": "một phòng khám trượt tuyết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686739_268b6ba059_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686739_eb8006b73b_o.png",
+      "id_image": "clinic_2278465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376442_c80e9e6017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376442_d58e002a7d_o.png",
+      "id_image": "clinic_2682062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686674_ef381cc941_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686674_2fc400f70d_o.png",
+      "id_image": "clinic_3028573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376337_7becd35e85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376337_800688f715_o.png",
+      "id_image": "clinic_3111563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068300_c7c796d9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068300_8f4f582a79_o.png",
+      "id_image": "clinic_5266434"
+    }
+  ]
+}

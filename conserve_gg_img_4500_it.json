@@ -1,0 +1,57 @@
+{
+  "english": "conserve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ để dành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái cây vô hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảo tồn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ gìn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "protect (something, especially an environmentally or culturally important place or thing) from harm or destruction.",
+      "definitions_ex_en": "the funds raised will help conserve endangered meadowlands",
+      "definitions_ex_vn": "Các quỹ lớn lên sẽ giúp bảo tồn các đồng cỏ có nguy cơ tuyệt chủng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sweet food made by preserving fruit with sugar; jam.",
+      "definitions_ex_en": "pork tenderloin with onion and raisin conserve",
+      "definitions_ex_vn": "Thịt lợn Tenderloin với hành tây và Raisin bảo tồn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425138_7a6191d46f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425138_a892a08eea_o.png",
+      "id_image": "conserve_2069375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425273_bafbce3c5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425273_e38139a712_o.png",
+      "id_image": "conserve_259144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665414_544f5b225d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665414_89f0d36c29_o.png",
+      "id_image": "conserve_263911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425203_9a9893392e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425203_229c0dd3fc_o.png",
+      "id_image": "conserve_400857"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "english": "cover",
+  "list_translation_mean": [
+    {
+      "translate_mean": "che",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bảo đảm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao phủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "che đậy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đậy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo phủ ghế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ẩn nấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bìa sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ núp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ trốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giả danh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình ngoài bìa sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ đồ muổng nĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bụi rậm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lồng bàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nắp nồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phong bì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bảo chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổng bao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thừa lúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải che phủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put something on top of or in front of (something), especially in order to protect or conceal it.",
+      "definitions_ex_en": "the table had been covered with a checked tablecloth",
+      "definitions_ex_vn": "Cái bàn đã được phủ một chiếc khăn trải bàn được kiểm tra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extend over (an area).",
+      "definitions_ex_en": "the grounds covered eight acres",
+      "definitions_ex_vn": "Các căn cứ bao trùm tám mẫu đất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deal with (a subject) by describing or analyzing its most important aspects or events.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a sum of money) be enough to pay (a bill or cost).",
+      "definitions_ex_en": "there are grants to cover the cost of materials for loft insulation",
+      "definitions_ex_vn": "Có các khoản tài trợ để trang trải chi phí vật liệu cho cách nhiệt gác xép",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "disguise the sound or fact of (something) with another sound or action.",
+      "definitions_ex_en": "Louise laughed to cover her embarrassment",
+      "definitions_ex_vn": "Louise cười để che đậy sự bối rối của cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "aim a gun at (someone) in order to prevent them from moving or escaping.",
+      "definitions_ex_en": "she raised her gun to cover Klift",
+      "definitions_ex_vn": "Cô giơ súng lên để che Klift",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "record or perform a new version of (a song) originally performed by someone else.",
+      "definitions_ex_en": "other artists who have covered the song include U2",
+      "definitions_ex_vn": "Các nghệ sĩ khác đã bao gồm bài hát bao gồm U2",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a male animal, especially a stallion) copulate with (a female animal), especially as part of a commercial transaction between the owners of the animals.",
+      "definitions_ex_en": "a working stallion who has covered forty mares this season",
+      "definitions_ex_vn": "một con ngựa làm việc đã bao gồm bốn mươi mân ông mùa này mùa này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play a higher card on (a high card) in a trick.",
+      "definitions_ex_en": "the ploy will fail if the ten is covered",
+      "definitions_ex_vn": "Ploy sẽ thất bại nếu mười được bảo hiểm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a thing which lies on, over, or around something, especially in order to protect or conceal it.",
+      "definitions_ex_en": "a seat cover",
+      "definitions_ex_vn": "bọc ghế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "physical shelter or protection sought by people in danger.",
+      "definitions_ex_en": "the sirens wailed and people ran for cover",
+      "definitions_ex_vn": "Những còi báo động đã khóc và mọi người chạy trốn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a recording or performance of a previously recorded song made especially to take advantage of the original's success.",
+      "definitions_ex_en": "the band played covers of Beatles songs",
+      "definitions_ex_vn": "Ban nhạc đã chơi bao gồm các bài hát Beatles",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place setting at a table in a restaurant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for cover charge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325651_de52b643ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325651_792ea7b678_o.png",
+      "id_image": "cover_1721451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440643_b819fe0fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440643_a9fd258331_o.png",
+      "id_image": "cover_2446997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370367_0ceee34188_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370367_01eb9dfa99_o.png",
+      "id_image": "cover_3159893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440543_8b50a7433b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440543_b08a1bc2a9_o.png",
+      "id_image": "cover_4636664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370532_d38330f23f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370532_74081c7b12_o.png",
+      "id_image": "cover_837223"
+    }
+  ]
+}

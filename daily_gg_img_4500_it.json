@@ -1,0 +1,62 @@
+{
+  "english": "daily",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hằng ngày",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mổi ngày",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thường ngày",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hằng ngày",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "mổi ngày",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "nhật báo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "done, produced, or occurring every day or every weekday.",
+      "definitions_ex_en": "a daily newspaper",
+      "definitions_ex_vn": "một tờ báo hàng ngày",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "every day.",
+      "definitions_ex_en": "the museum is open daily",
+      "definitions_ex_vn": "Bảo tàng mở cửa hàng ngày",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a newspaper published every day except Sunday.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the first prints from cinematographic takes, made rapidly for movie producers or editors; the rushes.",
+      "definitions_ex_en": "as a co-producer he has to view the dailies",
+      "definitions_ex_vn": "Là một nhà sản xuất, anh ta phải xem các tờ nhật báo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311901_51e32b0eb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311901_5d8f07b23f_o.png",
+      "id_image": "daily_1933926"
+    }
+  ]
+}

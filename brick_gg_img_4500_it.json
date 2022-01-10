@@ -1,0 +1,64 @@
+{
+  "english": "brick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cục xà bông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lát gạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lót gạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small rectangular block typically made of fired or sun-dried clay, used in building.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large and relatively heavy mobile phone, typically an early model with limited functionality.",
+      "definitions_ex_en": "I had one of those Motorola bricks as my first cell phone",
+      "definitions_ex_vn": "Tôi đã có một trong những viên gạch Motorola như điện thoại di động đầu tiên của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "block or enclose with a wall of bricks.",
+      "definitions_ex_en": "the doors have been bricked up",
+      "definitions_ex_vn": "Các cánh cửa đã bị gạch lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a smartphone or other electronic device) to become completely unable to function, typically on a permanent basis.",
+      "definitions_ex_en": "installing an unofficial OS voids the warranty and may brick the phone",
+      "definitions_ex_vn": "cài đặt một hệ điều hành không chính thức vô hiệu bảo hành và có thể gạch điện thoại",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316526_09781e307a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316526_ff6802b26c_o.png",
+      "id_image": "brick_1498384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431513_a95b6f84bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431513_9ce3a1d88d_o.png",
+      "id_image": "brick_479326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360777_78e32a60c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360777_95fc6ed03a_o.png",
+      "id_image": "brick_605611"
+    }
+  ]
+}

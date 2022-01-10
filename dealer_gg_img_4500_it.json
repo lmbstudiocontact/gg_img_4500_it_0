@@ -1,0 +1,48 @@
+{
+  "english": "dealer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chia bài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phân phối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or business that buys and sells goods.",
+      "definitions_ex_en": "a car dealer",
+      "definitions_ex_vn": "một đại lý xe hơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the player who distributes the cards at the start of a game or hand.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352587_6704f976c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352587_9b0af38085_o.png",
+      "id_image": "dealer_1055836"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423653_a67912de15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423653_1faaf36bc3_o.png",
+      "id_image": "dealer_5235543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045375_16ed27e5c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045375_4b459eb7e5_o.png",
+      "id_image": "dealer_6429372"
+    }
+  ]
+}

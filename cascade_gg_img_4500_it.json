@@ -1,0 +1,59 @@
+{
+  "english": "cascade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giòng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thác nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy như thác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small waterfall, typically one of several that fall in stages down a steep rocky slope.",
+      "definitions_ex_en": "the waterfall raced down in a series of cascades",
+      "definitions_ex_vn": "Thác nước chạy xuống trong một loạt thác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a process whereby something, typically information or knowledge, is successively passed on.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of water) pour downward rapidly and in large quantities.",
+      "definitions_ex_en": "water was cascading down the stairs",
+      "definitions_ex_vn": "Nước được xếp tầng xuống cầu thang",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrange (a number of devices or objects) in a series or sequence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677639_bc62e964af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677639_d9c3aaca2a_o.png",
+      "id_image": "cascade_1043487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059345_4b538669d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059345_acd02290fa_o.png",
+      "id_image": "cascade_190910"
+    }
+  ]
+}

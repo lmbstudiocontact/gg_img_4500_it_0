@@ -1,0 +1,113 @@
+{
+  "english": "condition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địa vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thân phận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng huống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt theo điều kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tình trạng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay đổi không khí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xấy cho khô",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of something with regard to its appearance, quality, or working order.",
+      "definitions_ex_en": "the wiring is in good condition",
+      "definitions_ex_vn": "Hệ thống dây điện trong tình trạng tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the circumstances affecting the way in which people live or work, especially with regard to their safety or well-being.",
+      "definitions_ex_en": "harsh working and living conditions",
+      "definitions_ex_vn": "Điều kiện sống và sống khắc nghiệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a state of affairs that must exist or be brought about before something else is possible or permitted.",
+      "definitions_ex_en": "for a member to borrow money, three conditions have to be met",
+      "definitions_ex_vn": "Đối với một thành viên vay tiền, ba điều kiện phải được đáp ứng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "have a significant influence on or determine (the manner or outcome of something).",
+      "definitions_ex_en": "national choices are conditioned by the international political economy",
+      "definitions_ex_vn": "Lựa chọn quốc gia được điều hòa bởi nền kinh tế chính trị quốc tế",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring (something) into the desired state for use.",
+      "definitions_ex_en": "a product for conditioning leather",
+      "definitions_ex_vn": "một sản phẩm cho da điều hòa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "apply a conditioner to (the hair).",
+      "definitions_ex_en": "I condition my hair regularly",
+      "definitions_ex_vn": "Tôi giữ tóc thường xuyên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "set prior requirements on (something) before it can occur or be done.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668184_313a346849_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668184_dc4b745be1_o.png",
+      "id_image": "condition_1345391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428143_9f0a367a99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428143_64f478de4a_o.png",
+      "id_image": "condition_4668427"
+    }
+  ]
+}

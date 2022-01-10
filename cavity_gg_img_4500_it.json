@@ -1,0 +1,46 @@
+{
+  "english": "cavity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lỗ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ hỏng trong khối kim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ hổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ trống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an empty space within a solid object, in particular the human body.",
+      "definitions_ex_en": "the abdominal cavity",
+      "definitions_ex_vn": "khoang bụng.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362727_e1a0fbba39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362727_92743e0802_o.png",
+      "id_image": "cavities_1338982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318146_61a6ae6fa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318146_d742e3c628_o.png",
+      "id_image": "cavities_2681995"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054740_1c4fe1913d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054740_b6a9027df8_o.png",
+      "id_image": "cavity_3360481"
+    }
+  ]
+}

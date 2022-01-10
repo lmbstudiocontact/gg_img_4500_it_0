@@ -1,0 +1,34 @@
+{
+  "english": "birthday",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngày sinh nhật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the anniversary of the day on which a person was born, typically treated as an occasion for celebration and the giving of gifts.",
+      "definitions_ex_en": "a birthday cake",
+      "definitions_ex_vn": "một chiếc bánh sinh nhật",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418608_c4c10b01f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418608_0399f6de5f_o.png",
+      "id_image": "birthday_2682174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418583_9c4323dffc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418583_d98951a80b_o.png",
+      "id_image": "birthday_4470531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418628_5a9e41d345_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418628_3ca78b4013_o.png",
+      "id_image": "birthday_696856"
+    }
+  ]
+}

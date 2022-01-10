@@ -1,0 +1,62 @@
+{
+  "english": "complaint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bi ca",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời phàn nàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời than vãn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên nhân than phiền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a statement that a situation is unsatisfactory or unacceptable.",
+      "definitions_ex_en": "I intend to make an official complaint",
+      "definitions_ex_vn": "Tôi dự định sẽ khiếu nại chính thức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an illness or medical condition, especially a relatively minor one.",
+      "definitions_ex_en": "she is receiving treatment for her skin complaint",
+      "definitions_ex_vn": "Cô đang được điều trị cho khiếu nại da của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316331_5c371ae085_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316331_389353ecd2_o.png",
+      "id_image": "complaint_1076362"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316326_242b794dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316326_c86a5c1912_o.png",
+      "id_image": "complaint_1484573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360507_91367cf51d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360507_3607ffd903_o.png",
+      "id_image": "complaint_2036937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052690_bd754a1e5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052690_da59497825_o.png",
+      "id_image": "complaint_2720490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360462_bbae24daa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360462_5e0897a40a_o.png",
+      "id_image": "complaint_5823750"
+    }
+  ]
+}

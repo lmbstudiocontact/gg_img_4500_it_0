@@ -1,0 +1,50 @@
+{
+  "english": "boat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi chơi bằng ghe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small vessel propelled on water by oars, sails, or an engine.",
+      "definitions_ex_en": "a fishing boat",
+      "definitions_ex_vn": "một chiếc thuyền đánh cá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a serving dish in the shape of a boat.",
+      "definitions_ex_en": "a gravy boat",
+      "definitions_ex_vn": "một chiếc thuyền gravy.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel or go in a boat for pleasure.",
+      "definitions_ex_en": "they boated through fjords",
+      "definitions_ex_vn": "Họ chèo thuyền qua các vịnh hẹp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327041_61394002f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327041_31fa32f7e8_o.png",
+      "id_image": "boat_1019373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682189_141a88429c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682189_c0bcbc8a1c_o.png",
+      "id_image": "boat_1669484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442138_7e30a542fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442138_62969f8671_o.png",
+      "id_image": "boat_372094"
+    }
+  ]
+}

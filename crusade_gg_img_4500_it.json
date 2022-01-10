@@ -1,0 +1,52 @@
+{
+  "english": "crusade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc vận động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc viển chinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi viển chinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vào đạo quân thập tự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vận động kịch liệt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of a series of medieval military expeditions made by Europeans to recover the Holy Land from the Muslims in the 11th, 12th, and 13th centuries.",
+      "definitions_ex_en": "the fanaticism engendered by the Crusades",
+      "definitions_ex_vn": "sự cuồng tín do các cuộc thập tự chinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vigorous campaign for political, social, or religious change.",
+      "definitions_ex_en": "a crusade against crime",
+      "definitions_ex_vn": "một cuộc thập tự chinh chống tội phạm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lead or take part in a vigorous campaign for social, political, or religious change.",
+      "definitions_ex_en": "he crusaded against gambling in the 1950s",
+      "definitions_ex_vn": "Anh ta nói chuyện chống lại cờ bạc trong những năm 1950",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361967_75003c89d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361967_4c8928189b_o.png",
+      "id_image": "crusade_5234359"
+    }
+  ]
+}

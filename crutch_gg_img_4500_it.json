@@ -1,0 +1,60 @@
+{
+  "english": "crutch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cọc chèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đáy quần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để chống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để đở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe máy dầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long stick with a crosspiece at the top, used as a support under the armpit by a person with an injury or disability.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the crotch of the body or a garment.",
+      "definitions_ex_en": "the water was up to my crutch",
+      "definitions_ex_vn": "Nước lên đến nạng của tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361742_4730b493e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361742_455cb7c944_o.png",
+      "id_image": "crutch_1010025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053820_680b08fec0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053820_1429ce4dac_o.png",
+      "id_image": "crutch_3003303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672094_3da049d640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672094_76bebf2420_o.png",
+      "id_image": "crutch_4852331"
+    }
+  ]
+}

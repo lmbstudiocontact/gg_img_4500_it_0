@@ -1,0 +1,36 @@
+{
+  "english": "banana",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe.",
+      "definitions_ex_en": "a bunch of bananas",
+      "definitions_ex_vn": "một bó chuối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the tropical and subtropical palmlike plant that bears bananas, having very large leaves but lacking a woody trunk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "insane or extremely silly.",
+      "definitions_ex_en": "I've spent two months in a studio—I must be bananas",
+      "definitions_ex_vn": "Tôi đã dành hai tháng trong một studio-Tôi phải là chuối",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432638_3c46443823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432638_6d30d6d482_o.png",
+      "id_image": "banana_4796209"
+    }
+  ]
+}

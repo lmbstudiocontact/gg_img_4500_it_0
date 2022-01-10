@@ -1,0 +1,233 @@
+{
+  "english": "cheque",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phiếu dự hợp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thẻ xuất tịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bí phải bó tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu ghi có kiểm soát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy ghi tiền trả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm giảm tốc lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bị chiếu tướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kềm hảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cản trở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiểm soát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chận lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngừng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế ngự tình dục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự soát sổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ đất lòi lỏm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chi phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngân phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "do dự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh cờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đối chiếu văn kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiểm tra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "soát sổ sách lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trách mắng đứa trẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét giấy xe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "British spelling of check1 (sense 4 of the noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an examination to test or ascertain accuracy, quality, or satisfactory condition.",
+      "definitions_ex_en": "a campaign calling for regular checks on gas appliances",
+      "definitions_ex_vn": "Một chiến dịch kêu gọi kiểm tra thường xuyên về các thiết bị gas",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stopping or slowing of progress.",
+      "definitions_ex_en": "there was no check to the expansion of the market",
+      "definitions_ex_vn": "Không có kiểm tra để mở rộng thị trường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a move by which a piece or pawn directly attacks the opponent's king. If the defending player cannot counter the attack, the king is checkmated.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a written order to a bank to pay a stated sum from the drawer's account.",
+      "definitions_ex_en": "he was awarded a check for $1,000",
+      "definitions_ex_vn": "Ông đã được trao một tấm séc với giá $ 1.000",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a token of identification for left luggage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a counter used as a stake in a gambling game.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of a piano that catches the hammer and prevents it from retouching the strings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a crack or flaw in timber.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pattern of small squares.",
+      "definitions_ex_en": "a fine black-and-white check",
+      "definitions_ex_vn": "một kiểm tra đen trắng mịn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "examine (something) in order to determine its accuracy, quality, or condition, or to detect the presence of something.",
+      "definitions_ex_en": "customs officers have the right to check all luggage",
+      "definitions_ex_vn": "Cán bộ hải quan có quyền kiểm tra tất cả hành lý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stop or slow down the progress of (something undesirable).",
+      "definitions_ex_en": "efforts were made to check the disease",
+      "definitions_ex_vn": "những nỗ lực đã được thực hiện để kiểm tra bệnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mark or click on (a box) in order to select a particular option on a form, questionnaire, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move a piece or pawn so that (the opposing king) is under attack.",
+      "definitions_ex_en": "he moves his knight to check my king again",
+      "definitions_ex_vn": "Anh ta di chuyển hiệp sĩ của mình để kiểm tra lại vua của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in poker) choose not to make a bet when called upon, allowing the action to move to another player.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a hound) pause to make sure of or regain a scent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used by a chess player to announce that the opponent's king has been placed in check.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "having a pattern of small squares.",
+      "definitions_ex_en": "a blue check T-shirt",
+      "definitions_ex_vn": "một chiếc áo thun kiểm tra màu xanh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047630_a568bf79d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047630_4f6fa21765_o.png",
+      "id_image": "cheque_1019608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310771_8c8e792ece_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310771_e6e79977f6_o.png",
+      "id_image": "cheque_1692651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310746_aaa3728a4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310746_57c75a53e6_o.png",
+      "id_image": "cheque_2542491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310831_d608b91d07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310831_ea8b58be78_o.png",
+      "id_image": "cheque_890383"
+    }
+  ]
+}

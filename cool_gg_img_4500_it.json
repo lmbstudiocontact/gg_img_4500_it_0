@@ -1,0 +1,132 @@
+{
+  "english": "cool",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ mát mẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không sốt sắng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lạnh nhạt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lạt lẻo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mát mẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trầm tỉnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mát mẻ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khí mát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự điềm tỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giảm bớt cơn giận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nguội",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành nguội",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or at a fairly low temperature.",
+      "definitions_ex_en": "it'll be a cool afternoon",
+      "definitions_ex_vn": "nó sẽ là một buổi chiều mát mẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "showing no friendliness toward a person or enthusiasm for an idea or project.",
+      "definitions_ex_en": "he gave a cool reception to the suggestion for a research center",
+      "definitions_ex_vn": "Ông đã nhận được một sự tiếp nhận mát mẻ cho đề nghị cho một trung tâm nghiên cứu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "fashionably attractive or impressive.",
+      "definitions_ex_en": "I always wore sunglasses to look cool",
+      "definitions_ex_vn": "Tôi luôn mặc kính râm để trông mát mẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to emphasize a specified quantity or amount, especially of money.",
+      "definitions_ex_en": "a cool $15,000 to buy the franchise",
+      "definitions_ex_vn": "15.000 đô la mát mẻ để mua nhượng quyền thương mại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a fairly low temperature.",
+      "definitions_ex_en": "the cool of the night air",
+      "definitions_ex_vn": "sự mát mẻ của không khí đêm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "calmness; composure.",
+      "definitions_ex_en": "he recovered his cool and then started laughing at us",
+      "definitions_ex_vn": "Anh hồi phục sự tuyệt vời của mình và sau đó bắt đầu cười nhạo chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality of being fashionably attractive or impressive.",
+      "definitions_ex_en": "all the cool of high fashion",
+      "definitions_ex_vn": "tất cả các thời trang cao cấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "become or cause to become less hot.",
+      "definitions_ex_en": "we dived into the river to cool off",
+      "definitions_ex_vn": "Chúng tôi lặn xuống sông để làm mát",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304936_be4378403c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304936_47b6b4805d_o.png",
+      "id_image": "cool_4952973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349137_9ca814b20b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349137_7399f923f7_o.png",
+      "id_image": "cool_501088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304941_6c7894cae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304941_70463989bd_o.png",
+      "id_image": "cool_817775"
+    }
+  ]
+}

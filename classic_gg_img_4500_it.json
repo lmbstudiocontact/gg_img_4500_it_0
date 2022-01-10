@@ -1,0 +1,77 @@
+{
+  "english": "classic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cổ điển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cổ hy lạp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về mỹ thuật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "văn hóa Hy lạp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cổ la mã",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "văn hóa la mã",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khuôn mẩu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "judged over a period of time to be of the highest quality and outstanding of its kind.",
+      "definitions_ex_en": "a classic novel",
+      "definitions_ex_vn": "một cuốn tiểu thuyết cổ điển",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "remarkably and instructively typical.",
+      "definitions_ex_en": "Hamlet is the classic example of a tragedy",
+      "definitions_ex_vn": "Hamlet là ví dụ kinh điển về một bi kịch",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a work of art of recognized and established value.",
+      "definitions_ex_en": "his books have become classics",
+      "definitions_ex_vn": "Sách của anh ấy đã trở thành kinh điển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a school subject that involves the study of ancient Greek and Latin literature, philosophy, and history.",
+      "definitions_ex_en": "an honors degree in Classics",
+      "definitions_ex_vn": "một bằng danh dự về kinh điển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a major sports tournament or competition, as in golf or tennis.",
+      "definitions_ex_en": "dozens of celebrity golfers attended the Bob Hope Desert Classic",
+      "definitions_ex_vn": "Hàng chục người chơi golf nổi tiếng đã tham dự Bob Hope Salles Classic",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349272_4b285d628b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349272_ff74a1c246_o.png",
+      "id_image": "classic_1312859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349247_73e948185a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349247_3c26b8194e_o.png",
+      "id_image": "classic_5318799"
+    }
+  ]
+}

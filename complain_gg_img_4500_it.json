@@ -1,0 +1,57 @@
+{
+  "english": "complain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "than van",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phàn nàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rên rỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "than phiền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "express dissatisfaction or annoyance about something.",
+      "definitions_ex_en": "local authorities complained that they lacked sufficient resources",
+      "definitions_ex_vn": "Chính quyền địa phương phàn nàn rằng họ thiếu đủ nguồn lực",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "state that one is suffering from (a pain or other symptom of illness).",
+      "definitions_ex_en": "her husband began to complain of headaches",
+      "definitions_ex_vn": "Chồng cô bắt đầu phì nhiêu đau đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a structure or mechanism) groan or creak under strain.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052800_b0ca40b253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052800_6508868891_o.png",
+      "id_image": "complain_2016314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316381_d9ec73c210_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316381_dc92d43022_o.png",
+      "id_image": "complain_5692381"
+    }
+  ]
+}

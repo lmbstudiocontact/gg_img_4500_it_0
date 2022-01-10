@@ -1,0 +1,54 @@
+{
+  "english": "contagious",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay lây",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "truyền nhiểm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a disease) spread from one person or organism to another by direct or indirect contact.",
+      "definitions_ex_en": "a contagious infection",
+      "definitions_ex_vn": "một nhiễm trùng truyền nhiễm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an emotion, feeling, or attitude) likely to spread to and affect others.",
+      "definitions_ex_en": "her enthusiasm is contagious",
+      "definitions_ex_vn": "Sự nhiệt tình của cô ấy là truyền nhiễm",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663244_eb18b63f24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663244_739bf067f6_o.png",
+      "id_image": "contagious_2688364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307971_6177fb3c6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307971_e3d5262846_o.png",
+      "id_image": "contagious_2688379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663174_d0ae91e816_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663174_a86c8b1ec4_o.png",
+      "id_image": "contagious_2720270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423068_fe6c5d5dd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423068_8859dffa49_o.png",
+      "id_image": "contagious_2927196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307856_e0e57e4afa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307856_724e95394e_o.png",
+      "id_image": "contagious_3182061"
+    }
+  ]
+}

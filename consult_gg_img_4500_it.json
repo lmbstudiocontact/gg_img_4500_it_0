@@ -1,0 +1,72 @@
+{
+  "english": "consult",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bàn bạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏi han",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏi ý kiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tư vấn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tham khảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thảo luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thương nghị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "seek information or advice from (someone with expertise in a particular area).",
+      "definitions_ex_en": "you should consult a financial advisor",
+      "definitions_ex_vn": "Bạn nên tham khảo một cố vấn tài chính",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308841_792fe2fa52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308841_9630b4aea0_o.png",
+      "id_image": "consultancy_5235368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308921_7743b0a4c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308921_198b4e1a65_o.png",
+      "id_image": "consult_1440969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308886_7d11e681a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308886_39bf78b190_o.png",
+      "id_image": "consult_1900168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353092_23ab4151cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353092_a9bf7f3376_o.png",
+      "id_image": "consult_2452638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045860_6c713d312e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045860_44c244917b_o.png",
+      "id_image": "consult_2746329"
+    }
+  ]
+}

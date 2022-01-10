@@ -1,0 +1,87 @@
+{
+  "english": "bat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái vồ nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một loại dơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngôn ngữ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an implement with a handle and a solid surface, usually of wood, used for hitting the ball in games such as baseball, cricket, and table tennis.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mainly nocturnal mammal capable of sustained flight, with membranous wings that extend between the fingers and connecting the forelimbs to the body and the hindlimbs to the tail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a team or a player in sports such as baseball) take in turns the role of hitting rather than fielding.",
+      "definitions_ex_en": "Ruth came to bat in the fifth inning",
+      "definitions_ex_vn": "Ruth đã đến với Bat trong hiệp thứ năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit at (someone or something) with the palm of one's hand.",
+      "definitions_ex_en": "he batted the flies away",
+      "definitions_ex_vn": "Anh ấy đã đánh ruồi bay đi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "flutter (one's eyelashes or eyelids), typically in a flirtatious manner.",
+      "definitions_ex_en": "she batted her long dark eyelashes at him",
+      "definitions_ex_vn": "Cô ấy đã đánh bại lông mi dài tối của mình vào anh ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050440_d9e5ee121c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050440_8a570ee05d_o.png",
+      "id_image": "bat_2213649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428688_11b4cdc655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428688_dcba39c6bd_o.png",
+      "id_image": "bat_2230887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428663_444236bb21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428663_3476d87099_o.png",
+      "id_image": "bat_2591454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428748_c76c6f7c54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428748_c992f08823_o.png",
+      "id_image": "bat_375135"
+    }
+  ]
+}

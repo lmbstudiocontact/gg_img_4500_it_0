@@ -1,0 +1,69 @@
+{
+  "english": "claim",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xin",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu nài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kêu đòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yêu cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thỉnh cầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "state or assert that something is the case, typically without providing evidence or proof.",
+      "definitions_ex_en": "he claimed that he came from a wealthy, educated family",
+      "definitions_ex_vn": "Ông tuyên bố rằng ông đến từ một gia đình giàu có, giáo dục",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an assertion of the truth of something, typically one that is disputed or in doubt.",
+      "definitions_ex_en": "he was dogged by the claim that he had CIA links",
+      "definitions_ex_vn": "Anh ta bị bướng bỉnh bởi tuyên bố rằng anh ta có CIA Links",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a demand or request for something considered one's due.",
+      "definitions_ex_en": "the court had denied their claims to asylum",
+      "definitions_ex_vn": "Tòa án đã từ chối tuyên bố của họ đối với Tị nạn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042600_e33128736c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042600_ff50f00322_o.png",
+      "id_image": "claim_2419571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420758_c3842ce082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420758_5c4d15e954_o.png",
+      "id_image": "claim_670845"
+    }
+  ]
+}

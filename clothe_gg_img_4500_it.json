@@ -1,0 +1,44 @@
+{
+  "english": "clothe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mặc quần áo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put clothes on (oneself or someone); dress.",
+      "definitions_ex_en": "Francesca was clothed in white",
+      "definitions_ex_vn": "Francesca đã mặc quần áo màu trắng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374262_8a97b042fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374262_3fb9c3c4ee_o.png",
+      "id_image": "clothes_1864104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374212_dccb01ba25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374212_5924c12818_o.png",
+      "id_image": "clothes_1943869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444503_f7fd38648a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444503_31f7642b4e_o.png",
+      "id_image": "clothes_5765486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066280_4793f12af5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066280_fe50452ce5_o.png",
+      "id_image": "clothes_5822324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684429_14b15fd137_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684429_98d4d740af_o.png",
+      "id_image": "clothes_5853911"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "birth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự sanh đẻ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the emergence of a baby or other young from the body of its mother; the start of life as a physically separate being.",
+      "definitions_ex_en": "he was blind from birth",
+      "definitions_ex_vn": "Anh bị mù từ khi sinh ra",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303656_0d1bcaeda2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303656_d67a52766a_o.png",
+      "id_image": "birth_3636235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418653_489be490af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418653_4bb8027a0c_o.png",
+      "id_image": "birth_5260242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347867_576f84b29d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347867_ac87a89e23_o.png",
+      "id_image": "birth_859947"
+    }
+  ]
+}

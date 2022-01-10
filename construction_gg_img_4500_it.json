@@ -1,0 +1,72 @@
+{
+  "english": "construction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách đặt câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cất lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiến tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiến trúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xây dựng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the building of something, typically a large structure.",
+      "definitions_ex_en": "there was a skyscraper under construction",
+      "definitions_ex_vn": "Có một tòa nhà chọc trời đang được xây dựng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046120_54766d8537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046120_2720db9874_o.png",
+      "id_image": "construction_1207116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309086_930b97a94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309086_68e6795855_o.png",
+      "id_image": "construction_1207144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353287_0c698ff7b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353287_d642fd8eb9_o.png",
+      "id_image": "construction_2827372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046080_59d10cbf78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046080_be857ebb04_o.png",
+      "id_image": "construction_3752626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309061_638729c44c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309061_3457cd3b6c_o.png",
+      "id_image": "construction_6258513"
+    }
+  ]
+}

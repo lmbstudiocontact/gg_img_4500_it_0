@@ -1,0 +1,132 @@
+{
+  "english": "band",
+  "list_translation_mean": [
+    {
+      "translate_mean": "băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây curoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây trân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "niềng sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải giáo sĩ đeo ở ngực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ đóng sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dán băng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng niềng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "niềng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat, thin strip or loop of material put around something, typically to hold it together or to decorate it.",
+      "definitions_ex_en": "wads of banknotes fastened with gummed paper bands",
+      "definitions_ex_vn": "WADS của tiền giấy được buộc chặt bằng các dải giấy Gummed",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stripe or elongated area of a different color, texture, or composition than its surroundings.",
+      "definitions_ex_en": "a long, narrow band of cloud",
+      "definitions_ex_vn": "một dải dài, hẹp của đám mây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that restrains, binds, or unites.",
+      "definitions_ex_en": "must I fall, and die in bands?",
+      "definitions_ex_vn": "Tôi phải rơi, và chết trong ban nhạc?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people who have a common interest or purpose.",
+      "definitions_ex_en": "guerrilla bands",
+      "definitions_ex_vn": "ban nhạc du kích.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small group of musicians and vocalists who play pop, jazz, or rock music.",
+      "definitions_ex_en": "the band's last two albums",
+      "definitions_ex_vn": "Hai album cuối cùng của ban nhạc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "surround (an object) with something in the form of a strip or ring, typically for reinforcement or decoration.",
+      "definitions_ex_en": "doors are banded with iron to make them stronger",
+      "definitions_ex_vn": "cánh cửa được dải sắt để làm cho chúng mạnh hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mark (something) with a stripe or stripes of a different color.",
+      "definitions_ex_en": "the bird's bill is banded across the middle with black",
+      "definitions_ex_vn": "hóa đơn của chim được dải giữa giữa với màu đen",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of people or organizations) form a group for a mutual purpose.",
+      "definitions_ex_en": "local people banded together to fight the company",
+      "definitions_ex_vn": "Người dân địa phương đã cùng nhau chiến đấu với công ty",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317471_2b73a6d42c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317471_f54a2e2aa3_o.png",
+      "id_image": "band_1058540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317436_816af71a89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317436_597c52a0ca_o.png",
+      "id_image": "band_1312020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053870_89ca18f360_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053870_b6ca2df01f_o.png",
+      "id_image": "band_2037800"
+    }
+  ]
+}

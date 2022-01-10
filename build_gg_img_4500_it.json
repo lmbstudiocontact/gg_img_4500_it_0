@@ -1,0 +1,69 @@
+{
+  "english": "build",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiểu kiến trúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cấu tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiến trúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây dựng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "construct (something) by putting parts or material together.",
+      "definitions_ex_en": "the ironworks were built in 1736",
+      "definitions_ex_vn": "Ironworks được xây dựng vào năm 1736",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make stronger or more intense.",
+      "definitions_ex_en": "we built up confidence in our abilities",
+      "definitions_ex_vn": "Chúng tôi đã xây dựng sự tự tin vào khả năng của chúng tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the dimensions or proportions of a person's or animal's body.",
+      "definitions_ex_en": "she was of medium height and slim build",
+      "definitions_ex_vn": "Cô ấy có chiều cao trung bình và xây dựng mỏng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the style or form of construction of something, especially a vehicle.",
+      "definitions_ex_en": "the car's high specification and impressive build quality",
+      "definitions_ex_vn": "Đặc điểm kỹ thuật cao của xe và chất lượng xây dựng ấn tượng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a compiled version of a program.",
+      "definitions_ex_en": "a beta build of the program",
+      "definitions_ex_vn": "một bản dựng beta của chương trình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427033_8dc6db01d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427033_fd8232aa04_o.png",
+      "id_image": "build_1732626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048820_be96bd0422_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048820_988c3ef52d_o.png",
+      "id_image": "build_603883"
+    }
+  ]
+}

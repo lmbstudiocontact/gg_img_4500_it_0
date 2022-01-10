@@ -1,0 +1,53 @@
+{
+  "english": "classical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biết nhiều tác giả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cổ điển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mỹ thuật hay",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to ancient Greek or Latin literature, art, or culture.",
+      "definitions_ex_en": "classical mythology",
+      "definitions_ex_vn": "Thần thoại cổ điển.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(typically of a form of art) regarded as representing an exemplary standard; traditional and long-established in form or style.",
+      "definitions_ex_en": "a classical ballet",
+      "definitions_ex_vn": "một vở ballet cổ điển",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420043_9b2109645f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420043_8b37b6163e_o.png",
+      "id_image": "classical_2368400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349147_7fcea26708_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349147_e1ea9d4aa5_o.png",
+      "id_image": "classical_3500485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349112_d8d187f748_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349112_8a27e9cb51_o.png",
+      "id_image": "classical_3500586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349077_01d8ee398d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349077_ffd0e6a1be_o.png",
+      "id_image": "classical_4635433"
+    }
+  ]
+}

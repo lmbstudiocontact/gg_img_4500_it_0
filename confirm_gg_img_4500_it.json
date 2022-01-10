@@ -1,0 +1,65 @@
+{
+  "english": "confirm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "củng cố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phê chuẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thừa nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vửng chắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xác định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xác nhận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "establish the truth or correctness of (something previously believed, suspected, or feared to be the case).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "administer the religious rite of confirmation to.",
+      "definitions_ex_en": "he had been baptized and confirmed",
+      "definitions_ex_vn": "ông đã được rửa tội và xác nhận",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356382_63080b5b28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356382_b04e652bf7_o.png",
+      "id_image": "confirm_1401064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356347_e019cbf7de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356347_641612db83_o.png",
+      "id_image": "confirm_2394259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048940_fd077d1d1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048940_081e640075_o.png",
+      "id_image": "confirm_4357384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048910_f1c392a5a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048910_c45fc23e22_o.png",
+      "id_image": "confirm_4735923"
+    }
+  ]
+}

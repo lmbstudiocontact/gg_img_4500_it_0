@@ -1,0 +1,70 @@
+{
+  "english": "console",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn có chân cong chụm lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ phận dứơi của dương cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuyên giải",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "comfort (someone) at a time of grief or disappointment.",
+      "definitions_ex_en": "she tried to console him but he pushed her gently away",
+      "definitions_ex_vn": "Cô cố gắng điều khiển anh nhưng anh đẩy cô nhẹ nhàng đi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a panel or unit accommodating a set of controls for electronic or mechanical equipment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ornamented bracket with scrolls or corbel supporting a cornice, shelf, or tabletop.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a support between the seats of an automobile that has indentations for holding small items.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665024_915320fbf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665024_f28291ff57_o.png",
+      "id_image": "console_1142707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664989_afac596b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664989_3223089d75_o.png",
+      "id_image": "console_1191102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424748_17c550770b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424748_494ff53dff_o.png",
+      "id_image": "console_1519456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046625_dc597af393_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046625_f42b415956_o.png",
+      "id_image": "console_2637947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309566_f2e1aef8f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309566_3c70834b44_o.png",
+      "id_image": "console_2727101"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "english": "blank",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ trống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trắng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đánh bại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng trống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a surface or background) unrelieved by decorative or other features; bare, empty, or plain.",
+      "definitions_ex_en": "a blank wall",
+      "definitions_ex_vn": "một bức tường trống",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "showing incomprehension or no reaction.",
+      "definitions_ex_en": "we were met by blank looks",
+      "definitions_ex_vn": "Chúng tôi đã được đáp ứng bởi vẻ ngoài trống rỗng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "complete; absolute (used emphatically with negative force).",
+      "definitions_ex_en": "he was met with a blank refusal to discuss the issue",
+      "definitions_ex_vn": "Ông đã được gặp một sự từ chối trống để thảo luận về vấn đề này",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a space left to be filled in a document.",
+      "definitions_ex_en": "leave blanks to type in the appropriate names",
+      "definitions_ex_vn": "Để trống để nhập tên thích hợp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cartridge containing gunpowder but no bullet, used for training or as a signal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an empty space or period of time, especially in terms of a lack of knowledge or understanding.",
+      "definitions_ex_en": "my mind was a total blank",
+      "definitions_ex_vn": "Tâm trí của tôi là một khoảng trống hoàn toàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a roughly cut metal or wooden block intended for further shaping or finishing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dash written instead of a word or letter, especially instead of an obscenity or profanity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover up, obscure, or cause to appear blank or empty.",
+      "definitions_ex_en": "electronic countermeasures blanked out the radar signals",
+      "definitions_ex_vn": "Các biện pháp đối phó điện tử trống ra các tín hiệu radar",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347017_2e5d45127e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347017_65d83758ec_o.png",
+      "id_image": "blank_1827157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039445_2b0aea5940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039445_cafc06472a_o.png",
+      "id_image": "blank_5507302"
+    }
+  ]
+}

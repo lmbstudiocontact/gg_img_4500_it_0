@@ -1,0 +1,73 @@
+{
+  "english": "day",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hôm nay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ban ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tối ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vừa hừng đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vừa tảng sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suốt ngày",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a period of twenty-four hours as a unit of time, reckoned from one midnight to the next, corresponding to a rotation of the earth on its axis.",
+      "definitions_ex_en": "they only met a few days ago",
+      "definitions_ex_vn": "Họ chỉ gặp nhau vài ngày trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular period of the past; an era.",
+      "definitions_ex_en": "the laws were very strict in those days",
+      "definitions_ex_vn": "Luật pháp rất nghiêm khắc trong những ngày đó",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664409_a52d3c0450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664409_8138102a32_o.png",
+      "id_image": "day_183258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664344_b3f4a7d511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664344_52333b07b6_o.png",
+      "id_image": "day_2254640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664319_b36b204166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664319_61a56f6786_o.png",
+      "id_image": "day_4198955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046100_1af5037a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046100_7765fa42a7_o.png",
+      "id_image": "day_721071"
+    }
+  ]
+}

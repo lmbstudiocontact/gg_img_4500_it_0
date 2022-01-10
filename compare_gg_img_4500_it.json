@@ -1,0 +1,61 @@
+{
+  "english": "compare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vô song",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đối chiếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "so sánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "so với",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỷ giảo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "estimate, measure, or note the similarity or dissimilarity between.",
+      "definitions_ex_en": "individual schools compared their facilities with those of others in the area",
+      "definitions_ex_vn": "trường học cá nhân so sánh các cơ sở của họ với những người khác trong khu vực",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "form the comparative and superlative degrees of (an adjective or an adverb).",
+      "definitions_ex_en": "words of one syllable are usually compared by “-er” and “-est.”",
+      "definitions_ex_vn": "Các từ của một âm tiết thường được so sánh bởi \"-er\" và \"-est.\"",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432498_8c174769dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432498_9914153174_o.png",
+      "id_image": "compare_2036930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672084_a2b1218dbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672084_8a6fdb4076_o.png",
+      "id_image": "compare_2748413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672049_f2f4bacc9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672049_dcc64a2ff1_o.png",
+      "id_image": "compare_2782038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361612_1e7c63dbe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361612_d594b135e7_o.png",
+      "id_image": "compare_4410211"
+    }
+  ]
+}

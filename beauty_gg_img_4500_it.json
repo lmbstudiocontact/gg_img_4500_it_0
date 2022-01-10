@@ -1,0 +1,49 @@
+{
+  "english": "beauty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sắc đẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ đẹp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a combination of qualities, such as shape, color, or form, that pleases the aesthetic senses, especially the sight.",
+      "definitions_ex_en": "I was struck by her beauty",
+      "definitions_ex_vn": "Tôi đã bị ấn tượng bởi vẻ đẹp của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a beautiful woman.",
+      "definitions_ex_en": "she was considered a great beauty in her youth",
+      "definitions_ex_vn": "Cô được coi là một vẻ đẹp tuyệt vời ở tuổi trẻ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425773_479ac5092b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425773_54f3bdf6b6_o.png",
+      "id_image": "beauty_4514888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047535_97f076b28d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047535_67e09acc8d_o.png",
+      "id_image": "beauty_4514895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047485_d43a06fcc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047485_8d09b51bc4_o.png",
+      "id_image": "beauty_5099779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425668_7873a86243_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425668_d0b9bfb828_o.png",
+      "id_image": "beauty_5220118"
+    }
+  ]
+}

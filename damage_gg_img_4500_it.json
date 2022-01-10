@@ -1,0 +1,73 @@
+{
+  "english": "damage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối thiệt hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phí tổn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thiệt hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bồi thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổn thất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm hư hại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tổn thương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "physical harm caused to something in such a way as to impair its value, usefulness, or normal function.",
+      "definitions_ex_en": "bombing caused extensive damage to the town",
+      "definitions_ex_vn": "Bát bom gây thiệt hại sâu rộng cho thị trấn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sum of money claimed or awarded in compensation for a loss or an injury.",
+      "definitions_ex_en": "she was awarded $284,000 in damages",
+      "definitions_ex_vn": "Cô đã được trao 284.000 đô la thiệt hại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "inflict physical harm on (something) so as to impair its value, usefulness, or normal function.",
+      "definitions_ex_en": "the car was badly damaged in the accident",
+      "definitions_ex_vn": "Chiếc xe bị hư hại nặng nề trong vụ tai nạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311486_05064cc513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311486_2d21673d81_o.png",
+      "id_image": "damage_2557075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426388_8124ec5487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426388_12bbe7fc18_o.png",
+      "id_image": "damage_2752079"
+    }
+  ]
+}

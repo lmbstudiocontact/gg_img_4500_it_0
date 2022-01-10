@@ -1,0 +1,94 @@
+{
+  "english": "cramp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn kẹp thợ mộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng chuột rút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "móc sắt giữ hai phiến đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bó buộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng rút gân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng vọp bẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cưởng bức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẹp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho rút gân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lúng túng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "painful involuntary contraction of a muscle or muscles, typically caused by fatigue or strain.",
+      "definitions_ex_en": "he suffered severe cramps in his foot",
+      "definitions_ex_vn": "Anh ta bị chuột rút nặng trong chân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tool, typically shaped like a capital G, for clamping two objects together for gluing or other work.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "restrict or inhibit the development of.",
+      "definitions_ex_en": "tighter rules will cramp economic growth",
+      "definitions_ex_vn": "Các quy tắc chặt chẽ hơn sẽ cắt động tăng trưởng kinh tế",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fasten with a cramp or cramps.",
+      "definitions_ex_en": "cramp the gates to the posts",
+      "definitions_ex_vn": "Cramp cổng vào bài viết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "suffer from sudden and painful contractions of a muscle or muscles.",
+      "definitions_ex_en": "in the final game, Chang cramped severely",
+      "definitions_ex_vn": "Trong trò chơi cuối cùng, Chang chật chội nghiêm trọng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061000_6f7cc372e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061000_10b5064e55_o.png",
+      "id_image": "cramp_1813423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679284_346bedd655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679284_9b1fb218f5_o.png",
+      "id_image": "cramp_2243595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679179_3042531131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679179_2fa82b3801_o.png",
+      "id_image": "cramp_3997953"
+    }
+  ]
+}

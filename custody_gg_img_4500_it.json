@@ -1,0 +1,45 @@
+{
+  "english": "custody",
+  "list_translation_mean": [
+    {
+      "translate_mean": "canh giữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "coi sóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ tù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự coi giữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giam cầm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the protective care or guardianship of someone or something.",
+      "definitions_ex_en": "the property was placed in the custody of a trustee",
+      "definitions_ex_vn": "Khách sạn đã được đặt trong sự giam giữ của một người được ủy thác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357917_d92a27ccd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357917_352a827e50_o.png",
+      "id_image": "custody_1865691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313741_a5434985bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313741_b7c8ba1cf0_o.png",
+      "id_image": "custody_2322911"
+    }
+  ]
+}

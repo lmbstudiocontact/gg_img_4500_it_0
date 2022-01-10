@@ -1,0 +1,67 @@
+{
+  "english": "deck",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sàn tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ván",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lót ván cầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang điểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang sức",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a structure of planks or plates, approximately horizontal, extending across a ship or boat at any of various levels, especially one of those at the highest level and open to the weather.",
+      "definitions_ex_en": "he stood on the deck of his flagship",
+      "definitions_ex_vn": "Anh đứng trên boong tàu của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a component or unit in sound-reproduction equipment that incorporates a playing or recording mechanism for discs or tapes.",
+      "definitions_ex_en": "the car has cruise control and a tape deck",
+      "definitions_ex_vn": "Chiếc xe có Cruise Control và một sàn băng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "decorate or adorn brightly or festively.",
+      "definitions_ex_en": "Ingrid was decked out in her Sunday best",
+      "definitions_ex_vn": "Ingrid đã được trang bị trong chủ nhật của mình tốt nhất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "knock (someone) to the ground with a punch.",
+      "definitions_ex_en": "Lisa threatened to deck her if she didn't stop filming",
+      "definitions_ex_vn": "Lisa đe dọa sẽ boong cô ấy nếu cô ấy không ngừng quay phim",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307381_e242b2029b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307381_dc7cef5c57_o.png",
+      "id_image": "deck_2240422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307371_bd02e97f82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307371_32f1f74b7d_o.png",
+      "id_image": "deck_4320025"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "english": "crash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kêu vang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập bể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đụng xe hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rớt xuống đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếng sấm nổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổ vang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ồn ào",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cuộc sụp đổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phá sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đụng xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng vở bể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thất bại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tai biến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tai họa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng chó sủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng gảy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a vehicle) collide violently with an obstacle or another vehicle.",
+      "definitions_ex_en": "the stolen car she was riding in crashed into a tree",
+      "definitions_ex_vn": "chiếc xe bị đánh cắp mà cô đang cưỡi đâm vào một cái cây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or cause to move with force, speed, and sudden loud noise.",
+      "definitions_ex_en": "huge waves crashed down on us",
+      "definitions_ex_vn": "Những con sóng lớn rơi xuống chúng ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a business, a market, or a price) fall suddenly and disastrously in value.",
+      "definitions_ex_en": "silver prices crashed in early 1980",
+      "definitions_ex_vn": "Giá bạc bị rơi vào đầu những năm 1980",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a machine, system, or software) fail suddenly.",
+      "definitions_ex_en": "the project was postponed because the computer crashed",
+      "definitions_ex_vn": "Dự án đã bị hoãn vì máy tính bị sập",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "enter (a party) without an invitation or permission.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go to sleep, especially suddenly or in an improvised setting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a violent collision, typically of one vehicle with another or with an obstacle.",
+      "definitions_ex_en": "a car crash",
+      "definitions_ex_vn": "một tai nạn xe hơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden loud noise as of something breaking or hitting another object.",
+      "definitions_ex_en": "he slammed the phone down with a crash",
+      "definitions_ex_vn": "Anh đập điện thoại xuống với một vụ tai nạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden disastrous drop in the value or price of something, especially shares of stock.",
+      "definitions_ex_en": "the crash of 1987",
+      "definitions_ex_vn": "vụ tai nạn năm 1987",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden failure which puts a system out of action.",
+      "definitions_ex_en": "system crashes are an everyday hazard",
+      "definitions_ex_vn": "Sự cố hệ thống là một mối nguy hiểm hàng ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a coarse plain linen, woolen, or cotton fabric, used for curtains and towels.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "done rapidly or urgently and involving a concentrated effort.",
+      "definitions_ex_en": "a crash course in Italian",
+      "definitions_ex_vn": "một khóa học sụp đổ trong tiếng Ý",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "with a sudden loud sound.",
+      "definitions_ex_en": "crash went the bolt",
+      "definitions_ex_vn": "Crash đã đi bu lông",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323631_f1818f0ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323631_69fb4f32c8_o.png",
+      "id_image": "crash_2040909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678849_9c33173525_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678849_887af81968_o.png",
+      "id_image": "crash_2041258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368507_aff1502cde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368507_2cb15e7abe_o.png",
+      "id_image": "crash_2084030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438678_25fa761481_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438678_90d6374edc_o.png",
+      "id_image": "crash_2372109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323481_f493e7f647_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323481_58fcc2667a_o.png",
+      "id_image": "crash_3729200"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "curious",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ham biết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiếu kỳ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lạ kỳ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tọc mạch",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "eager to know or learn something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "strange; unusual.",
+      "definitions_ex_en": "a curious sensation overwhelmed her",
+      "definitions_ex_vn": "Một cảm giác tò mò tràn ngập cô ấy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051705_d3e262323d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051705_edc28433c3_o.png",
+      "id_image": "curious_3362451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051660_538c22a4d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051660_6579eaf87f_o.png",
+      "id_image": "curious_5020323"
+    }
+  ]
+}
